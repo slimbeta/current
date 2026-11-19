@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Current</title>
+<meta name="description" content="The energy transition: power, transport, industry, China and policy, from Canary Media, Heatmap, Volts, Ember and more, updated hourly.">
+<meta name="theme-color" content="#f3f4f1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111513" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Current">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<script>(function(){try{var s=localStorage.getItem('cu-theme');if(s==='dark'||s==='light'){document.documentElement.dataset.theme=s;}}catch(e){}})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,600;0,700;1,400&family=Libre+Caslon+Display&display=swap">
+<link rel="stylesheet" href="styles.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<main class="paper">
+  <header class="masthead">
+    <div class="masthead-side masthead-date" id="today"></div>
+    <a class="brand" href="./" aria-label="Current, home"><h1>Current</h1></a>
+    <div class="masthead-side header-actions">
+      <button id="theme-toggle" class="icon-button" aria-label="Toggle dark mode" title="Dark mode">
+        <svg class="theme-moon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20.5 14.4A8.6 8.6 0 0 1 9.6 3.5 8.7 8.7 0 1 0 20.5 14.4Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+        <svg class="theme-sun" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="1.6" fill="none"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.4 1.4m11.2 11.2L19 19M19 5l-1.4 1.4M6.4 17.6 5 19" stroke="currentColor" stroke-width="1.6"/></svg>
+      </button>
+    </div>
+  </header>
+  <p class="tagline">The energy transition &middot; <span id="updated">&nbsp;</span></p>
+  <figure id="mix" class="mix" hidden>
+    <div id="mix-bar" class="mix-bar" role="img" aria-label="World electricity by source each year since 1985: fossil fuels at the bottom, then nuclear, hydro and other renewables, with wind and solar on top"></div>
+    <figcaption><span id="mix-caption"></span>
+      <span class="mix-key"><b class="k-fossil"></b>Fossil <b class="k-nuclear"></b>Nuclear <b class="k-hydro"></b>Hydro &amp; other <b class="k-wind"></b>Wind <b class="k-solar"></b>Solar</span>
+    </figcaption>
+  </figure>
+
+  <nav class="sections" aria-label="Sections">
+    <button data-view="latest" class="active">Latest</button>
+    <button data-view="power">Power</button>
+    <button data-view="transport">Transport</button>
+    <button data-view="industry">Industry</button>
+    <button data-view="china">China</button>
+    <button data-view="policy">Policy</button>
+    <button data-view="analysis">Analysis</button>
+    <button data-view="saved">Saved <span id="saved-count"></span></button>
+    <button data-action="skim" class="skim-button">Skim</button>
+  </nav>
+
+  <div id="content" aria-live="polite">
+    <p class="empty">Setting the type&hellip;</p>
+  </div>
+
+  <footer class="colophon">
+    <p class="fleuron" aria-hidden="true">&#10086;</p>
+    <p>Gathered every hour from Canary Media, Latitude Media, Heatmap, Utility Dive, Energy Monitor, pv magazine, Energy-Storage.news, Electrek, Carbon Brief, Reuters, Bloomberg, the FT, Volts, Sustainability by Numbers, Distilled, the EIA, the IEA, Ember and IRENA. Stories open on the publisher&rsquo;s own site. Electricity mix: Ember and the Energy Institute, via Our World in Data.</p>
+  </footer>
+</main>
+<section id="skim" class="skim" hidden aria-label="Skim the latest stories">
+  <div class="skim-bar">
+    <span class="skim-title" id="skim-title">Skim</span>
+    <span class="skim-count" id="skim-count"></span>
+    <button class="skim-close" id="skim-close" aria-label="Close Skim">Done</button>
+  </div>
+  <div class="skim-track" id="skim-track"></div>
+</section>
+<template id="t-story">
+  <article class="story">
+    <a class="story-link" target="_blank" rel="noopener">
+      <figure class="story-photo" hidden><img alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></figure>
+      <div class="story-text">
+        <p class="kicker"></p>
+        <h2 class="hed"></h2>
+        <p class="dek"></p>
+      </div>
+    </a>
+    <div class="story-meta">
+      <span class="age"></span>
+      <button class="save" type="button" aria-pressed="false">Save</button>
+    </div>
+  </article>
+</template>
+</body>
+</html>
