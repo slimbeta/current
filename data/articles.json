@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:55:31+00:00",
+ "updated": "2026-11-20T21:07:09+00:00",
  "briefing": {
   "headline": "Solar, AI’s power demand and the grid",
   "period": "Nov 14–20",
@@ -45,6 +45,447 @@
  },
  "articles": [
   {
+   "url": "https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/",
+   "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-20T19:59:48+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/EV-deals-10000-Black-Friday.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/20/anker-s5000-5kwh-power-station-segway-max-g3-plus-e-scooter-more/",
+   "title": "Anker S5000 5kWh power station back at $2,375 exclusive low ($1,225 off), Segway Max G3 Plus e-scooter new $1,000 low, more",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-20T19:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "If you weren’t aware, Amazon’s full Black Friday event is in motion, and deals are flying from across countless brands,...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Anker-SOLIX-Anker-eufy-Segway-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "If you weren’t aware, Amazon’s full Black Friday event is in motion, and deals are flying from across countless brands,..."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3pBNkRaaS0zX3diU3Y1a2FKVXpUblNYbHNWTlgteml2eTRDNnJxQ1U2SDZFaWRSa09Ic1k3MkJQbGhiTkZKUThsR2doSEVGU001bmpWNDJPTEp5UnpPOW11ekdkY2tuZ2g0TmpJdkFoNEhSNEVDZWJteExjcXYyQ0NlSTA?oc=5",
+   "title": "’Tis the season to be grateful to China",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-20T18:57:07+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/20/renault-undercuts-byd-new-ev-costs-less-than-20000/",
+   "title": "Renault undercuts BYD with a new EV that costs less than $20,000",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-20T17:38:44+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "The new Renault Twingo E-Tech is among the most affordable vehicles, electric or gas-powered, starting at just £14,745 in the...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Renault-Twingo-E-Tech-price.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "The new Renault Twingo E-Tech is among the most affordable vehicles, electric or gas-powered, starting at just £14,745 in the...",
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHlYSGVWRlplU3QwM1lpeFJ6ZGZsYnN4ZHNjeUp4d1M5ekhZUWlWMU5aVFRqeFlPUkRjV2h1T04tcVcySTM3bU9lR2d5d0tLUm9rcEEzYmN6YmZjaGR2ZXhRYTVBRl95STl1VWlRb0kzVFhCa3h4RTh3azhsVjNaTTlLOFZqUnRYdl9NWHlEeWdETHk1UC1yMmp4TmNKbFlyclp4THNYSmVzdEEtaWNfMXhJSi1uR3NL?oc=5",
+   "title": "Tesla proposes $3.1 bln Texas polysilicon plant for solar manufacturing",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T17:25:43+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry",
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.latitudemedia.com/news/why-load-growth-has-changed-how-aes-builds/",
+   "title": "Why load growth has changed how AES builds",
+   "source": "Latitude Media",
+   "desk": "news",
+   "published": "2026-11-20T17:25:42+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "Corporates",
+    "Data centers",
+    "AES",
+    "private equity",
+    "project finance"
+   ],
+   "description": "As demand surges, FERC has approved the IPP and utility company’s take-private deal with BlackRock and EQT.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-18T204148.841.jpg",
+   "paragraphs": [
+    "Juan Ignacio Rubiolo has seen everything in energy change around him over the last few years. But at AES, his company of 25 years, the strategy transformed long before the data center boom.",
+    "Rubiolo, who was named chief operating officer of AES earlier this year, joined the company when it was primarily a fossil fuel power producer; coal made up a large chunk of the company’s business as recently as a decade ago. But in 2022, AES announced plans to exit coal by 2025 (though it has since moved the target to 2027; a major Puerto Rico plant is a notable holdout, allowed to operate until 2032). And in the years since, it added around three gigawatts of renewables and storage to its mix annually.",
+    "But demand has surged so much in the last few years that it needed to bring in new sources of capital to meet it — and change its entire make-up as a result. That’s true for both its IPP arm, which is roughly 70% of the company, and its utility arm, roughly 30% of the company. AES owns two Midwest utilities, AES Ohio and Indiana, in addition to several distribution utilities in El Salvador.",
+    "This week, AES’ acquisition by BlackRock and EQT got its final FERC approval, in what will be one of the largest ever utility take-private deals. This means AES will become a private company after 35 years trading on public markets.",
+    "As Ben Hertz-Shargel, global head of grid edge at Wood Mackenzie, told Latitude Media in March, the deal demonstrates that “utilities are a growth story” — and that many utilities and power producers need to invest heavily to meet demand, in some cases with external help.",
+    "“We still keep the same North Star,” Rubiolo told Latitude Media as the company awaited approval for the merger. The vast majority of its investments are in renewables, and its largest customer segments haven’t shifted: Hyperscalers dominate in the U.S., and mining companies in Latin America.",
+    "But there’s a shift in how the company is meeting the new demands of those customers, said Rubiolo, because of the need for speed. Hyperscalers want the same thing they’ve always wanted — new and ideally clean capacity — but far more and faster than ever before. AES said in February that the company has nearly 12 GW of energy contracted with data center customers.",
+    "As a result, the company is exploring more types of generation than ever before, including fuel cells and natural gas, and in the longer term, advanced geothermal and small modular reactors as well.",
+    "“These customers are basically asking for more capacity, not just energy,” he said. “Our real value add is how to integrate everything for them and try to provide the reliability that they need.”",
+    "Storage is also a major focus. According to an August fact sheet, the company had just over a gigawatt of batteries under construction, or nearly 30% of its total capacity under construction, largely in Chile. Meanwhile, AES and Siemens jointly formed the battery maker Fluence in 2018, though that company is now facing grid connection and automation problems."
+   ],
+   "lede": "As demand surges, FERC has approved the IPP and utility company’s take-private deal with BlackRock and EQT.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/solar/trump-epa-solar-for-all",
+   "title": "Trump EPA keeps trying to kill Solar for All despite court losses",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-20T17:22:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "Even a handful of Republicans are questioning the EPA’s repeated attempts to axe the grant program, which would slash energy bills for low-income…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/GettyImages-2294891393.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b1f13c7593383592142bf5f7009fc137",
+   "paragraphs": [
+    "The Trump administration on Tuesday appealed a court ruling that sought to restore the low-income solar program, sparking criticism from not only the typical clean energy proponents but a coalition of Republican allies, too.",
+    "The novel program was first envisioned in 2022 as part of the Inflation Reduction Act, with the EPA in 2024 picking winners who’d split a $ 7 billion pot to bolster solar power access for low-income and disadvantaged households. States, local governments, territories, tribes, and nonprofits all got a piece of the pie, and were developing plans to build community solar, rooftop solar, and battery storage when the program first came under attack.",
+    "In August 2025, the EPA announced it was killing Solar for All — one of many blows in the Trump administration’s attempt to tear down the Inflation Reduction Act. Advocates, solar installers, and a labor group challenged the decision in court and secured a major victory this September as a federal judge ruled the EPA’s rollback was illegal and that its reasoning for terminating the program was unjustified. A second judge ruled in favor of protecting Solar for All not long after. Some lawsuits seeking to recoup individual grants remain ongoing.",
+    "Still, the EPA never resumed grant handouts, and this week, it formally appealed the first of those rulings. Clean energy advocates immediately pushed back, saying that the Trump administration’s continued crusade against Solar for All doesn’t track with its promises to curb power prices.",
+    "“ Instead of getting out of the way of a program that will lower energy bills, the Trump administration is continuing its obstruction and delay,” Adam Kent, senior director for green finance at the Natural Resources Defense Council, said in a statement.",
+    "A group of six Republican Congress members made a similar case in a letter they sent EPA Administrator Lee Zeldin this week.",
+    "“ At a time when energy costs are rising across the country, Solar for All is capable of quickly providing meaningful relief to Americans,” wrote the representatives from Guam, New Jersey, New York, and Pennsylvania. ​ “ We respectfully urge EPA to swiftly reinstate the Solar for All program and ensure projects move forward to implementation as planned.”",
+    "The letter is highly unlikely to change the Trump administration’s mind, especially since four of its six signatories will be replaced by Democrats in the next Congress. And slim Republican support aside, the administration doesn’t have a reputation for backing down from its many fights against clean energy.",
+    "The U.S. Senate voted Thursday to pass the Bipartisan American Affordability and Jobs Act, a bill aimed at speeding up energy project permitting.",
+    "The final vote to advance the bill was 62 - 33, with Republicans almost unanimously voting in its favor. Fewer Democrats meanwhile voted for the bill’s final passage than elected to bring it to the Senate floor last week. Two Democratic senators authored the bill alongside two Republicans, but many Democrats and climate advocates are worried about how it will benefit fossil fuel projects alongside clean energy. Democrats also voiced concerns that the bill would weaken tribes’ input on energy projects that impact their land."
+   ],
+   "lede": "The Trump administration on Tuesday appealed a court ruling that sought to restore the low-income solar program, sparking criticism from not only the typical clean energy proponents but a coalition of Republican allies, too.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQajFPRDZIVnkzX1h4enZGTEZRMHhzekM5UHhlUzBwMXhpWWMtaG5IR1FyR1lYMjJMdXlWdXdvWXoxbk13b2ZTeWlYNXZRZU5PUUF5Nm9wMGp3am5KdlJJVkdRZFZsMExiT0Z0dFlhZ3NHZ0s4UWgzLUh0V3FmVXdaLTRvbHNKVTlBaDVRMDllQVItMkIxUmNJSW5ZMFVpaWtIQWkyNXdmNjFFUHNibndVTnVvdVFWVnc?oc=5",
+   "title": "Enel agrees US solar deal, taking North America renewables to 13.5 GW",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T16:41:59+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/offshore-wind/new-york-ports-get-230m-boost-for-offshore-wind-other-industries",
+   "title": "New York awards ports $230M in repurposed offshore wind grants",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-20T16:15:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "The state planned to invest big in port infrastructure for offshore wind. Amid tough times for the sector, it’s using the funding to serve multiple…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/GettyImages-2212787358.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f121cadfc50f9c613d515fed94870fdf",
+   "paragraphs": [
+    "New York state is upgrading its ports for what it hopes will be a return to U.S. offshore wind development in the years after President Donald Trump leaves office.",
+    "On Friday, Gov. Kathy Hochul (D) announced over $ 228 million in state funding for five projects to bolster maritime infrastructure along New York’s rivers and harbors, Canary Media is first to report. The investments will enable companies and port operators to expand cargo-handling capacity, add heavy-lift equipment, and boost manufacturing capabilities — all things that could help offshore wind but aren’t limited to that.",
+    "The projects ​ “ will make our state prepared to support offshore wind in the future, but it also will ensure the investments produce jobs and economic benefits in the near term,” Doreen Harris, president and CEO of the New York State Energy Research Development Authority, said in an interview.",
+    "“ Port facilities and their upgrades tend to be capital-intensive, they tend to have long lead times. So our investments today are long-term in nature,” Harris said. She called the projects ​ “ strong infrastructure development for the state of New York, irrespective of their final use.”",
+    "The five awards draw from $ 200 million in grant funding that was initially earmarked to support offshore wind manufacturing and logistics but has been repurposed for maritime infrastructure more broadly. The money all stems from a $ 500 million initiative that Hochul announced for offshore wind in 2022, during a far more optimistic time for the now-beleaguered industry.",
+    "In 2019, New York set a target of building 9 gigawatts of offshore wind capacity by 2035 — enough to power roughly 6 million homes — to help meet its larger efforts to decarbonize the state’s electricity sector. As part of that push, state leaders sought to transform ports into job-creating hubs for making, assembling, and servicing the turbines that would spin in the Atlantic Ocean.",
+    "NYSERDA provisionally awarded $ 300 million in grant funding to GE Vernova and its subsidiary LM Wind Power in late 2023 to produce offshore wind turbine parts at the Port of Coeymans, along the Hudson River. At the nearby Port of Albany, local authorities began planning a $ 600 million facility that would supply steel tower pieces for offshore wind turbines.",
+    "Neither of those projects came to fruition, owing to economic headwinds and a series of supply chain problems, all of which were exacerbated by Trump’s return to the White House in January 2025. Since then, his administration has made continual attempts to halt construction of in-progress wind farms, rescind approvals for planned projects, and thwart prospects for new development.",
+    "New York has led the legal fight against many of those actions — including Trump’s stop-work orders for the New York–based Sunrise Wind and Empire Wind projects, which have resumed construction — and the federal government’s unusual strategy of paying offshore wind developers to abandon their leases.",
+    "Still, state officials acknowledge that damage has been done to the state’s project pipeline. It is now ​ “ increasingly unlikely” that New York will meet its 9 -GW target in the next decade, owing to the ​ “ significant federal policy uncertainty” around offshore wind, according to the state’s 2025 energy plan."
+   ],
+   "lede": "New York state is upgrading its ports for what it hopes will be a return to U.S. offshore wind development in the years after President Donald Trump leaves office.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxPSXBoXzVvT1pLZGRORFJwcGVYeWdYSTdES0o1bVZtTENmUmdzYkVTaDRPOTIzYzUxR29tS19OT1RNbFVvNGpON1lvMGc1aXhmay1vb1hZMl9aNllXS2NjRTNsX09ZVnZ6US14em9RSGJiVzEzeEl3dktvcklsU0Z0WmVWLWRsR0NfbFRCTTJiVWhHaHE2a2xSdDE1eHJtWHVXOTdMdTViVUNwckpYMDdwNm1SRFp1d2ZBN05fZU9RYm0ySTY1UzctRGR5cmp3WFlaZVdjekY5U3JGQzRMZHhtV2lRbUZTNVF5dnlYTjFqSkxLbXJDa0hjSU1NR0t1TGwyTHA1MnVrek8wVFpCekNzZEUxWUh2SG0wcFdhRHRLQUF4QmNCcE9vZU5jZ1N3clZ1TmRya2dfX2RDeEFiRmwzd1NHTG1CSkdjOWgyaXBaOHdGRG5hUkJuYWxjQzRJTUJVMlhPVHl0ajEtbWptVUxOTTN0RlJzVlNIWXg3TnVXV1A5S0hQb1FtVTloSEtNZVZYcVZUUzJJYnVDTXhNYWNmYWZmY1pLbGQ2aHh2cnZyamhESURYUTNtRmlPMFFJSmJUYnd6UFg3VHdCVUxtUkxxbmdfa1ROTFlGTnBzOEFIZFJVeTlxd0NxeVd4bl9RdWVobEJhMzNma3hVSEdjZG5Hdg?oc=5",
+   "title": "Events",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-20T15:56:09+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
+   "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-20T15:50:46+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News",
+    "eu",
+    "europe",
+    "italy",
+    "Tesla",
+    "Tesla Autopilot",
+    "Tesla Full Self-Driving"
+   ],
+   "description": "Italy gave provisional approval to Tesla Assisted Driving, formerly FSD (Supervised), the 12th European country and first big EU market to allow it.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Italy gave provisional approval to Tesla Assisted Driving, formerly FSD (Supervised), the 12th European country and first big EU market to allow it.",
+   "tags": [
+    "policy",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/news/senate-passes-baaja-permitting-bill/875334/",
+   "title": "Permitting reform bill heads to House as Democratic divisions persist",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-20T15:48:13+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "Some Democrats say the party should not agree to a bill that contains what they consider troubling changes to environmental law and state and tribal authority. Others say no better deal is possible with a Republican president.",
+   "ftries": 1,
+   "lede": "Some Democrats say the party should not agree to a bill that contains what they consider troubling changes to environmental law and state and tribal authority. Others say no better deal is possible with a Republican president.",
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/20/vws-new-id-polo-gti-clubsport-ev-hot-hatch/",
+   "title": "Volkswagen’s new ID. Polo GTI Clubsport is the electric hot hatch we want, but can’t have",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-20T15:29:31+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Volkswagen revealed the ID. Polo GTI Clubsport Concept, an electric pocket rocket with a massive rear wing and 362 horsepower....",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Polo-GTI-Clubsport-hot-hatch.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Volkswagen revealed the ID. Polo GTI Clubsport Concept, an electric pocket rocket with a massive rear wing and 362 horsepower...."
+  },
+  {
+   "url": "https://www.utilitydive.com/news/budderfly-to-invest-500m-to-finance-and-operate-municipal-energy-upgrades/875320/",
+   "title": "Budderfly to invest $500M to finance and operate municipal energy upgrades",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-20T15:13:48+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "The energy-as-a-service company will recoup its investment from savings over a contract’s life. Such agreements have become more common, especially for large institutions like universities and hospitals, one expert said.",
+   "ftries": 1,
+   "lede": "The energy-as-a-service company will recoup its investment from savings over a contract’s life. Such agreements have become more common, especially for large institutions like universities and hospitals, one expert said."
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/20/china-grid-connects-worlds-first-artificial-cavern-caes-plant/",
+   "title": "China grid-connects world’s first artificial-cavern CAES plant",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-20T14:43:16+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "Applications & Installations",
+    "China",
+    "Energy Storage"
+   ],
+   "description": "The 300 MW/1.8 GWh project uses excavated hard-rock chambers, expanding compressed-air storage options beyond natural salt caverns.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Yuanchu-1-CEEC-Yumen-Gansu-01.jpg",
+   "paragraphs": [
+    "China’s Yuanchu No. 1 compressed air energy storage (CAES) station in Yumen, Gansu province, achieved its first grid connection on November 16, marking what its developer describes as the world’s first grid-connected CAES facility using purpose-excavated underground rock caverns.",
+    "The project was developed by China Energy Digital Technology Group, a subsidiary of China Energy Engineering Corporation, which is responsible for its investment, construction, and operation.",
+    "Its defining feature is an engineered underground air storage system. Four interconnected chambers were excavated approximately 110 meters below the surface in hard rock, creating a pressurized storage space of around 200,000 cubic meters. The system has a design pressure of 18 MPa.",
+    "The plant employs non-combustion, adiabatic CAES technology. During charging, electricity drives compressors that pressurize air, while heat generated during compression is recovered and stored. During discharge, the stored heat reheats the compressed air before expansion through turbines, eliminating the need for supplementary natural gas combustion.",
+    "According to molten-salt supplier Shandong Huayang Dier Chemical, the thermal system combines low-melting-point ternary molten salt with pressurized hot water to recover and store heat at different temperatures. Lower- and medium-temperature compression heat is stored in pressurized water tanks, while higher-temperature heat is transferred to molten-salt tanks. During discharge, both media release heat in stages to reheat the air before expansion. The developer also reports using shared heat-exchange equipment during charging and discharging, reducing equipment duplication.",
+    "The developer reports a round-trip electrical efficiency of 72%, although sustained operational data have not yet independently confirmed the figure.",
+    "The artificial-cavern approach addresses a geographical constraint on CAES deployment. Salt caverns offer relatively economical underground storage but require suitable geological formations. Excavating and sealing chambers in competent hard rock could broaden site selection, although geological conditions and construction costs remain important considerations.",
+    "Yumen lies within the Hexi Corridor, a major wind and solar development region in northwest China. The plant is intended to absorb surplus renewable electricity during off-peak periods and return it to the grid when demand rises, providing multi-hour balancing capacity.",
+    "China has been expanding its large-scale CAES fleet. At least six projects rated at 100 MW or above have been reported as grid-connected, including the 600 MW Huai’an salt-cavern station, the 700 MW Jintan Phase II project, 300 MW facilities in Yingcheng and Feicheng, the 100 MW Zhangjiakou demonstration project and Yuanchu No. 1.",
+    "According to an October 2026 report by the Energy Storage Application Branch of the China Industrial Association of Power Sources, 13 CAES projects were under construction, totaling 4.95 GW/23.95 GWh. Separately, industry figures cited in November indicated more than 36 GW of projects in preparation as of the first quarter of 2026, with nearly 100 project filings nationwide."
+   ],
+   "lede": "The 300 MW/1.8 GWh project uses excavated hard-rock chambers, expanding compressed-air storage options beyond natural salt caverns.",
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/news/western-northeast-market-reforms-drought-grid-ferc/875311/",
+   "title": "Market reforms bolster grid, may lower costs this winter: FERC",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-20T14:32:25+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "Improved coordination in the West will help offset lower hydropower output due to historically low water levels in the Colorado River basin, while New England risks overreliance on oil, FERC’s winter market and reliability report says.",
+   "ftries": 1,
+   "lede": "Improved coordination in the West will help offset lower hydropower output due to historically low water levels in the Colorado River basin, while New England risks overreliance on oil, FERC’s winter market and…",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/clean-energy/senate-oks-permitting-bill-that-would-boost-clean-and-dirty-energy",
+   "title": "Senate OKs permitting bill that would boost clean and dirty energy",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-20T14:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "After years of struggling to pass reforms, the Senate has finally sent a bipartisan package to the House. But the bill has divided decarbonization…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/GettyImages-2297379138_2026-11-19-210001_gesg.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e728af1b2e1631ceb468db4d06dc76be",
+   "paragraphs": [
+    "A bipartisan bill that would make it easier to build energy infrastructure — both dirty and clean — has passed the Senate by a 62 to 33 vote.",
+    "The sprawling Bipartisan American Affordability and Jobs Act would streamline permitting for energy and infrastructure projects by enacting significant changes to federal environmental regulations and introducing new policy mechanisms around data centers and the transmission grid. It would also provide developers with greater protections once a project is greenlit.",
+    "The House of Representatives will now take up the legislation, which was co-written by Democratic Sens. Martin Heinrich (N.M.) and Sheldon Whitehouse (R.I.) — two vocal supporters of clean energy — and Republican Sens. Mike Lee (Utah) and Shelley Moore Capito (W.Va.). The bill’s supporters aim to pass the current version now, while it has bipartisan momentum, rather than risk holding out for a better deal under the Democratic-led Congress next year.",
+    "Analysts widely expect that the legislation would accelerate the deployment of renewable energy — already the nation’s fastest-growing source of electricity. Critically, the bill would also help speed up the construction of transmission lines, which are needed to bring new energy generation online but notoriously difficult and slow to build in America. It would also ease permitting for fossil-fueled power plants, pipelines, and data centers.",
+    "The bipartisan bill has attracted a wide coalition of supporters that includes utility and fossil fuel groups as well as the clean-energy industry and many decarbonization advocates. But several major environmental groups, including the Sierra Club and the Natural Resources Defense Council, have come out against the legislation. A number of tribal groups have voiced concerns as well. Most Democratic senators ultimately voted against the bill.",
+    "Within the climate world, the key point of disagreement is whether the bill would drive an increase or a reduction in planet-warming emissions.",
+    "Different models have arrived at different conclusions. Energy analysis firm Rhodium Group has found that the bill would cause greenhouse gas emissions to fall. Think tank Resources for the Future also predicts it would reduce emissions. But other energy modelers have found the bill would spur so much construction of fossil fuel infrastructure that it would cause emissions to rise.",
+    "Despite the difficulty in projecting the bill’s impact, climate-minded supporters of the legislation say the U.S. energy transition can’t happen without major changes to federal permitting processes like those included in the bill.",
+    "Power lines offer a bracing example. The U.S. must double to triple its current transmission capacity to decarbonize the power grid by the mid- 2030 s, according to a study from Princeton University’s Repeat Project, but the pace of power line construction remains sluggish. Experts widely agree that the bill would accelerate the grid buildout.",
+    "Nevertheless, the bill’s opponents — many of whom support faster construction of clean energy and transmission — say it would give too much away to the fossil fuel industry. In particular, they warn that the bill’s modifications to the Federal Power Act, Clean Water Act, Endangered Species Act, and National Environmental Policy Act would let bad actors ram through fossil fuel and data center projects. They also fear that the Trump administration would continue to attack renewable energy projects even with the new law in place."
+   ],
+   "lede": "A bipartisan bill that would make it easier to build energy infrastructure — both dirty and clean — has passed the Senate by a 62 to 33 vote.",
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://www.latitudemedia.com/news/data-centers-need-to-earn-their-power/",
+   "title": "Data centers need to earn their power",
+   "source": "Latitude Media",
+   "desk": "news",
+   "published": "2026-11-20T14:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "Data centers",
+    "Grid edge",
+    "data centers",
+    "flexibility",
+    "power",
+    "Verse"
+   ],
+   "description": "Verse CEO Seyed Madaeni on the flexibility fix for AI’s power crunch.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-16T143028.470.jpg?fit=1920%2C1280&ssl=1",
+   "paragraphs": [
+    "Data center developers face a difficult choice: wait years for a traditional grid connection, or build their own power systems and operate independently of the grid.",
+    "But a third path is emerging. By bringing onsite generation, batteries, and sophisticated software controls, data centers can be more flexible when the grid is constrained — and potentially connect to the system faster.",
+    "But batteries alone don’t make a data center flexible. They need to be coordinated in real time to meet the demands of the facility, the utility, and the broader electricity market.",
+    "And the stakes go well beyond the data center industry. If these new loads can help utilities avoid expensive infrastructure upgrades, they could also help limit electricity bill increases for a wider range of consumers.",
+    "In this partner episode, produced in collaboration with Verse, Stephen Lacey talks with Seyed Madaeni, co-founder and CEO of Verse.",
+    "They talk about the growing role of flexibility in connecting data centers. How do we ensure the rush to power AI allows us to build a more distributed, resilient, and affordable electricity system?",
+    "This episode was produced in partnership with Verse. Verse helps large energy buyers secure power faster and manage electricity costs through intelligent software that optimizes energy procurement, batteries, and onsite power assets. Learn how Verse is helping data centers unlock faster grid connections through flexibility."
+   ],
+   "lede": "Verse CEO Seyed Madaeni on the flexibility fix for AI’s power crunch.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/news/texas-finalizes-ercot-ceo-contract-extension-pay-raise-tied-to-performance/875318/",
+   "title": "Texas finalizes ERCOT CEO contract extension, pay raise tied to performance",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-20T13:49:50+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "CEO Pablo Vegas could take home more than $4 million next year. The contract extension and pay raise were put on hold in September following public outcry.",
+   "ftries": 1,
+   "lede": "CEO Pablo Vegas could take home more than $4 million next year. The contract extension and pay raise were put on hold in September following public outcry."
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/20/enphase-highlights-new-batteries-bidirectional-charging-and-800-vdc-sst-gear/",
+   "title": "Enphase highlights new batteries, bidirectional charging",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-20T13:49:45+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "Technology & Products",
+    "Energy Storage",
+    "Inverters",
+    "Residential"
+   ],
+   "description": "Enphase is rolling out residential and commercial storage, meter-collared vehicle-to-grid charging, and a medium-voltage solid-state transformer.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-081930.png",
+   "paragraphs": [
+    "Enphase Energy is expanding its hardware lineup across home systems, commercial buildings, and high-power AI infrastructure. The company exhibited its new products at RE+ Las Vegas 2026.",
+    "“RE+ is where installers, developers, and utilities see the full Enphase platform in one place,” said Ken Fong, senior vice president of sales at Enphase Energy. “This year, that platform runs from the home to the commercial rooftop to data center applications and beyond, all built on the same distributed, semiconductor-based architecture.”",
+    "The IQ Battery G5 was built to pack more home storage into a tighter, stackable footprint than earlier generations. Each 5 kWh AC-coupled module includes its own grid-forming microinverter and prismatic lithium iron phosphate (LFP) cells.",
+    "Stacks scale up to 30 kWh across six blocks on a floor stand or 20 kWh across four blocks on a wall mount, with full installations scaling up to 100 kWh. Each block weighs 115.3 lbs with an IP67 enclosure, and the paired Wiring Block weighs 19.8 lbs with a NEMA-3R enclosure.",
+    "The battery carries a 15-year limited warranty, with pilots planned in Q4 2026 and volume shipments starting in Q1 2027.",
+    "Enphase built the DC-based IQ Bidirectional EV Charger to let electric vehicles power a home or send energy back to the grid through a simpler meter-collar connection. It supports vehicle-to-home and vehicle-to-grid operation and carries a 10-year limited warranty.",
+    "Commercial buildings are the target for the IQ Battery C80, Enphase’s first commercial battery system, which brings modular AC-coupled storage to businesses. It gives the company an entry point into commercial peak demand charge management, backup power, and solar-plus-storage projects as residential solar growth slows.",
+    "Each enclosure delivers 80 kWh of energy capacity and scales up to 2 MWh per site. The C80 uses lithium iron phosphate (LFP) chemistry with 314 Ah prismatic cells and delivers over 90% AC round-trip efficiency.",
+    "It measures 36.2 in wide, 78.7 in high, and 32.3 in deep, weighs 2,645 lbs, and operates from -22°F to 131°F. It comes in 277Y/480 V and 120Y/208 V three-phase models and carries a 15-year or 7,000-cycle warranty.",
+    "Paired with IQ9N-3P and IQ9S-3P commercial microinverters, the system stays AC-coupled to simplify installation for commercial contractors. Product pilots begin in Q1 2027, with volume shipments scheduled for Q2 2027."
+   ],
+   "lede": "Enphase is rolling out residential and commercial storage, meter-collared vehicle-to-grid charging, and a medium-voltage solid-state transformer.",
+   "tags": [
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3a3NJekhtUnlQVDkzR2VrNHhuMk9PZ1JpMWNPNDhXb2ptVmtsVmdTMG96WW5oTG8xejlodW1DcTVEdUNDeFhMS2JKbVJwbjRQX21VbEhLdk8?oc=5",
+   "title": "The Senate Just Passed Permitting Reform",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-20T13:33:34+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
    "url": "https://www.energy-storage.news/sodium-is-a-chance-for-us-to-lean-forward-and-win-alsym-energy-at-re-on-why-us-battery-policy-needs-to-shift-upstream/",
    "title": "‘Sodium is a chance for us to lean forward and win’: Alsym Energy at RE+ on why US battery policy needs to shift upstream",
    "source": "Energy-Storage.news",
@@ -62,7 +503,7 @@
     "sodium ion"
    ],
    "description": "Sodium-ion (Na-ion) is continuing to gain traction as a legitimate \"major chemistry\" — with CATL, BYD, and GM all committing to it — some developers, within and outside the US Na-ion space have argued that greater policy support should be directed toward advancing the technology.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Sodium-ion (Na-ion) is continuing to gain traction as a legitimate \"major chemistry\" — with CATL, BYD, and GM all committing to it — some developers, within and outside the US Na-ion space have argued that greater…",
    "tags": [
     "china",
@@ -88,7 +529,7 @@
     "infrastructure"
    ],
    "description": "Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitical race for clean energy supremacy.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitical race for clean energy supremacy.",
    "tags": [
     "transport"
@@ -143,7 +584,7 @@
     "flower"
    ],
    "description": "Large-scale BESS projects in Germany have been progressed towards construction by Elements Green, Voltwise, EnBW, Green Flexibility, Flower and Dispatch totalling over 4GWh of capacity.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Large-scale BESS projects in Germany have been progressed towards construction by Elements Green, Voltwise, EnBW, Green Flexibility, Flower and Dispatch totalling over 4GWh of capacity.",
    "tags": [
     "power"
@@ -206,7 +647,7 @@
     "spain"
    ],
    "description": "Another BESS Industry Buzz, looking at what people are discussing in the industry plus some of the most notable quotes from the RE+ trade show, which concluded yesterday.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Another BESS Industry Buzz, looking at what people are discussing in the industry plus some of the most notable quotes from the RE+ trade show, which concluded yesterday.",
    "tags": [
     "policy",
@@ -360,7 +801,7 @@
     "energystorageaus"
    ],
    "description": "EDF power solutions Australia has acquired the 250MW Holloway BESS project in New South Wales (NSW) from developer SynCo Global.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "EDF power solutions Australia has acquired the 250MW Holloway BESS project in New South Wales (NSW) from developer SynCo Global.",
    "tags": [
     "power"
@@ -395,7 +836,7 @@
     "energystorageaus"
    ],
    "description": "Australia committed a record 2.4GW of renewable energy projects to construction in the third quarter of 2026, while battery energy storage systems (BESS) committed in the quarter covered 13% of the new storage capacity needed by 2030.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Australia committed a record 2.4GW of renewable energy projects to construction in the third quarter of 2026, while battery energy storage systems (BESS) committed in the quarter covered 13% of the new storage capacity…",
    "tags": [
     "power"
@@ -418,7 +859,7 @@
     "spain"
    ],
    "description": "Spain's first batteries earn mostly from balancing services. As the fleet grows, value is broadening into arbitrage, capacity contracts and new demand, and the projects that capture it will be the ones structured for that mix, writes Roy Franco of renewables investor Energile.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Spain's first batteries earn mostly from balancing services."
   },
   {
@@ -631,6 +1072,20 @@
     "china",
     "policy",
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWNIMlNjd1I2dzg4R0JUc2Jzb29wWElMQUJpZjhpR0NKeVVYWVJCX0xtNWEyRnVPelpSUC00Uk12aDZZQ3h2T0JKMkNMV3lyQTVoMjBIS040RDRremdwUjhRRGYyUS0ybG90ZS00bks1ckZYeDFDR3NlNGRHWkpaZVBjdTVjR2x0ZlFJbF9GR3ZnTWMtdi1fV19zZ3pDbmRqLW5NTENHVGljVHpZdFUwWWxTUnhCb0htWU9WNVA0dw?oc=5",
+   "title": "US Senate passes bipartisan bill to speed energy, infrastructure projects",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T03:17:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -883,6 +1338,17 @@
     "policy",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkFtMjlFYVZtVmJXQWlvMGtSdGNFZm5xd3JHSlJPaGR4ektBbEZUdWltOGhnbGpPTmNRblVaRFFnSU5KTWxZREdqVmpwTGREOTF0ajFtWkVMcURwY19tX1FkWndWOFlkMVYxTm85N2tjbno0TTNhWDV3VmRqSnJLSWdtUnRFOWxNYWFlWmRxelI2VjhPNkxxaWhIQ1JtYzJaZ0dQNmlxREd4dDY3S0o5N28zbkk0NXM?oc=5",
+   "title": "Amazon warns NYC delivery bill could add up to $5 per order",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-19T18:43:01+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://electrek.co/2026/11/19/hyundai-2027-best-ev-brand-ioniq-5-ioniq-9/",
@@ -1919,6 +2385,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWkp2NFJ0LXJNRTZBb2I5enY2VjIzZmYxVmpJdlhMOUxFRFVvS0JtZ1VWTjhjN01WdW41U1Vvb1dnQmZqRUlmdXM4SzQyclpMeDlPNjdNdE9meWhmUHJhZ2cyODlPNVNwbDFtZHVVSFdJNG9Rbk1RbmEzdnp2ZGpRU3NBajFQMlBhMW16aWl6R0trdw?oc=5",
+   "title": "Global LNG capacity and exports, 2015-2035",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-19T08:51:44+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3NVQ1llQ0pJQ0NhTHZNQnJvRTRfdFlSbmFUb2swUkMxajdtMVZPS1U2T2czSGhGSmkxeWstdWc0cWExZXRTN1VKYnhDM2xOc0lFOW9jTW1NcWd4Sk1qYlZoaWhvblU2NXhmMjNaUFZCTzBrZG1qY3FTay1xSnUxbURjbXM1MGZ4OExnWWg2dG1pNXF1OVdzX0hUaEFkQkpGOUE2NkIyWldHQk1mZUE?oc=5",
    "title": "Cumulative loss in oil supply during selected crises, 1956-2026",
    "source": "IEA",
@@ -2242,6 +2719,17 @@
    "desk": "news",
    "published": "2026-11-19T05:01:23+00:00",
    "seen": "2026-11-20T12:55:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUR1eFNhaGJfM09pUUg3eVhiVVZOLUVOdkEtRXEtcTM3aDVIY2gxY0VtdmEzQ09vSEhjUmJzQVEzVlJnQ2p3M0t3Q1JPQVY0VWl4aTZOeHNXLWNOdklGUzRmLVhZSWtqMXJvblVGZWdZc05fMmJLaExxb3JfTXBLbEJjMmJIbFBXcWNlSGJYa2FGYzlJSmFrcEJ4c2ZkQkpuSm83NjB3UDlNbnhGWXBiblFKMjA?oc=5",
+   "title": "Developing Countries Are Leading Global Electrification Efforts",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-19T05:01:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -3348,6 +3836,17 @@
    "lede": "Electric power tool brand Greenworks is expanding its battery-forward lineup in a huge way with the launch of OPTIMUS, an..."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTNMSGhQUlBrTjBmcXFHZ2dsS1E3TGJLQ0w5T0c3eDlDYmtNSkQ1RUtTeGhsV0xKMlVnb09OWGZabzQ5cnFhZkFzYnU5ODNfa2ZOTGw4THF1Z21aNlE3cjNUNjhFNkVFYkJGeDcwNm5ja3ZkR1JSUTFtNVdwS0VOZjZUanVEVHlkOWp5bjFDUVo4TjlONW9hZUZod2pTUlNpSnoyT21EQVdBeFVCODVWcjFxQnhQdmJi?oc=5",
+   "title": "Man arrested on charges of threatening to blow up Illinois biofuels plant",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T01:20:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOcjRPdW9NQVdhMFc2UFEtOU5rZ0I1Y3V1bmFkTkJobld0QjgxWEdOMHVhOXdRaEl4ZU5JSHh1aWM1Rzk4Qm1fX3pfMDd3QnlQd2MxTy04VF9sdDRoSWZzUFU2WDB4N0Nlbk5walZ4UFRxNFNlT3lXRG5laVMxdVNMZjZXLVdGVmZFQlZ2bUw5RlhXWFFsQ2licnVud1R6RjAtWVR0Sk1fUkVHc25iQUNMS2hmQTV0MXRoNG96ekJFcnpIUllpaG5HSDhuTm4weS1MWkZTbGRUVkxPQ2VmNUx0ZmVHc3dIR1VhTmdTeW1wMUQ1Q29aNGVVSXpwZ2ZYV25vRmNVR1dlZ05uTnN5SWpuWlNmTWRrYTYwdThObHdSak5ncUFpY29ETm9IRi0wVTR0TldqXzZuLTFvSFBTQ1hkLXZoRE1fTTNqWWR3QndfUC02LUtiWkQ1cnM0X04zemZpTmpSQ3BDS1Zvb2hjZTRQUTdidVJkVE5zSm0wQ1NWdi1UcUtYa2R4NzdMbGgxOUZ6aDZJeDFjdXQtZE95OXFOOFBXcUM2a2t3VEdKZmNsSWVQa29POThzUTRoWk84bHg5Vnp2bnlNdnFSNGs?oc=5",
    "title": "Search",
    "source": "IRENA",
@@ -3722,6 +4221,25 @@
    "fetched": true
   },
   {
+   "url": "https://electrek.co/2026/11/17/gm-easier-ev-drivers-charge-electrify-america/",
+   "title": "GM just made it way easier for EV drivers to charge at Electrify America stations",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-17T16:27:53+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Chevrolet, Cadillac, and GMC EV drivers enrolled in GM’s Energy Pass can now simply plug in to an Electrify America...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/GM-EV-Charging-Electrify-America.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Chevrolet, Cadillac, and GMC EV drivers enrolled in GM’s Energy Pass can now simply plug in to an Electrify America...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODNEMkVzTlg0VUR2S0hmSTRXOXZVV0pZRy0yTk9xMkZkVzN2a1dBdEV6SGlYeVhSWHQ3V1VNZW9RNXJkWmViaXBmY0pUSlpMLXc1M2xrLVh0QVdPdkJ3Zno0RUs4THVkek90WHdsclBPS2FTckVBYUo5RE9oYk1iSDcxVnNZb0l4ZUtBWlV0Sk9JNG5ITm1DbFJlUGRzMVZkekdtdnZEVTd1dXBRRFYw?oc=5",
    "title": "Can COP31's proposed 'age of electricity' slow global warming?",
    "source": "Reuters",
@@ -3827,6 +4345,22 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/17/volkswagen-cooking-up-spicy-new-electric-hot-hatch/",
+   "title": "Volkswagen is cooking up a ‘spicy’ new electric hot hatch",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-17T15:01:34+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Volkswagen will reveal the new GTI hot hatch on Friday, promising it will be “something really spicy.” Volkswagen is launching...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-spicy-electric-hot-hatch-image.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Volkswagen will reveal the new GTI hot hatch on Friday, promising it will be “something really spicy.” Volkswagen is launching..."
+  },
+  {
    "url": "https://www.energy-storage.news/be-hands-on-dont-micromanage-optimiser-owner-operators/",
    "title": "‘Be hands-on, but don’t micromanage your optimiser,’ BESS owner-operators say",
    "source": "Energy-Storage.news",
@@ -3863,6 +4397,30 @@
    "tags": [
     "policy",
     "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/",
+   "title": "Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-17T14:19:41+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News",
+    "ev charging",
+    "Tesla",
+    "Tesla Cybercab",
+    "Tesla Robotaxi",
+    "wireless charging"
+   ],
+   "description": "Tesla's $29,990 Cybercab has no onboard charger, so owners can't plug in at home. Tesla needs its wireless pad or a home DC charger before deliveries.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-wireless-charging-rate.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Tesla's $29,990 Cybercab has no onboard charger, so owners can't plug in at home. Tesla needs its wireless pad or a home DC charger before deliveries.",
+   "tags": [
+    "transport"
    ]
   },
   {
@@ -4444,6 +5002,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRllMbTdPTTlHU0dfTFRhVDlWa1lOWk1CX3VxVW1WMy1JQ2xWTFBtMkJBdlUydTZKdnhiS0kwaTZodFRUT2hjLU9wTTBmeTBSemttUjlsUE5qVjJxRTJRWVc3NjVKNTRSSjhDY2VKaTBaeGRhLUJDU0o5NmFwVE5ib25SUHB1R1d3OHZj?oc=5",
+   "title": "Under Huang, Nvidia Became a Major Electricity Tech Backer",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-17T03:13:35+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.latitudemedia.com/news/texas-data-centers-are-staring-down-a-december-limbo/",
    "title": "Texas data centers are staring down a December limbo",
    "source": "Latitude Media",
@@ -4687,6 +5256,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjalJGT25xMFoyMkZyN3RPemtpMWp3enAwVTRUd2tQa3VyZUM4cEtIZWNOVTBrRjhvTGN1TldfbGNMdTRQckY5VEFjVWR6WS1XdXQ3NmtQQld1NUc0N2dyRkdBRmV5RUt6emN4bVo5NHc2SmdoNkJZcA?oc=5",
+   "title": "Rebuilding Ukraine with Energy Efficiency",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-16T11:04:49+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.volts.wtf/p/community-post-32-your-thanksgiving",
    "title": "Community Post #32: your Thanksgiving playbook",
    "source": "Volts",
@@ -4856,6 +5436,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1BGb1hkWUdzZ0phU0lubkdxdnVOY0laR2w2UFFYRHJzZkpnV1FPMDhGakxVTkN5dTZ6M3V3a1F1N19qcXdScGFqSE1vZUQxSmx4bVhmNFZUYm5JYTRQenlkM2xmUEp0Z19qNno3T29kbXgwOU56M1VBbFo1V2hNVEl4ektYTXZOYU5DMU9NYmRwTFQxZnprNXVObVFNSmZHQlV2QUU1QQ?oc=5",
+   "title": "Flood exposure of tanker-handling seaports by region, 2026",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-16T08:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDJhandvaXZhOUJKS3lrenR6MkliZlp3YmVLY1NaTVoyTWowRUZxdkptVkFfMUQybi16VFI3T0h1SVdTLWhSOU1Rb3ZXdjBBTGhWSEJQQWg3Ynp0Y1F5MWhtZ2lQekc5bkdIa1Q5enQyVDYwTHEtVVNtZmVKbGJTUnZYT3lwQzMtLTQ4WWhpZWdPUlRsNlhZS2pfY3k3dkliTmlhNzE3UDlKandaN1dpMXhsQnR5Zw?oc=5",
    "title": "Tropical cyclone exposure of tanker-handling seaports by region, 2026",
    "source": "IEA",
@@ -4971,6 +5562,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYWNReERuREZxdmk2NXF2YlhwWENlcU5wR3hkT0xTMUhzTTJfT2hQcHpjUzJDRFctemw3S1RMdFJ4VEd5NzRUak9Oa1UzeFBRNHRyZnZMU19OaGhiNkVXUWN4N1luLU5pT1ZhelN5V01XRDlBUUt2cVNOOWV6aGZWWnBIRTQ?oc=5",
+   "title": "Pension funds raise alarm on systemic risk from climate events",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-15T10:00:04+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEdHNmdSYU9NYzhkdE1iVHREZHV1TGl0a296LUNwZ3dGZEJvSm9KMVQzYmt4U3U4NGU3QTVnUmhQRG82NWMyLU4zVFJZMDQzTm5UWExZdVVTbFJSbmlQR1ZWM0ZCR1hHUnpMR3FmSloyc1cyX2x6MUF6cEVZeDdZODhGUkpuR1JDTjNDY05JZ2ZHNFdXXzdmRkNEVXIwd2w3NFVFd3lwNjBtN2dSbzZWVlVR?oc=5",
    "title": "As Democrats seek changes to bill on energy permits, divisions emerge",
    "source": "Reuters",
@@ -5020,6 +5622,17 @@
     "china",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1STFZCZHNxNXVpZDloY2VsUmZ2X0RaSDBFUUxKZnk4RTJNUnNUdUpOMnlPTF8tMUxOOVNxd1BUeEc5cDl5Z0tZUnpvLWhSUVRUVmd2cFU5aWd0cU10Y25HaHdHNHpETTFrMDE5N1JIN1ZqVjVxM1V4Vg?oc=5",
+   "title": "Consider the Lobstermen Affected by New York’s Empire Wind",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-13T21:26:52+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate",
@@ -5320,6 +5933,30 @@
    ]
   },
   {
+   "url": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
+   "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-13T09:10:33+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News",
+    "australia",
+    "battery storage",
+    "bess",
+    "co-location",
+    "energystorageaus",
+    "Lacour Energy",
+    "StorageAus"
+   ],
+   "description": "West Arthur Energy, a project company owned by Western Australian developer Lacour Energy, has referred a wind generation site with a 4,000MWh battery energy storage system (BESS) to Australia's EPBC Act.",
+   "ftries": 1,
+   "lede": "West Arthur Energy, a project company owned by Western Australian developer Lacour Energy, has referred a wind generation site with a 4,000MWh battery energy storage system (BESS) to Australia's EPBC Act.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCcjlkUGFSSXRUNklHMVJrTmNYV3NtX1gzMUJ5cjlwOVI4ZzZtWE0yVmdxU1VxYmJfcEJrcDNRNkxqbS1pcWs0R0VaelUxWncwR2pMQ3FpQVRsb0U2RDhyQlBIcEVKZFFhNVRv?oc=5",
    "title": "Oil Market Report - November 2026",
    "source": "IEA",
@@ -5487,6 +6124,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rMDFFQTJMTE9Jcy1KOGZfMXg0YVFkSmZyWnh0enIxTTZvNklVd1d1WkttdV9abzBSN19wZWhESTRZdDl4MjFtZ1FzbjAxNGpHZWNQY3hVTjZneGFYSWRlLWxGcGFRT3oxQmJXU0p4Z3hCS0NlbUZBeQ?oc=5",
+   "title": "Transcript: Lots of Environmental Groups Oppose the Permitting Bill. This One Doesn’t.",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-13T01:17:24+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SaENBVGRQUV9iZG5ldzV5WTdlWF81bEhVdmlZYmIzaG5BcHM3dktqbFZUa05ybzhqejNFMjJUSFR5QTUyMFg4emtUMGlOSkZ4MDRPc1FfUjJnelVxcHRQalhiY29tUmdyN0E?oc=5",
    "title": "Lots of Environmental Groups Oppose the Permitting Bill. This One Doesn’t.",
    "source": "Heatmap",
@@ -5507,6 +6158,17 @@
    "desk": "analysis",
    "published": "2026-11-12T23:29:04+00:00",
    "seen": "2026-11-19T13:26:21+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54M0RFcjA0LVRTa292RGtRRk12NWlaMUFsUXZVTjNhSTZ0Y1ExTzc1anY3TU5GV2Z1RDNIUHo0eF80cUVqMFZXYXU0TXFfT1cyYzZrTEd3RWR1Sm8?oc=5",
+   "title": "The Deadliest Part of a Wildfire Might Not Be the Blaze",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-12T22:16:09+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -5540,6 +6202,30 @@
    ]
   },
   {
+   "url": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/",
+   "title": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-12T21:12:52+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News",
+    "australia",
+    "battery energy storage",
+    "battery storage",
+    "data centre",
+    "data centres",
+    "energystorageaus",
+    "new south wales"
+   ],
+   "description": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW.",
+   "ftries": 1,
+   "lede": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KRkR0TjY0S2VnX3F3YUttb3liSEJSalZZcEdTRmc0MXBoMnp6ZGN3MHRrR3hOUXJoRDdETU8wSjJxS1FrWXhfU3NQVW1YYjRE?oc=5",
    "title": "Jamie Van Nostrand",
    "source": "Heatmap",
@@ -5562,6 +6248,21 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13RFEtVHd4ZzFlWi1SQmNsZWhzc1Bva1RBdXdaZnBSSkFoYklQSWlPb1lPeGx0RmZLSXc1TGJvRVNRcWFaV0ttWjYxdFh5VGwzd0xzTGloRkl6QQ?oc=5",
+   "title": "The U.S. Reactor Startup Going Head to Head With China for Singapore’s Business",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-12T18:00:24+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hbWJxaUZXTWdVV0hMX05jRDdiZVJFZVV5aXZyZGRtelJFdXhQNXVCdUZiOXNhNHBQOFBWNWdvXzlIRFRPdnh1ZHExS2xGOHpYdktNTGY0QkFnOWY5cjJJTmRoRFFfTlAy?oc=5",
    "title": "Electricity Isn’t the Only Thing Getting More Expensive Because of AI",
    "source": "Heatmap",
@@ -5582,6 +6283,31 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
+   "title": "DC bidirectional charging and data centre demand are reshaping the case for US DERs",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-12T14:33:57+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "Features",
+    "Interviews",
+    "AC/DC",
+    "battery",
+    "bess",
+    "bidirectional",
+    "data centre",
+    "data centres"
+   ],
+   "description": "As data centre demand surges, utilities and developers are turning to distributed energy resources (DERs) to ease grid strain.",
+   "ftries": 1,
+   "lede": "As data centre demand surges, utilities and developers are turning to distributed energy resources (DERs) to ease grid strain.",
+   "tags": [
+    "power",
+    "transport"
+   ]
   },
   {
    "url": "https://www.energymonitor.ai/analyst-comment/finland-nuclear-wind-expansion/",
@@ -5659,6 +6385,28 @@
    "fetched": true
   },
   {
+   "url": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
+   "title": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-12T11:59:58+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News",
+    "germany",
+    "ldes",
+    "utility",
+    "zinc",
+    "zinc-bromide"
+   ],
+   "description": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises.",
+   "ftries": 1,
+   "lede": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc19TSlU3ZTJGbmNrTkFWS1F0dmFabUNHRHRneVBMYnBSamM4UjRueThLNzJUUmJfdFJtaWlRMDdQSWhMX0pCQ0hlNDFxWC1BTDN4Q3ZxUDEyTW1zWXplZWlOa3kxWGp5NE11eURkb0k0eFFBOVVZVjF2UGpob2MtaXpiZjR0WGdNWHF0TUZ6SURXc0Y2TnZOX1lrWmxrZ2c5V3BXMzFyR0VweXNLaFZ6Q05MSU5Qb3Yy?oc=5",
    "title": "Leaders at COP31 seek to accelerate clean cooking progress in Africa ahead of Nairobi Summit",
    "source": "IEA",
@@ -5670,6 +6418,31 @@
    "fetched": true,
    "tags": [
     "policy"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/flexgen-chosen-as-system-integrator-for-google-backed-us-solar-plus-storage-project-with-mn8-eos/",
+   "title": "FlexGen chosen as system integrator for Google-backed US solar-plus-storage project with MN8, Eos",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-12T10:58:28+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News",
+    "battery",
+    "bess",
+    "eos",
+    "eos energy enterprises",
+    "flexgen",
+    "google",
+    "lithium-ion"
+   ],
+   "description": "Software-focused energy storage system integrator FlexGen will serve as the integrator of MN8 Energy’s solar-plus-storage project in Kanawha, West Virginia, US, using solutions from Eos Energy Enterprises.",
+   "ftries": 1,
+   "lede": "Software-focused energy storage system integrator FlexGen will serve as the integrator of MN8 Energy’s solar-plus-storage project in Kanawha, West Virginia, US, using solutions from Eos Energy Enterprises.",
+   "tags": [
+    "industry",
+    "power"
    ]
   },
   {
@@ -5714,6 +6487,76 @@
    "ftries": 1,
    "fetched": true,
    "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/what-six-months-of-dutch-market-data-tell-us-about-the-true-worth-of-renewables-bess-dispatch-optimisation/",
+   "title": "What six months of Dutch market data tell us about the true worth of renewables & BESS dispatch optimisation",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-12T09:54:46+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "Features",
+    "Guest blog",
+    "energy trading",
+    "netherlands",
+    "optimisation"
+   ],
+   "description": "Analysis of optimiser performance in the Dutch electricity market highlights the need to separate claims and forecasting from realistic outcomes, writes Omer Bumin of trading infrastructure software company Powerlys.",
+   "ftries": 1,
+   "lede": "Analysis of optimiser performance in the Dutch electricity market highlights the need to separate claims and forecasting from realistic outcomes, writes Omer Bumin of trading infrastructure software company Powerlys.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/alinta-energys-200mwh-wagerup-bess-online-in-western-australia-after-significant-redesign/",
+   "title": "Alinta Energy’s 200MWh Wagerup BESS online in Western Australia after ‘significant redesign’",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-12T08:53:07+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News",
+    "Alinta",
+    "Alinta Energy",
+    "australia",
+    "battery",
+    "battery storage",
+    "bess",
+    "energystorageaus"
+   ],
+   "description": "Alinta Energy's 100MW/200MWh BESS at its Wagerup thermal power plant in Western Australia has been operating commercially since September.",
+   "ftries": 1,
+   "lede": "Alinta Energy's 100MW/200MWh BESS at its Wagerup thermal power plant in Western Australia has been operating commercially since September.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/must-be-ready-and-able-to-deliver-energyaustralia-pays-au750000-over-alleged-fcas-failures-at-four-bess/",
+   "title": "‘Must be ready and able to deliver’: EnergyAustralia pays AU$750,000 over alleged FCAS failures at four BESS",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-12T08:51:14+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "cats": [
+    "News",
+    "AER",
+    "australia",
+    "battery",
+    "battery energy storage",
+    "battery storage",
+    "bess",
+    "business"
+   ],
+   "description": "EnergyAustralia has paid AU$750,000 (US$519,300) in penalties after the Australian Energy Regulator (AER) alleged that four battery energy storage systems (BESS) it manages failed to deliver frequency services offered into the market.",
+   "ftries": 1,
+   "lede": "EnergyAustralia has paid AU$750,000 (US$519,300) in penalties after the Australian Energy Regulator (AER) alleged that four battery energy storage systems (BESS) it manages failed to deliver frequency services offered…",
+   "tags": [
+    "policy",
     "power"
    ]
   },
@@ -5977,6 +6820,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzBfbDF0VDRTdFRtbFNQb1pxRTNHWE5JdlhOSFJjZFNYaS1jSk5ORFlXZUtqOHotQUcxSlMtblo5c1AtR3pCV0dMWUJGM21NRm8yNFBRWUdiaS1kbzN2em0tUnVCNWktUElwbERLNmpJMC1RQVlEUm9VdkZwR3JWZTZIVklGemZYZUhRUUk1WjVjY0dpYXl5VlBRdWtCVXhEZHBKRXRJLXZJcmNxOEowQ0RCNkhTRDF2eGlOcFU2TGxHZw?oc=5",
+   "title": "Rethinking how the world uses resources can help cut waste, strengthen economies and lower emissions",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-11T08:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFpCa3dyZlJoWWRaVlZ2cFRaTkE4eTY3MWpBZXhwVlJiSm9VRmRwcXBzcjRrd25ZME4tWUlBY3h4N0JrRng3eUtPUFpIVGZQZE44Q0hrUTl5clRicGF6a1Z0aUd1M01hMjNfV0JSYXR3MXg2THZ4ZXQ2V0FXaHNyLW9wa1NRX0NjLUtqemtjMlBkNm11T3E1RVhObmkzd2pmWFFmRkc5SUN1N2Z4aE9nY1RHekt2bHc?oc=5",
    "title": "Synergies between waste reduction, resource efficiency and energy systems decarbonisation",
    "source": "IEA",
@@ -6144,6 +6998,35 @@
    "lede": "Safer Foundation is using funding from Illinois clean energy laws to give formerly incarcerated people the training and support they need to enter the…",
    "tags": [
     "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGS3hHTExqdTlSdXJrZGJiRzZsSmtWdXZwZ2tCQm8yZjdjSzZORUNQRVVKUEk0WWtxMmtjTnVkQVVaamZQUXFZUWJvak80eTIyRV9n?oc=5",
+   "title": "Permitting Reform ‘Survived Its First Test’",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-10T08:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORDAwcjR2d3Z6S3VxakM2U2RsSDFVRko2N0p5TVJ2ajU5elZjVm8yZ0FWTkk2LWtRdmhMdTJneVB5TTFXaEF1R0s4QjJReTBfNlJ0WDR5ZTViSFdhN1htZVVmdDBOSUpRaE1Kc1pLWlBGOHI5NUZmVzAteVZGUEMwNC03Rm0wY3hTWXF4ZTE3eERNbFlUbXNobkxMRVUzM3pOekR6V05VQ181VzZYRENEVnIwYXM1Qk85Z3M5UEUtbzR5Snk5eE9aZ2ZnRGVVQ1lnX25HcE9uVHYzaHV3Nk5oSXZKdUhlWGVkSUE?oc=5",
+   "title": "COP31 Energy Ministerial highlights opportunities to strengthen energy security, affordability and transitions through cooperation",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-10T08:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy",
     "transport"
    ]
   },
@@ -6351,6 +7234,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Uzd1ejQ3eG02a2tyQXlaV1NJTy1UWmdWX0JLYmhDZE5ORDF1U2lqa0tiQko4aFltMWM3REtvNmw5MnpFQ3NvYUZCVERvZVV1YW03TW1HUFYtNjUtNldDSVFubHZyY280ZEVPN2FfNzloc21pOFdjSmlBalRYYVE?oc=5",
+   "title": "Accelerating Electrification in Southeast Asia",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-09T08:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOczFxYkdxSE85Q09uN0xOM1FhUlBfQjl6Ui1qSTVYYmZ5ZzhfX3ZBQmdrYWVWenhMRFMyMUNfTWdKYXdJS1ZXZTBtMWhkaGVJdnZSWko1Snd4eXlLdkFZdk83RTFmenJjZXNBZHVLRmMtbG5jY1FQaFVGMHI1UTlROTYweUpMcW8?oc=5",
    "title": "How the Blue Tsunami Strengthened the Permitting Bill",
    "source": "Heatmap",
@@ -6454,6 +7348,20 @@
    "fetched": true,
    "tags": [
     "policy"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0piZFJzbnRnSG1sTU1DeHZOMzQ1cjdhNUFFMTd2TURlcVRyMWJWOVRjWE1yU1R4NW5qV2x3WXJ3VG9YM0pFSEJZUFpLQktyNjFkMGhiSlhNNnZxUmZKRS1VaTdTclQ4cnB5RzhCZTR3ZjFaUlloZE5XX3UtUmtTTHdFVzJrYTVoTjlqbHFuNnRLRmQ0Rmc3ZWVQZWVjNG8?oc=5",
+   "title": "The Place Where a Candidate Promising to Do Less on Data Centers Actually Won",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-06T21:29:37+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
    ]
   },
   {
@@ -6650,6 +7558,17 @@
    "desk": "analysis",
    "published": "2026-11-06T08:00:00+00:00",
    "seen": "2026-11-19T13:26:21+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6UkJubHI2RkRUczFLSVVMVlI4b3ZIUVg0YkxBX2pxOTVFVGdURHdSN1hKNzJfSXBQMUc5UDliTldlM2ZGM3BkaEMxSHdQWk5LLWdaQ1lqQWtjY19GZV91M2FqZE9IY2V1SGRKSDJXR0dudGs?oc=5",
+   "title": "Renewable electricity - Renewables 2026",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-06T06:33:58+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -7039,6 +7958,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Sd0ZOMkxadEJIcUR5dDZjZExqVEVmcGlMaVdFNUFWdTNNRzdSbVVyZVFsS0hvVHpkXzB3Rm96cFJBeHAtdnJUaG1NYTN3ZHJSWHUxUDBKMnotME9NTGU4UmptcXJfNjJpZFE?oc=5",
+   "title": "Ukraine’s Energy Security 2026",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-04T08:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3dueXhNaDJtakduVGtyNDlWRDBZVFdMcEN1S3FHVGpiT25nNDN2ZHlEWEVHRm83S0xlWlRheWRRNHRhWkVNanlOcjIzdzFHYWVsY0hjdWd2OEZxcGlnOVJrcnRCNTI2TkFGbmM4RV9uVjRLbUV2QU1IZ3hHeHprcEZlaXh5SHN3b0lxTWpwUlFIbm8?oc=5",
    "title": "Regional Dialogues on Planning-to-Investment Africa",
    "source": "IRENA",
@@ -7289,6 +8219,22 @@
    "fetched": true
   },
   {
+   "url": "https://www.canarymedia.com/articles/geothermal/boise-geothermal-network-affordable-homes",
+   "title": "Boise plans to tap its geothermal network to heat 300 affordable homes",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-02T08:30:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "Micron Technology gave $2.5 million to help fund work to expand the system for a new multifamily housing development, slashing utility bills for future…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Boise_Idaho.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=83fd11bb2ce3f22a85adb7de5cdeacee",
+   "lede": "Micron Technology gave $2.5 million to help fund work to expand the system for a new multifamily housing development, slashing utility bills for future…",
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGdBQllFY0Y5YkZQcmR6eEdnZXVHMlh2aUVzNVgxZDJjWUVvRnRXSENJeHdXbWZPWnVRRmg1Yno0bjUzc0dWMTZXbDBBWm1EZjh2WW5NYmlNRkZ5RWJsWm8xVHVVMTQya05QTG5aWUtEN2NWZDdYYzNVTTllcnRHRXdsci1Rb2NsXzNkVllVU0F5RGEyT21uRlln?oc=5",
    "title": "Global Gas Security Review 2026",
    "source": "IEA",
@@ -7298,6 +8244,47 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/clean-industry/meta-fortera-deal-cement-plant-missouri",
+   "title": "Meta strikes deal to help bring a low-carbon cement plant to Missouri",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-30T20:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "The tech giant will buy certificates from Fortera, which is working to build its first commercial plant. The strategy is catching on in the industrial…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Fortera-Pour-Images-2-2-edit.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=670c0e717274dc6d549784fca1f93256",
+   "lede": "The tech giant will buy certificates from Fortera, which is working to build its first commercial plant. The strategy is catching on in the industrial…",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/politics/ballot-proposals-clean-energy",
+   "title": "5 ballot proposals that could drive or derail clean energy",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-30T15:52:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "A constitutional right to natural gas, a permitting revamp, and more are on the ballot in states and cities this Election Day.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/GettyImages-2301317478.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=65b96fc0f3d4d79b8cfa7f25f0dc6c01",
+   "paragraphs": [
+    "The midterm elections are upon us. While most of the country has its eyes on who will control Congress, there’s plenty at stake for clean energy at the bottom of some voters’ ballots, too. Here are five ballot measures to keep an eye on come Tuesday night.",
+    "Proposition 45 looks to revise the California Environmental Quality Act, which for more than 50 years has governed how housing, energy, and other developers account for their environmental impacts. Specifically, this ballot measure would set a 365 -business-day time limit on most state environmental reviews, excluding fossil fuel construction. Supporters say that will allow for speedier development of clean energy and other important infrastructure. But some groups have lined up against the measure, contending that it would curb tribes’ input on projects and put California’s lands, waters, and air at risk.",
+    "Canary Media’s Alison F. Takemura has the lowdown on Eugene, Oregon’s attempt to tax major corporations to fund clean energy projects — a measure that’s similar to one already in place in Portland. Eugene residents will vote on whether to approve a fee on Amazon, Walmart, and other companies that make $ 1 billion or more in gross profits nationally and at least $ 500, 000 in gross profits within Eugene. Money raised could go toward electrifying restaurants, clean energy job training, and other climate-friendly initiatives that prioritize low-income and historically marginalized residents.",
+    "A proposed amendment to Colorado’s constitution wants to make sure households can use natural gas for cooking and heating forevermore. Amendment 82 is the brainchild of conservative advocacy group Advance Colorado, which contends that ​ “ natural gas in Colorado is under attack” as the state moves toward a zero-emissions target and as some cities look to limit gas use in new construction. Environmental and public health groups say continued reliance on the fossil fuel would saddle residents with safety risks and higher utility bills.",
+    "Voters in Michigan will consider Proposition 2, which would go further than any other state has to keep utility money out of elections. While Michigan already bars corporations, including investor-owned utilities, from donating directly to political campaigns, companies can easily sidestep those rules by funding political action committees. Proposition 2 would not only prohibit utility-funded PACs from giving to campaigns; it would also stop utility executives and their family members from donating. Utilities clearly aren’t fans of the measure: They’ve spent at least $ 215, 000 opposing it, according to the Energy and Policy Institute.",
+    "Michigan has utilities on the mind this election as residents in the city of Ann Arbor consider whether to establish a municipal utility board. If established, the board would discuss a potential takeover of investor-owned utility DTE Energy’s grid resources in the city. People opposing Proposition E say that would be an overly expensive endeavor, costing as much as $ 1 billion. Supporters think the price tag will be far smaller, and argue that a municipal utility can provide cleaner, more reliable, and more affordable power than DTE. Environmentalists and city leaders warn the proposition will derail work already underway to create a Sustainable Energy Utility in Ann Arbor; the city even sued this week to keep the proposal off the ballot."
+   ],
+   "lede": "A constitutional right to natural gas, a permitting revamp, and more are on the ballot in states and cities this Election Day.",
+   "tags": [
+    "policy",
+    "transport"
+   ]
   },
   {
    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
@@ -7346,6 +8333,22 @@
    "lede": "A conversation with Ketan Joshi.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/fossil-fuels/trump-iran-war-american-fuel-costs",
+   "title": "Here's how much Trump's Iran war has added to Americans' fuel costs",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-30T07:30:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "As the conflict roils gasoline and diesel markets, the U.S. has seen a higher per-person cost increase than any other country, a new analysis finds.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/iran-war-fuel-costs-cotw.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=5b0f27eb696018bf7e1ccf346c4d976a",
+   "lede": "As the conflict roils gasoline and diesel markets, the U.S. has seen a higher per-person cost increase than any other country, a new analysis finds.",
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -7399,6 +8402,23 @@
    "lede": "This week we launched a completely overhauled version of the Cleanview platform and many of our free tools, along with a new brand and logo.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/ev-charging/california-ev-charging-reliable",
+   "title": "California’s long road to make EV charging more reliable",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-29T17:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "description": "Can the state regulate — and innovate — its way to more reliable public EV charging? Here’s what industry experts make of its latest efforts.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/CW-EVchargers-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dce0d278a5099f7ced57c9d815b3843f",
+   "lede": "Can the state regulate — and innovate — its way to more reliable public EV charging? Here’s what industry experts make of its latest efforts.",
+   "tags": [
+    "policy",
+    "transport"
    ]
   },
   {
@@ -7526,6 +8546,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQa0Eta2VVSmJZWHBGNHJVdVRNZWlJcjEyWVlGazFNcHhPdGdzZ1BjVk5ISWN2dF9QenRhRVpBcnEyb01HbnQ0MzNTTzZVcFVEeTBWZll6T0dId0h3UGhrTkZLWjFRVU1FWnFSaVJTTmVjNWJrTFh2YkxzZnNDWlJfQVJDLXJlWXVtTW9vQVN4MWNMbEhQYjFRQUZaaDNNTWx6QXd1Y0NRNE9XTVJIYXYyZFVOUk5CRXJmWGZTSlp3TWhoV3hNTks4djQ2MWZ3MkU2aUhfNEZZSkhoWnN4MnhlVERCNnZ0OVZFQnpiODFSSDRzZ2FrMXIyT0pYdm1UX1BON2I3MVZXdHY5S1FNT25NRzZXV3AtYlBjUkhBSE1WOVRqN1dUel9WWXB0RVRjNDFFX2JBc2xKU3Y0R1hJNUxYUE5XRnZDdFFjc0pfVXlHOGw4N1NlXzdaVEhHNWN0NGxOaGhlaVBqZUVtVUNQZDhv?oc=5",
+   "title": "Events",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-10-27T19:15:37+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DN29EWHBLaE1MSHlBa3hRR0toMEU0VVhHUXhuZURaOTFiWFlqMWJfVGR0MURPN1VNVFBLTWkybXFjOHdhZDVpVml2WmpJNVFj?oc=5",
    "title": "AI use policy",
    "source": "Ember",
@@ -7538,6 +8569,17 @@
    "tags": [
     "policy"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcjR6Q3pvT1E0Y0YzMzJMQ0JrOFgxMHFQUXo5d1dxd2E5aW9SNmVHQ2hfYmctdnlsR3dxbkpJalBYMEdSM0l1TzZoejU3NDlSWWRtOUhTT3IyeE1fTEdVY05STnFPa2ZHZXpLVklub2UxSVY4eEdYTENPYjB4alNFdmxCNlVLXy1KUUhzd0FWRXREWnhWa01fSF83QXliOE5OQThXNWtiSW1jT2dROFVlbENPMlBmTGhsWmY3bDRyWGdQRzlJ?oc=5",
+   "title": "Powering Indigenous Communities: Co-ownership, Participation, and Equitable Benefit-sharing",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-10-27T07:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1RDOTczNnhiaWFkei1IaldBLXgzd1NwQWo0eWxqaEc0QkdvR2JrdXE0eVRBc2ktN25UYnFUS1NNOVViZGsxUEdDYjBFQnFxSWo5TmY4VTVxZWNIcVZpNkJXWWg5XzdId25oNjRkVVBCSG1Wd3Q5MzVHRUJ6VGtjWFhkRjRrTnhEOFNya2NMb2FzUGRzczRiSFJCcHp2VVA5dXgzQ3BGeUYwRkZX?oc=5",
@@ -7842,6 +8884,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkZWREM4RGVjUmdVSlVVRm9wMHFVZEtMM1plOXdFYmFsUGtaMGowUHFiQmVpaWJtcHMtMmF6M3IwTVJvU3lCbUozWDREVGRrVGZYbzNseDdISEhFanRqT1M4SW9Xdm02YlZ4QjZKUmZJTm40RS1EVGwxZnFxYmY3YUxuQXI4ck5ZaUNrcVdiSVhFMEU?oc=5",
+   "title": "Implementing 2030 Commitments and Planning for 2040: Lessons from Aligning Climate and Energy Plans in the Energy Community",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-10-20T07:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68325",
    "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
    "source": "EIA Today in Energy",
@@ -7921,6 +8974,17 @@
     "But if you just have frozen policy from now to 2030, it’s a very slim chance that we’ll get there. When it’s a chance, it’s because Denmark are so focused on wind and solar, that all depends on how the weather will be."
    ],
    "lede": "A conversation with Kristian Jensen of Green Power Denmark."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fazNfMFVvTDlLbXI4X05TdEVXUUJYRW1raXVrY2M3NzFwQVBGUUNRYW5LeHpDVkVkaFJ2QTNIS25VcFFMLTc5TTZvWlZERkF3bERDTkFzOHc3LTdqZ19SbjNZOTBrMG5fMHVUbG5lOTVmLUNBNXRkb2RRSQ?oc=5",
+   "title": "Thirty-Second Meeting of the IRENA Council",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-10-16T07:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOT0ZTUV9SaHVfOS1QcTZTUDNlUWl3RXVoeEFkMmpzbzhCU1BlRVNFZEptblRvdTFya04wS2lrT0FsQlpldktBYks1MjJnSkhXZWpSMks0UTdqVlo3ZjFKbFBRSHN0T2hTWHVNdzViME5CdUw4aFJZZWVRYW9HQWJSeHRKQkpuWFRJejJsX3ZuMnh2Yy1EU0txSkNmUjlCVFEwTFgwUkZwVk5QSlVSbExIMGo3WTYtX0xjSHVPVHQtV184QTNzVVRaMXpzLVlOM2c2THMyaS1ZLWo1QTRBemhIcHJaZkFidERxRzVrRjdLOV9DV08zV2ZFb0huMXNHS3B3LVNNZVlJalZFM0FnaWZNclgzN2N5UVpvbzJv?oc=5",
@@ -8157,6 +9221,17 @@
    "lede": "Open to all free & paid subscribers."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHpWNHBVRW9ia2UwMk5hc09LN3JqbkxqdWEtcF9rMjYwcWhYcmRvclJQWDVVNXM5RjM2R1Zaa05aS1FOaHJEQ09uQVZWYTgxSXpyU1BOZ0tTYTVzZU9LOGtMUzRhUFBWVEZJX0lPMkp5OVJDbzF3VXdjTDJOZGhyWnEyekVNZ2FPb1UzSWl2bUJNU2pyVmtuOFpscWwxVUZWRzJSWndtQmpWVGFIaXRtS0Mtc2N2NGFmU01zcg?oc=5",
+   "title": "Clean cooking as an energy-smart agrifood system solution to improve food security",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-10-12T07:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82aXFCaTdfYlVNbUE4c0U2T3dHUUVOdHl0aWpjcHNDc01tRWVuSkdnWERVUFVQOXRCeDNyS3cwTmhaZmg5emtuVzR3bjcwVWlieFJzbkpfdWtzV3E4QU1HTnROYw?oc=5",
    "title": "Latest EU NECP Target Data",
    "source": "Ember",
@@ -8168,6 +9243,20 @@
    "fetched": true,
    "tags": [
     "policy"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcURMM0RydG8zWUZweWZyY3F5Q1luQTFoYUFqNVJENkdxUFBFRi05dkRZZFFjMzVscnk3dFlQcHFFbXVESnVMNkpEMnBZeDZSSjNtc19rUXRHRTlzaUt1QTU2OTZzcUJmY3lqV2lBOEZPZWZ0OWY5OExXQ1dhVEJzMUtDWC1VOTl0NVE?oc=5",
+   "title": "Global High-Level Forum on Energy Transition - Accelerating the Global Energy Transition: Tripling Renewables and Electrification",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-10-10T07:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
    ]
   },
   {
@@ -8211,6 +9300,20 @@
    "fetched": true,
    "tags": [
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lQlVaeVRtVEtqWHhDcEd0ZTdXaC03dURKTVZhUFVtYWdJbkNPMl9Hbms2NVJURzZSZ3FmWFZ3MjlFVkh2OEJhUElrUlVRX3I5cHVhLXdBM1NWU0JZb01hVnRUX0hvZkU?oc=5",
+   "title": "IRENA at Pre-COP31",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-10-08T07:00:00+00:00",
+   "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
