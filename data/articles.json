@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:58:29+00:00",
+ "updated": "2026-11-21T23:19:11+00:00",
  "briefing": {
   "headline": "Battery storage, solar and the grid",
   "period": "Nov 15–21",
@@ -44,6 +44,203 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
+   "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-21T19:56:56+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "cats": [
+    "News",
+    "Tesla",
+    "Tesla FSD",
+    "Tesla Full Self-Driving"
+   ],
+   "description": "Tesla's FSD v15 rollout targets sign reading, potholes and school-zone speeds, some of FSD's biggest weaknesses, plus an impressive new Reality View.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-v15-update.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Tesla has started rolling out “Full Self-Driving” v15, and its list of improvements reads like a list of FSD’s biggest current weaknesses: sign detection, potholes, and speed handling in school zones.",
+    "Tesla also claims “25x better handling of safety critical cases” and is adding a new live visualization that looks seriously impressive. If the driving improvements are as real as the visuals, this is a big update.",
+    "Tesla announced the rollout on X this afternoon, and its Tesla Super Intelligence account followed up with the full release notes. The company didn’t say which vehicles get it first, but it has previously told investors that its AI4 (HW4) computer is enough to run v15.",
+    "Tesla’s main announcement also says FSD can now slow down for speed cameras, and it adds Bike Rack Mode, which allows FSD with a bike rack or a similar hitch accessory. Navigation learning only covers the start and end of trips for now; Tesla says later v15 releases will expand it to the entire route.",
+    "The new visualization is the flashiest part, and based on the video Tesla shared, it’s super impressive. The center screen shows a detailed, rendered version of the street around the car, far beyond the current FSD visualization.",
+    "Tesla calls it “Reality View” in its announcement and “Tesla Augmented Reality” in the release notes. The notes say it replaces all the separate model signals with a single end-to-end visualization that uses less compute, and Tesla says it lets the driver “see & control what FSD is planning to do.” If that works as advertised, it could make supervising the system a lot easier.",
+    "What stands out more is where Tesla is focusing. Almost every driving improvement in the release notes targets an area where FSD struggles today.",
+    "Signs are a big one. In a test published in September, Brussels nonprofit Johanna.be found that FSD exceeded the limit in 55% of the 30 km/h zones it drove through, averaging 44 km/h. In most of those zones, the car’s screen showed a 50 km/h limit. It didn’t read the sign.",
+    "Potholes are another. In August, Musk said pothole avoidance was “coming soon”, something he had already promised back in 2019. Today, FSD still drives straight through them.",
+    "School zones are on the list too. NHTSA is reviewing a petition claiming Tesla’s Robotaxis speed through active school zones, on top of an investigation it opened in October 2025 into FSD traffic-law violations like running red lights. Slowing for speed cameras fits the same theme, though it also suggests Tesla is fine with FSD going over the limit when there’s no camera around."
+   ],
+   "lede": "Tesla's FSD v15 rollout targets sign reading, potholes and school-zone speeds, some of FSD's biggest weaknesses, plus an impressive new Reality View.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/21/how-much-does-charging-an-ev-really-cost-this-redditor-says-7-per-month/",
+   "title": "How much does charging an EV really cost? This Redditor says $7 per month",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-21T19:53:32+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "cats": [
+    "News",
+    "ev charging",
+    "range anxiety",
+    "reddit"
+   ],
+   "description": "One of the most common questions asked by first-time EV buyers is about the cost of electricity. Whether they plan...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/hyundai-ioniq-5-7dollars.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Whether we’re talking gasoline, diesel, or electricity, one driver’s fuel costs can look dramatically different from another’s. How far they drive, how often, and under what conditions can matter just as much as what they drive. And while EVs may offer the greatest benefits to rural drivers covering long distances, a Redditor going by Suitable-Truth-350 took a different approach, moving into a highly walkable city for the express purpose of driving as little as possible.",
+    "“My wife and I recently retired and moved from a car dependent, rural/suburban area to a large, walkable city with good light rail. Our goal was to drive as little as possible,” write Suitable-Truth-350. “We took delivery of an Ioniq5 in August. We still have a daily walking life, but we use the car to see friends in the country, shop or travel around the greater Chicagoland area. After 2 months, we finally charged it.”",
+    "“Driving the car is a pleasure,” they continue. “The pickup and smooth operation so different from our last ICE vehicle. First impression, we love the car and could never imagine going back to (a gasoline-powered car).”",
+    "I’ve been saying it for years: drive an EV for a week and whatever range anxiety you might experience will disappear. And, while it seems like Suitable-Truth-350 didn’t have much range anxiety to begin with, it’s worth noting here that their situation isn’t that rare.",
+    "In their most recent national survey, AAA found that the average US driver covered less than 29 miles per day, with the vast majority weekly commuting totals falling well within the range of even the most affordable used EVs.",
+    "The same survey found that just 30% of Americans reported taking at least one road trip the previous summer, with an average one-way trip length of ~235 miles.",
+    "That 235 mile trip might be too much for a car like the Fiat 500e, but even that car – the new EV with the shortest EPA-estimated range you can buy in the US – can make a 235 mile trip with a single 30-minute stop to charge. And in 2026 and 2027, they’re sure to find plenty of places to charge, thanks to a public charging network that’s newer, faster, and far more built out than they probably think, with more fast-charging locations opening every week and modern charging speeds that make longer stops the exception instead of the norm.",
+    "🤔 so if you drive very little, you will have to charge very little. I’m not sure how this straightforward logic is newsworthy.",
+    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.",
+    "Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way. Get started here."
+   ],
+   "lede": "Whether we’re talking gasoline, diesel, or electricity, one driver’s fuel costs can look dramatically different from another’s. How far they drive, how often, and under what conditions can matter just as much as what they drive.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/",
+   "title": "Tesla Cybertruck’s already impressive turning radius gets even tighter",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-21T19:14:57+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "cats": [
+    "News",
+    "Tesla",
+    "Tesla Cybertruck"
+   ],
+   "description": "Tesla is rolling out an update that tightens the Cybertruck turning radius, but only on 2027 trucks, just months before production ends.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybertruck-imroves-its-already-impressive-turning-radius.png?resize=1200,628",
+   "paragraphs": [
+    "Tesla is rolling out an update that makes the Cybertruck turn even tighter, improving on what was already one of the best turning radiuses you can get in a full-size pickup.",
+    "But there’s a catch. It only works on 2027 model year Cybertrucks, and Tesla plans to stop building the truck by the end of next summer.",
+    "Tesla’s official Cybertruck account posted a short drone video early Saturday showing a truck doing circles in a parking lot, with a “before” and “after” comparison of its turning path. “Even tighter turns now rolling out to new Cybertrucks,” the account wrote.",
+    "In a follow-up post, Tesla said the improvement requires software version 2026.44 or newer and “only applies to model year 2027 Cybertrucks.”",
+    "Tesla didn’t share a new turning circle figure. In the video, the “after” circle is visibly smaller than the “before” one by what looks to be at least a foot.",
+    "The Cybertruck’s maneuverability comes from its rear-wheel steering paired with steer-by-wire. At low speeds, the rear wheels turn opposite to the fronts, which shrinks the space the truck needs to make a U-turn. We’ve been tracking the Cybertruck’s four-wheel steering since the prototype days, when Tesla was showing it off in parking garages.",
+    "Even before this update, the results were impressive. Tesla’s owner’s manual lists the Cybertruck’s curb-to-curb turning circle at about 43.5 ft (13.25 m). That beats the Ford F-150 Lightning at roughly 47.8 ft and the Rivian R1T at 44.9 ft, and it’s within about 4 ft of a Model Y. Not bad for a 6,600-lb truck that’s nearly 19 feet long.",
+    "And Tesla always said there was more to come. At launch, the rear wheels turned only about 3 degrees. In early 2024, a Tesla engineer said a software update would push that to 10 degrees, and Elon Musk said the company had improvements in the works to “tighten the turning circle significantly.”",
+    "Tesla hasn’t said whether this update delivers the full 10 degrees, or why it’s limited to 2027 trucks. If it comes down to hardware, owners of earlier Cybertrucks who were counting on this as an over-the-air upgrade are out of luck.",
+    "Credit where it’s due. The turning circle is one of the best things about the Cybertruck, and anyone who has driven one knows it. Steer-by-wire combined with rear-wheel steering is real engineering, and other vehicles are just starting to get that combo a couple years after Cybertruck had it. Making it even better is a nice update."
+   ],
+   "lede": "Tesla is rolling out an update that tightens the Cybertruck turning radius, but only on 2027 trucks, just months before production ends.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/",
+   "title": "Toyota just built a tiny folding electric bike to fit in your trunk",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-21T18:34:13+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Toyota is getting into electric bikes. Well, sort of. The Japanese automotive giant has unveiled the BKE Concept, a tiny...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/toyotabke-1.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "The Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation.",
+    "And when Toyota says compact, it means it. The little electric ride can reportedly fold up in around 30 seconds and become small enough to fit inside the trunk of the brand’s GR86 sports car. Think of it like Toyota’s take on the Motocompacto.",
+    "The BKE Concept was unveiled as part of the newly revived Scion by Toyota brand, which the company is positioning less as the return of the quirky youth-oriented car brand many Americans remember and more as a sort of experimental mobility laboratory.",
+    "Toyota calls the new Scion a “freedom lab” where the company can explore vehicles and mobility concepts that don’t necessarily fit neatly into its conventional automotive lineup. Alongside the BKE, Toyota showed its KEI-01 ultra-compact utility truck and a hybrid side-by-side.",
+    "But perhaps unsurprisingly for me, it’s the tiny electric two-wheeler that caught my attention.",
+    "And I should point out here that while Toyota refers to it as an “electric bike” in its own brand literature, the lack of pedals means that the cute little two-wheeler is not going to qualify as an electric bicycle in Europe or North America. The moniker means it merely slots into the broader electric bike category that encompasses everything from electric bicycles to scooters and motorcycles. In essence, the BKE is more or less a small seated e-scooter, sometimes referred to as a “no-ped”.",
+    "Despite looking like the kind of concept vehicle that might have been whipped up for an auto show, Toyota says the BKE has actually been under development for several years.",
+    "A small team of chassis and electrical engineers has reportedly been testing and refining the design based on real-world use and feedback.",
+    "The basic idea came from a fairly simple question: How could Toyota make short-distance mobility easier and integrate it more seamlessly into everyday life?",
+    "The result is essentially a secondary vehicle designed to travel inside your primary vehicle."
+   ],
+   "lede": "The Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/21/e-quipment-highlight-mantsinen-200-material-handler-has-tank-treads/",
+   "title": "E-quipment highlight: Mantsinen 200 material handler has tank treads",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-21T18:12:54+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "cats": [
+    "News",
+    "construction",
+    "electric trucks",
+    "heavy equipment",
+    "mantsinen"
+   ],
+   "description": "Are you a port or rail terminal operator looking for a new electric material handler that can move serious cargo...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/mantsinen_200_MAIN.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Are you a port or rail terminal operator looking for a new electric material handler that can move serious cargo without sacrificing maneuverability? Do you wish it had tank treads? If that’s you, the Mantsinen 200 might be just the thing.",
+    "Designed to handle demanding port and rail terminal operations, the Finnish-built Matsinen 200 material handler combines impressive reach and lifting capacity with the ability to move around a worksite on its own tracks. And, yes: I said tracks.",
+    "By far the most fun feature of the Mantsinen 200 is the fact that it looks like a rejected concept for a ROBOTIX dinosaur set and/or something He-Man would use to run over Trap Jaw. And while, yes – most big material handlers have similar form factors, there’s something about the 200 that really sells the whole Dragon Walker vibe.",
+    "The Mantsinen 200 is powered by a 380 kW (~510 hp) grid-connected electric motor running at 1,800 rpm. Power comes from a 460V electrical connection as standard, with other voltage options available to suit local site requirements.",
+    "Mantsinen says its electrically powered machines deliver the same performance as their diesel counterparts, while eliminating exhaust emissions at the machine and reducing operating noise, energy consumption and maintenance costs. Power is delivered through a load-sensing hydraulic system featuring four variable-displacement piston pumps and a separate closed-loop swing circuit.",
+    "Mantsinen also fits the 200 with its proprietary HybriLift energy-recovery system. HybriLift works a lot like regenerative braking by capturing potential energy as the main boom is lowered, but instead of storing that energy as electricity in a battery, the material handler stores it in hydraulic accumulators for reuse during the next lift. The company claims HybriLift improves the big machine’s energy efficiency by up to 50%, effectively giving the machine an additional 300 (ish) hp of lifting assistance at average lifting speed.",
+    "And, while the machine normally draws power from the grid, operators aren’t necessarily tethered to an outlet. Mantsinen offers an optional PowerPack that allows the machine to disconnect from its main power supply and still travel around the worksite, with some basic hydraulic systems still functional. The PowerPack is currently diesel-powered, but a battery-backed version isn’t out of the question. It’s a useful bit of flexibility for terminal operators who want the benefits of electric material handling without giving up the ability to reposition the machine when a fixed electrical connection isn’t available.",
+    "What do you guys think – is this big material handler the thing you need for your logging or scrapyard, or are you holding out for something even bigger? Let us know in the comments.",
+    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them."
+   ],
+   "lede": "Are you a port or rail terminal operator looking for a new electric material handler that can move serious cargo without sacrificing maneuverability? Do you wish it had tank treads?",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/21/i-ride-e-bikes-for-a-living-this-is-the-real-gear-i-actually-use/",
+   "title": "I ride e-bikes for a living. This is the real gear I actually use",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-21T18:08:24+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "I’m in the somewhat unusual position of basically riding electric bicycles for a living. I’ve been working with e-bikes for...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/11/priority-current-plus-Micah-Toll-header.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "I’m in the somewhat unusual position of basically riding electric bicycles for a living. I’ve been working with e-bikes for nearly two decades, professionally covering the e-bike industry for most of that time, testing hundreds of different models and traveling around the world to ride new e-bikes in some pretty incredible places. Yeah, it’s a tough job – but someone’s got to suffer it.",
+    "Of course I don’t just ride e-bikes for work. I ride them recreationally. I ride them for exercise. I ride them for transportation. My family doesn’t even own a car, meaning two wheels handle the vast majority of our transportation.",
+    "In other words: I talk the talk and I walk the walk. Or perhaps more accurately, I ride the ride.",
+    "And while most of the time all you really need for a good ride is an e-bike and a direction to go in, there are a handful of pieces of gear that I’ve come to rely on over the years. Some keep me safer. Some keep my bikes out of the hands of thieves. Some make rides more comfortable or convenient. And some are just neat little things that I’ve discovered along the way.",
+    "If you own nice e-bikes, you’re eventually going to spend a lot of time thinking about locks. Your lock may even be your most important accessory. Or perhaps I should say “accessories”, because the best way to ensure your e-bike is still there when you get back is to use more than one solid lock.",
+    "My go-to options that I grab basically every day for the last couple of years have been Seatylock’s FoldyLock Forever folding lock and Mason 220 U-lock.",
+    "For reference, the Foldylock Forever is the world’s strongest folding lock. That’s not just their marketing speak, but rather it’s confirmed by independent testing and certification. It’s the only folding lock in the world to achieve an ART 3-star security rating awarded by the Stichting ART Foundation, an independent Dutch organization that tests and certifies anti-theft locks. It earned that certification three years ago, and no other folding lock has been able to reach that level yet. The only higher ratings ART gives are for locks rated for motorcycles.",
+    "Personally, I like folding locks because they pack relatively neatly on the bike while still giving me enough flexibility to work around different racks and poles, or even larger things like trees.",
+    "The FoldyLock Forever is the one I reach for when I want serious security matched with more flexibility, while the Mason 220 gives me another beefy option when I know a U-lock will fit what I’m locking to.",
+    "The Mason is great as a strong U-lock, but I also like how large it is, letting me lock to wider poles and also a tad bit farther from the pole itself, leaving room for pannier bags and other things that get in the way. Amazingly, it’s also one of the few U-locks I have that can fit over the beefy battery-filled downtube on most of my e-bikes."
+   ],
+   "lede": "I’m in the somewhat unusual position of basically riding electric bicycles for a living.",
+   "tags": [
+    "transport"
+   ]
+  },
   {
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSWNlWnI4Z2xQc1lsLVRWaWd0dlczb1JDZG1Wa1NleEc5eFB1SHRHT3JEM1dHcGhOVFlUZl9SdG1KTHNka25sMG9zUFI3MnFidWdfaVlHeXJSVFhHWklock1yNXJhQ2M?oc=5",
    "title": "The Dark Cloud Hanging Over COP31",
@@ -124,6 +321,20 @@
     "What I really found awkward was hearing Musk stating \" I'm not MAGA, I'm not sure what MAGA means \" in his interview with CNBC."
    ],
    "lede": "Elon Musk joined Tesla's Argentina launch with Milei by video and froze: 'I don't really know what I want to say.' The Model 3 starts at $40,990.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkxONjJNTnRKVXI4OFZlZWRfRjlqclJGYmFJY2gtNk4tNVlBSXlwaENfdHN0X0dncHU5TExTTm9UclhaVnJSZWQ2MXYxT0ZLT3RXT1ZjUlF3R3FfcnNIT3FzWGFhWnM4eEd6UHVFVDlwcnAzV3U5Tlg5UGZCaDVVM0JXZzBzbnN1SGRxb0VucnN1R3F5THJQTkRhUzJlOXJJU1lPSEFUUUxHaDJfdVhXR1hBUmk?oc=5",
+   "title": "US Car Dealerships Are Low on EV Models",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-21T15:00:13+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
    "tags": [
     "transport"
    ]
@@ -577,6 +788,17 @@
    "desk": "analysis",
    "published": "2026-11-20T17:28:19+00:00",
    "seen": "2026-11-21T11:05:34+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQT05SVDNVZG9uMmhOLUNHZ0tWYnBMNzhUYTg3M0tsNk9jRWdWS1pFbWhHalZac3VVcEgzLXZydXh3TzFvd1pZdElxdXBNMGhKR2FlQXVSQ0VrN3pGTnhlLWF5X3hiZ0xLZUx4ME1xSTJSelF0ZjNKbkRkdURCdndnS0xsUlM0NUVMRDBQM25Na2ptQmN2T1BGRDJwRXlTampuNmZjUFNiN183NE5rSks3dXBiYlQySHd1cWFJR1NPWV9pU0EtX1JXMkZXd1QtVEFYbUIzRHpCa3hRR04yTWxXc2NrdXlkNm9TYk5jSzFkdDluVDJSemdkb0RSeEFEeTNacmpIa0k3Tl9Yb1dUMVV5MFZfOUlzc0N1bHBoLVR0NjAtOF9pbWxSdU1zSHJCcENpVEhheEZUX09zcTRWNGNxNV9tOU5KZjF2aEtDbi1pTUtGN2pBd09LQWpoSzRJWjB6ckw3RlV2a3BYSjhXVnRtR3NXSmRvejFsUi1PLXlXT0Z4MUtHem5QM2RBTldyZEtMUWZBNkFIWTI2M0tEcHN6ZDdaRkN3NGVoU2YxMG9Rc0ZiMThURlFsQWZ1Y0hvdno2Ymd6NzA3dlZXdkJKWndGb3lYYXFJYW4tQ2VHZGZyUVRpSG9sXzVJSlpkcVFDT3g1LV9ldUE4SXJsNlZiWnl3S0VsVFRyYk0?oc=5",
+   "title": "Search",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-20T17:26:17+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1566,6 +1788,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EWnRucWZnQTFRX3hsekxoMEtNVTdlZzRUOUdHTnlSSVcySk5MUEtYZnEzODlIMkkza24waV8xd3VneGhPbkFJUEkycFFjTDNDMTgtTE1Sd0xHWWRTaTMzVms2SkgzRDNad04tWTVSeUU3TGlYYzFkUk90SQ?oc=5",
+   "title": "For Geopolitical Strategist Parag Khanna, Globalization Always Wins",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-20T06:00:00+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnhWU0tYZnFGOXIzVmpsZ3o0LVI2M0FZVXJfZU4xUllGMkZZUnlxT3dXZEc3MjlSTXI5RUE3bkI4RF9FdHNRRVlJdE8wS0VYdlJtTzVMUHlvSmZldjI3LS0ySHBfaV9KU1NrWVVKbUtOTlducjdZTFROWGZGMjFTUzIxcmRrRW9Xc1VRZ1d5MU1yNl9WNkk3dDZQOElueFY1QTI1QUZ0bUJiWkgxN2M4Tkpn?oc=5",
    "title": "China Solar Cell Exports Rise for Second Month on Tariff Rush",
    "source": "Bloomberg",
@@ -1706,6 +1939,20 @@
    "lede": "After taking delivery of its first Orange EV e-Triever electric yard tractor in 2024, NSSL saw the electric light.",
    "tags": [
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObHhQcjdyV1I0MV9WaGxraEpScE9YSFhxMGpRYk4wMEZsSmFkaVZxalpYQktobUE1TXFkbTBtaGFoOS1IT1h3NG91d3JKV0hTMXpvbHhIT2lQM2JPcDNfSTJ0X3JzWkxRdlF0WW12blNQMkZ1ZHRNSVUyWVE0blhabG5lUnJxcHNtQkxUTmx2NDVPVUc1T25kY0trX2h1aHYxMUpZZkxpQzFqS2ZmNlE1WnpYb3I?oc=5",
+   "title": "US Lawmakers Near Deal to Ban Chinese Cars in Lame Duck Session",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-20T00:14:00+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
    ]
   },
   {
@@ -2068,6 +2315,17 @@
    "desk": "news",
    "published": "2026-11-19T15:27:47+00:00",
    "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOamJtM3kxdGE5OGdQa3JIQUQzSFhndFRIRUxaeVJQcXZ2cEpBd1ZuY19pVC0tS2pXQWxwSzctRHR6YVBlWGVOX0trcDNCMEI5ZUJJMzN3SlYwMHA1Z0Ita004azExaVh1Y01KM2VFWW5YaTlpeGJRY3JHXzJhejBmMHNlb2FaTThWZzZ0SWpyV3hCYnFpXzZySWFFa1dGQVBOaDV1UTF3?oc=5",
+   "title": "NASA probe achieves light-day milestone and is 'not done yet'",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-19T15:15:00+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2887,6 +3145,17 @@
     "policy",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDZaRDE5Tmk3UDBjWE01cmJQcnlJblp3LWVyZ1ZYYXNaSVV2dWtSbzdHaThxeW1GUkJFdmxiQUJuU0FRemRIa2pjanZCVzZueU00TE9uMnAxMkxGR0dLTEdhSlQ5YkRHYWZvd1RqLVlHWVZ1eWZuWERiVk0xTng3OFN5eWFWUlpOTWdIVGxXM3pEclRYd3d0cEtvZXNRT09NZ01xSXhmalEzNV9JWDNNRUt3QXZ0UQ?oc=5",
+   "title": "Nations Take Aim at a Climate Threat Hiding in Electricity Grids",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-19T09:32:16+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.energy-storage.news/nz-regulator-corrects-bess-price-band-rule-date/",
@@ -3808,6 +4077,20 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5",
+   "title": "Ford ships first battery cells using CATL technology",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T17:08:10+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
+  {
    "url": "https://electrek.co/2026/11/18/fords-first-lfp-batteries-en-route-30k-fathom-ev-pickup/",
    "title": "Ford’s first LFP batteries are en route, and the $30,000 Fathom EV pickup will get them first",
    "source": "Electrek",
@@ -4371,6 +4654,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZElsVDJXZEEtTmRRNDZYN1hiZUt0SndSYXpKSlNLWlhZWjFOT1l3N2hLMU4ydWh4U2lsbjBSazB0ak9pcV9fUVZVS3dkaVVEUUxUM0o0bHNGSmFGbXJLZExkczk0WWMtMjF1Ti1mWFFJaWF0dWk1UmtBVVZqdHdoMDRUNnBhRmJsX3hMYTdqa1RuMl9mVEo1ZTZUWFNKX2hPandoa255bW1OUQ?oc=5",
+   "title": "NASA Voyager 1 probe believed to have reached 'light-day' milestone",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T10:21:49+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXNhQUdiZjZ4TzA5WGVhWVVkTGFEb19wUFd0OXA3ZEVzTlBCdUFGSzhsWExNemZ3eFJ2YmtBMlVNUnBIMkNjZlMwcmlaQlgzV21qSkw0T1NGdGNTQ3RTQTcwVkFKUzg1Qko2WnlwWXBIQW9CVzU4OTNXVDVWbUhWTEZpVEs?oc=5",
    "title": "Space could be the first frontier for European defence mergers",
    "source": "Financial Times",
@@ -4462,6 +4756,17 @@
    "tags": [
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkxaakh2anliTjNvS19xSUF0aWlEbnNqdEFwNV90N3lSQWFnYXVsNHlMZWVhdEYtSkhPNEJHR1BhYmozOWUwa3hneGJXRnlqTDFDWERyaVlLZDI5azd1eVdvTUxiRXUyTkI4SlRmejl6bzRidDNSd1FUS1FObDlJU016ZnRwZXZDNjZFYWJhTnBJaHBxWXcyOWN4MFhfR2ZkUi1NNlUzTExxYk5IbVJfS3U1V2hIRFJNRWE3dGU4Wi1CM2oxVDhiNWdaOUdHMHl6Z2ZHNw?oc=5",
+   "title": "Consultative Workshop on Greening Industries through Renewables and Energy Conservation in Indonesia",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-18T08:00:00+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWFHanFIMHMxUnNuZWo1LUdtVVhsS3dsUU5aQWstLWVKQ1NDYm1wR3lWLUwwZUZsUExhRUVYUTB2eS02STJNQnBST01HeGtSUWtVTlBTZmswSEJYSTBBMzlOMlZEVnFvUHpTQjJOVG1iMzg3Z0VsUlNrUWpCSUlha1J6TlVmVWhpakRLRXR0Z1FUaDd3WmQ5cg?oc=5",
@@ -5552,6 +5857,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSTlZNTWQ0eVptLXFWdzk5MFMyUF9xMk9POXAtWm9zbDh6YnBMQ2tza1p2Tjg0TmZDSVFsYXpuMnFpSWxkSEc4X3dadzNaWDVKYXNpSi1KZjg3Rll5MkJwU1BnSWZMaTl6clA1ejRlb0stXzFSeTB3?oc=5",
+   "title": "Transcript: How Tribes Became Power Players on Permitting Reform",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-17T10:11:47+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
    "url": "https://www.energy-storage.news/global-energy-storage-alliance-launches-at-cop31-aims-to-address-persistent-energy-transition-challenges/",
    "title": "Global Energy Storage Alliance launches at COP31, aims to address persistent energy transition challenges",
    "source": "Energy-Storage.news",
@@ -5973,6 +6292,20 @@
    "lede": "Exclusive: The sale comes as the VPP company expands its BYOC offering for data centers — and launches a new BESS coalition.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHd0RC1iZmQwWUtkTl9CYjJVMUhGYmtxNEZyQU92Rm5mZS1OZ0Z2bHl6TmJuLUFJYWpQUW5GQ1h2anVqSHR5TDF3aThnaWhDd3lDYl9oY3VqbTVLaUMwMGtSME5IckZnZE5PQVhURTNPQ1BaS2tBejl6OU15X1B1N3VOM0o3dktRbnpLSjc1eWI5WWs4bjZqNnFOOA?oc=5",
+   "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-16T20:52:21+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
    ]
   },
   {
@@ -6906,6 +7239,37 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/14/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-rivians-bike/",
+   "title": "I finally got a USB-C charging e-bike, and it costs 75% less than Rivian’s bike",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-14T13:02:00+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "I’ve been waiting years for electric bikes to finally embrace USB-C charging. We’ve already standardized much of our lives around...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/engwe-zip-foldig-bike-head.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "I’ve been waiting years for electric bikes to finally embrace USB-C charging. We’ve already standardized much of our lives around the convenient little connector, from phones and laptops to tablets and countless other gadgets. But for some reason, electric bikes have largely missed the memo. Now, though, I’m finally riding an e-bike that charges with USB-C, and the best part is that it doesn’t cost an arm and a leg.",
+    "Meet the ENGWE Zip, a quirky little folding electric bike that costs just €999 and has quickly become one of my favorite examples of how a small feature can make a big difference.",
+    "When it debuted earlier this year, it became only the third production e-bike I’ve seen that could charge via USB-C, allowing it to use the same charger that is likely already shared by your phone and laptop.",
+    "Of course, it’s not nearly as technologically advanced as Rivian’s ALSO e-bike. But hey, it’s at least shipping.",
+    "And while the Zip is a fun little 16″ wheel folding electric bike in its own right, with a compact design that makes it easy to store and transport, it’s the charging setup that has me particularly excited.",
+    "Instead of keeping track of yet another proprietary charging brick, I can simply grab the USB-C charger from my laptop and plug it into the bike. There’s one in my living room by the couch. There’s one by my bed. There’s one in all of my friends’ places. There’s a USB-C charger everywhere.",
+    "If I’m traveling around, that means one less charger to pack. If I’m visiting someone, there’s a decent chance they already have a compatible charger sitting around.",
+    "Heck, I can even use a basic USB-C phone charger in a pinch. Sure, charging a relatively large e-bike battery at 20W isn’t going to be particularly quick, but the fact that I can do it at all is incredibly convenient.",
+    "Plus, the bike has one more trick. The battery also outputs USB-C, so I can charge my laptop or other devices from it as well. I can even charge two devices simultaneously, thanks to the dual USB-C ports.",
+    "The battery is housed in a roll-top bag that is locked into the headset of the bike but can be quickly unlocked for charging off the bike. And since it’s a keyed lock, no one can steal the battery even when the bag is left on the bike."
+   ],
+   "lede": "I’ve been waiting years for electric bikes to finally embrace USB-C charging. We’ve already standardized much of our lives around the convenient little connector, from phones and laptops to tablets and countless other gadgets.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Zbm5tOUlYSmdIOVV6NjByeV9wbGFlSUg4dWhISlNPTjhfb255UENfNEI0eF83T3lMVG44N0x1VXZxVklELWFUeDQ2c2pTYmVobHM1Zml6MWtDQXZEMzBLNml6SQ?oc=5",
    "title": "China Electricity Data",
    "source": "Ember",
@@ -6943,6 +7307,42 @@
    "tags": [
     "china",
     "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
+   "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-14T02:11:39+00:00",
+   "seen": "2026-11-21T23:19:11+00:00",
+   "cats": [
+    "News",
+    "Cybercab",
+    "Self-driving",
+    "Tesla",
+    "Tesla FSD",
+    "Tesla Robotaxi"
+   ],
+   "description": "Tesla is inviting buyers to order a personal Cybercab for $29,990 plus a mandatory $299/month subscription, but it only works inside Robotaxi geofences.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "And it only works inside Tesla’s Robotaxi service areas in Texas and Florida, the same geofences that have turned out to be significantly smaller than what Tesla advertises.",
+    "Tesla’s official Robotaxi account announced the invites on X on Friday with screenshots of the order page and the invitation email.",
+    "The email is even more direct. Its asterisk reads: “Only available in supported service areas. Subscription required for operation.”",
+    "The rest is what we already knew. Two seats, a 21-inch center touchscreen, 20.1 cubic feet of cargo space, and no steering wheel or pedals. Tesla calls it “fully autonomous” and says you’ll “manage your ride in the app.”",
+    "And those service areas aren’t what Tesla says they are. Independent tracker Koby Pierce tested thousands of addresses in the Robotaxi app and found that the areas where Tesla actually accepts pickups and drop-offs are only 59% to 78% of the advertised geofences in the six cities he checked. In Austin, the very city where Tesla is delivering these cars, it’s about 59%.",
+    "Railroad crossings are a big reason why. In Houston, the creator of Robotaxi Tracker found the app quoting about 40 minutes to go two blocks downtown because the vehicle appeared to route around rail crossings. Tesla also lists San Antonio’s airport inside its polygon but doesn’t serve it.",
+    "Then there’s the regulatory cloud. NHTSA has ordered Tesla to prove under oath that a car with no brake pedal meets federal safety standards that require one. Tesla answered on October 30 and asked that the entire response be kept confidential. NHTSA hasn’t ruled. Tesla is now selling the car to consumers anyway.",
+    "I think this is going to be a total mess. It looks like Tesla is only doing this by invitation and delivering it in Austin to prove they can deliver an “unsupervised” vehicle in 2026.",
+    "No point trying to calculate what it will cost over X years. Tesla can change that monthly fee at will anyway (and shall be expected to, considering their overall pricing history).",
+    "And here’s the part that makes no sense to me. The Cybercab runs on the same AI4 computer as the current Model Y. Tesla already runs unsupervised Model Y Robotaxis in these same geofences. So why can’t the Model Y owners who already paid for “Full Self-Driving” get unsupervised operation in those same zones? Wouldn’t be even easier to turn that on these vehicles which have accumulated much more data? Tesla keeps pushing that to “next year,” currently around Q2 2027, while asking people to buy a new two-seater that can do nothing else."
+   ],
+   "lede": "Tesla is inviting buyers to order a personal Cybercab for $29,990 plus a mandatory $299/month subscription, but it only works inside Robotaxi geofences.",
+   "tags": [
+    "transport"
    ]
   },
   {
@@ -9525,354 +9925,6 @@
     "Hausfather wrote on CB Connect that this year’s El Niño had been “running well above any prior El Niño event since June, at times by a full degree [Celsius]”."
    ],
    "lede": "The ongoing “super El Niño” is likely to peak at the end of 2026 and push average global temperatures to record levels next year."
-  },
-  {
-   "url": "https://www.energy-storage.news/energyaustralia-takes-delivery-of-final-units-for-250mwh-hallett-battery-storage-system/",
-   "title": "EnergyAustralia takes delivery of final units for 250MWh Hallett battery storage system",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-06T08:44:46+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "News",
-    "australia",
-    "battery energy storage",
-    "battery storage",
-    "bess",
-    "construction",
-    "energyaustralia",
-    "energystorageaus"
-   ],
-   "description": "EnergyAustralia has taken delivery of the final battery storage units for its 50MW/250MWh Hallett BESS in South Australia, as construction continues at the site.",
-   "ftries": 1,
-   "lede": "EnergyAustralia has taken delivery of the final battery storage units for its 50MW/250MWh Hallett BESS in South Australia, as construction continues at the site.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/clean-energy-manufacturing/us-domestic-solar-supply-chain",
-   "title": "The wins and weak spots in America's solar supply chain",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-06T08:30:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "description": "The U.S. has gotten pretty good at churning out finished panels. But what goes into them is another story.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/COTW-solar-supply-chain.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=10e8d721a785a67db329191192f4bce4",
-   "lede": "The U.S. has gotten pretty good at churning out finished panels. But what goes into them is another story.",
-   "tags": [
-    "industry",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5cFBBUTZsdWdLLWtQWVE4TjRORXZESG5OU0NxM2NVcWhHTEdTQWZ3RkVyRzVXaGU4NFJFclBvR2wzVW92T2RfdHptRHRZbFN4OEVvdGR2N1Vsb1hIalJaVHZIWDhTOGh6c2N6Z29n?oc=5",
-   "title": "Executive summary - Renewables 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-06T08:19:23+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmxHUVBBdE5HY1ZOX25HWFQzcTh2U3RRM0ZvMkhrSkJZSmJwZGhLaVBDa1J1X1dRNlQta0lsWExIZEZBRE45QUViczY1MVZYckxucXlEaGtsOC1RNFhRWFVvWkxhUmFSaG8tU0QzUVFZUXI5QmxtU2JTUW9kMTdfOWxlcGY4S0lNNnZjWg?oc=5",
-   "title": "Renewable Electricity Progress Tracker",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-06T08:00:00+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVpXYTNQUlc2bXhEZ3kxT2NCT0VaY25KVGtMUE9keHVYOWd6cHBONk5JRlhrU2RyTHNSM3lpbWptei1UY2w1NjVhdUI3NTdmVUpEek1WYkh3N0dvbWFZcVYwN0g1bERxOF9veGI2QWY1R29lbC1vckZiSmNIT2hpYnRqUk1JVlo0SzNQazJhcW53aUQybnR6dlVfbkVrNmhETnQ1NXptZXZqLTRWeHlpVWdYTU9MYWZfR0FJbTZVYlk4Zw?oc=5",
-   "title": "Energy security concerns spur faster renewables growth across a widening constellation of countries",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-06T08:00:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ETnZENFNKZlVMc3FqcVFDY2lLRlIwaWNQMTBHbDJhUEZLOWczYVBJTVQxLTJRZVBDazBtTllfeDhuNDNudTE3UXNsQnJ5NFAxUzJZZG1Yd0ZrVGtCbzVuSTBFT0hLX19y?oc=5",
-   "title": "How Democrats Can Make Sure Their Energy Policy Sticks",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-06T08:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvTktvNFlaODdGM3pGSTdaQlA4NUxBMXdpNE1EcVBOR2JUSXkxc09iQUcwTUV2RUhiRUVqOGxVN3pRVE9FT3VTNHhlaGdkSFU0RVZjVjQwbHZHUkM4VUc1OGFiQUpsREU?oc=5",
-   "title": "How an Undecided Congressman Is Thinking Through the Permitting Bill",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-06T08:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hWXRvWDBIRWozdGJDa2VybHNCNmtTNGpFNGw4dzBEbHhhTjdXS2pCcEM1MVp4ME1jV3NUczFhTkFKYXdMRVdydURZZVZkYkFBUTNpT1pB?oc=5",
-   "title": "Renewables 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-06T08:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6UkJubHI2RkRUczFLSVVMVlI4b3ZIUVg0YkxBX2pxOTVFVGdURHdSN1hKNzJfSXBQMUc5UDliTldlM2ZGM3BkaEMxSHdQWk5LLWdaQ1lqQWtjY19GZV91M2FqZE9IY2V1SGRKSDJXR0dudGs?oc=5",
-   "title": "Renewable electricity - Renewables 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-06T06:33:58+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/politics/democrat-state-wins-clean-energy-progress",
-   "title": "Democrats' state wins open the door for major clean energy progress",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-06T00:30:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "description": "Victories in governor races and statehouses mean Democrats in many states could now push utilities and data centers to adopt cleaner energy and curb costs.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/AP26309113540785.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=4de4ff0b0bbc464f6d6ac42310ed298f",
-   "lede": "Victories in governor races and statehouses mean Democrats in many states could now push utilities and data centers to adopt cleaner energy and curb costs.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckJONU53Y1FtM3ZGRGEwTjFEaGZLaHJsem5zNURraFEta0tQNHpUR2MtX3FpUG0yTXVtbkZxa2lnUi1uRlMyWWV1SDFUV0RXVExVcXJnbENjVmtFaDQyLTZuTmpuWHd0VkhCVnUxY0pDY2UtdVlLajlRR2p1ajJFVlNRYzFRaDVxQllkc0ktVkNSSGxl?oc=5",
-   "title": "Ember launches Labs, a new home for AI experiments",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-06T00:02:37+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
-   "title": "China’s quarterly CO2 falls 3% in largest drop since Covid",
-   "source": "Carbon Brief",
-   "desk": "news",
-   "published": "2026-11-06T00:01:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Uncategorized",
-    "China",
-    "china climate policy",
-    "China CO2 emissions",
-    "China emissions",
-    "China energy",
-    "china energy policy",
-    "CO2"
-   ],
-   "description": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to hit oil demand and coal use also dropped.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3FYMWXB.jpg",
-   "paragraphs": [
-    "This was the largest quarterly reduction since the 2022 Covid lockdowns and means that China’s CO2 emissions have now fallen by an estimated 0.5% in the year to date.",
-    "The new analysis for Carbon Brief, based on official figures and commercial data, shows that coal use fell by 3% year-on-year in the third quarter of 2026, while oil was down 4%.",
-    "The main drivers were a fall in power-sector coal consumption, a continued sharp reduction in transport oil consumption and slowing growth in the coal-to-chemical industry.",
-    "The sharp decline in China’s CO2 emissions extends a “ flat or falling” trend that began in March 2024 and has now lasted more than two years, as shown in the figure below.",
-    "The outlook for China’s CO2 emissions depends on the balance between rising energy demand, clean-energy growth and the government response to a GDP slowdown.",
-    "Key drivers of the fall in CO2 in the third quarter of 2026 included a 3.3% drop in coal-power generation, after demand growth slowed and the amount of “ wasted” wind and solar fell.",
-    "Power generation from solar, wind and nuclear increased by 110 terawatt hours (TWh) year-on-year, more than twice as much as the growth in total electricity demand. This added clean-power generation equal to Germany’s total power output in the same time period.",
-    "The fall in coal-power output and CO2 emissions came despite the fact that China continues to build new coal-power capacity at near-record rates. This means that average running hours for coal plants are falling even faster than total generation, eroding their profits.",
-    "Meanwhile, transport oil consumption continued to fall sharply, down 9% year-on-year in the third quarter of 2026. Electric vehicles (EVs) continued to gain market share, hitting a record 67% of passenger car sales and 50% of heavy trucks in September."
-   ],
-   "lede": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to hit oil demand and coal use also dropped.",
-   "tags": [
-    "china",
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/utilities/pge-2b-cut-in-grid-investments",
-   "title": "Will PG&E’s $2B grid cutbacks derail California’s clean energy buildout?",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-05T17:00:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "description": "The state's utility wildfire liability conundrum could put clean energy projects in a delay doom loop — and solutions are going to be hard to come by.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/CW-fire-16.9.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=cbce15497f6452a89b655380a24f53ff",
-   "paragraphs": [
-    "Hello, everyone! We’ve got a lot of postelection news to cover this week. But I want to start with another hugely important issue, one that poses an existential risk to California’s utilities and a significant threat to the state’s clean energy goals — as well as a serious challenge for its incoming governor.",
-    "We’re talking, of course, about utility wildfire liability reform. Outgoing Gov. Gavin Newsom failed to broker a deal with lawmakers at the end of this year’s legislative session to protect the state’s major utilities from the potentially ruinous liabilities they face from fires sparked by their power lines.",
-    "Shares of the parent companies of Pacific Gas & Electric and Southern California Edison dropped precipitously on that news. PG & E, still recovering from a 2019 bankruptcy after its equipment started the Camp Fire in 2018, responded by announcing a ​ “ strategic review” that included postponing about $ 2 billion in work planned for 2027.",
-    "Last month, PG & E sent letters to some 25, 000 customers warning them to expect delays in getting grid connections. Estimates range from one to six months for connecting housing developments and office buildings to ​ “ 2027 and beyond” for city and county transportation and public works projects.",
-    "Among those facing undetermined delays are more than 60 renewable and storage projects scheduled to be online by 2030 — which could add at least 15 gigawatts of capacity, according to a PG & E spokesperson.",
-    "This compounds the already substantial delays for clean energy developers that have been struggling to get connected to California’s transmission grid. In fact, it could undermine the financial prospects of a lot of solar projects, Jan Smutny-Jones, CEO of the Independent Energy Producers Association, said at an Oct. 28 hearing of the California Assembly Utilities and Energy Committee.",
-    "Adding to the urgency is the fact that solar developers are under the gun to complete work by 2030 or lose out on federal tax credits thanks to revised deadlines in the tax and spending megabill passed by Republicans last year. ​ “ Miss that date, game over. It’s at least a 30 % increase in the cost of those goods,” he said.",
-    "The new delays also threaten California’s goal of building 6 GW of new clean energy and storage by 2032. If projects can’t stay on schedule, the state may be forced to once again put off retiring more than 3 GW of aging, polluting coastal gas plants, Smutny-Jones said.",
-    "Mari Becker, PG & E’s vice president and treasurer, said the company has few other options if state leaders can’t protect utilities from the unbounded risk of bankruptcy in the wake of wildfires sparked by power lines. ​ “ Wildfire financial uncertainty leads to weaker credit, weaker credit leads to more expensive capital, and more expensive capital puts upward pressure on customer bills — and all of this constrains the investments that California needs,” she said.",
-    "This conundrum isn’t lost on Alex Jackson, executive director of American Clean Power–California, the state branch of the trade group American Clean Power Association. ​ “ Our preferred outcome here is that the legislature goes back to the table,” he told me."
-   ],
-   "lede": "The state's utility wildfire liability conundrum could put clean energy projects in a delay doom loop — and solutions are going to be hard to come by.",
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/offshore-wind/revolution-wind-fully-operational",
-   "title": "A third major US offshore wind farm is now fully operational",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-05T15:00:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "description": "Revolution Wind is running at full capacity despite Trump’s relentless attacks on the offshore wind sector, providing much-needed power to the Northeast.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Revolution-Wind-ECO-Edison-services-operations-vessel.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=897632375a1709c2d8d41bb3905abfbc",
-   "lede": "Revolution Wind is running at full capacity despite Trump’s relentless attacks on the offshore wind sector, providing much-needed power to the Northeast.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
-   "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
-   "source": "Carbon Brief",
-   "desk": "news",
-   "published": "2026-11-05T14:13:38+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Uncategorized",
-    "climate goals",
-    "climate policy",
-    "climate talks",
-    "COP31",
-    "International Policy",
-    "policy",
-    "text tracker"
-   ],
-   "description": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/ENB_SB64_18Jun26_KiaraWorth-92.jpg",
-   "paragraphs": [
-    "These texts are hashed out behind closed doors in the “ blue zone” at the COP, where diplomats from nearly 200 nations – not including the US – will be haggling over each individual verb.",
-    "Over the course of the two-week summit, negotiators will be trying to reach consensus on more than 100 separate agreements – but, first, they must agree which issues are on the agenda.",
-    "The complexity of this process can make it challenging to keep track of what countries are fighting about and how negotiations are progressing.",
-    "Carbon Brief’s real-time text tracker, below, offers a helping hand by decoding the agenda and keeping a searchable record of every document for each part of the negotiations.",
-    "The first column of the interactive tracker lists the topic of each agenda item, with further columns including dates, page counts and links to the original PDFs.",
-    "The table is searchable via the interactive text box and can be sorted using the arrow icons.",
-    "This year’s talks come with a twist: Turkey holds the presidency and is hosting COP31, but Australia is jointly running the show as “ president of negotiations ”.",
-    "The pair have already announced their intention to produce a “cover text” – an overarching political document summarising key negotiated outcomes, along with issues not on the official agenda.",
-    "This could include a recognition that warming is set to “ overshoot” the 1.5C limit and the impacts this is already causing. It may also include potential solutions, such as the Turkish presidency’s “ electrification” target, for 35% of global final energy to come from electricity by 2035."
-   ],
-   "lede": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal agreements – and COP31 in the Turkish city of Antalya is no different.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
-   "title": "Refineries have shifted production away from gasoline to middle distillates",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-11-05T14:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.11.05/main.png?1795094658",
-   "paragraphs": [
-    "Data source: U.S. Energy Information Administration, Petroleum Supply Monthly Particularly high refinery margins for distillate fuel oil and jet fuel have contributed to shifts in the refinery yields of major products in 2026. Data from our latest Petroleum Supply Monthly —which includes data through August 2026—indicate refinery yields of gasoline have decreased significantly this year to support increased production of distillate fuel oil and jet fuel, sometimes referred to as middle distillates due to their relative cut points in the oil refining process.",
-    "Petroleum refinery yields represent the share of a specific fuel that is produced from each barrel of crude oil a given refinery (or group of refineries) processes. The U.S. refining fleet tends to have a strong refinery yield of gasoline—typically between 45%–50%. In general terms, for every 100 barrels of crude oil U.S. refiners process, they produce about 45–50 barrels of gasoline. Typically, the most important refinery yields in the United States are the refinery yields of motor gasoline, distillate fuel oil (often sold as diesel fuel), and kerosene-type jet fuel. The combined yield of motor gasoline, distillate fuel oil, and jet fuel typically accounts for between 85%–90% of the petroleum products produced by the U.S. refining fleet.",
-    "Despite high gasoline prices, refinery yields of motor gasoline have trended below the five-year (2021–2025) low throughout 2026. This decline largely reflects refinery efforts to shift as much of their yields as possible into the production of distillate fuel oil and jet fuel, where margins are significantly higher because of constrained global supplies for these fuels. From January through August 2026, refinery yields of gasoline have averaged less than 45% and have been well below the five-year low in every month.",
-    "Conversely, yields of distillate fuel oil have generally been higher than last year and have been above the five-year average in every month. Even more than for gasoline, crack spreads and refinery margins for distillate fuel have been elevated for most of this year in response to limits on global supplies of the fuel.",
-    "Refinery yields of jet fuel have also been relatively high this year. The U.S. refinery fleet exceeded an average jet fuel yield of 12% for the first time in March 2026, according to EIA data. Since then, the fleetwide average jet fuel yield has remained at or above 12% through the latest Petroleum Supply Monthly data for August 2026. Jet fuel yields were already setting the five-year high for most of 2025; elevated jet fuel margins in 2026 have provided a persistent incentive for refiners to continue maximizing jet fuel production.",
-    "Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.",
-    "Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions.",
-    "Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information."
-   ],
-   "lede": "Data source: U.S. Energy Information Administration, Petroleum Supply Monthly Particularly high refinery margins for distillate fuel oil and jet fuel have contributed to shifts in the refinery yields of major products in 2026.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGF0Mk5iZVFZUjJYOUVKbFdFSGQtZ0tPeXZJdVU3SmJsckVQZnAxNm8yc3E0LVJzR2xheDBNUlNTOThTQWItdTJyRXBnMVlUVnRNdDZRZjA3c2djZGpWUUMyeENoT3RTajk1RXRGRFg4RS1VZDVjYTVKLUM3RTFwTWdNb3U0Z0E3QngxZXJaSzVRTkxNVnQ4MWpwczJ5RGN4eG9QUzZJazFfRFJxWWx6M2t5M2Y?oc=5",
-   "title": "Accelerating electrification can unlock the full benefits of Spain’s renewables leadership",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-05T08:00:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2ZjUHNub2kwNW9XbURJa3llRnJHRGNQbF9vSGxkeTdOOWIyRVlyaGRCUnd3Qmp3b0hUa2lWTmphYTI4eGVWWG9NY3Z5dWpkOU5NNC1QWEp6WFo2ZG53NDZjZmZhZWRmcXBMWHhHZlgyTzRfUkpmbURmcmp3WndNLU9EVWRMNENBX2czcDZRcTIzUnZKQ2pFMm1aVEFTQ3RCQW1McV9HQTk4LUh1ckVaZFVHY2cyUDlnbGc?oc=5",
-   "title": "Powering healthcare with renewable energy: Lessons on planning, programme design and financing for developing countries",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-05T08:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/virtual-power-plants/virtual-power-plants-grid-ai-bust",
-   "title": "Virtual power plants can help avoid overbuilt grid if AI boom goes bust",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-05T05:01:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "description": "Paying households to reduce grid strain is a cheaper, nimbler way to meet data center demand than building electricity lines and power plants, a new…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Stargate-Oracle-AI-data-center-Abilene-Texas_GettyImages-2292235014.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d8fd7ccf6e3713ec3db672ce0d941c84",
-   "paragraphs": [
-    "Nobody really knows how much power the data center boom will need — and that’s putting utilities in a tough spot. If they underinvest in power plants and the grid, economic growth and energy reliability will suffer. But if they overinvest, Americans may pay for infrastructure nobody needs.",
-    "One way to blunt these risks, a new report says, is scaling up virtual power plants. These are networks of rooftop solar systems, home batteries, and other distributed energy equipment that utilities can control remotely to free up space on the grid we already have.",
-    "As of 2025, the U.S. had 113 gigawatts of distributed energy resources that could be used for VPPs, says the report published Thursday by consultancy The Brattle Group on behalf of The Pew Charitable Trusts. If the country can more than quadruple that capacity to 524 GW by midcentury, it could avoid the need for $ 614 billion in grid investments. In turn, the report estimates, the average household electricity bill would drop by $ 122 per year by 2050.",
-    "The findings are largely in line with previous analyses of how VPPs can save consumers money. Paying lots of homes and businesses to use less electricity or share their solar and battery power when grid demand peaks can be cheaper than building more power plants and grid infrastructure — although that relies on utility planners being confident enough that VPP capacity will dependably show up to forgo those investments.",
-    "But Brattle’s report goes a step further than past analyses, looking at how VPPs could also act as a hedge against uncertain data center demand. The report examines a hypothetical nationwide scenario in which actual load growth falls 5 % short of forecasts between now and 2030. In that scenario, overinvestment in power plants and grid infrastructure added about $ 84 billion in costs borne by U.S. utility customers from 2030 to 2040. By expanding VPPs, the report finds those overbuilding costs were reduced by $ 33 billion, or roughly 40 %.",
-    "That’s largely due to the inherent flexibility of VPPs compared to traditional utility investments, said Ryan Hledik, a principal at Brattle and lead author of the report.",
-    "“ These are smaller modular resources we can bring online, once the necessary systems are in place,” he said. ​ “ You can wait longer to figure out if that demand is actually going to appear, and then build the VPP at that point.”",
-    "These findings are valuable as utilities, regulators, and policymakers struggle to navigate a broad public backlash against data centers while still ensuring that they invest enough today to meet growing power demand.",
-    "“ I’m not envious of anyone whose job is load growth forecasting. I think they’re facing a level of uncertainty no one has faced before — certainly not in my 20 years of analysis,” Hledik said.",
-    "States are pushing utilities to impose special rules and rates to protect customers from being stuck paying for infrastructure built for data centers that never materialize, he said. However, it’s unclear how completely those policies could insulate everyday consumers, particularly in worst-case scenarios."
-   ],
-   "lede": "Nobody really knows how much power the data center boom will need — and that’s putting utilities in a tough spot. If they underinvest in power plants and the grid, economic growth and energy reliability will suffer.",
-   "tags": [
-    "power"
-   ]
   }
  ],
  "dropped": []
