@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:07:09+00:00",
+ "updated": "2026-11-21T02:17:55+00:00",
  "briefing": {
   "headline": "Solar, AI’s power demand and the grid",
   "period": "Nov 14–20",
@@ -44,6 +44,129 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44S0dCOXlYODlIZUxhdHBYdC1zQ2ZHRHBMWHN1a2k2T1F2TzVFZDBRNGd5eWlqeW9OT3EwZ3VSUHA4VTBZNnBmdlhVX1BOMldKQ3V3?oc=5",
+   "title": "The Permitting Bill’s Next Battleground",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-20T21:58:34+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWksza0pycHMtZHp1dWQ1TlAwa2hRNUZzWVhGSW5kM29YZklDVUxic1FLbklYUm5VUzZRN0JMVnVhNFc3TVMwY1dTRk0teHB4dUUtYy1qQWtiRVREN0N1RlM2dnNIU0E2ekpyV1B1bXpRSE52T3dCSkFXcE1jaVJUUGZDQVZ0UjdqTE9sa1VmQ1RGNTdZeW5WNFNlOERGNmM1TGc4MVRuTHE3SklfOFE?oc=5",
+   "title": "Lawmakers On Verge of Deal to Ban Chinese Cars, Moreno Says",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-20T21:44:39+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/20/byd-first-look-new-flagship-people-mover/",
+   "title": "BYD offers a first look at its new flagship people mover",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-20T21:42:44+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "BYD is preparing to launch a new flagship MPV soon after previewing the large people mover for the first time....",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Flagship-Ocean-MPV-first-look.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "BYD is preparing to launch a new flagship MPV soon after previewing the large people mover for the first time....",
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1dzbWprS3BVZVRMY3RjZDZNRllHX2dLX3BwY09ieElhU3ZGZEItSEVBSVZxU0k5S3dHaS1RYk1UaGN4QkpyODhYNXJFdUVmS2ZvazhtenpwT0pBZmNRbEN5SGNzekR6SlFaSGpBR0FySHVtRVczd193R3RkQkZjYzYxQnZhNFZ3TGVNQkZRMmctOWpBWEthbUZxbHlzdw?oc=5",
+   "title": "The Freakout Over the Data Center Loophole That Wasn’t",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-20T21:38:52+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZW5hdUh3dkpvUDBZb283RGpWdno3ODNTbFdBUWdkcUQ2WHd5aXhSQ2pvY2tBa05DVURWUjRuSy13bzJUb2NKRUs5cVVQUHUycGNTclZ2eFNnSUlnRHlMTGZ4RXNQbFQwaU8wcHhUN0hicGVJR2NJWklkcHdjWHhKb3NmY0pkR3NaM2RFTW03QloyNmJqWmc?oc=5",
+   "title": "The Deadly Shipwreck Threatening Offshore Wind",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-20T21:34:06+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/land-use/tribal-rights-energy-permitting-debate",
+   "title": "Why tribal rights have become key to the energy permitting debate",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-20T21:30:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "description": "Climate advocates have debated the bill’s emissions impact. In the Senate, tribal sovereignty proved to be the bigger sticking point.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Capitol-Building-2026_GettyImages-2303174492.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=afc64f0560c21466d27612d2caf48cc0",
+   "paragraphs": [
+    "For months, the climate world and the broader Democratic coalition have argued over whether the sweeping bipartisan permitting reform bill will be good or bad for the energy transition. But inside the Senate, which just passed the legislation by a 62 – 33 vote, concerns about tribal sovereignty overshadowed the debate over emissions — and now are likely to influence negotiations in the House, too.",
+    "While tribal nations have sovereignty over development within their reservation boundaries, any development on sacred sites and cultural resources beyond those boundaries is subject to a special review under the 1966 National Historic Preservation Act. That law requires federal agencies to consult with tribes, but not to win their consent.",
+    "Large-scale energy projects, including the 550 -mile SunZia transmission line that carries wind power from New Mexico to Arizona and California, have previously drawn pushback from tribes despite the federal government engaging in these NHPA reviews. Some influential tribal organizations believe that the proposed changes to the NHPA under the permitting bill would infringe on their sovereignty — and water down the already imperfect government-to-government consultation process.",
+    "“ Tribes are sovereign, and that does mean that they need to be able to have a meaningful say in the pretty rare instances where a development might impact an important historical or cultural site that is not on their reservation lands,” said Julian Brave NoiseCat, a member of the Canim Lake Band Tsq̓éscen of the Secwépemc Nation in British Columbia as well as an author and Oscar-nominated filmmaker who previously worked at the climate group 350 .org.",
+    "These concerns took center stage as the Senate debated the bill, which analysts widely expect would benefit both clean energy and fossil fuels. Several large environmental groups have come out against the legislation over fears that it will increase planet-warming emissions, but the clean energy industry and some decarbonization advocates see the changes as essential for the energy transition.",
+    "In the end, the bill’s initial NHPA language was amended in response to concerns over sections that weakened tribal consultation and allowed for Interior Department oversight of Tribal Historic Preservation Offices. A bipartisan amendment that would have further strengthened tribal consultation on permitting, negotiated by Senate Indian Affairs Committee Chair Sen. Lisa Murkowski (R-Alaska) and Vice Chair Sen. Brian Schatz (D-Hawaii), failed following a last-ditch attempt by Sen. Jeff Merkley (D-Ore.) to scuttle the bill due to a host of criticisms.",
+    "As of Friday, many tribal organizations, including the National Congress of American Indians and the National Association of Tribal Historic Preservation Officers, remain opposed to the bill.",
+    "Tribal issues are likely to loom large over the debate in the House, too, where the bill will presumably face opposition from progressive Democrats who take issue with its environmental rollbacks. But the bill’s supporters are also pressuring representatives to act before the clock runs out on this session of Congress, making the odds of passing any substantive amendments — like the ones proposed in the Senate — slim."
+   ],
+   "lede": "Climate advocates have debated the bill’s emissions impact. In the Senate, tribal sovereignty proved to be the bigger sticking point.",
+   "tags": [
+    "policy",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/",
+   "title": "This 500 kWh energy storage system runs on retired EV batteries",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-20T21:08:29+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Moment Energy’s Nova turns retired EV batteries into 500 kWh storage units that can cut power bills and back up commercial sites.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Nova.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Moment Energy’s Nova turns retired EV batteries into 500 kWh storage units that can cut power bills and back up commercial sites.",
+   "tags": [
+    "power",
+    "transport"
+   ]
+  },
   {
    "url": "https://electrek.co/2026/11/20/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/",
    "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
@@ -282,7 +405,7 @@
    "published": "2026-11-20T15:48:13+00:00",
    "seen": "2026-11-20T21:07:09+00:00",
    "description": "Some Democrats say the party should not agree to a bill that contains what they consider troubling changes to environmental law and state and tribal authority. Others say no better deal is possible with a Republican president.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Some Democrats say the party should not agree to a bill that contains what they consider troubling changes to environmental law and state and tribal authority. Others say no better deal is possible with a Republican president.",
    "tags": [
     "policy"
@@ -312,8 +435,22 @@
    "published": "2026-11-20T15:13:48+00:00",
    "seen": "2026-11-20T21:07:09+00:00",
    "description": "The energy-as-a-service company will recoup its investment from savings over a contract’s life. Such agreements have become more common, especially for large institutions like universities and hospitals, one expert said.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "The energy-as-a-service company will recoup its investment from savings over a contract’s life. Such agreements have become more common, especially for large institutions like universities and hospitals, one expert said."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLTY3X0s5cV9Ma1d0S2ZEV3I0X1RzVFVTZ0R4c3djenU3aGZpMUxCeGRiN3BFQWdrSnJLTENBZ1E0SktPSTZNck5PVFpSYkpIVjdoWVNuY1FMLVJVT29VZTFNN0k0UnNOSHZucHdCekxhdGxKQ3drMjJCcXRNcjljMlF4R0RuRzR3UkJVRU5aMHA3Vm5veVhlSnRfUTlTeXdIVmRsWnFWNUhPbUI2Q21NOE9ZUnJ4S3g2WXhXVDM4TQ?oc=5",
+   "title": "How China’s Export Machine Shocked the World",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-20T15:05:04+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
   },
   {
    "url": "https://www.pv-magazine.com/2026/11/20/china-grid-connects-worlds-first-artificial-cavern-caes-plant/",
@@ -357,7 +494,7 @@
    "published": "2026-11-20T14:32:25+00:00",
    "seen": "2026-11-20T21:07:09+00:00",
    "description": "Improved coordination in the West will help offset lower hydropower output due to historically low water levels in the Colorado River basin, while New England risks overreliance on oil, FERC’s winter market and reliability report says.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Improved coordination in the West will help offset lower hydropower output due to historically low water levels in the Colorado River basin, while New England risks overreliance on oil, FERC’s winter market and…",
    "tags": [
     "policy",
@@ -433,7 +570,7 @@
    "published": "2026-11-20T13:49:50+00:00",
    "seen": "2026-11-20T21:07:09+00:00",
    "description": "CEO Pablo Vegas could take home more than $4 million next year. The contract extension and pay raise were put on hold in September following public outcry.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "CEO Pablo Vegas could take home more than $4 million next year. The contract extension and pay raise were put on hold in September following public outcry."
   },
   {
@@ -503,7 +640,7 @@
     "sodium ion"
    ],
    "description": "Sodium-ion (Na-ion) is continuing to gain traction as a legitimate \"major chemistry\" — with CATL, BYD, and GM all committing to it — some developers, within and outside the US Na-ion space have argued that greater policy support should be directed toward advancing the technology.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Sodium-ion (Na-ion) is continuing to gain traction as a legitimate \"major chemistry\" — with CATL, BYD, and GM all committing to it — some developers, within and outside the US Na-ion space have argued that greater…",
    "tags": [
     "china",
@@ -529,7 +666,7 @@
     "infrastructure"
    ],
    "description": "Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitical race for clean energy supremacy.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitical race for clean energy supremacy.",
    "tags": [
     "transport"
@@ -584,7 +721,7 @@
     "flower"
    ],
    "description": "Large-scale BESS projects in Germany have been progressed towards construction by Elements Green, Voltwise, EnBW, Green Flexibility, Flower and Dispatch totalling over 4GWh of capacity.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Large-scale BESS projects in Germany have been progressed towards construction by Elements Green, Voltwise, EnBW, Green Flexibility, Flower and Dispatch totalling over 4GWh of capacity.",
    "tags": [
     "power"
@@ -647,7 +784,7 @@
     "spain"
    ],
    "description": "Another BESS Industry Buzz, looking at what people are discussing in the industry plus some of the most notable quotes from the RE+ trade show, which concluded yesterday.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Another BESS Industry Buzz, looking at what people are discussing in the industry plus some of the most notable quotes from the RE+ trade show, which concluded yesterday.",
    "tags": [
     "policy",
@@ -801,7 +938,7 @@
     "energystorageaus"
    ],
    "description": "EDF power solutions Australia has acquired the 250MW Holloway BESS project in New South Wales (NSW) from developer SynCo Global.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "EDF power solutions Australia has acquired the 250MW Holloway BESS project in New South Wales (NSW) from developer SynCo Global.",
    "tags": [
     "power"
@@ -836,7 +973,7 @@
     "energystorageaus"
    ],
    "description": "Australia committed a record 2.4GW of renewable energy projects to construction in the third quarter of 2026, while battery energy storage systems (BESS) committed in the quarter covered 13% of the new storage capacity needed by 2030.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Australia committed a record 2.4GW of renewable energy projects to construction in the third quarter of 2026, while battery energy storage systems (BESS) committed in the quarter covered 13% of the new storage capacity…",
    "tags": [
     "power"
@@ -859,7 +996,7 @@
     "spain"
    ],
    "description": "Spain's first batteries earn mostly from balancing services. As the fleet grows, value is broadening into arbitrage, capacity contracts and new demand, and the projects that capture it will be the ones structured for that mix, writes Roy Franco of renewables investor Energile.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Spain's first batteries earn mostly from balancing services."
   },
   {
@@ -1044,6 +1181,20 @@
     "china",
     "industry",
     "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTBGM01ldzBaMkxIWDQ5VUpZTWdwTkQ0QnV0eFZ6MjVIby1WMWlqcEJHVTlVVWtLaXZzVjNsM2dLVmRDTzVqcFhmQVczV0xiRzZ4bnRBeHYyOFJNeDRPRGE3ay0wa1NldW1uV3lkamg4Rmp5TmVXVnRSTW11ZUJadTZYellCUV93enVIYmpOMzRMVkRRb2ZFZkY5VjVUbkdzTlVVZVBudkVhQXVEYjc2S3VVWDczZ3V3bjNxR1cyX3lxU2lwS1hwNXpB?oc=5",
+   "title": "The take-off in African solar that official statistics can't yet see",
+   "source": "Ember",
+   "desk": "analysis",
+   "published": "2026-11-20T08:02:54+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
     "power"
    ]
   },
@@ -1483,6 +1634,17 @@
     "The ID. Buzz Beach offers vehicle-to-load (V2L) capabilities. A 230V power socket adaptor comes standard, letting you power an e-bike, charge a smartphone, run camping equipment, or power other external electronic devices. A camping connector is available as an added option."
    ],
    "lede": "Volkswagen’s original microbus became a cultural icon thanks to its open, customizable interior, making it perfect for large families, road trips, camping, and, of course, music festivals."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU1JVd25RRHZwVVVwZl80VzV0R2J3TWFtdXUtemVUMURNbkhWbUFLbk5KZHlKZHdiUFhiZTRublNtamZGdERzdHpndDdUNGE4WndmUFFyazl1R0N2Y0xyUXJrcTE4NzdfTkFKT21UdmVWaS1GR0lDLWpla2lQNG5Wak15NV9zNUNEamFuck9GWmNoWllva1FWQjFnSHEtVVk?oc=5",
+   "title": "Ubisoft to cut 166 jobs in Montréal and Québec City",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-19T15:29:21+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB0WkN4V0EyQVlleE9RZk1rRVV3MzRhdEoxU1ZKOS03bThjUlNrR3ZGanhKb2FpSlRMQmFJTlNucw?oc=5",
@@ -2959,6 +3121,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1FtX25paV9WSXNwNmp2b3p5WGg4MW5kTmhUZUo5UVlwaUh1NWd4WDlWTGQ0M1VRSm5zSTdjY1ktVW56dGhqR0NQSGZmWVR1TkRubldxRHoyVnUxRlNaVWRlTUwwdDRFTXBoeGdsZUJRLXVQYXRmdnZtdmdSak9EZkdBMzZoZ1VFdHh2b1c1SnBwTmVEMDFBcWpoWkxRWHlkaVh4TTZvMG03YjNUelY3bldHUl9DT0VTbnc?oc=5",
+   "title": "Nissan uses Mexico to prep for potential China challenge in US",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T20:06:08+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
+  {
    "url": "https://electrek.co/2026/11/18/ionna-enables-plug-charge-for-tesla-opens-22-bay-site-in-westminster-ca/",
    "title": "IONNA enables Plug & Charge for Tesla, opens 22 bay site in Westminster, CA",
    "source": "Electrek",
@@ -3434,6 +3610,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNREU4eDBxTmYzNXBJOVQ0dkxTOEgxcUJTMDExaVhmV2FUbjlxck5xUVFXb1JlVWQyV2Y3U3YxZlRxR29KelNDbVpLYVV3MWwyWjlZb1k5YnVXeUxkUHlpLUdrU0JKZ1lJUE8zNDRxZUtUa0puSVBzUnJ2VFlXMl9Va2FrT0pkSnRnRm1VVHd4YVQ2b1lraVA1VDdIMG9JVFlUdWlqMWRqU0ptSi1UdDRXcA?oc=5",
+   "title": "UK at Odds With EU on International Trade and Youth Mobility",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-18T13:43:29+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzEyaDRXMTFMbnlVbjRuODlwSndsb01TWWRZV2F3b0ZzeWZrejlqYThKZjdBNUVNcURXdk1RV0xiNlRMbUxVbHhsN2RicmhEYzFnTWFkS3NyalY4UTlUU1QyS1k1OUNXNmlTX1FOdEFvX191X0pQOUxQVGlJclFmM295VVAwWWNGZG9sbWNIbnFWYjdTMFF6VFJncWJwWFh6MktUZW16X0ZMaU9hOEs1Ymp3S3Y1TXlIS2E2cA?oc=5",
    "title": "Extreme weather poses growing risks to global oil and natural gas shipping, new IEA report finds",
    "source": "IEA",
@@ -3640,6 +3830,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTdIQnRVNGFVaUNhZTZBX19qZ1VPTGVETnJmOWt6cFZvUE41MmdTekdKclhKeHA4Q2FrYi14MnpoZE95bXc3ZnU3WkJ0RjZBWjN2TmJFMFc0YUx6WTFRdVVmM1BDNDdIcUZiSGJqa254OWZZdmExZ1Q4ZUljZjZtcU41OURDM094TmZKNDFWOGVUTm9LanlxaGtKU0hUb2JIRXUyQkFJWnM3dTRyeG8tZnlCTWFaRUxtUmFEQg?oc=5",
+   "title": "Low-Profile India Is Still a Behind-the-Scenes Force at Climate Talks",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-18T10:57:36+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEOXZsaHdMdE0tTjR2T0g4Zm9xNE5hbHJmSHAtRFBnSlh1MDhFbXVlWk8yYUNFTjFDa2xrc0wyVkdiRnVjOHZuR1o5b0NLWkU?oc=5",
    "title": "- Ember Energy",
    "source": "Ember",
@@ -3755,6 +3956,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWFHanFIMHMxUnNuZWo1LUdtVVhsS3dsUU5aQWstLWVKQ1NDYm1wR3lWLUwwZUZsUExhRUVYUTB2eS02STJNQnBST01HeGtSUWtVTlBTZmswSEJYSTBBMzlOMlZEVnFvUHpTQjJOVG1iMzg3Z0VsUlNrUWpCSUlha1J6TlVmVWhpakRLRXR0Z1FUaDd3WmQ5cg?oc=5",
+   "title": "2026 Energy Crisis Policy Response Tracker",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-18T08:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ1FrdS1MUjN5cWdWbEl4aXQydmFBMnVPbGRLSXNhZkl3cVZ4TWZDaEtqdHAxLXNqaTJyb0JvbGVweEJZcFU5Wi1tQ1FFNVR3OGJpWnNDUW04c0s4TnpKeHJ5M2VHQk1Bc05PQzU1MjBQTGhLcHA4cUNNR1ZGVl8xdHUzd0F6am53M1hfazlrZmU0eEtzLWwwNjZ3NA?oc=5",
    "title": "Extreme Weather Risks to International Oil and Natural Gas Shipping",
    "source": "IEA",
@@ -3842,6 +4057,17 @@
    "desk": "news",
    "published": "2026-11-18T01:20:00+00:00",
    "seen": "2026-11-20T21:07:09+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPZkRWRjlkcVA5UXV4cXNhS1J0RFFHbFYwZWg0dkhFWXM4TU9nTHJudVhRYTcxOXg2dHFWMjZuOU5VbWk3Y29qcW9fUG1SS3Bidlg2dXR1Y0RMTWh1MlpfZGZXelFLSEFxOS1qWHdZX3k4RGlQREh1YmVwZFBZOGJ1eU9yaWNOa2pQbGxzTDhaRC1YLVdUVnJzSUxwMTZoQW5nNXpueE9ZaXgxLWh6Tm9GVXZNa2habVJYQTJBcnQ3d3NaOHczUTBoc1h3RmFFNk8xR3doSk5tNzZ4NFBNdGJMd1hmc1hYYk9HSXFXODhjYWFySjZKdHNUalU3Y2dTUmpNc0RhWVhJUnhsTlQtSlFvN3AySlpmQ0s3a3FVRmxabkFYcGFlcVpUeUpZVE5hdjFFWlBzcEJXRURWSThLemZ6TE5SMVlNdFlaWVY0a3RXekR4QXRjdDNMMmFjMTE1RHpoM3pWSHk0b3lmRVhnaUZDVUxEb0J3ZmFoSmtuTjU5eVRMcXRDR2tweTNreG5fbld5WmxRd2JYcmxhZE8zOHRKNURnZW5iTUNXNDdsQ2F5bFoyLTdxNnZQYVZR?oc=5",
+   "title": "Events",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-18T01:16:09+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -4524,6 +4750,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3prRExYanpoNHRhQWJJSndvSGpodmlsdTRyYWl1aWlfSFlXNGZKWkZuZkxuMkd5RUVzZHNhNkpMbmJHMFc1Uzh6b2NjNnVHc0p0S0IxOXVlNnJ1eWdsSjJVbWp2UnhoUmpJNTNvZ2wyLWRLdlZyajNiTFc3RTNtRGEyV3FDdVJEZ2lWN0haNW1oWUVwQlQ4ekRVQXg2YWJxNTd0TU9xaFg5MWpCMzZvTnhSbkRZNEpsWGc?oc=5",
+   "title": "Mexico Risks Missing Out on AI Data Center Boom as Energy Crunch Bites",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-17T13:00:06+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://www.latitudemedia.com/news/inside-moment-energys-new-battery-system-for-ci-customers/",
    "title": "Inside Moment Energy’s new battery system for C&I customers",
    "source": "Latitude Media",
@@ -5013,6 +5253,29 @@
    "fetched": true
   },
   {
+   "url": "https://electrek.co/2026/11/16/reo-returns-to-challenge-slate-and-fathom-in-a-cheap-truck-showdown/",
+   "title": "REO returns to challenge Slate and Fathom in a cheap truck showdown",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-17T00:51:43+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News",
+    "electric trucks",
+    "Ford",
+    "offbeat",
+    "slate"
+   ],
+   "description": "On today’s surprisingly affordable edition of Quick Charge, we check out all the new cheap tricks trucks coming for your...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/04/Slack-EV-driving.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "On today’s surprisingly affordable edition of Quick Charge, we check out all the new cheap tricks trucks coming for your...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://www.latitudemedia.com/news/texas-data-centers-are-staring-down-a-december-limbo/",
    "title": "Texas data centers are staring down a December limbo",
    "source": "Latitude Media",
@@ -5079,6 +5342,49 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/16/adding-wind-cuts-solar-battery-storage-power-costs-nearly-20-percent/",
+   "title": "Adding wind cuts solar + battery storage power costs nearly 20%",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-16T21:42:57+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Wind and solar fill each other’s gaps, making reliable clean power cheaper and reducing the amount of battery storage needed.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/vattenfall-hybrid-germany.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Wind and solar fill each other’s gaps, making reliable clean power cheaper and reducing the amount of battery storage needed.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/",
+   "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-16T21:41:36+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News",
+    "NHTSA",
+    "Tesla",
+    "Tesla Cybercab",
+    "Tesla Full Self-Driving",
+    "Tesla Robotaxi"
+   ],
+   "description": "Tesla's Cybercab has 8 crashes in NHTSA data. The driverless ones were under 5 mph. With a test driver on board, one hit a car at 53 mph.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Tesla's Cybercab has 8 crashes in NHTSA data. The driverless ones were under 5 mph.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://www.latitudemedia.com/news/voltus-buys-stem-storage-platform-as-it-doubles-down-on-batteries/",
    "title": "Voltus buys Stem storage platform as it doubles down on batteries",
    "source": "Latitude Media",
@@ -5112,6 +5418,65 @@
    "lede": "Exclusive: The sale comes as the VPP company expands its BYOC offering for data centers — and launches a new BESS coalition.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/16/volkswagens-cheapest-ev-buyers-waiting-nearly-2-years/",
+   "title": "Volkswagen’s cheapest EV already has buyers waiting nearly 2 years",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-16T20:26:22+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "The most affordable Volkswagen ID. Polo Trend starts at just €24,995, or about $27,500, but you’ll have to wait close...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-cheapest-EV-orders.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "The most affordable Volkswagen ID. Polo Trend starts at just €24,995, or about $27,500, but you’ll have to wait close...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/16/motorcycles-are-notoriously-dangerous-could-electric-motorcycles-actually-change-that/",
+   "title": "Motorcycles are notoriously dangerous. Could electric motorcycles actually change that?",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-16T20:16:30+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "There’s no particularly comfortable way to talk about motorcycle safety. Motorcycles are dangerous. All the statistics point to the fact...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/01/ryvid-anthem-motorcycle-header.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "There’s no particularly comfortable way to talk about motorcycle safety. Motorcycles are dangerous."
+  },
+  {
+   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
+   "title": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-16T18:10:05+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News",
+    "NHTSA",
+    "Tesla",
+    "Tesla Autopilot",
+    "Tesla Full Self-Driving",
+    "Tesla Model X"
+   ],
+   "description": "Tesla confirms Autopilot or FSD was engaged when a Model X hit a signal pole and flipped in Naples, killing a passenger. It holds the video and EDR.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Model-X-autopilotfsd-crash-naples.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Tesla confirms Autopilot or FSD was engaged when a Model X hit a signal pole and flipped in Naples, killing a passenger. It holds the video and EDR.",
+   "tags": [
+    "transport"
    ]
   },
   {
@@ -5512,6 +5877,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGk3WDUxLU90MnRZdXRqOURZSlJLektvWlhEWXd6SlRRQUFCWGZhU2ZDOGpMM01xWjdEeDdSTEV0ZnBmYmx4NThfMDRNMFlZM2YzbHNVTlVPOF9pakdBbndydWlIeWdZb1dGc2lCdnozTHhwVlMyZjdSRTJuYVpJNXAxektucXlYLVN4RkE3QnBmWjZDbzFiSjB0ZDRpdFVXWlJ5WXBHeE5XT2k5T3B2eg?oc=5",
+   "title": "Canaccord to sell UK wealth unit for $1.55 billion, CEO to take company private",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-16T02:18:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2ZZdGRPUmY2RWlJQzY0RXB2ZktZZDFTT0EwVm9sSFB2ZnJiaGRLWFhIUHIzMVM0ZVlyeFJscmlFT2ZmRk02ckViT291SkY1NVhvaVdIMDZONG1Za29PM2NaN1NkVVJDS3l2ZVE3ZFh0VzNoTUdQLVlJWGZBMGlsd3p5aG1BSUxIR0F1RjgtcnB0elk0MzQwLVh6Y094YnJqQ1lyWmZPbzcwNDlVRW5KdllBTQ?oc=5",
    "title": "Peak Energy Eyes Korea Green Projects as War Upends Fuel Flows",
    "source": "Bloomberg",
@@ -5822,6 +6198,17 @@
    "tags": [
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVJKdXpMOTd1YUpaV1RTUHAyNXJ0MUFrNjJXamIySWZKU2l3MmVEWmRBTUYyQlU4OG5kNUZxUHlqdGN0ODVVRHVhRjFmSS1zckJMZkp0bVBWbVppU3k4T1pIWk14VTlhSnBtT1lCV21iVEpkUUxtOWRRd2RZSjVtZDJ2cWZaQQ?oc=5",
+   "title": "Türkiye’de Elektrifikasyonun Geleceği",
+   "source": "Ember",
+   "desk": "analysis",
+   "published": "2026-11-13T12:13:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS29nRmNzclNScl9rZ0dHdWc5VFY4LWtoRmZfaFdwdmJYUDhYaFVWYndVazdxNFUxdV9INXc3MmRfdHQ0Y0d1b214aXRYb0l3ZVUwMHJ0Nk9jMzgtVXFoUzRlbzY2YVpCZDRSSGs2VnhtcGNBaWNvOGI1VUdoNDhaRXprYkxwclhqaF84d3hveFJxVjhjbG1HR0pNNFVHekVlUENobGRWa0l4RXlva1pmRXBlOVhLbm1jbzAzOW9qaGhKTDg?oc=5",
@@ -6617,6 +7004,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzY4LTA4UmVyRmtheHNRMGI5dHJWSllEdkg1aVJCRE1zQWxIWWxqS0RlcVhtQ2VqaVgwOHFrc0gxN1RUeWNnQWl6NEdnQUxuY3AwQVdyTS1BemNNeG9jLU9rTzJpNC1oVGQyNWFLRXhwTXQyMFREN3hPREE4WENDQ203R29WQQ?oc=5",
+   "title": "End-Use Prices Data Explorer",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-12T08:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YMGhudGJCMk5DdXB6MzRPcjZ0MVl5TVVuWVlteTlyWkJMY0FmWUl0Z3VITDdBa3B4aEkxcUpkU0VzUEl5c3NlM2JMNUtyeHpSdzlGV2JYWE1qcVNtcFJNaXFRdlJYeVE?oc=5",
    "title": "Latest Electrification Targets",
    "source": "Ember",
@@ -6649,6 +7047,17 @@
     "Anyway, enough of my government budget-planning. You can now explore most of this data on UK by Numbers. There are still many topics to add, and things to expand on, but I thought I’d launch it now and build on it over time."
    ],
    "lede": "Explore national and local data on public spending, taxation, health, poverty, crime, and more."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkdKMkxqZEVxejAzdmJmVTIzcS1hQ3hET011WDhMR3BweGIzUWRuaUVKczRCTnZsbkQ3alRZT1JhcVRvSzhnRGFfSTltODJhaUN0bTVPaHQweGw1LUFURzZQUGlGTERIRmJfU2U4bXQ5ajRaYjRXdU5BR1h4amU3ajdGVkI5YzRHY096aFBUXzN0TjBrSWRFcmlISWJieUpQcGxEVg?oc=5",
+   "title": "Monitoring and control systems",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-12T04:21:40+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42RWJQU21PcWJ6WXI0eVBPQUZhZG1idmxDdi1vVVlNVEV0ek1RQ2JlRmhWM0lwMXRNQUZwWGp2OGxtZHpFMmp4Z2xZNmM5ZnZDb3RiNktXd2dqNmc0WllKOW0tNTFyTVdpcGYyQ3dR?oc=5",
@@ -6741,6 +7150,54 @@
    "fetched": true
   },
   {
+   "url": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/",
+   "title": "Lydian’s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-11T14:25:09+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News",
+    "battery",
+    "bess",
+    "energy storage",
+    "esa",
+    "lfp",
+    "ltesa",
+    "lydian"
+   ],
+   "description": "Excelsior Energy Capital-backed developer Lydian Energy has brought its 150MW/600MWh Faraday battery energy storage system (BESS) project in Utah County, Utah, US into commercial operation.",
+   "ftries": 1,
+   "lede": "Excelsior Energy Capital-backed developer Lydian Energy has brought its 150MW/600MWh Faraday battery energy storage system (BESS) project in Utah County, Utah, US into commercial operation.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project/",
+   "title": "Calibrant Energy secures US$145 million for solar and BESS across US power markets including PJM hyperscaler project",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-11T14:21:46+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News",
+    "battery",
+    "bess",
+    "calibrant",
+    "credit facility",
+    "data centre",
+    "debt facility",
+    "energy storage"
+   ],
+   "description": "Calibrant Energy, an energy-as-a-service platform, has closed a US$145 million debt facility for solar and energy storage projects across several US power markets.",
+   "ftries": 1,
+   "lede": "Calibrant Energy, an energy-as-a-service platform, has closed a US$145 million debt facility for solar and energy storage projects across several US power markets.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qV3d2VDQxRDh3ME9BdTByRTlfRDRWV1dTOW5neVpzVkdTU1h3aDh0RUNHNVRxSHJaTlR2Z3FMOEpFVHhlVXp1VGNn?oc=5",
    "title": "North America’s First SMR Project Is Running Late and Over Budget",
    "source": "Heatmap",
@@ -6755,6 +7212,56 @@
    ]
   },
   {
+   "url": "https://www.energy-storage.news/semi-solid-state-batteries-for-bess-potential-and-challenges/",
+   "title": "Semi-solid state batteries for BESS: potential and challenges",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-11T12:22:59+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "Analysis",
+    "Features",
+    "News",
+    "catl",
+    "energy density",
+    "high energy density",
+    "new technology",
+    "semi-solid"
+   ],
+   "description": "What are semi-solid-state batteries, what potential do they hold for battery energy storage system (BESS) applications, and when are we likely to see them come to market?",
+   "ftries": 1,
+   "lede": "What are semi-solid-state batteries, what potential do they hold for battery energy storage system (BESS) applications, and when are we likely to see them come to market?",
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/relyez-debuts-on-hkex-main-board-becoming-latest-chinese-energy-storage-player-to-list-in-hong-kong/",
+   "title": "RelyEZ debuts on HKEX Main Board, becoming latest Chinese energy storage player to list in Hong Kong",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-11T11:33:07+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News",
+    "china",
+    "energy trading",
+    "finance",
+    "hkex",
+    "hong kong",
+    "institutional investor",
+    "publicly listed"
+   ],
+   "description": "RelyEZ has listed on the Main Board of The Stock Exchange of Hong Kong Limited, becoming the latest Chinese energy storage system solution provider to list in Hong Kong.",
+   "ftries": 1,
+   "lede": "RelyEZ has listed on the Main Board of The Stock Exchange of Hong Kong Limited, becoming the latest Chinese energy storage system solution provider to list in Hong Kong.",
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVEw2anp2YUtBbmM4TFl0SWZmaEdJMkE1aTJtYTJ1X2NYQTExZGp2Y2puZFptSW5SQ3pjd2pNbGRFYlNPUXU4TUdkQnZqZk11aEdCeFd0UHRlN3NHb1k3dUNUNHYydzRuUlFqNXdCZUJqYlZnQWhXTmpJeXpxcXZDM0piX0tJNmpMOWM2RmlfMy1SLTV4REdOSDBJaldEU3FsMVNHdzExYXB6b3lFRHhtQldUUkFaWjBDOGJ3?oc=5",
    "title": "Scaling domestic biogas to meet cooking energy demand and climate ambitions",
    "source": "IRENA",
@@ -6764,6 +7271,80 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
+   "title": "ju:niz Energy enlists Envision for 442MWh grid-forming BESS in Germany",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-11T08:57:08+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News",
+    "battery",
+    "energystorageeu",
+    "EnergyStorageEurope",
+    "envision",
+    "Envision Energy",
+    "eu",
+    "germany"
+   ],
+   "description": "Envision Energy will supply its Gen 8 BESS platform for ju:niz Energy's 442MWh Smareg 13 project in Bavaria, Germany.",
+   "ftries": 1,
+   "lede": "Envision Energy will supply its Gen 8 BESS platform for ju:niz Energy's 442MWh Smareg 13 project in Bavaria, Germany.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/800mwh-bess-enters-nsw-assessment-as-recurrents-600mwh-sundown-project-clears-australias-epbc-act/",
+   "title": "800MWh BESS enters NSW assessment as Recurrent’s 600MWh Sundown project clears Australia’s EPBC Act",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-11T08:53:04+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News",
+    "australia",
+    "battery storage",
+    "bess",
+    "co-location",
+    "delta",
+    "epbc",
+    "EPBC Act"
+   ],
+   "description": "Delta and partner Samsung Vista C&I Australia have lodged an EIS for an 800MWh BESS at the Vales Point Power Station site in NSW.",
+   "ftries": 1,
+   "lede": "Delta and partner Samsung Vista C&I Australia have lodged an EIS for an 800MWh BESS at the Vales Point Power Station site in NSW.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/western-australia-backs-australian-vanadiums-relocatable-flow-battery-electrolyte-facility/",
+   "title": "Western Australia backs Australian Vanadium’s relocatable flow battery electrolyte facility",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-11T08:51:29+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "News",
+    "australia",
+    "economics",
+    "energystorageaus",
+    "manufacturing",
+    "StorageAus",
+    "vanadium",
+    "vanadium flow battery"
+   ],
+   "description": "The Western Australian (WA) government has awarded AU$15 million for a relocatable vanadium electrolyte manufacturing facility.",
+   "ftries": 1,
+   "lede": "The Western Australian (WA) government has awarded AU$15 million for a relocatable vanadium electrolyte manufacturing facility.",
+   "tags": [
+    "industry",
+    "policy"
+   ]
   },
   {
    "url": "https://www.canarymedia.com/articles/politics/new-dem-regulators-georgia-power",
@@ -6954,6 +7535,31 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://www.energy-storage.news/baaja-us-legislation-to-speed-up-permitting-carries-hidden-political-risk-wont-solve-interconnection-queue-wait/",
+   "title": "BAAJA: US legislation to speed up permitting carries hidden political risk, ‘won’t solve interconnection queue wait’",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-10T14:13:31+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "cats": [
+    "Analysis",
+    "News",
+    "baaja",
+    "bnef",
+    "congress",
+    "democrat",
+    "ferc",
+    "gas"
+   ],
+   "description": "The energy storage industry is abuzz with discussion of passing BAAJA following Democrats’ taking of the House and Senate in the 2026 US midterm elections.",
+   "ftries": 1,
+   "lede": "The energy storage industry is abuzz with discussion of passing BAAJA following Democrats’ taking of the House and Senate in the 2026 US midterm elections.",
+   "tags": [
+    "policy",
+    "power"
+   ]
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzZXblFlZlZDV1Z6cDdpbVlzOTQ0OE1wd01tRDRjMjVUMHgyRlBuNHpxY3o4QUxOMEVpcDJUX3RETnB4MnZwNmI2Mmw0ZmxzZjJoOVRDaTVXT25kWHNnNXJHU0xKNjZzQ3RMSzNQaEpaUGZmMmlscjVUSW1yMWE0elNFRGVMc0Z6SmVYd2syVWFzbUQtVjNSclg2UkllaGFBekE?oc=5",
@@ -7508,6 +8114,17 @@
    "desk": "analysis",
    "published": "2026-11-06T08:19:23+00:00",
    "seen": "2026-11-19T13:26:21+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmxHUVBBdE5HY1ZOX25HWFQzcTh2U3RRM0ZvMkhrSkJZSmJwZGhLaVBDa1J1X1dRNlQta0lsWExIZEZBRE45QUViczY1MVZYckxucXlEaGtsOC1RNFhRWFVvWkxhUmFSaG8tU0QzUVFZUXI5QmxtU2JTUW9kMTdfOWxlcGY4S0lNNnZjWg?oc=5",
+   "title": "Renewable Electricity Progress Tracker",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-06T08:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -8262,6 +8879,34 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YclM4YnpJSnFlSnZsNG0xRDFmUGpHa25GUEx0RnIwOUpHdnNPMkFUa0wzcWIxSk5WLTVTdzd3aXpURXZRdDJnV2o5bXRHcjds?oc=5",
+   "title": "Is the Election Really About Data Centers?",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-10-30T18:48:52+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKOGlwbEczNjhSWlpTalF4R3ZrV0FwT3F3Q1FDci1yeFpWYjg3cndhbllMZXBwYXh0VFRVVHBUa2V6WTFwT2tzUkJpQWJGaDdkdFpiYWVfakM3b2JlcUJDRzRWdGlGS1N3TDZKc1dWOTcxM3p2am5z?oc=5",
+   "title": "Meta Data Center Federal Pipeline Review Due Early Next Year",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-10-30T18:48:51+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://www.canarymedia.com/articles/politics/ballot-proposals-clean-energy",
    "title": "5 ballot proposals that could drive or derail clean energy",
    "source": "Canary Media",
@@ -8446,6 +9091,46 @@
    ]
   },
   {
+   "url": "https://www.canarymedia.com/articles/clean-industry/zoos-brews-michigan-decarbonization",
+   "title": "From zoos to craft brews, Michigan looks to spur decarbonization",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-29T07:30:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "description": "The state recently awarded nearly $1.9 million to help organizations investigate the best ways to slash emissions from heavy-duty industrial operations.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Polar-bears-at-Detroit-Zoo_GettyImages-53461068.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5c7347319477a3698cc2538b572a1efd",
+   "lede": "The state recently awarded nearly $1.9 million to help organizations investigate the best ways to slash emissions from heavy-duty industrial operations."
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/transmission/pjm-desperately-needs-grid-batteries-is-it-finally-about-to-act",
+   "title": "PJM desperately needs grid batteries. Here’s a way it could get some.",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-29T07:30:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "description": "The nation's biggest grid operator is about to start working on a fix that would make it much easier to add batteries to existing power plants and solar…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/PJM-logo-on-phone_GettyImages-2253640278.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=41650b66d3b8a2481c9db5872fe29194",
+   "lede": "The nation's biggest grid operator is about to start working on a fix that would make it much easier to add batteries to existing power plants and solar…",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uSGlJRnVjUXFUQ1lSTkVQS01EVzVOTGEzc09YT2RkdGdnbjFaRmFKbkVSMFc4bkFFczZOZjlRMW5YWmtlR19qQXVmRVM1b0ZyLVVGR0xIeE01R1BXajF2VXNnMjVvZ3JKenJTSUgwUQ?oc=5",
+   "title": "32nd IEA Energy Statistics Training",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-10-29T07:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd1AtSE5oaHhLSXp6WnplR0hKb0R0alhoT2FqS09Ycl9uOExELThmRVYxXzVrVnc5R3lpQXRqNURsNW40MnF6U1VReUhaSU9nV3hWVTR6dXRPYWxWbUhxOHVGQXlEVXF2dWlmeS1nejFEQm42ejc0Y1k5MkNLUFJYckc3NTMwTlRUaFBtRXdjOThnVlhTOWp2S3BkUkdjM0JGU3dxNGtWdVlWZEhoT3BjSV85Ui1RdHRtT1BGWGhlLVBuci1iYVJ3aXdEYldFZw?oc=5",
    "title": "Capacity Building on Advanced Grid Operations and Renewable Energy Integration for African Power Utilities",
    "source": "IRENA",
@@ -8488,6 +9173,45 @@
    ]
   },
   {
+   "url": "https://www.canarymedia.com/articles/nuclear/doe-5b-loan-constellation-energy",
+   "title": "The DOE announces $5B loan to Constellation for nuclear uprates",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-28T19:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "description": "The conditional commitment aims to boost output across 15 reactors in three states, expanding clean power capacity far faster than building new reactors.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Constellations-Clinton-nuclear-plant-Illinois-GettyImages-2227026774.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=210161679089185f3779fa8fc4c7d1d1",
+   "paragraphs": [
+    "On Tuesday, the U.S. Department of Energy announced a conditional loan commitment of up to $ 5 billion to boost the output of 15 reactors at eight nuclear power plants in Illinois, Maryland, and Pennsylvania by a combined 1. 1 gigawatts.",
+    "It’s the latest sign of Trump’s support for the United States’ biggest existing source of carbon-free electricity that doesn’t vary with weather conditions. It’s also the third multibillion-dollar ​ “ uprate” announcement in a month relating to Constellation Energy, which runs the plants as part of the country’s largest commercial nuclear reactor fleet.",
+    "On Sept. 30, Constellation revealed that it had finalized a power purchase agreement with Amazon in support of a 190 -megawatt uprate at its 1, 790 -MW Calvert Cliffs nuclear plant in Maryland. Then, on October 6, the company said it would spend $ 4. 3 billion in partnership with Google to increase generating capacity at 11 of its nuclear plants by a total of 890 MW.",
+    "Among the eight facilities announced by the DOE this week, at least six could get funding from multiple sources: the 2, 317 -MW Limerick power plant in Pennsylvania, which Constellation spokesperson Paul Adams said earlier this month would increase its output by 348 MW; the Braidwood, Byron, LaSalle, and Quad Cities plants in Illinois; and Calvert Cliffs.",
+    "A fifth DOE-backed plant in Illinois, Clinton, was already in line for a 30 -MW uprate under a 2025 deal between Constellation and Meta.",
+    "Power uprates generally involve ​ “ adding new and more efficient equipment and technology that will allow us to get more megawatts from the same plant,” Adams told Canary Media earlier this month.",
+    "The commitment from the DOE bureau formerly known as the Loan Programs Office ​ “ builds on billions of dollars in private-sector investment already supporting Constellation’s efforts to increase nuclear output,” Constellation said on Tuesday, while stressing that its announcement ​ “ does not, by itself, represent a final Constellation decision to proceed with any individual uprate or at every facility under consideration.”",
+    "It’s unclear whether the DOE’s loan commitment will benefit the same uprate projects funded by the three hyperscalers or support separate projects that will further raise the plants’ output. Constellation did not respond to a request for clarification by press time.",
+    "Still, if the uprates announced at the eight plants this week move forward, Constellation would boost its nuclear fleet’s generating capacity by about as much as a new AP 1000 reactor would — at significantly lower cost. The U.S. has thus far built only two AP 1000 s, both in Georgia, at a combined cost of more than $ 30 billion.",
+    "Nuclear energy boosters would like many more AP 1000 s to be built on U.S. soil. So would the Trump administration, which wants to see 10 new large reactors under construction by 2030 — most or all of which would probably be AP 1000 s — as part of its moon shot goal of quadrupling the country’s nuclear generating capacity by 2050."
+   ],
+   "lede": "The conditional commitment aims to boost output across 15 reactors in three states, expanding clean power capacity far faster than building new reactors.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEZ4Q2JiQnM1dElWdHJpZFNmcFZXell2MWJyUS0wZURwdV9Dck96eVBLakN2Tks1M084VGVBRUQyM1RrR2xpbldUMmtkSlFENUZ5dUhsejlOcy1PcjVXSUc3WGFsUk1FLW9UVGRYX0hIdzdyYVJ1VmpSUnVyNzB1cEJXR0FMVWRM?oc=5",
+   "title": "System planning and operation",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-10-28T12:03:29+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.volts.wtf/p/the-pac-taking-out-clean-energy-opponents",
    "title": "The PAC taking out clean energy opponents",
    "source": "Volts",
@@ -8514,6 +9238,93 @@
    "lede": "A conversation with Tom Matzzie of the Invest in Tomorrow Coalition.",
    "tags": [
     "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/fossil-fuels/trump-pro-coal-policies-costing-us",
+   "title": "How much are Trump’s pro-coal policies costing us?",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-28T09:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "description": "A new report finds nearly half of U.S. coal plants benefit from federal handouts and pollution exemptions, harming public health, our wallets, and the…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Smokestacks-with-barbed-wire_GettyImages-2261216339.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=4c975c3df073a569dc06dc5ba3eaa29a",
+   "paragraphs": [
+    "The Trump administration loves coal plants. The rest of us are paying the price in higher electricity bills, poorer health, and worsening climate change.",
+    "That’s the takeaway of an analysis out today from the Environmental Defense Fund. It finds the Trump administration is directly or indirectly propping up nearly half the U.S. coal fleet with taxpayer-funded handouts, Clean Air Act exemptions, and emergency orders forcing retiring units to keep running.",
+    "These actions represent a thumb on the scale for the country’s least cost-effective and most heavily polluting source of electricity. They also serve as a promise kept: As EPA Administrator Lee Zeldin told coal and mining executives this summer, ​ “ Many of the items that were on your wish list are now done.”",
+    "“ This is a lot of government support and intervention that’s going to benefit an industry much more than it will benefit the American public,” said Surbhi Sarang, EDF’s senior attorney for clean power. “[Coal plants] produce pollution, which will just cost communities more. And they’re an expensive form of energy that will cost communities more.”",
+    "EDF’s analysis covers 184 U.S. coal plants that are operating and connected to the grid. Of those, 90 have been ​ “ propped up” in one way or another by the administration.",
+    "Seventy coal plants have received exemptions from limits on toxic pollution set by the Biden administration under the Clean Air Act. That’s allowed them to continue operating without investing in better controls. The Trump administration invited plant owners to seek these exceptions last spring, telling companies that all they had to do to skirt the regulations was send an email to a special EPA inbox.",
+    "The primary rule these plants have evaded would require them to reduce mercury pollution by 70 % and emissions of nickel, arsenic, lead, and other toxic metals by two-thirds. Those limits were projected to yield more than $ 430 million in health and other benefits for communities through 2037, according to a May press release announcing the launch of an investigation by U.S. Sen. Sheldon Whitehouse (D-R.I.) into the exemptions.",
+    "“ Coal plant pollution, including mercury and other heavy metals, can damage children’s brains and cause a lifetime of devastating illness,” Sarang said in a press release accompanying the report.",
+    "Since those exemptions were granted, the EPA has rescinded the Biden-era rule that imposed the pollution restrictions in the first place. But legal challenges could reverse that decision, Sarang said. And while the Trump administration claimed that complying with the rule would have forced plants to close down prematurely, modeling done by the Environmental Protection Agency during the Biden administration ​ “ showed that the costs could be absorbed and wouldn’t lead to any retirements,” she said.",
+    "EDF’s report also identifies 24 coal plants that are slated to receive a collective $ 950 million in taxpayer funds from the U.S. Department of Energy. About half of that is the $ 525 million announced in September 2025 to help refurbish up to 11 plants, according to EDF. The remaining $ 425 million, unveiled in June, is to ​ “ expand and revitalize” 13 more facilities."
+   ],
+   "lede": "The Trump administration loves coal plants. The rest of us are paying the price in higher electricity bills, poorer health, and worsening climate change.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/heat-pumps/more-heat-pumps-good-for-grid",
+   "title": "More heat pumps would actually be good for the grid, researchers find",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-28T07:30:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "description": "In states with extra grid capacity in winter, heat pumps would help lower residential electricity rates by spreading out fixed costs, according to a new…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Minisplit-heat-pump-install-Vernon.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=315208c382f750b74b8c6db8c0bcda4e",
+   "paragraphs": [
+    "Heat pumps, superefficient sources of electric heating and cooling, are winners for the climate, air quality, and typically a household’s energy bills. But a common claim cautioning against their widespread adoption in the U.S. is that the electrical grid is too strained to handle all the extra demand they would bring.",
+    "Now, a new study from clean energy think tank RMI tackles that myth. In most of the country, use of the grid maxes out in summer — during the hottest afternoons when people turn on their power-hungry air conditioners at the same time. But in winter, roughly half of states have plenty of spare capacity for heat pumps to keep homes toasty, the study found. Plus, these heat pumps wouldn’t drive up peak energy use in summer, because they would largely be displacing less efficient air conditioners.",
+    "This means that a lot of new heat pumps could be added without triggering expensive grid buildouts. But that’s not all. The study also shows that in the 24 states, plus Washington, D.C., that RMI analyzed — the places with the most spare grid capacity — heat pump adoption by some could actually help keep electricity costs more affordable for all customers.",
+    "Here’s how: Electricity rates encompass the cost of the power itself and the larger, fixed costs for the stuff that makes up the grid — the poles, wires, power plants, transformers, and other equipment — as well as regulated profits for the utility. Because it’s built to handle occasional peaks in demand, the grid is often an underutilized resource.",
+    "It’s like a toll bridge with too few cars driving on it, said Ryan Shea, study co-author and manager on the carbon-free buildings team at RMI. Because the toll is spread among far fewer customers than the bridge can handle, the cost per ride remains high. However, if more people were to use the bridge, each customer would bear less of its price tag.",
+    "Across much of the U.S., the grid is like that toll bridge. It’s built to handle the summer surge in electricity demand. But in the winter, when demand is typically less, adding consumption from heat pumps would spread out the fixed grid costs over many more kilowatt-hours.",
+    "Maximizing deployment of heat pumps over the coming years without having to build out the grid could reduce residential electricity rates by 13 % on average from what they would otherwise be due to inflation, per the study. For context, that’s equivalent to a $ 200 discount on a customer’s annual bills.",
+    "Some states have a lot more spare grid capacity in winter than others. For example, Michigan could install 3. 6 million home heat pumps and thereby lower overall residential rates by as much as 27 %. Policymakers could incentivize heat pump adoption as a tool for driving down electricity costs.",
+    "However, these numbers are directional estimates, not forecasts. The study shows where rates could fall most, Shea said. RMI didn’t have access to utility-specific data that would refine the results.",
+    "Despite that limitation, Parth Vaishnav, assistant professor of sustainable systems at the University of Michigan, called the work sensible and well done. He noted, though, that lower electricity rates (the price per kilowatt-hour) do not necessarily mean lower bills (the total cost for all kilowatt-hours used) for people who get heat pumps. That can especially be a concern in the coldest climes in the U.S. where electricity is substantially more expensive than fossil gas. A 2024 Michigan study Vaishnav co-authored found that switching from fossil gas to a heat pump could drive bills up for some households by more than $ 1, 000 annually under then-current fuel costs."
+   ],
+   "lede": "Heat pumps, superefficient sources of electric heating and cooling, are winners for the climate, air quality, and typically a household’s energy bills.",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDd1RTlWZnlQcTVEMGVLd0JtV0IwZ3VUVEVhSFFKSGw5eDZ3dlRYejVHUzVJTGV3ZzJ1WndxODd1Wkg5S3phR29BbjZIR0RpODBjQTB2R3RtQ2wxaTI4TFZqYWY3RXFvYjB1dV84eEhoYWR3V3FzTzZndkR4UXJyZUdSVzhvQnltUm1NYk5fbzNPRVlTc283X2VyNWZVSlZ4SFdzTzJ6VzF5STBnVFh4cnhyWnBxQkVTZ2FWNVhhTndnR1p2TmV6SXZETkNBZWZianJiZjdra2Q?oc=5",
+   "title": "IEA countries strengthen critical minerals security through emergency response exercise and diversification workshop",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-10-28T07:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDZ3VGNDLTB5R2pGdXZQSEJvZUdWZy03MzZtb3dWWnd0NDhjbW1TQVJwdzBKdEZlRVhKNTVZZncxd21qN19lNC1ha2lvRk9OMERuNjVjLWtCYjN3VlJMZ08yZFE4Q3ZjTmNrZ2FzNWpUbXl0ckloOThlQVdTUFc0WllpanVaNUFsUlFybzNsWENQWThmNk5BM01QS1NYMjNJdDhGT1IzNUpiSkFkR3R4ZVJkS0l6NjEyVmRnZ1lFakhXaDdPN01aSi1n?oc=5",
+   "title": "Unlocking the Value of LDES, Part Three: Thermal Energy Storage for Industrial Decarbonisation",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-10-28T07:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry",
     "power"
    ]
   },
@@ -8568,6 +9379,39 @@
    "fetched": true,
    "tags": [
     "policy"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/electric-vehicles/ford-fathom-ev-pickup-home-power-backup",
+   "title": "Ford’s new EV pickup will come with more affordable home-power backup",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-27T13:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "description": "Owners of the Ford Fathom, starting at under $30,000, can power their homes without buying a costly bidirectional charger. Will other automakers follow?",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Ford-Home-Power-Station-Ford-Home-Backup-Panel-garage-artist-rendering.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45200ab024e79772f5399a4a704a13a3",
+   "lede": "Owners of the Ford Fathom, starting at under $30,000, can power their homes without buying a costly bidirectional charger. Will other automakers follow?",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/energy-equity/price-hikesfirstenergy-ohio-rate-case",
+   "title": "Price hikes aren’t all that’s at stake in FirstEnergy Ohio’s rate case",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-10-27T07:30:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "description": "Advocates are entering the regulatory fray to push the utility company to commit to more equitable, reliable service that also furthers the clean energy…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/FirstEnergy-Lakewood-Ohio-substation-delivery.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=911b4f38c612c9a80f1ace2e17c3bc00",
+   "lede": "Advocates are entering the regulatory fray to push the utility company to commit to more equitable, reliable service that also furthers the clean energy…",
+   "tags": [
+    "policy",
+    "power"
    ]
   },
   {
@@ -8640,6 +9484,48 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmxaYkw2ZTJ6SDhVdzUyQjB2NGJUVmF3MTIyMkczWnVORlowYVVKeldreC1aRnFGX2JvV2ZxVl93aTRwYldvZ2xmcHVscHpPVnBYY2o1VUFGdzhfcVl6RHNGanBMc1RJVFZPUzRPNUp0a0lYQmNPNm1NRGRINzg2c2tUUQ?oc=5",
+   "title": "Energy Technology Supply Chains in Southeast Asia",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-10-26T07:00:00+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYUNBaVBnMWZHRHBoWjdWaUhjUDNDamxLcXRub21WNldKZVBQOHVBNDBGelhRNWQ3My1xbkk2dUw4U29vc2s3OTBGazJCZU5NNWFIUG5RZVV4a01WN05adEd4bERWYnZGUGxxckdJUjVpamY5RlR2SzlMcGNFLWtBOXJvN1BHWWlCd3NSMWdxSnZ4dHNKOUdsendKSkRSM0lBWnRwek4weERGdw?oc=5",
+   "title": "The Most Important Data Center Election You’ve Never Heard Of",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-10-23T18:59:19+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XcGtqUEdXSzFwZFcxeWFMdFpQVWVDTzY0VGRLM3ZpNWZndjRNQU5NMnJCNFJ6VEFxN05ndVRkOWJ4WDNWV0g0RkFJQTRwZG4wNGtpbGlHNFF6NzcxcXJacWNBQU80UThYdjRORm1xYUZyWlU?oc=5",
+   "title": "GoodPower Is Sussing Out What People Actually Want from Data Centers",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-10-23T18:55:43+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://www.volts.wtf/p/building-our-piece-of-the-electric",
    "title": "Building our piece of the electric stack",
    "source": "Volts",
@@ -8667,6 +9553,20 @@
    "tags": [
     "china",
     "industry"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1neEJhUHJTMFV3WlhiZXpvbzdyOFVnN2RRaWVrLWJudjI2Q1A2Sm50bjJYSTdvRVk2UmtQam5KUkR0UENjeG43QnRkWlFHWV9neFBPajU3aDdhR3gzRVJR?oc=5",
+   "title": "The Data Center Boom Is Faltering",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-10-23T00:06:38+00:00",
+   "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
    ]
   },
   {
@@ -8749,670 +9649,6 @@
    "fetched": true,
    "tags": [
     "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSTJESU9KSjBWMnZKbGR6bmctNDZIMU5hNjNYVk5vdzhlMGlTTjl1NHJhQ0o0ZkJ2dExXalA5b19RT252bzdOY3pRQTB3LXAwcGZjNmQ5a3Q1cExmUmh0YUVIRTJaYnJLd2JmS0J3ejlZV2l0TTEtaWRjWWI0b2lwWVlKeWJGY3llVWV0YlI0eTNGVHlIQ21STW82dXVPeHF4Ym5aOU5zM2h3Zw?oc=5",
-   "title": "What China's transition means",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-10-21T19:44:45+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.distilled.earth/p/data-center-developers-have-announced",
-   "title": "Data Center Developers Have Announced More Than 100 GW of Their Own Power Plants",
-   "source": "Distilled",
-   "desk": "analysis",
-   "published": "2026-10-21T18:25:46+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "The growth of these power plants forced us to rethink how we track them",
-   "image": "https://substackcdn.com/image/fetch/$s_!0thO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cf31fea-cf8d-4563-af5c-39c0607bd7de_1920x1562.png",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Data center developers are building their own gas power plants rather than wait years for a grid connection. In June, we published our second report on this trend. At the time, developers had announced about 90 GW of behind-the-meter generation, roughly nine New York Cities’ worth of power.",
-    "Our original plan was to publish a quarterly report on this topic. But we soon realized this was too infrequent given the speed at which this trend was evolving.",
-    "The amount of operating behind-the-meter capacity has nearly doubled since we published our last report.",
-    "Anthropic has gone from an insignificant buyer of behind-the-meter gas power to one of the largest.",
-    "So we decided to scrap our original plan and build something much better. Today we’re excited to announce Cleanview’s live behind-the-meter gas plant tracker. It covers more than 100 gas plants built to power data centers, and we update it every day.",
-    "Every generating unit: its technology (simple-cycle turbine, reciprocating engine, combined cycle or fuel cell), manufacturer, model, unit count and nameplate capacity",
-    "The status of each unit (Announced, Permitted, Under construction, Operating or Canceled) and the year it’s expected to come online",
-    "Firm output, the power a plant can actually deliver to its data center, where a developer or permit discloses it",
-    "On our data platform, we also provide satellite images of all the projects we track. Below is an example of a project that recently began operating despite receiving almost no media attention. It’s one of the largest behind-the-meter projects operating in the country.",
-    "In our research on this topic, we’ve come across some power strategies that have surprised us. Some developers are using mobile gas generators strapped to semitrucks. Others are using aeroderivative turbines originally designed for aircraft and warships."
-   ],
-   "lede": "Data center developers are building their own gas power plants rather than wait years for a grid connection. In June, we published our second report on this trend.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.volts.wtf/p/can-distributed-energy-work-around",
-   "title": "Can distributed energy work around American utilities?",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-10-21T10:09:33+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "byline": "David Roberts",
-   "description": "A conversation with Nick Chaset of Octopus US (and Uplight).",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://substackcdn.com/image/fetch/$s_!3vE9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F219499602%2Fd26ed398-35fa-4b89-9dcd-0ce70e97ce54%2Ftranscoded-1792092292.png",
-   "paragraphs": [
-    "American homes are filling up with batteries, EVs, and smart thermostats that could be coordinated to make the grid cheaper and more reliable — but almost none of them are. To understand why, it helps to watch what happens when the company best in the world at this tries to do it here. In Britain, Octopus Energy has built a giant virtual power plant out of its customers' devices. In the US, it has spent six years running into walls. Now it’s bought Uplight, which runs customer programs for 85 utilities. I talked with Nick Chaset, who runs both, about what's in the way and whether distributed energy can ever scale with US utilities … the way they are.",
-    "Distributed energy (rooftop solar, home batteries, EVs, smart thermostats) is accumulating in American homes. In theory, all of it could be coordinated to help the grid, shaving peaks and delaying expensive new infrastructure investments. In practice, very little of it is. Why is that?",
-    "One useful way into that question is to look at a company that’s very good at that kind of coordination. In Britain, Octopus Energy is the single largest household electricity supplier; it has turned hundreds of thousands of its customers’ EVs, home batteries, and other devices into a giant virtual power plant. It came to the US in 2020 intending to do something similar. Six years later, it still sells electricity only in Texas.",
-    "So it has adapted. It sells flexibility services to utilities, supplies residential capacity to aggregators chasing data-center money, puts batteries in homes for a monthly fee, and, as of September, owns a majority of Uplight, which runs customer-side programs for 85 utilities. Is this all a clever way of routing around America’s dysfunctional market structures? Or is it just an elaborate holding pattern until those structures change?",
-    "That’s what I’m going to discuss today with Nick Chaset, CEO of both Octopus Energy US and Uplight. What’s it going to take to scale distributed energy in the US from this kind of random bric-a-brac to an actual, substantial contributor to US electricity? Let’s get into it.",
-    "Octopus Energy Takes Majority Stake in Uplight to Scale Flexible, Digitalised Grids Across North America",
-    "National Grid and Kraken Sign Deal to Bring Globally Proven Customer Service Platform to Over 6 Million U.S. Energy Customers",
-    "Brattle Group - Utilities Can Grow Demand-Side Capacity by 60% with a Demand Stack Approach",
-    "David Roberts: All right then. With no further ado, Nick Chaset, welcome to Volts. Thank you so much for coming.",
-    "David Roberts: Okay, Nick, let’s start here. We talked a year ago about several things. A lot’s happened in the last year. You said some things last year about what Octopus is gonna do and not gonna do. We’re gonna revisit some of those. But maybe start just by catch us up on what’s happened over the last year for Octopus. It does seem to be spreading its tentacles into all sorts of areas. So catch us up with the last year."
-   ],
-   "lede": "A conversation with Nick Chaset of Octopus US (and Uplight).",
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHpERnFGaGx6ZXVmeGY1WDZvUXZERlRpMkJiVEFKcjktbUtacFJHcDA5eDdEMUFIM1R2eFgxN0ptWDZkZDFHUkV4N0VaWEgxTGRNOEcxY09YZG92ZVI1c0dWRWN3SG9RRkM5SFdQcFpqTFI4RlRBUnkwT0RQU0dtMzFFQXVhbmpxVGtfVElzZnNfTU5uejJmMUVlMThIUERncmNEd0VPbzRTWk4zSC1xRGdB?oc=5",
-   "title": "Building Africa’s Renewable Energy Workforce: Jobs, Skills and Qualifications",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-21T07:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORG5ra3ExVXZHSlVUckVrbFdLaUtWSDY2ZVYyQi1MaHlUeXJZY0RuVXVmRXV4VHpDVXdoTThLRkozRFF2TTQ3TWZaOWxOWGl6Q29UTXdhYndsZjBhZ2xONEtHWXNmdUxxeGxRVXNMYVlXdnU4eE5OWXBZelpXRXNoNlVIcU9YOUxvTTIwRWlCTHNYTDBh?oc=5",
-   "title": "Launch of Uganda Clean Cooking Investment Prospectus supported by IRENA",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-21T07:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://hannahritchie.substack.com/p/uk-taxes",
-   "title": "How much could the UK actually raise from higher taxes?",
-   "source": "Sustainability by Numbers",
-   "desk": "analysis",
-   "published": "2026-10-21T06:13:59+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "byline": "Hannah Ritchie",
-   "description": "The uncomfortable numbers behind Britain’s largest tax levers.",
-   "image": "https://substackcdn.com/image/fetch/$s_!s3qK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dcfc6ae-2b60-45f5-97b1-5efa50bbdaa1_2048x1826.png",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Every time this comes around, there’s intense debate about what financial holes we need to fill, whether we should raise taxes or cut spending, and which taxes we should change or leave untouched. Countless numbers are flying around, and I’ve struggled to find anywhere that puts them into context.",
-    "For my own sanity, I wanted to understand how large each tax lever is. Are we talking hundreds of millions, billions, tens of billions?",
-    "Running the numbers surprised me. The UK government spends £1.4 trillion a year. Raising the basic rate of income tax by one percentage point would raise £8 billion. The top rate, just £270 million. Estimates for an annual wealth tax (which is far more contested among economists) might raise £10 billion in an optimistic scenario. Not nothing, but less than 1% of current spending.",
-    "I’m not arguing that we should raise specific taxes, or even any taxes. That’s a political decision that’s more complex than just looking at how much revenue they’d raise. But I wanted a sense of perspective that might help to inform some of the broader discussions around taxes, spending, and deficits.",
-    "It’s also worth noting that the former prime minister, Keir Starmer, has tied Andy Burnham’s hands because he previously promised that the government wouldn’t touch many of the simple tax levers that I’ll show. 2",
-    "Let’s start with income tax. Like many countries, the UK has a progressive income tax system. The first £12,570 that someone earns is not taxed (it’s called a personal allowance). 3",
-    "Tax rates then increase with income, often with sharp thresholds. Those on higher incomes don’t just pay more in absolute terms, but also as a share of their income.",
-    "The basic tax rate for income up to £50,000 is 20%. This rises to 40% for income between £50,000 and £125,000. And then the top rate for income over £125,000 is 45%. 4",
-    "How much extra revenue would the government get if it raised each of those tax rates by one percentage point? You can see this as the green bars in the chart below.",
-    "Raising taxes for the top earners would raise an extra £270 million a year. Increasing the basic tax rate, which would hit most earners, would raise just over £8 billion. 30 times as much!"
-   ],
-   "lede": "The uncomfortable numbers behind Britain’s largest tax levers."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQcEE5a3Z1ZDlFQzQ5QnZ3SHF5eEh4NVBTUjlVS0Y1YWdicTM3NzVWZU1fMDVXV2lTUkRkcTJObVJJNEtUQ3pnSTI2TjZaVUI1YTJ3RmhwMDBmVjN3T1FHOE4xdmZ3VEVFT01JakdPa0V6cHZ3V3hBa2toVjF6RWl4Zmg5MlVPRnBUZ3czTnN0UC1BSkNzbUxtakh4clJBTU5XemxHcjdwMFA1Y0xmRTN3S1lob3AtMWMxMXpJb3hFcFFpV2RkX3BrZERROGdneG1rZVRkU3BDUDNoUDByYkxVTGFJMDI5cHd4aktlTDE5eDBVdFhQanNKdVhoWXBxcUZid2ZQRllOd2liRVRld1BtaHN6b0JCYUNDMFVicGtFeG9yTmlwUEkyeEVnMmVVTk5uRkFHdXdPVGtrZ0ZLVXJ4NVUySWl2emI4YWFCd3BVVGJ4VVF3Z01yZmsxSHh6WFJGQ2VIZXVMWUVfVnkyM3RBbA?oc=5",
-   "title": "Events",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-21T03:55:21+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkZWREM4RGVjUmdVSlVVRm9wMHFVZEtMM1plOXdFYmFsUGtaMGowUHFiQmVpaWJtcHMtMmF6M3IwTVJvU3lCbUozWDREVGRrVGZYbzNseDdISEhFanRqT1M4SW9Xdm02YlZ4QjZKUmZJTm40RS1EVGwxZnFxYmY3YUxuQXI4ck5ZaUNrcVdiSVhFMEU?oc=5",
-   "title": "Implementing 2030 Commitments and Planning for 2040: Lessons from Aligning Climate and Energy Plans in the Energy Community",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-20T07:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68325",
-   "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-10-19T14:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.10.19/main.png?1795094793",
-   "paragraphs": [
-    "The market shares of battery electric and plug-in hybrid electric vehicles decreased over the same period, according to estimates from Omdia. In 3Q26, battery electric vehicle sales were 6% of new light-duty vehicles sold, down from 10% in 3Q25; plug-in hybrid electric vehicle sales fell from 1.8% to 0.7% over the same period.",
-    "These vehicle types affect the broader energy sector in different ways. Battery electric and plug-in hybrid electric vehicles consume electricity from the grid, which affects electricity demand. By comparison, hybrid electric vehicles consume liquid fuels and do not connect to the grid. Hybrid vehicles were not eligible for any of the federal tax credits that expired in September 2025.",
-    "Two tax credits for purchasing or leasing new electric vehicles expired on September 30, 2025: the New Clean Vehicle Credit and the Qualified Commercial Clean Vehicle Credit. Battery electric vehicles made up a record 12% of light-duty vehicle sales in September 2025, immediately before the credits expired. However, 2025 marked the first year where annual sales and market share of battery electric vehicles declined, a trend that has continued in 2026. Battery electric vehicle sales fell to 6% of new vehicle sales in the first nine months of 2026, down from 8% over the same period in 2025.",
-    "Battery electric vehicles have historically been more popular in the U.S. luxury vehicle segment, which accounted for 12% of the total U.S. light-duty vehicle sales in 3Q26. However, sales in this segment are also declining. In 3Q26, battery electric vehicles accounted for 12% of luxury light-duty vehicle sales, down from 31% in 3Q25 prior to the expiration of the clean vehicle tax credits.",
-    "Because sales figures in any year are relatively small compared with the total number of vehicles on the road, electric vehicles’ share of the light-duty vehicle fleet is much less than the recent total 6% sales share in 3Q26. In 2024, the most recent year for which we have fleet-wide data available in our Monthly Energy Review, electric vehicles accounted for 2% of all registered light-duty vehicles in the United States.",
-    "Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.",
-    "Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions.",
-    "Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.",
-    "Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports.",
-    "Tools to customize searches, view specific data sets, study detailed documentation, and access time-series data."
-   ],
-   "lede": "The market shares of battery electric and plug-in hybrid electric vehicles decreased over the same period, according to estimates from Omdia.",
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68324",
-   "title": "U.S. small-scale solar generation has quadrupled in the last decade",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-10-16T14:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.10.16/main.png?1795094794",
-   "paragraphs": [
-    "Data source: U.S. Energy Information Administration, Annual Electric Power Industry Report We estimate that U.S. generation from small-scale or rooftop solar photovoltaic systems (smaller than 1 megawatt of capacity) has increased from 18,812 gigawatthours (GWh) to 92,979 GWh over the last decade. The four states with the highest generation of small-scale solar in the country—California, Arizona, Texas, and Florida—are in regions with more abundant solar resources. Even though it is in a region with lower solar resources, New York ranks as the fifth-largest rooftop solar generation producer as a result of capacity growth supported by technology improvements and state incentives.",
-    "The year-over-year change in generation was particularly high in 2022, when total generation grew by 25% compared with the previous year amid record capacity growth. Changes in different programs supporting rooftop solar partly explain this increase in generation. For example, California’s Net Energy Metering (NEM) 2.0 program was available through April 2023. This net metering program offered higher export compensation than the subsequent Net Billing Tariff, or NEM 3.0. All the capacity built under the NEM 2.0 program was grandfathered in, incentivizing higher capacity installation before the current NEM 3.0 took effect.",
-    "California accounted for 37% (34,411 GWh) of total U.S. small-scale solar generation in 2025. Between 2024 and 2025, rooftop solar generation in the state grew by 8%, largely due to an increase in capacity. Small-scale solar capacity in California increased from 18 gigawatts in 2024 to 20 gigawatts in 2025.",
-    "The state with the next largest amount of small-scale solar power generation is Arizona, accounting for over 6% of total U.S. generation, or 5,795 GWh. Year-over-year generation in Arizona grew only 6% in 2025. The largest increase happened between 2022 and 2023 when generation from small-scale solar grew by 22% in the state. Arizona customers can access a 25% state income-tax credit and other incentives for adding rooftop solar to their properties.",
-    "States such as Florida and Texas have seen rapid growth in small-scale solar generation in the last decade as more capacity has been added. Generation in Texas grew from 391 GWh in 2016 to 5,408 GWh last year. Over the same period, Florida’s generation grew from 205 GWh in 2016 to 5,198 GWh in 2025. These two states provide incentives through property tax exemptions and other programs specific to each state and, in some cases, utility.",
-    "Programs in states with lower irradiance levels are also supporting growth in rooftop solar generation. New York offers incentives, which have encouraged small-scale solar growth in the state. Other states with similar programs include New Jersey, Massachusetts, and Illinois.",
-    "Although generation from small-scale solar continues to grow year over year, the rate of growth has declined since 2022.",
-    "EIA uses its surveys of electric utilities to collect information on the number of customers with small-scale solar systems and the aggregated capacity. Electric utilities do not necessarily know how much electricity is generated by rooftop solar on their distribution systems, so generation must be estimated. To develop estimates of generation, we rely on tools such as the National Renewable Energy Laboratory's System Advisor Model and PVWatts. Data on commonly used tilt angles and orientations for small-scale solar systems in California were used as inputs to be representative of tilt angles and orientations in other states."
-   ],
-   "lede": "Data source: U.S. Energy Information Administration, Annual Electric Power Industry Report We estimate that U.S. generation from small-scale or rooftop solar photovoltaic systems (smaller than 1 megawatt of capacity)…",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.volts.wtf/p/whats-up-with-denmark",
-   "title": "What’s up with Denmark?",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-10-16T10:05:36+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "byline": "David Roberts",
-   "description": "A conversation with Kristian Jensen of Green Power Denmark.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://substackcdn.com/image/fetch/$s_!fvWh!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F218979470%2Fa16fdbb7-8641-49b3-b890-ba5e1a9fea07%2Ftranscoded-1792114996.png",
-   "paragraphs": [
-    "Industrial symbioses refers to processes wherein the waste products from one industry (say, heat) serve as the inputs to another. If you’re thoughtful about this you can harness some incredible efficiencies, and the Danish are extremely thoughtful about it. I highly recommend one of these tours if you ever get a chance.",
-    "While I was in Denmark, I got a chance to interview Kristian Jensen about the Danish energy system. Jensen had a pretty remarkable two-decade stretch in Danish politics, serving at various points as Minister for Foreign Affairs, Minister of Finance, and Minister for Taxation. He now serves as the CEO for Green Power Denmark, the trade association for the country’s big clean-energy industries. (Imagine, my fellow Americans, having a powerful clean-energy trade association. Sigh.)",
-    "Jensen is on the center-right, but as you’ll hear, in Denmark that means something dramatically different than it does in the US — he’s a champion of the transition on both environmental and pragmatic grounds. Over the course of an hour we discussed just about every aspect of the country’s energy system, from its district heating systems to the rapid rise of EVs to the widespread use of biomass to the backlash against solar fields. Every time I dig into another country’s energy system and politics I find it more fascinating than I expected, and Denmark was certainly no exception. Enjoy.",
-    "Uniper - Uniper and Arcadia eFuels sign long-term agreement to accelerate aviation decarbonization",
-    "State of Green - One of the world’s biggest turbines is being installed in Jutland with full local support",
-    "David Roberts: I wanted to start with the big picture, the target. Denmark has cut its emissions by around 50% since 1990. It’s a very big deal, very incredible accomplishment, but the target is 70% by 2030.",
-    "David Roberts: And the watchdog group, the Independent Climate Council, recently came out and said, basically, “We don’t see the path there. We don’t see that the government has a path there.” The Concito think tank ran a bunch of sort of probabilistic projections recently and put the percentage of hitting that target at about 1%. So I guess the first question is just do you think that target is out of reach?",
-    "Kristian Jensen: No, it is not out of reach. It is out of reach if politicians don’t do anything else. So if you have a frozen policy, we should be super optimistic and super lucky if we get to the 70. But the target is not out of reach if you change a few things. For instance, to cut emissions from natural gas powered heat in housing in Denmark and turn that into heat pumps, turn off the gas pipelines to private housing would definitely change something. If we added some more power to the industry and a little less natural gas, a little less oil, we could do something more in these areas.",
-    "But if you just have frozen policy from now to 2030, it’s a very slim chance that we’ll get there. When it’s a chance, it’s because Denmark are so focused on wind and solar, that all depends on how the weather will be."
-   ],
-   "lede": "A conversation with Kristian Jensen of Green Power Denmark."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fazNfMFVvTDlLbXI4X05TdEVXUUJYRW1raXVrY2M3NzFwQVBGUUNRYW5LeHpDVkVkaFJ2QTNIS25VcFFMLTc5TTZvWlZERkF3bERDTkFzOHc3LTdqZ19SbjNZOTBrMG5fMHVUbG5lOTVmLUNBNXRkb2RRSQ?oc=5",
-   "title": "Thirty-Second Meeting of the IRENA Council",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-16T07:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOT0ZTUV9SaHVfOS1QcTZTUDNlUWl3RXVoeEFkMmpzbzhCU1BlRVNFZEptblRvdTFya04wS2lrT0FsQlpldktBYks1MjJnSkhXZWpSMks0UTdqVlo3ZjFKbFBRSHN0T2hTWHVNdzViME5CdUw4aFJZZWVRYW9HQWJSeHRKQkpuWFRJejJsX3ZuMnh2Yy1EU0txSkNmUjlCVFEwTFgwUkZwVk5QSlVSbExIMGo3WTYtX0xjSHVPVHQtV184QTNzVVRaMXpzLVlOM2c2THMyaS1ZLWo1QTRBemhIcHJaZkFidERxRzVrRjdLOV9DV08zV2ZFb0huMXNHS3B3LVNNZVlJalZFM0FnaWZNclgzN2N5UVpvbzJv?oc=5",
-   "title": "C_32/11 Report of the Director-General on the Indicative IRENA Scale of Contributions for 2027",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-16T07:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQjkzdTFWMXdzeFZmM1NUNnN6Z0hqVDhkR2JBZ0xfc1BFTHpxMjEzcjIzZEZpUF9OdzlmOHM0N2l3aGJ5ZHduTC1oWFBQOC12bFJQMk5CY3hFR2dYYjc0dUQ5bXlrVGg4UXRSdGhTMVE2TFZ5OUZud3FaR1oxOWt5dnlkcUs2SW1jSzlkV2t0Uk0xT3JSRXBldTZKYVRybzZURF91QU8xYTNvWUp5b2VJbENnRmlmbDhtang0?oc=5",
-   "title": "IRENA Council Recommends Candidates for Next Director-General to Assembly",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-16T07:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68305",
-   "title": "PJM, ERCOT, and SWPP all set peak load records this summer",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-10-15T14:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.10.15/main.png?1795094795",
-   "paragraphs": [
-    "Data source: U.S. Energy Information Administration, Hourly Electric Grid Monitor Note: Data are the highest hourly load for a given day. ISO=independent system operator, ERCOT=Electric Reliability Council of Texas, SWPP=Southwest Power Pool Three regional transmission organizations (RTOs) set records for peak hourly load this past summer, according to data reported on Form EIA-930 and presented in the Hourly Electric Grid Monitor:",
-    "PJM peaked at 162.6 gigawatts (GW) on July 2, 2026, 1.3% higher than the pre-2026 peak of 160.6 GW on June 23, 2025. The Electric Reliability Council of Texas (ERCOT) peaked at 91.1 GW on July 22, 2026, 6.5% higher than the pre-2026 record of 85.5 GW on August 20, 2024. The Southwest Power Pool (SWPP) peaked at 58.0 GW on July 27, 2026, 3.5% higher than the pre-2026 peak of 56.0 GW on August 21, 2023.",
-    "Most of these peaks occurred during regional heat waves, amid the hottest summer on record nationally, which drove up cooling demand.",
-    "The California Independent System Operator (CAISO) and the Independent System Operator for New England (ISO-NE) came within 2% of their previous records. The New York Independent System Operator (NYISO) was within 3% of its previous record load, and the Midcontinent Independent System Operator (MISO) was within 4%, according to Form EIA-930:",
-    "CAISO reached 50.0 GW on September 9, 2026, below its record high of 51.1 GW reached on September 6, 2022. ISO-NE reached 25.3 GW on July 2, 2026, below its record of 25.9 GW on June 24, 2025. NYISO reached 31.1 GW on July 2, 2026, below its previous record of 31.9 GW on June 24, 2025 ( NYISO reports a record of 34.0 GW set in 2013, before we collected hourly data). MISO peaked at 121.5 gigawatts (GW) on June 30, 2026, the highest in our Hourly Electric Grid Monitor but below the previous peak of 127.1 GW on July 20, 2011, as reported by MISO.",
-    "Data from Form EIA-930 is reported to us by each balancing authority (BA) and is made available \"as-is\". The data BAs report on the Form EIA-930 represent best values at the time of reporting, but various reporting issues may limit the quality of these data. Data published directly by BAs may differ from the data in Form EIA-930.",
-    "Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.",
-    "Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions.",
-    "Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.",
-    "Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports."
-   ],
-   "lede": "Data source: U.S. Energy Information Administration, Hourly Electric Grid Monitor Note: Data are the highest hourly load for a given day.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFpUZU0tYk5VNWJnRy1ybnkydWh6LWJwRk5MaHZOaXlQMmdnQTZvRWpFTERPd1FBYVNEOVJfeTBxR1FoYXRiSk5kUVcyR2wteVkyWDRvMF84WUlfVFlXY2YwbkxZZDFMNGdGUmp1em5qaFk3amRWNEZ1aHJrQzI5eHA2SGRySlBEbTNGWkEyWjJjSW1fU0NwS2c0T2hWRDdhbUVmcWI4VzRRQVZlT0IxTGhOZzNFdkNPYWxyWFhGNFRadw?oc=5",
-   "title": "Storage targets nearly triple since COP29, but still fall 45% short of 1,500 GW pledge",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-10-15T00:52:36+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68304",
-   "title": "Monthly wind generation in ISO-NE is about 68% higher than last year",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-10-14T14:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.10.14/main.png?1795094794",
-   "paragraphs": [
-    "Data source: U.S. Energy Information Administration, Form EIA-930, Hourly Electric Grid Monitor Monthly wind generation in the first nine months of 2026 was an average of 68% higher compared with the same period in 2025 in ISO New England (ISO-NE):",
-    "Monthly generation from wind was highest in September of this year at 668.9 gigawatthours (GWh), more than double generation levels from September 2025 and nearly 10% higher than this year’s previous high in March. Increased wind generation is the result of growing capacity additions in the ISO-NE region. Regional wind capacity increased 47% so far in 2026 to 2.5 gigawatts, following a 12% increase in capacity in 2025. Daily wind generation peaked on October 6, 2026, at about 47.3 GWh, 1% higher than the previous peak that occurred on September 10, 2026. Total wind generation for the first nine months of 2026 was 4,619 GWh, 1.9% more than last year’s annual total of 4,533 GWh.",
-    "Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.",
-    "Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions.",
-    "Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.",
-    "Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports.",
-    "Tools to customize searches, view specific data sets, study detailed documentation, and access time-series data.",
-    "Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information."
-   ],
-   "lede": "Data source: U.S. Energy Information Administration, Form EIA-930, Hourly Electric Grid Monitor Monthly wind generation in the first nine months of 2026 was an average of 68% higher compared with the same period in 2025…",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.volts.wtf/p/checking-back-in-with-greenlight",
-   "title": "Checking back in with Greenlight America",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-10-14T10:07:46+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "byline": "David Roberts",
-   "description": "A conversation with Matt Traldi.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://substackcdn.com/image/fetch/$s_!4Pgy!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F216852432%2F94e3f693-98c3-4a88-8a6e-bec40eae546b%2Ftranscoded-1791944185.png",
-   "paragraphs": [
-    "On this episode, recorded live at Climate Week NYC, I talk with Matt Traldi. He’s the founder and CEO of Greenlight America, which finds the local meetings where clean energy’s fate is being decided and recruits supporters to attend. Traldi argues that siting and permitting approvals turn on who shows up, and that local partners, conservative groups included, outperform outside advocates. We discuss how to measure impact, recent wins and losses, blue-state resistance, data center backlash, and Greenlight’s growth.",
-    "Back in January 2025, I introduced Volts listeners to a group called Greenlight America, a nonprofit with a refreshingly simple mission: find the local meetings where the fate of clean energy projects is being determined and make sure that supporters show up to those meetings.",
-    "CEO Matt Traldi had about 20 staff then. He said the group had helped advance 4.4 gigawatts of clean energy over the previous year. In 2025, that number reached 20.9 gigawatts. In total, since our last conversation, it’s something like 55.7 gigawatts.",
-    "Staff went from 20 to 37, on track for north of 100 by the end of this year. In early 2025 they were involved in four local wins in a quarter; last month, they scored eight in a single day. The model has proven incredibly fruitful.",
-    "Traldi shared all this good news when I caught up with him at a Canary Media event during NY Climate Week. We talked about how the group finds local partners, what kinds of messages supporters deliver at these meetings, how it measures success, and how he is navigating such precipitous growth. The conversation was fun and heartening; thanks to Canary for convening it. I hope you enjoy.",
-    "David Roberts: Matt, let’s start here. We talked about two years ago on the pod, but maybe some of the audience here, some people listening at home, aren’t familiar yet with the basic model. So maybe just like give the elevator pitch. What is Greenlight? What does it do?",
-    "Matt Traldi: Sounds good. First, thank you. Such a pleasure to be back here with you, David. And thank you everyone for being here, everyone listening. So I’m Matt Traldi. I’ll do a quick personal intro and then, you know, go to Greenlight. My background is in political organizing. I was in the labor movement for around a decade. Then in 2016, I was one of the co-founders of Indivisible, a national grassroots network that sprung up to respond to the first time Trump won the election.",
-    "And a few years ago, a couple things happened at once. First, my wife and I decided to become parents. I’d always cared about climate, but that pushed it up my personal priority list. And right around the same time while I was at Indivisible, I got to work a little on passing the Inflation Reduction Act and felt very excited and optimistic about this area of work. Still do, by the way. Still do. Spoiler alert.",
-    "And so I started learning as much as I could about what it would take to transition the economy to build a ton of clean energy. And what I kept hearing from folks who were doing this work in the industry and the advocacy space was that in the next decade, the overwhelming majority of emissions reduction would come from the power sector, mainly from building big clean energy projects and taking fossil fuels off the grid."
-   ],
-   "lede": "A conversation with Matt Traldi.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1FMOTdvbGwwdVl6U3l4STFrdFpoRjc3bXNQa1BiQ0hrQUhpeEV3MkNOUnROSW1fdlFtYnRaZUNKbEQtV1ZhYlZzeHdWYW5iTHJIdjR1bWFUaFRBNXBlSkt4cUN1ZFRCYjFzSUZxam1jQ1RqdlJpc1VMaVhZRWhaNTVGZ01vQWJ3ZTVBN2diSUk2QjBhUDhfZXlZMF94dHRobFhteHoyaWIxOVRpU2FfaW15dTJfNlR3SXJCMHFIMA?oc=5",
-   "title": "Electric energy security: how EVs are reducing oil import vulnerabilities - ember-energy.org",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-10-14T07:00:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
-   "title": "One in ten people are older than 65. Three in four live under a leader who is.",
-   "source": "Sustainability by Numbers",
-   "desk": "analysis",
-   "published": "2026-10-14T05:59:03+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "byline": "Hannah Ritchie",
-   "description": "How old are leaders across the world, and how long have they been in power?",
-   "image": "https://substackcdn.com/image/fetch/$s_!5vaG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32daaec1-d2fa-4fd6-97ce-fafc18d1eee9_2048x2048.png",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Paul Biya, Cameroon’s president, is 93 years old. He leads a country where the median age is just 18. A staggering 75-year age gap.",
-    "Biya is the most extreme example, but he reflects a pattern we see almost everywhere in the world. Leaders are often a lot older than the populations they govern. Three in four people globally live in a country led by someone over 65. Two in three have a leader older than 70. Most of the world lives under a leader who is past the age when most people retire.",
-    "With some help from Claude, I’ve compiled a dataset on the age of each country’s current leader and how long they’ve been in power across more than 140 countries. 1 The leader, here, is the person with the main executive power. This can be the prime minister, president, or monarch. 2",
-    "Let’s start with the 19 countries in the G20; it brings together a mix of countries from different regions. Two leaders are over 80: Brazil’s Lula da Silva (who might not be in office for much longer), and Donald Trump. Another seven are in the over-70s camp. Only three — Italy’s Meloni, France’s Macron, and Saudi Arabia’s Mohammed bin Salman — are younger than 50 (if you take King Salman to be Saudi’s executive leader instead, it’s just two).",
-    "Vladimir Putin has been in office for 27 years (including four years as prime minister), followed by Turkey’s Erdoğan with 24 years (including eleven as prime minister).",
-    "I won’t go through every region one by one, but you can explore each for yourself in the interactive version.",
-    "I do want to look at Africa’s distribution, though. It has many leaders who have been ruling for decades.",
-    "Cameroon’s president, Paul Biya, is 93 years old and has been in office since he was almost 50. Several are in their eighties and have been leading since their mid-30s.",
-    "Of course, many African countries are not democracies, so their leaders have not been kept in office through free and fair elections. 31 of the 41 African countries in this dataset are autocracies, and they’re home to 8 of the 10 continent’s oldest leaders.",
-    "The median age — that is, the person in the middle if we lined them all up from youngest to oldest — of leaders globally is around 64 years."
-   ],
-   "lede": "How old are leaders across the world, and how long have they been in power?"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpRVVwR01ibjhuZC11Q1ItOTNzRFJQcEJ2M19fNVNWaU1vek02YmQzN01UTTNjNDFJbFc2aFBTQzJSaWFINUV4Q3lhT3lPYUNUeEM5dHZicXd2aHJvZlRpVVNR?oc=5",
-   "title": "Monthly EV Sales Data",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-10-14T03:17:49+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ18zRlFDWDN5dnFzWDRfSnFuQXN0UlhRN1NPQmlQTUt6TUxhaFVXS29iUEprelpRbEZTdWNISVZrbXBMVUpDaG02YU5BcmlQcmlzTE95LURSdkIwRy1OdF9GM05BU18ya0JSbWJfTkFEQzhBRF9BZTUySUp5VzN0M1JoRFFOQ0Vt?oc=5",
-   "title": "World Energy Transition Outlook 2026: 1.5°C Pathway",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-13T07:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXE3VkQzdk5mUHhYd0hHN2pBaHgyV3ZZcHRRWjZCWFhxRGRreTRrNlhldjF2NFYzTkdJQ1NDNWo1NWxtblhKSHJIMXZmNVJXRm5QOFJqMXlyREcybWdUTGg2OWhocDJ6UnlFRS1MMExlaDlYcVRqNmM0QWdHM2ZjbVdzU2N2UGRLeHV5LWNHeUVvdGhVcS1pUWo0V0VBa2VscnB2MmJBSDdHTnJueXI1YndOcHE?oc=5",
-   "title": "Electrification with Renewables Holds Key to World’s Energy Needs",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-13T07:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUlkwdzFmSkZ1ZFBlRWJ4T1JWZ1J0bFhkejF2d3UtY25QMG8zZWFBWUxBZllCWVVVR083SUZXMFdsWWhJcTV3TkdwNnF6TmhJb1FMNkhhZUxsZjFiRVItQWxodXlzRjJ6eEtFOG92VnBldEZMaFpNM21kdnRLeHhOS3ZjZ3ctNzBibWE1WmRicGtYanlWS2p0NXlwZTMwQTcyOXc3SE00UUpYTldo?oc=5",
-   "title": "[Ember] Japan already asks its gas suppliers about methane_EN",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-10-13T05:08:32+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.volts.wtf/p/volts-community-thread-31-postcard",
-   "title": "Volts community thread #31: Postcard from Denmark",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-10-12T15:03:51+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "byline": "David Roberts",
-   "description": "Open to all free & paid subscribers.",
-   "image": "https://substackcdn.com/image/fetch/$s_!RhMq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43ac9c29-5305-4662-bc3a-de6bc3352823_4000x3000.jpeg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "1. 🇩🇰 As promised in last month’s note, I flew straight from Climate Week NYC — where I found the sideline conversations quite doomy — to Denmark, where I was immersed in thoughtful, cooperative, successful green infrastructure. It was a balm.",
-    "I was on an “Industrial Symbiosis” tour — you can read about it and see the itinerary here.",
-    "Copenhagen itself, of course, which is just as dreamy as everyone says — probably my favorite city I’ve ever visited. During every free second I rented one of the many ebikes from one of the many bikeshare services and just rode, rode, rode. I probably put in 200 miles, all of it on safe, grade-separated bike infrastructure, which is ubiquitous. I could go on about this forever but I’ll just say that, although the city is big, every particular spot in it is somehow … cozy. Human-scale. This includes large-scale, dense housing, which is never fronted by busy roads, always tucked away so it feels quiet and intimate. I didn’t take enough pictures (I never remember), but here are a few:",
-    "Aarhus, the second largest city in Denmark, is a hidden gem. We visited the port (we visited so many ports …), but my favorite part was our visit to Sydhavnen, the new arts district. They’re developing this raw, post-industrial area between the port and the rest of the city into a district devoted to “creative industries” — artist studios, sound studios, music venues, etc. It is extremely cool. One of the best bits was the recently opened “coal bridge,” adapted from an old rail line that use to carry coal. Modeled on NYC’s Highline, it will connect residential areas to the arts district. Just awesome.",
-    "In Skive we got to hang out and talk with the CEO of GreenLab, a semi-off-grid industrial park in the middle of extremely rural land. The park generates most of its own power (~90 percent, as I recall) with wind and solar and uses it to power industrial facilities on the site. There’s a facility that processes agricultural waste into biochar; one that processes plastic waste into chemical feedstocks; one that processes marine byproducts into animal feed; one that electrolyzes hydrogen; and so on. Industrial symbiosis! The extra power goes into batteries and heat batteries, so industries receive steady power and heat around the clock. They’re planning something like a dozen of these parks across the country. I may do a whole pod on it at some point.",
-    "The port of Esbjerg (which I heard said aloud probably 100 times and still can not pronounce) — one of Denmark’s newest cities — was cool mainly because it’s become a hub for the offshore wind industry, so we got to see all the giant towers, nacelles, and blades waiting to be loaded on ships. Y’all, that stuff is so big.",
-    "We learned about ports, district heating systems, biomass, carbon capture, on and on, but if I had to pull out a central theme, it is this: a society high in social trust can achieve wonders. The drive toward carbon neutrality is supported across the political spectrum. Municipalities own their own electric utilities and district heating systems, so they can make long-term plans and investments, secure in the knowledge that policy won’t lurch in different directions every few years. They conceive of themselves as involved in a common project, as an Us, and it enables an incredible degree of planning and forethought."
-   ],
-   "lede": "Open to all free & paid subscribers."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHpWNHBVRW9ia2UwMk5hc09LN3JqbkxqdWEtcF9rMjYwcWhYcmRvclJQWDVVNXM5RjM2R1Zaa05aS1FOaHJEQ09uQVZWYTgxSXpyU1BOZ0tTYTVzZU9LOGtMUzRhUFBWVEZJX0lPMkp5OVJDbzF3VXdjTDJOZGhyWnEyekVNZ2FPb1UzSWl2bUJNU2pyVmtuOFpscWwxVUZWRzJSWndtQmpWVGFIaXRtS0Mtc2N2NGFmU01zcg?oc=5",
-   "title": "Clean cooking as an energy-smart agrifood system solution to improve food security",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-12T07:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82aXFCaTdfYlVNbUE4c0U2T3dHUUVOdHl0aWpjcHNDc01tRWVuSkdnWERVUFVQOXRCeDNyS3cwTmhaZmg5emtuVzR3bjcwVWlieFJzbkpfdWtzV3E4QU1HTnROYw?oc=5",
-   "title": "Latest EU NECP Target Data",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-10-11T07:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcURMM0RydG8zWUZweWZyY3F5Q1luQTFoYUFqNVJENkdxUFBFRi05dkRZZFFjMzVscnk3dFlQcHFFbXVESnVMNkpEMnBZeDZSSjNtc19rUXRHRTlzaUt1QTU2OTZzcUJmY3lqV2lBOEZPZWZ0OWY5OExXQ1dhVEJzMUtDWC1VOTl0NVE?oc=5",
-   "title": "Global High-Level Forum on Energy Transition - Accelerating the Global Energy Transition: Tripling Renewables and Electrification",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-10T07:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.volts.wtf/p/whats-up-with-the-new-federal-permitting",
-   "title": "What’s up with the new federal permitting reform bill?",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-10-09T10:01:37+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "byline": "David Roberts",
-   "description": "A conversation with Daniel Palken of Arnold Ventures.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://substackcdn.com/image/fetch/$s_!_nm5!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F219044857%2Fcdc52cdc-3908-45b3-92f8-a0f5ac3c7fe1%2Ftranscoded-1791539378.png",
-   "paragraphs": [
-    "If you are involved in energy discussions, you are almost certainly aware that the long-awaited federal permitting reform bill has finally been unveiled. The Bipartisan American Affordability and Jobs Act (BAAJA) was hashed out over the course of many fraught months of negotiation among Sens. Shelley Moore Capito (R-WV) and Sheldon Whitehouse (D-RI) of the Environment and Public Works committee and Sens. Mike Lee (R-UT) and Martin Heinrich (D-NM) of the Energy and Natural Resources committee. It is a genuinely bipartisan proposal in that it contains provisions each side loves and provisions each side hates.",
-    "The bill is more ambitious than analysts expected, in almost every direction, and it has divided both coalitions. Many climate organizations have urged Democrats in Congress to vote against it, though others have remained neutral or tentatively positive, while clean energy industry boosters and investors love it. Fossil energy groups also love it, though the more radical Freedom Caucus in Congress objects to the presence of virtually any provisions that help renewable energy.",
-    "Everyone is fighting over it. Online discussion has been, even for our era, heated and vicious, with personal insults and skepticism about motives flying in every direction.",
-    "What I’m going to attempt to do today is have a reasonable discussion of the contents and relative merits of the bill. My guest is Daniel Palken, who runs infrastructure and energy permitting work at Arnold Ventures, a philanthropy devoted to sustainable energy systems. Before that, he spent more than four years in the Senate working for various senators on various bits and pieces of permitting legislation, including 2024’s ill-fated Manchin–Barrasso Energy Permitting Reform Act (EPRA). He has seen the process from the inside and followed the development of all the various provisions closely.",
-    "We’re going to discuss how we got here, what the bill actually says, what we might reasonably conclude it will do, and the political considerations going forward. I expect this pod will fully please no one, but I hope that those of you out there who have not tuned in yet will find it, at the very least, educational. Let’s get into it.",
-    "Permit Me To Explain - Senate Permitting Bill, Take One: States Could Take on ESA Consultations",
-    "Permit Me To Explain - Senate Permitting, Take Two: This Bill is a Net Positive for Endangered Species",
-    "Environmental Law Reporter - Dispelling the Myths of Permitting Reform and Identifying Effective Pathways Forward",
-    "Utility Dive - An Outdated FERC Policy Is Undermining the White House’s Ratepayer Protection Pledge",
-    "David Roberts: With no further ado, Daniel Palken, welcome to Volts. Thank you so much for coming."
-   ],
-   "lede": "A conversation with Daniel Palken of Arnold Ventures.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYTYtcW0wYXVWWkgwMDNrSk8zc2k0M0ppb0FVazF1ZHdINzlWNHhtR3JwaTFaUUVXTjZYS01BZEJPSElRRkFTdEJhUENmdmxkMUswYVpzYXp1OFRQN3VKb1BkZHNNcHBhZG1EY2Z4b3pGSXFDdjJ0aFgweVlpcUwtdl9zNEFWekpCc2pwT1BpR09WQTIyTk14RTVGSEdKRGlEV3ZHOHE1aGpJY3BZWWEySjUzc1Z5RGJEWUVmcm5aWVJmS0UycmZHMndhOElXNDZ1SHFOM2NkWFVkQTlESFE?oc=5",
-   "title": "New Regional Cooperation Launched to Accelerate Energy Transition in Latin America and the Caribbean",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-09T07:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lQlVaeVRtVEtqWHhDcEd0ZTdXaC03dURKTVZhUFVtYWdJbkNPMl9Hbms2NVJURzZSZ3FmWFZ3MjlFVkh2OEJhUElrUlVRX3I5cHVhLXdBM1NWU0JZb01hVnRUX0hvZkU?oc=5",
-   "title": "IRENA at Pre-COP31",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-08T07:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlU1R19HMGFWRWJBLWk1ZE1aOHk2ZWxNVWZpRXZTVmt1Sml3cXdycXM3WHRvTjZtVHdkak5WUi1OX3lZYmtPZl80SVJZZVdRNEtRLXpLZVh4N2IzcFZfNjJXcV9IY3JFRklYQktyZWpsYlZOaDhmWmpTMmJINENBbE52SEt4Q05ocTZobV9iWmEyXzVnVU1feg?oc=5",
-   "title": "Central America and the Caribbean Energy Transition Investment Forum 2026",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-10-08T07:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.distilled.earth/p/voters-will-soon-decide-the-fate",
-   "title": "Voters Will Soon Decide the Fate of America’s Trillion Dollar AI Buildout",
-   "source": "Distilled",
-   "desk": "analysis",
-   "published": "2026-10-07T14:59:55+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "Ten races will set the rules for 67.4 GW of planned data centers—more capacity than the entire country has operating today",
-   "image": "https://substackcdn.com/image/fetch/$s_!6CUk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb416c1fc-4ad9-4531-8f98-f1109156ac40_1440x1705.png",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Today we’re publishing The Geography of Compute, our report on where companies are building data centers in the US and why. Today’s story comes from the report’s final section, on the 2026 midterms. If you’re interested in the full report, reach out to learn more about Cleanview’s research subscription. If you’re a journalist, contact us here.",
-    "In Ohio, Democrat Sherrod Brown is running ads that call Republican Sen. Jon Husted “the face of data centers in Ohio.” In Michigan, Republican Senate candidate Mike Rogers backs a one-year moratorium on new data centers. In Texas, both Senate candidates want to end the state’s sales tax break for data centers.",
-    "But the near-term future of data centers in America won’t be determined by Congressional midterm elections. Instead, the fate of America’s AI buildout depends on races further down the ballot.",
-    "President Trump has made his support for data centers clear. Last month he wrote that towns fighting data centers are choosing to be “backwards and poor.” When Texas’ Governor, Greg Abbott, paused data center approvals in August, Trump called the decision “a mistake.” The President’s support and veto power would make it difficult for Congress to pass any meaningful legislation that regulates data center development.",
-    "At the state level, the picture is very different. Governors and state legislators have significant power to block, slow, or otherwise regulate data center development. They can pass moratoriums, strip tax breaks, appoint new utility regulators, and require more stringent environmental and labor standards.",
-    "None of these projects have started construction yet, which means the next governor could still decide whether, and on what terms, they get built.",
-    "No state with a close governor’s race has more planned data center capacity than Ohio. Developers have announced 21.9 GW of data centers there that haven’t yet broken ground. The Columbus area is already one of the fastest-growing data center markets in the country.",
-    "Both candidates for governor say they’d slow that growth down. Republican Vivek Ramaswamy says that on his first day in office, he would “immediately halt the approval of any new data center projects” until his data center law passes. Under his plan, data centers would have to give nearby residents free electricity or compensation and pay full property taxes. Democrat Amy Acton backs a moratorium until data centers pay 100% of their utility costs, among other conditions.",
-    "Democrat Keisha Lance Bottoms wants a temporary statewide pause on new data center construction. “Let us take a pause, assess fully, assess comprehensively, assess the impact that these data centers are having on our environment, on our utility bills,” she said, according to the Georgia Recorder.",
-    "Republican Rick Jackson wants to leave the decision to local officials. “Every community should decide,” he has said."
-   ],
-   "lede": "Today we’re publishing The Geography of Compute, our report on where companies are building data centers in the US and why. Today’s story comes from the report’s final section, on the 2026 midterms.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68264",
-   "title": "Mixed outlook for energy expenditures this winter",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-10-07T14:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.10.07/main.png?1795094797",
-   "paragraphs": [
-    "Data source: U.S. Energy Information Administration, Short-Term Energy Outlook We expect energy expenditures this winter to vary because of diverging trends in energy prices among fuels and regional variation in forecast temperatures. We expect that lower prices for natural gas and propane will drive decreases in expenditures this year for the half of U.S. households heating with those fuels. Higher prices for electricity and heating oil drive increased expenditures for households heating with those fuels in our forecast.",
-    "Although we expect national average temperatures to be similar to last winter, our forecast assumes warmer temperatures in the Northeast, following a relatively cold winter last year, and much colder temperatures in the West, following an unusually warm winter last year. Temperatures in the Midwest and South are similar to last year.",
-    "Homes that use heating oil as their main heating fuel—about 3% of U.S. homes, which are mostly in the Northeast—could see the largest increase in spending this year. We expect a 21% increase in spending on heating oil compared with last winter, driven by increasing global distillate prices. We forecast the price of heating oil will average 34% more this winter than last winter, but warmer forecast temperatures are expected to partly offset our forecast increase in prices. We expect the more than 40% of homes heating with electricity will experience a 4% increase in electricity bills on average. We expect energy expenditures will decrease on average by 9% in homes heating with natural gas and by 3% in those heating with propane.",
-    "Global distillate fuel production, which includes heating oil production, has dropped because of reduced global refining activity. Lower production has caused rising international prices, driving up both the cost to import distillate to the United States and the demand for distillate exports from the United States. Through the first seven months of 2026, U.S. distillate exports increased 20% over the same period last year, with much of the increased volumes sent to Europe.",
-    "With more costly U.S. imports and higher demand for U.S. exports, U.S. distillate fuel stocks are low heading into winter. We expect inventories will be about 11% below the five-year average in the fourth quarter of 2026.",
-    "Tags: prices, WFO (Winter Fuels Outlook), STEO (Short-Term Energy Outlook), heating oil, weather, diesel",
-    "Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.",
-    "Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions.",
-    "Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.",
-    "Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports."
-   ],
-   "lede": "Data source: U.S. Energy Information Administration, Short-Term Energy Outlook We expect energy expenditures this winter to vary because of diverging trends in energy prices among fuels and regional variation in…",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.volts.wtf/p/the-grueling-fight-to-pass-the-inflation",
-   "title": "The grueling fight to pass the Inflation Reduction Act",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-10-07T10:06:44+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "byline": "David Roberts",
-   "description": "A conversation with Leah Stokes.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://substackcdn.com/image/fetch/$s_!aogj!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F211085923%2F1ff921a9-bcc8-4ecb-8b37-e68ab68bd2ec%2Ftranscoded-1791340200.png",
-   "paragraphs": [
-    "On September 14, I sat down with Leah Stokes in front of a live audience at Seattle’s Town Hall to talk about her new book, The Carbon Wave. It’s an insider account of how the Inflation Reduction Act got made, braided with the story of the high-risk twin pregnancy she went through while helping to make it. We get into why electrification is the heart of decarbonization, the enduring mystery of what’s going on in Joe Manchin’s head, what it means to trade your carbon footprint for a carbon wave, and how much of the IRA survives. It was followed by questions from the audience.",
-    "As listeners know, I tracked the ups and downs of the fight for the Inflation Reduction Act quite closely. Nonetheless, when I read the new book by climate policy scholar and professor Leah Stokes, The Carbon Wave: A Story of Democracy, Parenthood, and the Race to Protect Our Planet, I was turning pages late into the night, in a cold sweat. It might as well have been a thriller.",
-    "See, it’s not just about the struggle to write and pass the bill, but about the personal dramas of a few key figures involved, including Stokes herself. During the bill’s two-year gestation, she endured a high-risk pregnancy, bed rest, the premature birth of twins, and 75 days in the NICU. She did media hits from her hospital bed! And that’s only one of the stories in the book.",
-    "It does an incredible job of humanizing a story that many people, including us here at Volts, experienced mainly as a wonky battle of models and whitepapers.",
-    "Her twins are doing fine today, which is more than one can say about the IRA. The grim Trumpian end to the story is just one of the things I discussed with Stokes at a live book event at Seattle’s Town Hall on September 14. We talked about the bill’s core push for electrification, the enduring mystery of what’s going on in Joe Manchin’s head, and what it means to shift your focus from your carbon footprint to your carbon wave. I hope you enjoy it as much as I did.",
-    "Climate Cabinet ( Website ), Sierra Club Beyond Coal Campaign ( Website ), Third Act ( Website)",
-    "Senate ENR - Heinrich, Lee, Capito, and Whitehouse Introduce Bipartisan American Affordability and Jobs Act of 2026",
-    "Leah Stokes: I was paid a lot to say that. A lot of money. I’m getting a big cut tonight, yeah.",
-    "David Roberts: Yes. Thank you. So let’s jump in. So Leah, I read your book, and as you know, I followed the IRA fight very closely at great cost to my mental health. So I knew all the twists and turns of the IRA fight, and yet I’m reading your book, like, sweating, like, staying up late at night because I’m like, “Her kids. Are the twins okay? And what’s, how’s the pregnancy gonna turn out? Is Adrian ever gonna get home to his family?” Like... So, like, the personal stuff was very, very interesting to me. And I looked it up. Right when the bill was about to pass-",
-    "David Roberts: And I looked it up and looked at the book chronology, and I’m pretty sure you did the pod, like... So you had, like, had this problematic pregnancy, bed-bound, early delivery, one of your kids is in the NICU for 75 days. And I looked it up. I think literally the day we recorded the pod, you had to cancel their first birthday party-"
-   ],
-   "lede": "A conversation with Leah Stokes.",
-   "tags": [
-    "policy"
    ]
   }
  ],
