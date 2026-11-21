@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:05:34+00:00",
+ "updated": "2026-11-21T17:58:29+00:00",
  "briefing": {
   "headline": "Battery storage, solar and the grid",
   "period": "Nov 15–21",
@@ -44,6 +44,90 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fSWNlWnI4Z2xQc1lsLVRWaWd0dlczb1JDZG1Wa1NleEc5eFB1SHRHT3JEM1dHcGhOVFlUZl9SdG1KTHNka25sMG9zUFI3MnFidWdfaVlHeXJSVFhHWklock1yNXJhQ2M?oc=5",
+   "title": "The Dark Cloud Hanging Over COP31",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-21T16:28:35+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/21/gta-6-electric-vehicles-mainstream-vice-city/",
+   "title": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-21T16:21:57+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "Electrify America",
+    "ev charging",
+    "florida",
+    "GTA 6"
+   ],
+   "description": "GTA 6 electric vehicles are everywhere in Vice City: Tesla and Porsche lookalikes, ReVolt America chargers, even ICEd stalls. Here's how far GTA EVs came.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/GTA6-electric-cars.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Electric vehicles have finally gone mainstream in Grand Theft Auto. In GTA 6, EVs are just part of everyday traffic in Vice City, from Tesla and Porsche lookalikes to a parody of Electrify America’s charging network.",
+    "It’s a big change for a series that spent over a decade treating EVs as a Tesla joke. After a few days of playing, I’d say Rockstar nailed the vibe.",
+    "I’ve been playing GTA 6 since it launched on Thursday, partly for fun and partly because I wanted to see how Rockstar would handle EVs this time. The answer: a lot better than I expected.",
+    "The game starts you in the Keys, Rockstar’s take on the Florida Keys, and it’s a rougher part of Leonida. Lots of older cars and beaters, and you won’t see many EVs.",
+    "That changes as you head north to Vice City, the game’s version of Miami. The closer you get, the more electric cars show up in traffic, and the more charging stations you pass. By the time you’re in the city, EVs are just normal cars.",
+    "That’s pretty much how EV adoption looks in the real world, concentrated in big, wealthier metro areas while rural areas lag behind.",
+    "That last one got me. Gas cars blocking chargers has been a complaint for as long as public charging has existed, and we’ve covered EV owners blocking a gas station in protest over ICEing. Rockstar recreating it tells me someone at the studio has actually tried to charge an EV in public. Probably even in Florida, which they tried to recreate here.",
+    "GTA 6 is the first mainline GTA where energy matters. Gas cars burn fuel and need a pump, and EVs have a battery level and need a plug.",
+    "Rockstar could have used that to make EVs a pain. It didn’t. In my testing, the EVs have about the same range as the gas cars, charge just as fast as a fill-up, and cost the same or less to top up.",
+    "Kotaku’s range test backs that up. On the same highway loop, a Tesla Model 3 lookalike lasted 20 minutes and 23 seconds on a charge, longer than the Banshee sports car at 18 minutes and 31 seconds, and not far off an old pickup at 29 minutes and 8 seconds. Crossing the whole map by highway takes under 15 minutes, according to Kotaku."
+   ],
+   "lede": "GTA 6 electric vehicles are everywhere in Vice City: Tesla and Porsche lookalikes, ReVolt America chargers, even ICEd stalls. Here's how far GTA EVs came.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/21/elon-musk-tesla-argentina-launch-awkward-video-milei/",
+   "title": "Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-21T15:11:17+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "elon musk",
+    "Tesla",
+    "Tesla Model 3",
+    "Tesla Model Y"
+   ],
+   "description": "Elon Musk joined Tesla's Argentina launch with Milei by video and froze: 'I don't really know what I want to say.' The Model 3 starts at $40,990.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest market. It didn’t go well.",
+    "Musk got through one line about Tesla before stalling out: “Sorry, I don’t really know what I want to say.” The call ended about two minutes in, without any real pitch for the Model 3 or Model Y that Tesla had just put on sale.",
+    "The launch took place at Arenas Studio in Buenos Aires’ La Boca neighborhood. Milei spoke for less than eight minutes, then the host asked the room to welcome “our next guest,” and Musk popped up on the giant screen from what looked like an airplane cabin. Milei burst out laughing and bounced on his feet.",
+    "Musk started fine: “Hello, Argentina. Well, here we are. It’s a joy to share Tesla with all of you and to establish ourselves there.”",
+    "Then he started glancing off to each side. “Actually, I don’t really know what to say, other than thank you for this welcome to Tesla in Argentina,” he said. He briefly mentioned a charging network with state-owned oil company YPF, thanked the audience again, and then: “Sorry, I don’t really know what I want to say.”",
+    "Milei tried to save it. Back on stage, he told the crowd that “those who do a lot, talk little,” and called Musk “the Leonardo da Vinci of the 21st century.”",
+    "The clip is now spreading fast in Argentina, with one post of the video racking up over 1.1 million views overnight.",
+    "Tesla opened online orders on Friday for five versions of the Model 3 and Model Y, all imported from Gigafactory Shanghai. Here are the list prices, VAT included:",
+    "Argentina is Tesla’s fourth direct-sales market in South America after Chile, Colombia, and Uruguay, which launched in July. Tesla is late to the party, though. BYD already leads Argentina’s EV market after Milei’s government cut import taxes on electric vehicles.",
+    "What I really found awkward was hearing Musk stating \" I'm not MAGA, I'm not sure what MAGA means \" in his interview with CNBC."
+   ],
+   "lede": "Elon Musk joined Tesla's Argentina launch with Milei by video and froze: 'I don't really know what I want to say.' The Model 3 starts at $40,990.",
+   "tags": [
+    "transport"
+   ]
+  },
   {
    "url": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/",
    "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
@@ -1573,6 +1657,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWg4a2c5TDFXb1F2VjJnX1JUUnZCNlM1WGJ1bjFaWmY5NGVoSF9YQzZweER4eGFXT3VHREtnUTBxSlU4MEZpbzNWS2pHZ2JNR2VVQkotSUkxRFc4NzBtYk9ReXdZY1Z6NTV5YzJZX29IWE1UX0l2RkItU2NpaEhIRjR1a0Y?oc=5",
+   "title": "A thaw in India’s ties with Pakistan?",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-20T01:30:32+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://electrek.co/2026/11/19/gms-v2g-pilot-wants-to-pay-california-drivers-for-power-from-parked-evs/",
    "title": "GM’s V2G pilot wants to pay California drivers for power from parked EVs",
    "source": "Electrek",
@@ -1722,6 +1817,17 @@
    "desk": "news",
    "published": "2026-11-19T21:33:34+00:00",
    "seen": "2026-11-20T03:18:13+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XUnVreW9tVXlDRlRnczNSTk5jRXVnNUdwNHAxS2t1Mmc2TDhMRm92YjlBQktJRFBidDlnVzVMa24zUkpMdlo2ZHBHWlRwci1fVTVBMDJDT2tsUGNlUEZiWVhlSTVNUkh3Zk16c3BoajMwRzRi?oc=5",
+   "title": "The week in unusual pictures",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-19T20:26:00+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -1951,6 +2057,17 @@
    "desk": "news",
    "published": "2026-11-19T15:29:21+00:00",
    "seen": "2026-11-21T02:17:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb2ZRblA2NEVaZVg0MWRrYU9rOEdUaVN3bWJmdS0zbGJDMllGSk04OEtJZzU1bG41dzVqTXdKYVhxUndhYU1iZDJncTFWY3M2cXFGS1RDWmYyOE5tUExGOGdyQXFkZE5rQnVHYU1BTkFoaFNRWGh4eUduaFNYMENtdG51OGJVT1lyLXIxaS1BUHB0VnlfN1V1SDJVU2loYmNndmhBLUpqTUV0SS1NQWFQaXFsWEFGNkdEM29icURn?oc=5",
+   "title": "Soaring gas prices could add €16 billion to German power cost, study shows",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-19T15:27:47+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2245,6 +2362,20 @@
    "tags": [
     "industry",
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTFPdjMzazFsQ3ZfOW1jZW14LXN3T2NGa2VmVTJCWWVBZmlYSURHNXV4Ukp2SlJwZUpNWjVmaThtZGUxUzRWY0NPa1M4X2MzWkFRR1RSY001OUc5ZXJ6UDJLTmRpd080RlM5RUppMW03bmxaemMxcXY4RDlQR0dEMGpxWS0tRUdSUTg5c2RyY250MEhObkI0ZlNjZEcyMEpyY2QxbWlOZ0xRREY1b1hudHVZMk5idw?oc=5",
+   "title": "COP31: Do We Really Need 92,000 People at a Climate Conference?",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-19T12:30:02+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -3666,6 +3797,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkExdndlaTNZYjlHQ1lkakt4WDh5dEIyWTZCS01zelotQmJ4VUdZSGg3SDFpZHFjUVRkU25pMGFlX2JmSTg0SG8zYlNLMjV2bkIxbXNTYlA4RmRHLUJjdUl6Mks0RjliQVV6Si1hbTYzNnpDOGFZR1p2QUtpN19TMVRiM3VkVW1tTFptdmtTd0FINnZsTUpWZGh5NTctLWFKZ1BiSFNUVnlfZ0MzX0JRalFaMDJ6ZGlYX0E?oc=5",
+   "title": "Canada talked to Mexico about joining global defence bank, Anand says",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T17:08:11+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://electrek.co/2026/11/18/fords-first-lfp-batteries-en-route-30k-fathom-ev-pickup/",
    "title": "Ford’s first LFP batteries are en route, and the $30,000 Fathom EV pickup will get them first",
    "source": "Electrek",
@@ -3880,6 +4022,21 @@
    "lede": "Deals and acquisitions were announced this week as RE+, the biggest clean energy trade show in the US, takes place in Las Vegas, Nevada.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHp2TzJ2Y05ya3ZTTlItZFoxczJaalNkTGJtUXU3d2VEZG8yQlJIUEl1RDdiN0hxRlE3WXAxVzdFRGRpeXRMTHJkVEE5Z09uMW1wR2VXUVZDdHBPbXdIMWk0SXdjeFZiZ3htVUF3RkxibzQ0VU9BYTdZTkYxSU8tUHFvRkNyWTVxUlFrQ0JBR0hINU9mYXA4ZEpIZ2swLWpOS2hwOGRVbzBjamE5dHFfZ3pzd1NFOHc4?oc=5",
+   "title": "Europe EV sales jump in October as high oil prices, subsidies fuel demand",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T14:45:43+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy",
+    "transport"
    ]
   },
   {
@@ -4369,6 +4526,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU1GYUNEX0tIOUhHR2IxTnZMMS1SSVhJeTZCdzJ1aGVYQnVsSmtyQm55c0c5VnhKb0JnQmItYk54ZWhsQndMWG5nTUdHVGRELXd4SXNOWFN0d29xNjFGSC1PMGtxQV8xaTBKWl9nMExZZldjOGxSRmNCUnNFdXpGOUg5SkJmZW9sX3hELVByU0pmby0wYVdTQzZjWXRibDdQTTNzb0U4NUVOS0QwOTJJOThlNA?oc=5",
+   "title": "Magnitude 6 earthquake strikes Papua New Guinea, GFZ says",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T03:57:00+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1VzUmE4VkZSMHJ3WkZFUlFQaWxBM0lnSUtDSm9JVTJsbGFscVBybUJuQXFlbmpQSTRCbnhlbnNIS2VHN0ozdWMydGMxUWF5SldZcUxnT0pfZGctbUFRLXNISnY2M3NhNGZ1RnVxV3ltMkhkNzVhTGJoSEZTd01DX1Q4ck5LMkFOaGlnQzdYSUJBbnlYX2ZGb3JCR3V2RkNLOGRPb1JnYzM5MzJGNGdvaE9CS2FXRmNCLUN3?oc=5",
    "title": "EU reaches provisional deal to speed permits for renewable energy projects",
    "source": "Reuters",
@@ -4575,6 +4743,20 @@
    "fetched": true,
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/scout-motors-blythewood-production-center-aerial.jpg?quality=82&strip=all&resize=1200,628",
    "lede": "Scout Motors is building its first validation vehicles at its $2 billion South Carolina plant, but Traveler and Terra deliveries won't start until 2028."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSF9VanNvZEtldmpHbllkTGFBN0N1T0FVS3JhcU1XZV8xOGc2eWh6ajExTVFtRjVtdFFqYUxwZnFCd21RVXdRcEktc1ZYV3cyTkJ1TjBPLTJWdFVIOFJRTW9xN1F0M3pyczNqRnZSWHZXMUhIRzFCaE92MElrMTA1RHpQblFnVnZSc2hHenJSMUdJVGd1VlBxNWJHb0NZVkREM2RyOHBaM3NrNkUyUFhZYnp1WTFMdll1U1E?oc=5",
+   "title": "China Uses Exports as a Weapon. A Buyers' Club Could Blunt It",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-17T21:02:46+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
   },
   {
    "url": "https://electrek.co/2026/11/17/toyota-adds-1000-off-0-apr-to-bigger-electric-suv/",
@@ -4986,6 +5168,17 @@
     "policy",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oZXRxaWdGUElYa2kzbzlnZWZNZmZuSFB2WFpqU3FKVXdxYXhqY0VOLV9yNUY3Y3VBcHhCa1N3LVFCLVlTeTFJQXNjUnRDamhQektUTE00eXR2TGFqYkctLUthUGo2cHVSN2xTSjVGOHpicjhuLXNQRFNGU3g?oc=5",
+   "title": "with Facebook",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-17T14:25:21+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/",
@@ -6406,6 +6599,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJYTFjNnJjWkJJS1NJdzE5Z0V6TE43Q1NzekFzUnd6NDZULWVPenVpbVpwSDJ4LWV3Qy1TbXYzYlg5WTZ4RkQ1Yng5ZEkwd1hkSmpLTTV5UHVXQk56dWc?oc=5",
+   "title": "with Google",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-16T01:51:13+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2ZZdGRPUmY2RWlJQzY0RXB2ZktZZDFTT0EwVm9sSFB2ZnJiaGRLWFhIUHIzMVM0ZVlyeFJscmlFT2ZmRk02ckViT291SkY1NVhvaVdIMDZONG1Za29PM2NaN1NkVVJDS3l2ZVE3ZFh0VzNoTUdQLVlJWGZBMGlsd3p5aG1BSUxIR0F1RjgtcnB0elk0MzQwLVh6Y094YnJqQ1lyWmZPbzcwNDlVRW5KdllBTQ?oc=5",
    "title": "Peak Energy Eyes Korea Green Projects as War Upends Fuel Flows",
    "source": "Bloomberg",
@@ -6468,6 +6672,105 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/15/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/",
+   "title": "Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-15T16:07:39+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "autonomous",
+    "commercial robots",
+    "lawn mower"
+   ],
+   "description": "Autonomous lawncare specialists Greenzie passed a major milestone with their self-driving mowers last week, surpassing 255,000 cumulative robomowing miles. For...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Autonomous lawncare specialists Greenzie passed a major milestone with their self-driving mowers last week, surpassing 255,000 cumulative robomowing miles. For context, that’s far enough to mow every inch of space between the Earth and Moon.",
+    "Greenzie announced the self-driving milestone last week, and it’s genuinely impressive, reflecting Greenzie Powered Autonomy mowing more than 9 billion (with a b) square feet of turf across more than 200 commercial customers, 45 US states, and more than 500,000 equivalent man-hours of mowing.",
+    "And, while I might have pointed the fact that Greenzie mowers have covered more miles in its press release than Daimler’s entire hydrogen truck fleet, the company really seems to be leaning into the Moon angle.",
+    "“We mowed to the moon, but the real achievement is the commercial experience behind those miles,” says Charles Brian Quinn, co-founder and CEO of Greenzie and almost definitely the guy who first came up with the lunar lawncare line. “Every mile represents equipment working on real properties with commercial crews. That experience has shaped our technology, strengthened our OEM partnerships and taught us how to help customers successfully integrate autonomy into their daily operations.”",
+    "Greenzie develops autonomous packages for, and maintains OEM relationships with electric brands Mean Green Electric Mowers (whose Vanquish Autonomous commercial mower is shown, above), and Greenworks Commercial, as well as gas-powered brands like Bobcat and Wright Manufacturing. Regardless of what powers the mowers, Greenzie supplies the self-driving technology and integration expertise, while its OEM partners develop and manufacture the equipment that does the actual cutting, clearing, and whatever else their clients need.",
+    "“Successful autonomy requires more than capable technology,” said Steve Bush, chief operating officer of Greenzie. “Customers need to understand where autonomy fits into their operations, how to prepare their crews and how to measure success. We have spent years learning those lessons alongside our customers and OEM partners, creating a more consistent path to adoption as the industry grows.”",
+    "The Mean Green Vanquish Autonomous featured gere is a fully electric, stand-on, zero-turn (ZTR) mower built around an all-day-ready 22 kWh li-ion battery pack and featuring a 60″ rear-discharge mulching deck.",
+    "Mean Green claims that the combination of big battery and the electric motors that drive the ZTR mower and spin up its blades are good up to eight hours of continuous mowing on a charge, with an aluminum chassis and deck helping to keep the machine’s overall weight down for easier towing maximum efficiency.",
+    "The company says the mower can operate in either manual or autonomous mode, with Greenzie’s self-driving software supported by six depth-sensing stereo cameras providing 360-degree vision, RTK-corrected GPS, and visual-inertial odometry for onboard site mapping and precise positioning, which Greenzie says allows the mower to detect obstacles up to twenty feet away, recognize designated keep-out zones, and automatically return to its starting point when called back."
+   ],
+   "lede": "Autonomous lawncare specialists Greenzie passed a major milestone with their self-driving mowers last week, surpassing 255,000 cumulative robomowing miles. For context, that’s far enough to mow every inch of space between the Earth and Moon."
+  },
+  {
+   "url": "https://electrek.co/2026/11/15/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-tibetan-mine/",
+   "title": "High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-15T15:02:35+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "autonomous",
+    "china",
+    "heavy equipment",
+    "sany"
+   ],
+   "description": "Finding qualified equipment operators is hard enough for most mining companies, and the extreme weather, punishing conditions, and oxygen-deprived air...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/SANY_EACON_MAIN.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Finding qualified equipment operators is hard enough for most mining companies, and the extreme weather, punishing conditions, and oxygen-deprived air of the Tibetan mountains combine to make finding operators even tougher for the operators if this high-altitude copper mine – but SANY thinks they have a solution: fully self-driving haul trucks.",
+    "Chinese equipment brand SANY has deployed fully 60 of its 70-tonne (~80 ton) payload-rated SKT105ED battery electric haul trucks at the Zhibula Copper Mine in Tibet. Operated by Zijin Minig and Tibet Julong Copper, the mine functions at a dizzying 17,700 foot elevation in a region of the Gangdese Mountains known as the Kailas Range, and the conditions there would challenge the health and safety of even the toughest and fittest operators.",
+    "“High-altitude illness becomes increasingly relevant above 2,500 meters,” explains Eacon, in one section of a published paper. “Research involving workers in Andes mines operating between 3,800 and 4,500 meters found that 73% of workers assessed experienced periods of nocturnal oxygen saturation below 85% during their high-altitude shifts, indicating moderate-to-severe hypoxemia.”",
+    "That’s bad news for Zijin’s workers – but the good news here, of course, is that the company won’t be needing many heavy haul drivers going forward.",
+    "SANY has been working with Perth, Australia-based Eacon Mining Technology to develop an autonomous haulage solution that uses a full suite of both in-vehicle and ground-based sensors, adaptive vehicle controls, and machine learning that can handle the big bad trucks even here in the Kailas range.",
+    "“Autonomous haulage offers one way to address this challenge,” continues the Econ report. “Rather than requiring a driver for each truck, autonomous systems allow fleets to be managed through centralized supervision, with personnel overseeing operations and intervening when required. This reduces the need for people to spend entire shifts operating equipment at elevation, while changing how workforce resources are allocated across the mine … depending on the system configuration, some operations can manage autonomous fleets from remote Integrated Operations Centers located away from the mine site, (allowing) personnel to supervise haulage activities from lower-altitude locations, further reducing the need for workers to remain in extreme-altitude environments.”",
+    "The working partnership between the two companies combines SANY’s battery-powered truck platform with Eacon’s full technology stack to create dependable, driverless haul trucks with logic and behaviors that are ideally suited to China’s open-pit mining environments.",
+    "Eacon technology is currently operating more than 3,100 autonomous trucks cross more than 40 large-scale mines, including Zijin Mining’s Zijinshan Gold-Copper Mine and at the Norton Gold Fields project in Australia.",
+    "While specifications for this specific deployment weren’t disclosed, the SANY SKT105E trucks (the “D” is, presumably, the wide-body variant) the company has deployed elsewhere are powered by a dual-motor electric drivetrain, pairing two permanent-magnet synchronous motors with a dual three-speed automated manual transmission. The system delivers 570 kW (~765 hp) of continuous power and up to 820 kW (~1,100 hp) at peak output, with each motor producing some 2,430 Nm (~18,00 lb-ft) of peak torque."
+   ],
+   "lede": "Finding qualified equipment operators is hard enough for most mining companies, and the extreme weather, punishing conditions, and oxygen-deprived air of the Tibetan mountains combine to make finding operators even…",
+   "tags": [
+    "china",
+    "industry"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/",
+   "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-15T14:43:57+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "CATL",
+    "china",
+    "electric aircraft"
+   ],
+   "description": "COMAC's 19-seat CE-25A electric plane made its first crewed flight in China after 19 autonomous tests, as certification review gets underway.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/CE-25A-Comac-electric-plane-flying.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "COMAC’s CE-25A, China’s 19-seat battery-electric commuter plane, flew with a crew for the first time on Saturday in Binzhou, Shandong. Two pilots and a flight test engineer were aboard the roughly 10-tonne demonstrator, and COMAC says every system worked normally.",
+    "It wasn’t the plane’s first flight. The CE-25A had already completed 19 autonomous test flights with nobody on board since February 2, and China’s aviation regulator is now reviewing it for a type certificate.",
+    "The CE-25A is a T-tail commuter plane with 10 electric ducted fans on the wings, five per side, instead of propellers. COMAC lists a 300 km/h cruise speed and a 400 km (250-mile) range.",
+    "The CAAC accepting COMAC’s type certificate application starts the airworthiness review. It doesn’t mean paying passengers are close, and COMAC hasn’t given a date for commercial service.",
+    "The program has been quiet for a long time. COMAC showed a CE-25A model at the China International Import Expo in Shanghai in November 2023, with a placard listing 400 to 500 km of range and a 400 km/h top cruise speed. The full-size aircraft, registered B-0EFH, only became public when photos leaked on Chinese social media on October 28.",
+    "The obvious battery candidate is CATL. In July 2023, COMAC, CATL, and Shanghai Jiao Tong University formed a joint venture with CNY 600 million in registered capital to develop electric aircraft, as we reported when CATL launched its aviation unit.",
+    "CATL had just unveiled its “condensed” battery at the time, claiming up to 500 Wh/kg at the cell level, and said it was testing the cells to aviation standards. Neither company has confirmed what’s inside the CE-25A, though.",
+    "~500 Wh/kg has long been seen as the target for battery energy density to enable electric flight on a commercial scale.",
+    "COMAC isn’t alone in flying a large electric demonstrator. In August, Heart Aerospace flew its X1 in Plattsburgh, New York, for 27 minutes. It’s a 25,000-lb aircraft with a 106-foot wingspan, which Heart calls the largest battery-electric aircraft ever flown.",
+    "Eviation flew its 9-passenger Alice back in September 2022, then laid off most of its staff in early 2025."
+   ],
+   "lede": "COMAC's 19-seat CE-25A electric plane made its first crewed flight in China after 19 autonomous tests, as certification review gets underway.",
+   "tags": [
+    "china"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNV9FeG1nem5ZOEIwQ2NfcTFxVGNwQmp2c0o1akk0SUE1YkdGR2dBaWRwbGhiMjhqWmFsdldrdTFZSjRwek9RNHB0SkVleHlaeXd6RHhRSi1RNUVKcDFvSjRGb2tYME5ZcDg2RDRZV0xFem9YQ2pfcjg3cXp0MURNbHE3S1hSR0loQkdZb1c2UmQtUHJpNzNvMGZrYWNWOUJrVi1heVYxQQ?oc=5",
    "title": "NASA's Voyager 1 probe poised to achieve mega-distance milestone",
    "source": "Reuters",
@@ -6499,6 +6802,108 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://electrek.co/2026/11/14/check-your-ego-at-the-door-stellantis-new-electric-dolly-turns-any-car-into-a-tow-rig/",
+   "title": "Check your ego at the door: Stellantis’ new electric dolly turns ANY car into a tow rig",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-14T17:35:39+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "electric trucks",
+    "offbeat",
+    "stellantis",
+    "towing"
+   ],
+   "description": "We all know the type: grizzled stubble, wraparound PitVipers, a MAGA hat quietly retired after last week’s deep-blue shellacking, and...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/500e_HAUL_MONSTER.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "We all know the type: grizzled stubble, wraparound PitVipers, a MAGA hat quietly retired after last week’s deep-blue shellacking, and a pristine, polished pickup parked in the driveway that they “need for towing.” With Stellantis’ new patent for an AI-powered electric tow dolly that turns just about ANY vehicle into a capable tow rig, however, those might need a new to find a new excuse to keep that gas-guzzler.",
+    "Originally filed in 2023, Stellantis received US Patent No. 12,779,916 for its electric tow dolly on 03NOV2026. The patent covers a machine that’s designed to shoulder the trailer’s hitch load with its own ball hitch or fifth-wheel plate, using an on-board electric motor and battery to get the trailer going while its regenerative braking system and AI-backed steering and traction control system keeps everything pointed in the right direction.",
+    "In other words, the dolly takes on many of the jobs that traditionally require a big tow vehicle: providing the pulling power, managing the trailer’s weight and controlling its braking and traction. The vehicle up front doesn’t necessarily need a massive motor, heavy-duty suspension or oversized brakes. With a system like this, you could argue that the “tow vehicle” isn’t really a tow vehicle at all. It’s more of a “lead vehicle,” since the dolly is the one doing the towing … and it can follow just about anything – including the diminutive ( and supremely affordable) Fiat 500e, which is also made by Stellantis.",
+    "To be clear, this isn’t just Uncle Jojo making fun of the commuter conveys – Stellantis’ patent describes the dolly as being equipped with an autonomous control system using cameras, sensors, a controller, and an advanced, four wheel steer-by-wire system. It also specifically discusses how the dolly’s independently powered acceleration, braking and steering, and sway controls essentially remove the need to own a truck in the first place.",
+    "The dolly system’s truck bed sides and small size allow users to experience the functionality and utility of a truck only when they need it, allowing them to own a smaller, cheaper, and more fuel efficient vehicle that suits daily use needs.",
+    "There are some pretty obvious practical questions still to answer, of course, including how much battery capacity the dolly would need, how much weight it could handle and how it would perform on long grades or in emergency braking situations. And, to be clear, a patent isn’t a product announcement or proof that Stellantis plans to put one of these things on sale – heck, if I were Stellantis’ CEO, I’d patent this thing just to prevent anyone else from building one so I could keep selling ancient, low-tech, high-margin Ram Trucks – but it’s a neat idea.",
+    "Okay, I like this idea and appreciate the problem it is trying to solve, but it has the same challenge as any electric-tow situation, which is the charging logistics. Even if you find a pull-through charger (very rare), if you are using an EV, you still need to charge two \"vehicles,\" so you have to charge your car, then pull up and charge the dolly afterwards. Even if you are using a gas car, charging the dolly will be logistically challenging. Of course, that's a problem with an easy solution (more pull-through chargers), but also one that doesn't seem to be on any charging network's radar."
+   ],
+   "lede": "We all know the type: grizzled stubble, wraparound PitVipers, a MAGA hat quietly retired after last week’s deep-blue shellacking, and a pristine, polished pickup parked in the driveway that they “need for towing.”",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/14/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery/",
+   "title": "Huawei set to challenge Tesla Powerwall with new, 20 kW home battery",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-14T16:25:02+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "home battery",
+    "home solar",
+    "huawei"
+   ],
+   "description": "This high-tech Huawei home battery pack hopes to hold back Tesla’s latest Powerwall with silicon carbide technology, AI-powered energy management...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/huawei_home-battery.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "This high-tech Huawei home battery pack hopes to hold back Tesla’s latest Powerwall with silicon carbide technology, AI-powered energy management baked in, and enough modular storage to keep even large homes bright and warm when the rest of the block goes dark.",
+    "Huawei believes its new Luterra S2 is more than just a home backup battery. The Chinese tech firm is calling it an “all-in-one residential energy system” that combines a hybrid inverter, modular battery storage, and AI-powered energy management in a single, simple, and stackable package that’s available in single-phase versions that put out between 3 and 10 kW and three-phase versions that can push up to 20 kW.",
+    "The Luterra S2 is the first system of its kind to use Huawei’s proprietary full-silicon carbide (SiC) architecture, which promises improved efficiency, power density, and ease of use. It’s so easy, in fact, that Huawei claims it can be installed and commissioned in just minutes.",
+    "“We are thrilled to introduce Huawei Luterra S2, our next-generation all-in-one residential energy system,” said Steve Zhang, President of Huawei Distributed PV & BESS Business. “By combining full-SiC architecture, AI-driven energy management, and industry-leading safety, Luterra S2 is designed to be smaller, lighter, quieter, safer, smarter and more powerful than ever before.”",
+    "Huawei’s basic Luterra S2 configuration starts with “just” 5 kWh of battery energy storage and 3 kW of output. That’s enough to keep essential household appliances, lighting, and electronics running during a power outage, but you’ll want to keep going if you’re preparing for more than a day or two without power.",
+    "If that sounds like you, Luterra’s got you covered. T he modular system can be expanded with modular 7 kWh LFP battery packs and can scaling up to a massive 336 kWh of total storage across interconnected systems, with inverter output peaking at an impressive 60 kW using three 20 kW units in parallel.",
+    "Keeping all that power cool and quiet is a Huawei-developed passive cooling system that does without external fans, keeping operating noise levels below a claimed 29 dB ( about the same as my Mac mini ). It operates at ambient temperatures from –25° C to about 60° C, and features a sturdy IP66-rated enclosure (safe to hit with a high-pressure hose) with corrosion protection up to C5-M to keep it from rusting away.",
+    "Alas, the Luterra S2 probably won’t be making its way to the US anytime soon – but fear not! If you’re shopping for a Tesla Powerwall alternative that won’t help fund the absolute worst people in politics, there are a number of great home battery systems on the market that can deliver backup power, store your solar energy, and keep your home running when the grid goes down. We’ve rounded up some of the best alternatives right here.",
+    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them."
+   ],
+   "lede": "This high-tech Huawei home battery pack hopes to hold back Tesla’s latest Powerwall with silicon carbide technology, AI-powered energy management baked in, and enough modular storage to keep even large homes bright and…",
+   "tags": [
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
+   "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-14T13:33:00+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "elon musk",
+    "Tesla",
+    "Tesla Cybercab",
+    "Tesla Model Y",
+    "Tesla Robotaxi"
+   ],
+   "description": "Tesla's Cybercab agreement makes the $29,990 two-seater useless without a $299/mo plan that Tesla can reprice, suspend, and geofence at will.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "And Tesla wants consumers to sign it while still refusing to give unsupervised self-driving to the Model Y owners it has been selling “Full Self-Driving” to for nearly a decade.",
+    "That personal-use clause kills the whole pitch. For years, Musk told people they’d buy a Tesla, add it to the fleet, and make money while they sleep. The first Tesla sold to consumers for unsupervised operation is contractually barred from doing exactly that.",
+    "Then there’s the geofence. Tesla’s Robotaxi service areas are already smaller in practice than advertised: when we tested them, real coverage was between 59% and 78% of the advertised maps, and parts of the Houston map have been called “fake” by the person tracking it. Now Tesla reserves the right to shrink that area after you’ve paid for the car.",
+    "Mark Valorian, who went through the terms on X, summed it up as “an endless variable-rate lease with a ridiculous down payment.” That’s about right.",
+    "Tesla has spent the last year telling everyone that its Model Y is just as much a robotaxi as the Cybercab. Ahead of the Robotaxi launch in Austin, Musk said the cars were “the Model Ys we make currently, there’s no change to it.” On Tesla’s Q3 2026 earnings call last month, AI chief Ashok Elluswamy said Cybercabs and Model Y robotaxis already run the same software, and that customer cars might join the network around Q2 2027. The Cybercab launches on the same AI4 computer found in the current Model Y.",
+    "So the hardware is the same, the software is the same, and unsupervised Model Ys are already operating in the exact geofences where Cybercab owners will be allowed to ride.",
+    "Tesla’s answer to all those owners is a new car. One with two seats, no controls, a geofence it can move whenever it wants, and a subscription that costs three times as much as FSD.",
+    "There are three possible reasons Tesla isn't allowing model Y owners to use FSD in the allowed zones:",
+    "2: Tesla doesn't have enough \"remote operators\" to cover all of those supposedly self-driving cars if users join the network",
+    "And the Model Y part is what gives the game away. If Tesla truly believed its unsupervised system was ready for customers, the obvious move would be to turn it on for the Model Y owners in Austin who already paid for it. It’s the same computer and the same software in the same geofence. But that would mean honoring a promise made in 2016, on cars already sold, with no new revenue attached."
+   ],
+   "lede": "Tesla's Cybercab agreement makes the $29,990 two-seater useless without a $299/mo plan that Tesla can reprice, suspend, and geofence at will.",
+   "tags": [
+    "transport"
+   ]
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Zbm5tOUlYSmdIOVV6NjByeV9wbGFlSUg4dWhISlNPTjhfb255UENfNEI0eF83T3lMVG44N0x1VXZxVklELWFUeDQ2c2pTYmVobHM1Zml6MWtDQXZEMzBLNml6SQ?oc=5",
@@ -6970,6 +7375,17 @@
     "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
    ],
    "lede": "Counter to analysts’ early expectations, planet-warming pollution from fossil fuels is set to dip in 2026 — the first time since the COVID-19 pandemic."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUFzUWY0b3VMNXM0NS1TS3pzV2NzcFBJcHI5SWhDOG1rSldVNWxLN0s5QmJvdGdwR0I4LWdidVJSTXhoRlZabVpfSDIyY2pWVzg3Q2ljZkI0WUsyaTlaX1M4U0NBcEE3Y3FXTGVoVjZJaXg1N3JNT0VGdzN4anhLQ3FzYjUtcmJyTUxR?oc=5",
+   "title": "Monthly Electricity Statistics",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-13T08:00:00+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOHRlZ2ItemZBYzd1ck0wRDFSZlZlX1llcXR6aGM3aWphbVhVd2R6UzdRSW9lbG51TV90NFo1Sk10X2lqVmpkbUtlbHJUZU51S2o3Zm1fLXUtWldMZDAwUHdfa1NDaTZlY3UwRW9qVWg5M3JtNzdBczdDZ3owQ3JQQWp5TF9mZGtsRDBXWk9KVmZEQQ?oc=5",
@@ -7876,6 +8292,20 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVE53WkdIWm5WdHlfSXQ0a1NTSmNLVGowcEotZzlDeFpFVEFnTWl2SExjNXBTakVsakpRQklTaTdXRV9MU2F5NmRwTEQ3cVJvamQ0S3RnSlRvQnZNTHRzeURldXdRemdTam9VN0V1UEtCQWgwY0c4aDFQSUltQmpiZWRaVXZwSWc3QlkyVUNuUzhtSUxmOGZXSGNIZWRkNjRMQndDbU5B?oc=5",
+   "title": "Do electric cars reduce emissions overall?",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-11T10:08:10+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
    "title": "ju:niz Energy enlists Envision for 442MWh grid-forming BESS in Germany",
    "source": "Energy-Storage.news",
@@ -8621,6 +9051,79 @@
    ]
   },
   {
+   "url": "https://www.energy-storage.news/bloombergnef-us-midterm-results-likely-a-net-positive-for-bess-despite-data-centre-headwinds/",
+   "title": "BloombergNEF: US midterm results likely a ‘net positive’ for BESS despite data centre headwinds",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-09T11:01:17+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "Analysis",
+    "News",
+    "battery",
+    "bess",
+    "bloomberg nef",
+    "bloombergnef",
+    "bnef",
+    "congress"
+   ],
+   "description": "Derrick Flakoll, senior policy associate for North America at BloombergNEF, has offered a more measured take on how the Democrats' midterm victories could affect the battery energy storage system (BESS) sector.",
+   "ftries": 1,
+   "lede": "Derrick Flakoll, senior policy associate for North America at BloombergNEF, has offered a more measured take on how the Democrats' midterm victories could affect the battery energy storage system (BESS) sector.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/pacific-blue-refers-855mwh-battery-storage-system-in-victoria-to-australias-epbc-act/",
+   "title": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-09T09:23:07+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "battery storage",
+    "bess",
+    "energystorageaus",
+    "epbc",
+    "EPBC Act",
+    "nem",
+    "StorageAus"
+   ],
+   "description": "Australian renewable energy generator and retailer Pacific Blue has referred an 855MWh BESS in Victoria to Australia's EPBC Act.",
+   "ftries": 1,
+   "lede": "Australian renewable energy generator and retailer Pacific Blue has referred an 855MWh BESS in Victoria to Australia's EPBC Act.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/australias-nem-bess-stored-energy-hits-record-20-17gwh-up-203-in-a-year/",
+   "title": "Australia’s NEM BESS-stored energy hits record 20.17GWh, up 203% in a year",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-09T09:19:59+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "australia",
+    "battery",
+    "bess",
+    "energystorageaus",
+    "nem",
+    "new south wales",
+    "nsw"
+   ],
+   "description": "Energy held in battery energy storage systems (BESS) across Australia's NEM reached a record 20.17GWh on 6 November.",
+   "ftries": 1,
+   "lede": "Energy held in battery energy storage systems (BESS) across Australia's NEM reached a record 20.17GWh on 6 November.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://www.canarymedia.com/articles/food-and-farms/wheres-the-beef-solar-panels",
    "title": "Where’s the beef? Under the solar panels.",
    "source": "Canary Media",
@@ -8863,6 +9366,105 @@
    "lede": "Highlights from the eight conversations released last month."
   },
   {
+   "url": "https://www.energy-storage.news/ford-energy-partners-with-desri-to-deploy-us-bess/",
+   "title": "Ford Energy partners with DESRI to deploy US BESS",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-06T14:06:23+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "battery",
+    "bess",
+    "desri",
+    "domestic manufacturing",
+    "feoc",
+    "ford energy",
+    "kentucky"
+   ],
+   "description": "Renewables developer D. E. Shaw Renewable Investments (DESRI) and Ford Motor Company’s energy storage subsidiary, Ford Energy, will partner to deploy energy storage in the US.",
+   "ftries": 1,
+   "lede": "Shaw Renewable Investments (DESRI) and Ford Motor Company’s energy storage subsidiary, Ford Energy, will partner to deploy energy storage in the US.",
+   "tags": [
+    "industry",
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/bess-industry-buzz-blue-wave-in-the-midterms-rte-disagreements-cybersecurity-incident-in-chile/",
+   "title": "BESS Industry Buzz: Blue Wave in the midterms, RTE disagreements, cybersecurity incident in Chile",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-06T14:05:57+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "Features",
+    "Guest blog",
+    "BESS Industry Buzz",
+    "chile",
+    "commissioning",
+    "cybersecurity",
+    "RTE",
+    "sonnen"
+   ],
+   "description": "Welcome to our latest BESS Industry Buzz, this week featuring the US midterms, ultra-rapid BESS commissioning, how to calculate RTE and a cybersecurity incident in Chile.",
+   "ftries": 1,
+   "lede": "Welcome to our latest BESS Industry Buzz, this week featuring the US midterms, ultra-rapid BESS commissioning, how to calculate RTE and a cybersecurity incident in Chile.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/norwegian-central-bank-buys-us300-million-stake-in-brookfields-soon-to-be-acquired-bess-developer-aypa-power/",
+   "title": "Norwegian central bank buys US$300 million stake in Brookfield’s soon-to-be acquired BESS developer Aypa Power",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-06T14:04:07+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "aypa power",
+    "battery",
+    "bess",
+    "brookfield",
+    "north america",
+    "norway",
+    "sovereign wealth fund"
+   ],
+   "description": "Norges Bank Investment Management (NBIM), the asset management unit of the central bank of Norway, has acquired a 10% interest in North American battery storage developer-operator Aypa Power.",
+   "ftries": 1,
+   "lede": "Norges Bank Investment Management (NBIM), the asset management unit of the central bank of Norway, has acquired a 10% interest in North American battery storage developer-operator Aypa Power.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/india-approves-viability-gap-funding-to-support-92gwh-of-bess-and-pumped-hydro-energy-storage-capacity/",
+   "title": "India approves Viability Gap Funding to support 92GWh of BESS and pumped hydro energy storage capacity",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-06T14:02:00+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "domestic content",
+    "domestic content requirement",
+    "incentives",
+    "india",
+    "ministry of power",
+    "modi",
+    "policy support"
+   ],
+   "description": "India’s Union government has approved the next IR145 billion phase of Viability Gap Funding (VGP) for energy storage capacity additions.",
+   "ftries": 1,
+   "lede": "India’s Union government has approved the next IR145 billion phase of Viability Gap Funding (VGP) for energy storage capacity additions.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
    "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
    "source": "EIA Today in Energy",
@@ -8923,6 +9525,30 @@
     "Hausfather wrote on CB Connect that this year’s El Niño had been “running well above any prior El Niño event since June, at times by a full degree [Celsius]”."
    ],
    "lede": "The ongoing “super El Niño” is likely to peak at the end of 2026 and push average global temperatures to record levels next year."
+  },
+  {
+   "url": "https://www.energy-storage.news/energyaustralia-takes-delivery-of-final-units-for-250mwh-hallett-battery-storage-system/",
+   "title": "EnergyAustralia takes delivery of final units for 250MWh Hallett battery storage system",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-06T08:44:46+00:00",
+   "seen": "2026-11-21T17:58:29+00:00",
+   "cats": [
+    "News",
+    "australia",
+    "battery energy storage",
+    "battery storage",
+    "bess",
+    "construction",
+    "energyaustralia",
+    "energystorageaus"
+   ],
+   "description": "EnergyAustralia has taken delivery of the final battery storage units for its 50MW/250MWh Hallett BESS in South Australia, as construction continues at the site.",
+   "ftries": 1,
+   "lede": "EnergyAustralia has taken delivery of the final battery storage units for its 50MW/250MWh Hallett BESS in South Australia, as construction continues at the site.",
+   "tags": [
+    "power"
+   ]
   },
   {
    "url": "https://www.canarymedia.com/articles/clean-energy-manufacturing/us-domestic-solar-supply-chain",
@@ -9246,492 +9872,6 @@
    "lede": "Nobody really knows how much power the data center boom will need — and that’s putting utilities in a tough spot. If they underinvest in power plants and the grid, economic growth and energy reliability will suffer.",
    "tags": [
     "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/politics/top-clean-energy-wins-midterms",
-   "title": "Top clean energy wins from the midterm elections",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-04T22:30:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "description": "Democrats look like they'll take control of state government in six more states and the utility commission in Georgia, while a few ballot measures…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Boston-election-night-party_GettyImages-2303015430.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=01fa67acf6acb319fcd22d8479680933",
-   "paragraphs": [
-    "The top story from Tuesday’s elections is clear: Democrats won big-time on the national level, dominating U.S. Senate and House races across the country. And on the state level, clean energy could get a jolt from Democratic wins for state offices and utility commissions and new approved ballot measures. Here’s a roundup of top results.",
-    "The blue wave overtook several state legislatures and governor’s mansions last night. Come January, Michigan, Minnesota, Nevada, Pennsylvania, Wisconsin, and likely Arizona will all have Democratic trifectas — control of both houses of the legislature and the governor’s office. And some of the states are highly likely to use that power to further climate and clean energy action.",
-    "Take Michigan, where Democrats gained control of the legislature and governor’s seat in 2022 and then used that power to enact a target of 100 % clean energy by 2040. That goal is still in place despite the Republican-controlled House’s attempt to repeal it earlier this year. Now, Democratic leaders may use their restored power to pass additional ambitious measures.",
-    "Minnesota’s Democratic-Farmer-Labor Party passed a similar clean energy mandate with the blue trifecta it won in 2022, and has the opportunity to further similar goals now that the DFL has regained control of the House.",
-    "Next door, in Wisconsin, clean energy advocates suggest the Democrats use their new trifecta to end policies that keep old, polluting power plants running and instead build more solar and batteries.",
-    "It’s only been a few years since Democrats had a trifecta in Nevada, but it’s been 60 since they controlled the Arizona legislature. Both states are among the top developers of solar power, and Arizona is rising in the ranks for battery storage. Now, they could lean even harder into clean energy.",
-    "Georgia’s Democratic sweep extended to its Public Service Commission, as voters elected two Democrats to the utility oversight board. Shelia Edwards is a new addition to the PSC, while Peter Hubbard was reelected after winning a special election last year for an abbreviated term. Democrats now have a 3 – 2 majority on the commission — a victory for the Solar Energy Industries Association, which spent to promote those candidates. The PSC is now controlled by Democrats for the first time in decades, making Georgia the only state that elects its utility commissioners with a Democratic majority.",
-    "Texas also voted blue when picking a new member of its all-Republican Railroad Commission, which oversees the state’s oil and gas industry. Democrat Jon Rosenthal beat GOP candidate Bo French, who had faced blowback for his racist comments.",
-    "Alabama’s Public Service Commission stayed in GOP hands as the two open seats went to Republicans. But the Republicans’ power will soon be diluted, as a recent law expands the three-seat commission to seven seats come January, with new members at first appointed by the governor and then gradually affirmed or replaced in elections over the next several years. Gov. Kay Ivey (R) has already named her four appointees, two of whom were nominated by Democrats."
-   ],
-   "lede": "The top story from Tuesday’s elections is clear: Democrats won big-time on the national level, dominating U.S. Senate and House races across the country.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOWktyS1ZnLV80RThfWEg4Ry1OUmxEZlFyaV94UUp5b0xOMElaX3RkRnk0MWlCWWxIamVuMnV1ZFRkQ2drZ3ZOTTB6aG1jdmd0LTA1bWozV1dYeXhBSm5KdFY4Rk50SFNvMmpGWDY0UGl2dTI4QXlEN2JmMGhrd2paY0xtZUlHdU1KUkt6cTJmcG8wNGgycUFUOGtDUWEyVlJzeVc0MGNGV3NmcVpSMUQ1eklmSHFMZ05BSUFRMC1IaFRZUmVNRTM4QkdDUmg3WGI1UXlMQzFEZ1ZzV3RkYWVjcHBkeXFrSDBfR1R3MWR6NHl4T2ZpOUJOcUh1ekoya3NPNVVNWmNuMG9aZUJMZEJlOWkyQU9YRVoyMmVNby1Dc0RiUQ?oc=5",
-   "title": "Events",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-04T19:47:49+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1V5Rlhxd2NvRmE0OW52QnZkUGs2WTFrdW5sZ2RWNGhHbEUyTmlDbnpxajhxR2V2TDU0U0dIeEFzSjA1TDFLbkpVRnBWLVNiYS1rQ1pZSGNRVmU3b2ZQVVRFTFRkTDluV0FEWmJ1b0s4bjh3QkV6WmNGY0J0bTd2eWNid19hX0JwdWRnWEdzZ3JvS01IbFpVYWxR?oc=5",
-   "title": "Ember in the world’s top think tanks for a second year",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-04T15:46:13+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels",
-   "title": "Q&A: What is in the global ‘roadmap’ for transitioning away from fossil fuels?",
-   "source": "Carbon Brief",
-   "desk": "news",
-   "published": "2026-11-04T15:23:07+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Uncategorized",
-    "Belem",
-    "COP30",
-    "fossil-fuel roadmap",
-    "transition away from fossil fuels"
-   ],
-   "description": "Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, says a first-of-its-kind global “roadmap” produced by Brazil.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3D70572.jpg",
-   "paragraphs": [
-    "The host of last year’s climate summit, COP30, has set out a voluntary plan for how countries can move away from coal, oil and gas.",
-    "The roadmap says there is no “one-size-fits-all” approach to transitioning away from fossil fuels and asks countries to “diagnose” their own “readiness” to start the process.",
-    "After mapping out their specific circumstances, countries should then pursue “tailored levers” to take action, according to the roadmap.",
-    "These efforts should culminate by 2033, it says – 10 years on from when the COP28 climate summit in Dubai called on all countries to contribute to a global transition away from fossil fuels.",
-    "Below, Carbon Brief examines what the roadmap says and how it could influence debates about fossil fuels at the upcoming COP31 climate summit, which begins next week in Turkey.",
-    "Calls for a global “roadmap” away from fossil fuels dominated debates at COP30, which was held in the Amazonian city of Belém.",
-    "A group of 85 countries called for a reference to a new roadmap for transitioning away from fossil fuels to be part of COP30’s formal negotiated outcome.",
-    "This call came after the first “global stocktake” of action towards the world’s climate goals at COP28 in 2023 asked all countries to contribute to transitioning away from fossil fuels.",
-    "It was claimed that this group included 84 countries. However, Carbon Brief’s analysis of the “informal list” revealed inconsistencies and errors, meaning the total number of countries opposing the roadmap was likely smaller."
-   ],
-   "lede": "Transitioning away from fossil fuels is “urgent, inevitable and, yet, possible”, says a first-of-its-kind global “roadmap” produced by Brazil.",
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.volts.wtf/p/the-transformative-potential-of-solid",
-   "title": "The transformative potential of solid-state transformers",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-11-04T11:56:13+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "byline": "David Roberts",
-   "description": "A conversation with Raghu Belur of Enphase.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://substackcdn.com/image/fetch/$s_!NcaA!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F220940205%2F21636d57-a6b0-4cbd-a48f-246338a3623f%2Ftranscoded-1793758166.png",
-   "paragraphs": [
-    "Power electronics have taken over almost everything in our lives, with the exception, oddly, of the power grid itself — it is still held together by tens of millions of analog, iron-and-copper transformers, the design of which has barely changed in a century. Solid-state transformers replace the dumb gray box with something that can monitor and steer power or convert it from AC to DC and vice versa. In this episode, Enphase co-founder Raghu Belur, who built his company by dividing big solar inverters into thousands of small ones, explains how he’s trying the same thing with transformers, why AI data centers and big solar and battery projects are the first markets, and what it would take to put a smarter transformer on every pole.",
-    "Electricity moves long distances at high voltage, which is efficient, and gets used at low voltage, which is safe. Transformers are what step the voltage up and down along the way; every bit of power you use has passed through several. The basic design of a transformer — copper coils wrapped around an iron core — has barely changed in a century. The vast bulk of the transformers on the grid today, including the grey boxes on the top of poles you see around your neighborhood, are cheap, sturdy, and dumb as a box of rocks. Right now the US can’t make them fast enough. It takes years to get one.",
-    "Engineers have long talked about replacing conventional transformers with electronics. A solid-state transformer, mostly made of transistors, would be smaller, could handle DC as well as AC, and could actively monitor and manage the power flowing through it. The catch has always been cost — nobody needed a smart one badly enough to pay five to ten times the price of a dumb one.",
-    "That’s changing, and the two markets driving it make a somewhat awkward pair. One is solar farms and big batteries, which produce DC power. The other is AI data centers, which want more DC power inside their buildings and will pay almost anything for speed. The long-term prize, though, is not the big transformers at data centers, it’s the little ones in local communities, the gray boxes on poles where rooftop solar, EVs, and heat pumps are complicating matters.",
-    "It’s all surprisingly fascinating! My guest today, Raghu Belur, co-founded Enphase, which broke up big solar inverters into tons of smaller ones, to be tucked under each rooftop solar panel. Now he’s trying something similar with transformers, creating small modules that can be lego’d into medium or large infrastructure. Let’s get into it.",
-    "Enphase Energy Successfully Demonstrates IQ Solid-State Transformer Technology Converting 13.8 kV AC to 800 VDC",
-    "Enphase announces distributed solid-state transformer for AI data centers, targets 2028 for volume deliveries",
-    "William McMurray - Power Converter Circuits Having a High Frequency Link (US Patent 3,517,300)",
-    "David Roberts: All right then. With no further ado, Raghu Belur, welcome to Volts. Thank you so much for coming.",
-    "Raghu Belur: Good morning, David. Thank you. Thank you for having me. I’m super excited to be here."
-   ],
-   "lede": "A conversation with Raghu Belur of Enphase.",
-   "tags": [
-    "industry",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/carbon-capture/michigan-utility-gas-plants",
-   "title": "A Michigan utility’s iffy plan to trap CO2 from its new gas plants",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-04T08:30:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "description": "DTE proposes building two gas plants to meet growing demand, claiming carbon capture and sequestration will help it reach state climate goals.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/DTE-Monroe-Michigan-coal-plant_GettyImages-2201137023-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=98a911ceb2bbd9782709ab8549800586",
-   "paragraphs": [
-    "Can a utility commit to building massive gas plants and still achieve zero carbon emissions?",
-    "DTE Electric in southeast Michigan says yes, and it outlines how in a 20 -year plan currently being considered by regulators. The key, the utility says, will be carbon capture and sequestration — collecting carbon dioxide emissions from two proposed gas-fired power plants and storing them underground.",
-    "Michigan state law says power generation must be carbon-free by 2040. The gas plants would go online in 2031 and 2032, and carbon capture equipment would be added by 2035, according to the long-range integrated resource plan that DTE filed with the state public service commission in September.",
-    "The problem, as critics see it, is that carbon capture and sequestration has not been successfully deployed by electric utilities in the U.S. thus far.",
-    "Even if the technology becomes economically viable, public opposition to the technology is likely to remain strong, as evidenced by the response to the Michigan Legislature’s efforts to adopt a carbon sequestration law. Public outcry has also erupted in neighboring states over plans for carbon dioxide pipelines and injection wells.",
-    "In other words, DTE proposes to invest billions of customers’ dollars in gas plants that are dependent on a nascent and uncertain solution to comply with state law on emissions that would harm the climate and public health.",
-    "Utilities across the country are grappling with the same predicament of needing to meet steep increases in energy demand driven by data centers while also transitioning to clean energy.",
-    "DTE’s plan calls for closing the half-century-old, 3 -gigawatt Monroe coal plant and building 15 GW of renewables — mostly solar — and 4. 5 gigawatts of energy storage. The utility also proposes two new gas-fired plants totaling 2. 1 GW in the Detroit area, one of them in the same county as the coal plant. That’s more than double the amount of gas-fired generation DTE proposed to add in the long-range plan it filed four years ago. At that time, it said 946 megawatts of gas-fired generation with carbon capture could fill the gap left by the coal plant closure.",
-    "While DTE has framed the gas plants as simply replacing the retiring coal plant, clean energy advocates believe that the expanded plan is meant to accommodate upcoming data centers. DTE has signed contracts with Oracle and Google for a combined 2. 4 gigawatts’ worth of power, and its proposal cites ​ “ 2. 4 GW of new customer load” as among the changes since the 2022 plan was filed.",
-    "“ Just looking at the numbers, it’s hard not to draw that direct link,” said Helen Li, senior attorney with the nonprofit law firm Earthjustice, which represented environmentalists in regulatory proceedings over the planned Google data center."
-   ],
-   "lede": "DTE proposes building two gas plants to meet growing demand, claiming carbon capture and sequestration will help it reach state climate goals.",
-   "tags": [
-    "industry",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/food-and-farms/cranberry-bogs-side-of-solar",
-   "title": "These cranberry bogs come with a side of solar",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-04T08:30:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "description": "Two Massachusetts projects are the nation’s first to grow cranberries beneath solar panels, in another example of how agriculture and clean energy can…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/cranberry-harvest-3.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a2ccf5019745b1383d63c9dc3a2a9d8c",
-   "lede": "Two Massachusetts projects are the nation’s first to grow cranberries beneath solar panels, in another example of how agriculture and clean energy can…",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Sd0ZOMkxadEJIcUR5dDZjZExqVEVmcGlMaVdFNUFWdTNNRzdSbVVyZVFsS0hvVHpkXzB3Rm96cFJBeHAtdnJUaG1NYTN3ZHJSWHUxUDBKMnotME9NTGU4UmptcXJfNjJpZFE?oc=5",
-   "title": "Ukraine’s Energy Security 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-04T08:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3dueXhNaDJtakduVGtyNDlWRDBZVFdMcEN1S3FHVGpiT25nNDN2ZHlEWEVHRm83S0xlWlRheWRRNHRhWkVNanlOcjIzdzFHYWVsY0hjdWd2OEZxcGlnOVJrcnRCNTI2TkFGbmM4RV9uVjRLbUV2QU1IZ3hHeHprcEZlaXh5SHN3b0lxTWpwUlFIbm8?oc=5",
-   "title": "Regional Dialogues on Planning-to-Investment Africa",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-04T08:00:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPcnlNTnZBeG9XaGlYaU1sa1Nrb0Z5N000Wnh5OXUyVjJzdDFRaWRFUlN5U0lPeG1XT1lMTFdkX0JvTVQ5SVFPRWQwZG1yRnJRYUJENDFva2packxUcFRVaWV0ejVDZTNnZFVRQnE1ZEx3RlJvRWVPY2F4NnpFVTB1ZzhKbkRTVkt1aUxJSGtfM3VpaWtEM3RjQUlZdU5SOS1QMmZEb1plOTFPbE1xal83NFJHTlNaTkFXSnFvSnE2bVVmejlkTlRnY21Vb05XdktfRm1hWGFCeElCUHI2UWcyTndyRGp1dnNvam9fMlBfTTVJSWZiSTdxZjRkX01iOXlDVmlNY3lLQnRyOXJWeTgyV1lhQ25iUmhwQ1F5UTlqWWFvdkx2eGQ2SWF3bmdoYjhk?oc=5",
-   "title": "Events",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-04T05:12:16+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
-   "title": "Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-11-03T14:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.11.03/main.png?1795094653",
-   "paragraphs": [
-    "Data source: Kpler Note: 2Q2025=second quarter of 2025 Global crude oil refinery inputs fell by 4.8 million barrels per day (b/d) in the second quarter of 2026 (2Q26), or 6%, following the start of conflict in late February in the Middle East, according to data from Kpler. Throughput then increased by 1.8 million b/d in the third quarter, primarily as refiners in the region adjusted to new trade flows.",
-    "Crude oil inputs to refineries typically increase in the second and third quarters of the year as refiners complete planned maintenance and gear up to meet peak seasonal demand for refined products, such as gasoline and jet fuel. Global crude oil inputs increased by 0.3 million b/d in the second quarter of 2025 and by another 2 million b/d in the third quarter.",
-    "The countries with the largest refining capacity in the world are the United States, China, Russia, and India. Refining in countries most directly impacted by the loss of crude oil supply from conflict in the Strait of Hormuz saw the largest declines. Crude oil refinery inputs in China fell by 2.1 million b/d in 2Q26 and by an additional 0.8 million b/d in 3Q26, while crude oil inputs in India, South Korea, and Japan fell by more than 1.0 million b/d collectively in 2Q26 before rebounding by 0.8 million b/d in 3Q26.",
-    "Crude oil inputs also fell in the Middle East as the closure of the strait significantly limited the export of refined products. Crude oil inputs fell by 0.7 million b/d in Kuwait, 0.7 million b/d in the United Arab Emirates, 0.3 million b/d in Saudi Arabia, and 0.2 million b/d in Iran in 2Q26. Total crude oil inputs in these four countries increased by 0.4 million b/d in 3Q26.",
-    "Increased attacks on Russian oil infrastructure during the ongoing conflict between Russia and Ukraine reduced refinery crude oil inputs in Russia by 0.6 million b/d in 2Q26 and an additional 0.8 million b/d in 3Q26. Russia is a major fuel exporter, especially of diesel fuel, so the decline in exports affected global diesel markets that were already tight from earlier geopolitical developments. This loss in refinery operations compounded reduced refining activity in Asia and the Middle East, contributing to diesel prices increasing to the highest nominal levels on record in September.",
-    "Although crude oil inputs were falling in some countries in the second and third quarters of 2026, they increased in the United States and in some other regions that were able to find alternative sources of supply. Crude oil refinery inputs in the United States increased by 0.5 million b/d in 2Q26 and by an additional 0.5 million b/d in 3Q26, as the United States increasingly exported refined products around the world to make up for lost supply.",
-    "Global refinery crude oil inputs recovered somewhat in 3Q26, increasing by 1.8 million b/d overall as increased flows through the Strait of Hormuz, alternative routes, and ship-to-ship transfers put more Middle Eastern crude oil on the global market. Despite the increase in oil flows and refinery inputs, crude oil inputs in 3Q26 still remained about 5% lower on average than during the same period of 2025."
-   ],
-   "lede": "Data source: Kpler Note: 2Q2025=second quarter of 2025 Global crude oil refinery inputs fell by 4.8 million barrels per day (b/d) in the second quarter of 2026 (2Q26), or 6%, following the start of conflict in late…",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/sponsored/heres-how-solar-and-wind-developers-can-hold-onto-tax-credits",
-   "title": "Here’s how solar and wind developers can hold on to tax credits",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-03T13:35:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "description": "A Canary Forum sponsored by Intersolar & Energy Storage North America brought together industry experts to break down the shifting tax credit rules and…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Intersolar-Forum-thumbnail.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ff3557af593414ea78518f63b9e640d8",
-   "paragraphs": [
-    "When Congress passed the Inflation Reduction Act ( IRA) in August 2022, solar and wind developers celebrated something that had historically been elusive: long-term certainty about federal tax incentives. Companies accustomed to the waxing and waning of political support for the investment tax credit ( ITC) and production tax credit ( PTC) now had a decade of reliable access to both. One analysis after the law’s passage projected an additional 155 gigawatts of solar and wind capacity by 2030 and more than $ 270 billion in additional investments.",
-    "That certainty was short-lived. The One Big Beautiful Bill Act ( OBBBA ), signed into law in July 2025, sharply shortened the timeline for wind and solar projects to claim the ITC and PTC and tightened the requirements to qualify. The OBBBA was expected to crush clean-energy growth. It didn’t. But one of its most immediate effects was to create confusion over who could still access the tax credits, for how long, and what requirements wind and solar companies must meet.",
-    "A recent Canary Media Forum, ​ “ Hold onto Your Tax Credits: How to Get Ahead of the 2027 Deadline ,” aimed to cut through that confusion and offer strategies for accessing federal incentives. The event was sponsored by Intersolar & Energy Storage North America ( IESNA) and brought together a tax attorney, a project developer, a procurement specialist, and a manufacturer, who shared their perspectives on lingering uncertainties about qualifying for credits, steps to take now, and what could change in the future.",
-    "As the webinar’s title suggests, the end of 2027 is the deadline that matters most. ​ “ Those credits go away if your project isn’t placed into service by the end of 2027 ,” said Heather Cooper, a partner at the law firm McDermott Will & Schulte.",
-    "There is one exception to that 2027 cutoff. The OBBBA gave solar and wind projects one year to begin construction to retain tax credit eligibility, a countdown that ended July 4, 2026. Projects that met the July 4 deadline face a clock of their own. They generally have four calendar years after construction began to be placed in service. For projects that started this year, that means the end of 2030.",
-    "Those hard dates suggest that claiming the ITC and PTC is a black-and-white matter. It is not. Definitions for key terms such as ​ “ placed in service” and ​ “ begin construction” leave room for interpretation. For example, The Internal Revenue Service ( IRS) lists five factors it considers when determining whether a project is in service, including whether it has secured the necessary permits and licenses, completed critical preoperation tests, and synchronized with the power grid.",
-    "Because the IRS evaluates those factors case by case, Cooper said, a project doesn’t necessarily have to satisfy all five. That makes it hard to be certain when a project meets the criteria. Similarly, beginning construction doesn’t necessarily mean a project had modules installed by July 4.",
-    "Under IRS rules, one way to begin construction is to perform significant physical work, either on the project site or away from it. Another way to qualify is to pay or incur at least 5 percent of total project costs, often by purchasing modules or other equipment. And a developer that missed the July 4 deadline on paper may not be out of luck. Cooper said that reviewing what was done before that date, such as securing smaller equipment contracts, tracking internal costs, or starting early site work, may support a claim that construction had already begun."
-   ],
-   "lede": "When Congress passed the Inflation Reduction Act ( IRA) in August 2022, solar and wind developers celebrated something that had historically been elusive: long-term certainty about federal tax incentives.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/batteries/batteries-not-gas-plants-for-data-centers",
-   "title": "Why batteries, not gas plants, should be data centers' first choice",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-03T08:30:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "description": "A new report from Georgetown and Duke researchers looks at the advantages of using batteries to meet data center demand — and offers some advice for…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Aligned-Data-Centers-facility-in-West-Jordan-Utah_GettyImages-2301878328-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=49084de809f2e228ef038b0008a3d6cf",
-   "lede": "A new report from Georgetown and Duke researchers looks at the advantages of using batteries to meet data center demand — and offers some advice for…",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/climate-justice/trump-cuts-tribes-funds-clean-energy",
-   "title": "Trump cuts have left tribes without millions of dollars for clean energy",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-03T08:30:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "description": "Canceled grants have stalled renewable energy, climate resilience, and infrastructure projects across Indian Country, adding to decades of federal…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Kotzebue-Alaska-Indigenous-tribes-federal-funding-Trump-DOGE-cuts-underinvestment.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=f8c251e415e404207fa945eb8a91d829",
-   "paragraphs": [
-    "Every year, Kotzebue, a small city in northwest Alaska, has a three-month window to receive all the diesel fuel it will use throughout the following year. It sits on a gravel spit that juts into Kotzebue Sound just north of the Arctic Circle, and is accessible only by air and sea. Ice keeps freight barges from reaching it for most of the year.",
-    "The community relies on diesel for 75 % of its power, and residents put about 20 % of their income toward buying it. That’s more than three times the average energy burden for low-income households nationwide.",
-    "“ We’re pretty much at the mercy of world markets,” Chad Nordlum, who is the energy project manager for the Native Village of Kotzebue, told Grist. ​ “ Right now, with the Iran war going on, the diesel prices are very high and we’re locked in to much higher prices than we’ve had in the past. There’s really nothing the community can do about diesel prices, but what we can do is produce our own energy.”",
-    "That’s why Nordlum was so excited about a $ 20 million grant from the Environmental Protection Agency to support a wind energy project. The funding, announced in 2024, was part of a larger $ 150 million allocation for tribal infrastructure in Alaska. Nordlum says it would have lowered the community’s reliance on diesel to about 40 % to 50 % and given the tribe more control over energy and economic decisions.",
-    "But the Trump administration canceled the grant in May 2025. More than a year later, the project remains paused.",
-    "That cut was among hundreds of millions of dollars the Department of Government Efficiency pulled from Indian Country, and part of a broader pattern of funding rollbacks and underinvestment in Indigenous communities. Two new reports from the Brookings Institution show that the so-called One Big Beautiful Bill Act killed many of the funding streams established by the 2022 Inflation Reduction Act, while DOGE eliminated another $ 468 million, about half of which was allocated for environmental and natural resources. Another 11 % targeted agriculture. Those projects include climate resiliency plans, renewable energy projects, and jobs programs.",
-    "According to Brookings, despite historic investments flowing into Indian Country after the pandemic, a massive underinvestment in Indigenous communities continues. Not only is that a violation of the federal government’s trust and treaty obligations to tribes; it is hindering Indigenous efforts to protect the environment and address climate change. The report authors are calling for policy changes that would ensure tribes receive funding, regardless of political winds.",
-    "Rob Maxim, who is Mashpee Wampanoag and a fellow at Brookings Metro, said climate and environmental funding is especially crucial for Indigenous communities because they are often the most severely impacted by climate change, especially after years of underinvestment.",
-    "“ The actions that the Trump administration is taking are particularly significant, but it’s not totally out of trend with previous administrations,” he said. ​ “ And what we wanted to show was that actually this underinvestment is kind of the default for the U.S. rather than a blip.”"
-   ],
-   "lede": "Every year, Kotzebue, a small city in northwest Alaska, has a three-month window to receive all the diesel fuel it will use throughout the following year.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QUlNzamVlS1plczdseDdKbEdpTkJlbllDYVYtOWdVNWgtSDVnQkZwcmxqSXNub2EzUW1feExGQ1czTUMtZng4ZHlVQTZCWXhsWnRxMzdMcDd3VkpWSlczWDE4ODZySlN1R1RmNzhmZ0NHcVRlVlE?oc=5",
-   "title": "Europe Electrification Data Explorer",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZOE0zYl9ZcWxpWm9mS2pwckQtYmhzcGNUdkxsNWN6S1NMOUo0VFVaRWVrUmwtNUxaZDVTb24tbVZJOF9wLVdkY3hoQ1ZLMWhzNC10NDlIaURBNDJfTGpOWlJSWnZSWTR5dks0?oc=5",
-   "title": "Global Gas Security Review 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96OTEzRDVLbTdHZldEdjI5RU9ZdzhkVGdZajdzeERxQXlxa1NpaVBBam50QnZ2RXRqOVhsSUpIUmpPM3NMZlQ4azUtUFpKdGtfUzdGYmo5T2tveFBPR2VnbHJ0c0VKNXRUX2dWcDVzdXhRUEhqWlp2Rg?oc=5",
-   "title": "India Renewable Energy Market Report 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFc3V1M0SmlsZnhqUk5IY2hfbUZicENFX2MyZFdnemJWSGdHdnRyOWNVZlZCQUdabG01MjZKQjhwUk84QWw4ZVVZdXF2cTg5VGhKYU5CdVFnTUp3cjZab29rOS1QLURyc3FDUWs4MTFsdkpoc2RjTGdSOEhxeDVkX1R1ajF2T0lKUFNoUWVld084VHBDSWZYRHA4RUlSamFZN2lPSUUtMXVGNXU5amRzYg?oc=5",
-   "title": "Low storage buffers in Europe could prolong global gas market tightness well into 2027",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnlwc1VIdXhhS3I0UjNKQnhKSFByQkZwSXBrZHdNRFh4LVdybk1VcVZ5YzctOWN0T3cxbHRuVTBOckJ1b1ltVWhvYmxUeHpyZmtIZUtKZFpxQXAtS0tCbDNlM0dYMzlhU0tqdl9ZaU8zVWVmc0l1TFZZaDBjU2t0V3FEZ2pRa3ZLSU5keEFMYWlxQ3ZpdzVJai0wRGdneVFudVZHWnZBc2ZIU0E0WXk0bUFXM0xlakNWLVlxRXp5VHQ?oc=5",
-   "title": "India’s rapid renewables growth is strengthening its role in global energy markets, IEA report finds",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGNWNzJNRVF5cUw1SzhobEl0X2RoZHgyNjdXYUVwT2Vyd2o0QkFhUkh1dnR5bDRMVTQ3TG15dmlUWmZ3ck9aQzB3R0V6WlJ1R01BbjhqbHNSU3diZk1Nd0ZPNS05WWxmYnd1ZXlVUnFkM2dVMFh6eW5tVy1UU3hDdy1VZTdEUDNiLWc?oc=5",
-   "title": "Geothermal (PS-12) - Geothermal Policy, Finance & Market Development: Innovation, Industrial Capability and Strategic Opportunities for Geothermal in India",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUU4emFKSkFTZGJZUmNzVG0xU3d1VTZmbmx3SFV0UkNHQXFJaHNEOEY5Y3JRQTgycVdBRTJqTnM5YVp2akhtMUxvVnk0NmdiakkyOGFvd1pUdVlKREpjRjNFdjdrWHBuZWxuZlROQzQ3LUtjY3JoZHRGcjZlZ0ZWb2g0bXhwMElfTFVIM2szb0E4bWZWc29XeWVQMDdrYnBO?oc=5",
-   "title": "Kazakhstan has the wind to power its demand growth.docx",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkN5clg3WWlPeXp6cUE5Yll4alJMX21PZ0RBd2FsUGloY0RSUE5Tc1ZTS0ZpYnhhSGpUdHpMaTJjQjV0Y3UwUDVYR2lwckVJb2l2VmI5djhsVXFYcHd6TVBja2Z1RnZIZWNjdERDTkJ2MVA2ZUloOWlfX2NJNGpkMEJYdUxGR0hCNjdnYzN3Q3hxWGJMRF9V?oc=5",
-   "title": "Kazakhstan has the wind to power its demand growth",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUTU4OUgwcWdCa2FaWWdmcDFxczYzeUg4VlY4RFctZk5WRjlId2tIQmJqUHYzUlZCOW5US3NVY2xBVHpuLWVVOFpHRmRpYlJFZmRTY3p4S01GOVgxUWpmN2UyUU55X0tWb2JjeUdOT1pDQ2FiT1JIb1dtNXNqekhXcnQ2eEQ2MEY3X01Rdl8tUFJNU2dIQ1hsUXBzRlR3djg1dUZWaTQyYVVpNU5KbnNiclNIWjV4SnNZdGtqdGszQ2tuMHI4UTNxZTYtQ3Z0dzZ0ZVFpUVNIcGUtcU9EUTkzSU4xRkItU0lHNUt0clVRUGpsQQ?oc=5",
-   "title": "Wind hybrid plants in Kazakhstan could meet 70-90% of typical electricity demand at lower cost than new coal, Ember finds",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-03T08:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://hannahritchie.substack.com/p/iea-open-data",
-   "title": "The International Energy Agency needs to make its data open; maybe someone can fund it",
-   "source": "Sustainability by Numbers",
-   "desk": "analysis",
-   "published": "2026-11-03T07:06:05+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "byline": "Hannah Ritchie",
-   "description": "How a mostly publicly-funded organisation still puts most of its data behind paywalls.",
-   "image": "https://substackcdn.com/image/fetch/$s_!-4_K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c954f0c-421e-49c5-aa95-d22321f6ee11_2048x1114.png",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "It’s hard to believe that it has been almost a decade since Hans Rosling died. He was a huge inspiration for the work I do today.",
-    "He would also be appalled that more than ten years on from his big push to make international organisations share valuable data with the world, some are still not doing it.",
-    "He coined the term “database hugging disorder” for this behaviour. One of the organisations still inflicted with the disease is the International Energy Agency (IEA). Despite being mostly publicly-funded, it makes users buy a license to access and use many of its crucial datasets.",
-    "You might have heard me beat this drum before (we’ve written about this on Our World in Data, and I’ve written about it in Nature ), but I’m here to bang it again because I still find the whole situation insane and indefensible.",
-    "I should start by saying that I think the International Energy Agency does fantastic work. It collects and produces invaluable data on energy systems across the world. I find their reports insightful. I’m glad that it exists.",
-    "It’s because their work is so valuable that locking it behind paywalls is so frustrating. If it were rubbish, I wouldn’t care.",
-    "To understand why the current situation is so mad, let me try to explain how the IEA is funded, and how it makes its money.",
-    "In 2018, the IEA’s annual core budget was around €28 million. Most of this money comes from funding from these member countries.",
-    "The remainder comes from revenue from selling its data and publications to users. It previously said that these sales were “more than one-fifth of its annual budget”. That would have been around €6 million a year.",
-    "I couldn’t find more recent public figures, but based on this data and other conversations, I still think €6 to €10 million a year is probably in the right ballpark."
-   ],
-   "lede": "How a mostly publicly-funded organisation still puts most of its data behind paywalls."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWdyOXg0YnU5cm5NN0NOWExFNU5XY0FuZDVfMTgxbTNTS3pwVVRlQjlPdGwzVWVDc0ZHYWhrVWZRTW5EZ0k5M3JFQmg0M01HMS1ZeG1lVWU1N19CMGV2STZuaGwzRFpDUl9mMHZ2dWw5NWZLUE5HQnRmUlFtdXA5REYxT2NmWkpTd0RMeGNpTWhoQVJaWlM0cFpsbG4xTHlLY1FkWm5HcWlNOERfdXB2Mk1VSjRYUU5DWm5OeUI2bDBodmp6bFhJ?oc=5",
-   "title": "Global Coal Mine Methane Review 2026",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-02T19:08:21+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkxaakh2anliTjNvS19xSUF0aWlEbnNqdEFwNV90N3lSQWFnYXVsNHlMZWVhdEYtSkhPNEJHR1BhYmozOWUwa3hneGJXRnlqTDFDWERyaVlLZDI5azd1eVdvTUxiRXUyTkI4SlRmejl6bzRidDNSd1FUS1FObDlJU016ZnRwZXZDNjZFYWJhTnBJaHBxWXcyOWN4MFhfR2ZkUi1NNlUzTExxYk5IbVJfS3U1V2hIRFJNRWE3dGU4Wi1CM2oxVDhiNWdaOUdHMHl6Z2ZHNw?oc=5",
-   "title": "Consultative Workshop on Greening Industries through Renewables and Energy Conservation in Indonesia",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-02T11:45:35+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/geothermal/boise-geothermal-network-affordable-homes",
-   "title": "Boise plans to tap its geothermal network to heat 300 affordable homes",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-02T08:30:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "description": "Micron Technology gave $2.5 million to help fund work to expand the system for a new multifamily housing development, slashing utility bills for future…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Boise_Idaho.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=83fd11bb2ce3f22a85adb7de5cdeacee",
-   "lede": "Micron Technology gave $2.5 million to help fund work to expand the system for a new multifamily housing development, slashing utility bills for future…",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGdBQllFY0Y5YkZQcmR6eEdnZXVHMlh2aUVzNVgxZDJjWUVvRnRXSENJeHdXbWZPWnVRRmg1Yno0bjUzc0dWMTZXbDBBWm1EZjh2WW5NYmlNRkZ5RWJsWm8xVHVVMTQya05QTG5aWUtEN2NWZDdYYzNVTTllcnRHRXdsci1Rb2NsXzNkVllVU0F5RGEyT21uRlln?oc=5",
-   "title": "Global Gas Security Review 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-10-31T07:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/clean-industry/meta-fortera-deal-cement-plant-missouri",
-   "title": "Meta strikes deal to help bring a low-carbon cement plant to Missouri",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-10-30T20:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "description": "The tech giant will buy certificates from Fortera, which is working to build its first commercial plant. The strategy is catching on in the industrial…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Fortera-Pour-Images-2-2-edit.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=670c0e717274dc6d549784fca1f93256",
-   "lede": "The tech giant will buy certificates from Fortera, which is working to build its first commercial plant. The strategy is catching on in the industrial…",
-   "tags": [
-    "industry"
    ]
   }
  ],
