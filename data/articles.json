@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22T06:51:11+00:00",
+ "updated": "2026-11-22T15:19:53+00:00",
  "briefing": {
   "headline": "Battery storage, solar and the grid",
-  "period": "Nov 15–21",
-  "made": "2026-11-21T11:05:34+00:00",
+  "period": "Nov 16–22",
+  "made": "2026-11-22T15:19:53+00:00",
   "bullets": [
    {
     "text": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey.",
@@ -30,20 +30,134 @@
     "theme": "AI’s power demand"
    },
    {
-    "text": "Spain's first batteries earn mostly from balancing services.",
-    "source": "Energy-Storage.news",
-    "url": "https://www.energy-storage.news/how-a-spanish-battery-makes-money-today-and-what-lenders-will-finance-tomorrow/",
+    "text": "The Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation.",
+    "source": "Electrek",
+    "url": "https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/",
     "theme": "clean-energy finance"
    },
    {
-    "text": "BYD's Fang Cheng Bao Tai 9 launched in China with a steer-by-wire wheel that folds into the dash in 10 seconds.",
-    "source": "Electrek",
-    "url": "https://electrek.co/2026/11/19/byd-folding-steering-wheel-tai-9-production/",
+    "text": "Earlier this month in Hefei, China, Sungrow held its inaugural Global Energy Pioneer Summit, bringing together installers and distributors from around the globe.",
+    "source": "Energy-Storage.news",
+    "url": "https://www.energy-storage.news/sungrow-utility-scale-success-residential-ci-segments/",
     "theme": "China"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
+   "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-22T14:22:49+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "cats": [
+    "News",
+    "home battery",
+    "home solar"
+   ],
+   "description": "For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/gary_dark.png?resize=1200,628",
+   "paragraphs": [
+    "For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs.",
+    "Briggs & Stratton partnered with Texas-based EG4 to offer an all American-branded solution for battery backup power solution last year, and its stackable SimpliPHI batteries helped make it easy to right-size home battery projects – but those batteries were limited in size, and limited in what they could actually offer. With the launch of the brand’s new, 16 kWh SimpliPHI battery, the company is ready to meet your energy needs … even if those needs take you up to 512 kWh. (!)",
+    "For context, the average US home uses about 865 kWh of energy per month, so a 512 kWh battery should theoretically keep your lights on for nearly 18 days after a storm – or provide basic power for your whole block for a weekend, at least!",
+    "“This launch represents a significant shift in our battery strategy,” explains Sequoya Cross, vice president of energy storage at Briggs & Stratton. “Our combined resources allow us to bring a competitively priced battery of the highest quality to energy storage installers.”",
+    "An onboard battery management system (BMS) and built-in Wi-Fi gateway help to streamline the system’s setup for installers, while the Briggs battery’s automatic inverter sensing technology supports closed-loop communication with Sol-Ark, Solis, EG4, Growatt, Megarevo, Victron, and other leading inverters. Other installer-friendly features include an IP65-rated enclosure allows for indoor or outdoor installation in either ground- or wall-mounted setups without requiring an additional cabinet, and an integrated circuit breaker that allows technicians to isolate the battery during servicing.",
+    "The battery itself is rated for 8,000 cycles at 90% depth of discharge, with a charge and discharge rate of 0.5C and an end-of-life capacity of 70%. Briggs & Stratton backs its new battery packs with a 12-year parts warranty that includes labor and travel costs, as well as a US-based tech support service.",
+    "The SimpliPHI 16 is available for pre-order now, though pricing was not mentioned in the original press release.",
+    "Rising energy costs mean more people than ever are considering solar, and it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable installer near you at a competitive price, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.",
+    "Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way. Get started here",
+    "NOTE: any opinions expressed here are solely my own and do not necessarily reflect those of the Federal government, the State of Illinois, Electrek, or anyone else. Nothing here should be interpreted as a statement of official policy, legal guidance, or an endorsement unless expressly labeled as such."
+   ],
+   "lede": "For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
+   "title": "Countries react as COP31 climate talks collapse",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-22T14:12:47+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/",
+   "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-22T13:01:35+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "cats": [
+    "News",
+    "EV policy",
+    "heavy equipment",
+    "illinois",
+    "ports"
+   ],
+   "description": "The Illinois Clean Ports Program is putting $104 million behind efforts to help clean up its working waterfronts, funds earmarked...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/07/big-forklift.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Procurement is now underway for zero-emission vehicles, equipment, and supporting infrastructure at four sites across the state. Administered by the Illinois Environmental Protection Agency (Illinois EPA), Illinois’ Clean Ports Program aims to modernize operations at ports and waterfront facilities in Chicago, the Quad Cities, and southern Illinois’ river port districts.",
+    "“Illinois’ waterways are a competitive advantage for the state,” said Illinois Governor JB Pritzker, who was elected to a historic third term on 03NOV. “By modernizing port infrastructure, advancing zero-emission technology, and improving air quality, we are strengthening our economy while building a cleaner future for Illinois.”",
+    "Illinois’ Clean Ports Program isn’t just replacing diesel-powered equipment with electric alternatives – instead, the plan also includes Level 2 and DC fast charging, shore power and charging for electrified ships, and comprehensive grid upgrades designed to modernize existing port operations and support the deployment of new electric equipment.",
+    "The program takes a holistic approach to port electrification at Chicago’s Illinois International Port District (IIPD), treating energy generation, storage, and deployment as parts of a single connected system. On-site solar helps meet the port’s growing electricity needs while excess power is stored for peak hours, when grid electricity is most expensive. This setup reduces strain on the local grid, and acts as a hedge against rising energy costs.",
+    "For smaller public port districts, replacing aging equipment and upgrading electrical infrastructure can be an enormous financial undertaking. The Illinois Clean Ports Program helps make those investments possible, bringing cleaner, healthier, zero-emission technology within reach of terminal operators while preparing the state’s ports for a more competitive freight future.",
+    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.",
+    "Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way. Get started here.",
+    "NOTE: any opinions expressed here are solely my own and do not necessarily reflect those of the Federal government, the State of Illinois, Electrek, or anyone else. Nothing here should be interpreted as a statement of official policy, legal guidance, or an endorsement unless expressly labeled as such.",
+    "Establish office dominance with this super creamy blank key masterpiece that makes it easy.",
+    "Find a reliable home solar and battery installer and save 20-30% compared to going it alone."
+   ],
+   "lede": "Procurement is now underway for zero-emission vehicles, equipment, and supporting infrastructure at four sites across the state.",
+   "tags": [
+    "policy",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane/",
+   "title": "E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-22T12:20:00+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "cats": [
+    "News",
+    "construction",
+    "cranes",
+    "heavy equipment",
+    "tadano"
+   ],
+   "description": "Developed by Japanese material handling giant Tadano, the 35-ton V320RC wheeled electric pick & carry crane has spent the last...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/img_tadano_V320RC_jobsite-6.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Developed by Japanese material handling giant Tadano, the 35-ton V320RC wheeled electric pick & carry crane has spent the last few months proving itself at NMG Italia’s job sites, where it’s been handling heavy loads in tight industrial spaces and improving efficiency by 50%. And now, you can buy one.",
+    "Developed in collaboration with NMG Italia, the V320RC electric crane has already proven its performance in the field with NMG and during precision setup operations at Marmomac, a trade show dedicated to the marble industry held each year in Verona.",
+    "“The ( Tadano) V320RC marks a real breakthrough in the pick & carry industry,” reads the official Tadano launch copy. “ Rather than an evolution of existing solutions, it introduces a new philosophy, with technologies and features capable of setting new benchmarks in the lifting market. Tadano and NMG Italia continue their collaboration in the field, turning real-world experience into new technological solutions to meet the most advanced demands of industrial lifting.”",
+    "The crane itself is a compact, battery-electric pick-and-carry machine with a maximum lifting capacity of 35 tonnes. Measuring just 5 m long, 2.15 m wide and 2.400 m tall (a meter is about a yard, guys – you got this), the V320RC is designed to bring heavy lifting capability into tight industrial spaces where larger cranes struggle to operate.",
+    "The new Tadano runs on a 120V, 1,120 Ah li-ion battery pack (that works out to ~134 kWh) and packs a gross vehicle weight of more than 31,150 kg (~34.5 short tones). That number includes 9,500 kg (~10 tons) of removable counterweights that make transport and handling easier for a wider range of customers. Under the hood, a new hydraulic system pairs a variable-displacement pump with what the company calls “an electro-hydraulic control valve” to improve precision and responsiveness while reducing energy consumption.",
+    "According to NMG Italia, all that baked-in tech V320RC give them 50% better productivity than competing electric cranes working under equivalent workloads, with enough battery capacity to support several days of operation between charges.",
+    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.",
+    "Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way. Get started here.",
+    "NOTE: any opinions expressed here are solely my own and do not necessarily reflect those of the Federal government, the State of Illinois, Electrek, or anyone else. Nothing here should be interpreted as a statement of official policy, legal guidance, or an endorsement unless expressly labeled as such."
+   ],
+   "lede": "Developed by Japanese material handling giant Tadano, the 35-ton V320RC wheeled electric pick & carry crane has spent the last few months proving itself at NMG Italia’s job sites, where it’s been handling heavy loads in…"
+  },
   {
    "url": "https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/",
    "title": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck",
@@ -275,6 +389,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGVJYTFEbkdkZ2dJaTZBVVZ1RGUzQ2R4REdnZDQwNkN1M0hfY0N3alF5WFlhWmFLOXZWRmRZVWxmTFZaajNMLXZSbl8zQVJmYTRTN05iX1l0ZmJJUjdXQXRJR3VSVl9FWW81TWpzdUNFRU5XUXNRZ1FsdnNKUVNFWHRWMEdpZW0zZlNmcVppQXBoTFV5RHhGalhzeWpQUnVRR3JuVnRvODVtUmc?oc=5",
+   "title": "Rising Demand Means It’s Hard to Find an EV in the US",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-21T18:16:28+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://electrek.co/2026/11/21/e-quipment-highlight-mantsinen-200-material-handler-has-tank-treads/",
    "title": "E-quipment highlight: Mantsinen 200 material handler has tank treads",
    "source": "Electrek",
@@ -435,6 +563,20 @@
    "fetched": true,
    "tags": [
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmt4Uld1TVhWSDBfaTM0b3NlcUVhNm1xOGNiWjdCZGNRdXlXNXF4RllHQ0g4VnNGTXkxVUxRd3lqZXlTR1lsZmNtb1h3cGRYVkItVl9YUi00YzFzMmVWVTBVcmxVNHhGQlRCZWtRTXRhWW1ORFBKb1Y3SmtsMVotS0RtWmRRYVhzNmtWRTRLcjJCSmVlOFRjcUZxcTgzZjdFeWdndlUyNC1Dc29CZFE2YllWZnI2MDFU?oc=5",
+   "title": "COP31 climate summit risks failure as talks go deep into overtime",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-21T14:42:25+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -1107,6 +1249,17 @@
    "lede": "Volkswagen revealed the ID. Polo GTI Clubsport Concept, an electric pocket rocket with a massive rear wing and 362 horsepower...."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUhiT2daQ0h0eGJ1N21DMm1xczhGbWRBT2UxS3MzMjFTdmFTRWxnZlVKRWgxZ0FWWXJEUHZoOW5NRV84NW9BN2dzRmhjek5TWV8waGtJajlUTmlKTmYxc0V1aWROblFraEZSVUFrYWc2a1NWekZEeXJQb1NaZVBYajZycVRsNHo5Uk43U29NeHJ1UzdjTkpXb2NBYi1UYkhSSGRQRUJCOG5ybTJLQlE?oc=5",
+   "title": "Germany's Merz says Qatar pledged €15 billion in investments",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T15:14:59+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.utilitydive.com/news/budderfly-to-invest-500m-to-finance-and-operate-municipal-energy-upgrades/875320/",
    "title": "Budderfly to invest $500M to finance and operate municipal energy upgrades",
    "source": "Utility Dive",
@@ -1129,6 +1282,20 @@
    "fetched": true,
    "tags": [
     "china"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemxCMzdZQVhrN293eFVPNTNrdHFZblZJNkJFQzluUFhMMG8xQUI1SG80YjdUWWgzdElKWmtiVVRmOFhKS2toWWZLZ2ttZ1ZOVDl3dFVEcGlpSG9DSy1ZbW1TVEY0VFpPbzhJck9sYjJHRDkzakFBTlJ4MFhOcEZfVTF3M2lIUGo2aWQ4VUdfaDJFaklfUzlVTWlCWlNHeEp3RnZ6NWI4UmpQVzlrd1I2My1tTDNsXzJDRHRIWHRXR0ZZbXZGanpz?oc=5",
+   "title": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T15:04:00+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -1636,6 +1803,17 @@
    "tags": [
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3VlUmtXdkJETU9WcE4tTVZzNGtzMFFxZ05LcG5IX1pwWkdhWjczSmlqUGt2UVpfUWx0SFhsVDJ4Q3pWX3k1Qjk5czZGRUlleEZEbTFkQ1p4QnpMLTc3YkpDVkotUThwbGo0Q3U3dmJlYVJISzBqNmd4Vlo3eWtCTGlZZHNKaWZSendTWkJVcWdSTzcxQjRpNHlVV2haUjA4cFg1U1E5Z2hDdEFnWWVWd1p3?oc=5",
+   "title": "Venezuela’s Machado Urges More Drastic Overhaul of Oil Sector",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-20T10:00:03+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORDlEWXU3V1doMGM0M0tGM21WS19oQlRkVHg1aDdST1prYWdzT1FsTWlzUkxwQmsxemxrM21kSzR5S1d4bjdEYWo4UHJKQWRpc2ZiamRKYXVWb0pvOXBwdk81ZnU3SkRQUkRTZGp6NkhOaTlSaUwzUTNPZVJ5MlZ6M3VPemx5TUQ0Y2RucmdNMXBLRi15a3BvanZGdGRvUmE1dzVodDNacw?oc=5",
@@ -4113,6 +4291,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1dqbjcxS1NvVGZBUEJYTDd1alo4YWNzRG9aMVZoVUE2b1ZibW95VlhQWDQ5dWNZTTFkbXBnbHVob1JMT21UMElBbnlQb01wT2Q4NXdHRi1GWGFfQ040NGRCRFlzcFNUTjJJMGRPT1FEWF9sTUJUZVV2MU90dUZOXzAzbmlnZWxwOG5YOVFNcUJOdGF1aEl6dERxSEhJMDA?oc=5",
+   "title": "Britain, EU drop 'trusted partnership' term from summit draft",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T20:02:37+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
    "url": "https://electrek.co/2026/11/18/ionna-enables-plug-charge-for-tesla-opens-22-bay-site-in-westminster-ca/",
    "title": "IONNA enables Plug & Charge for Tesla, opens 22 bay site in Westminster, CA",
    "source": "Electrek",
@@ -4903,6 +5095,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5",
+   "title": "Five military officers injured in Jordan's helicopter crash, army says",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T09:40:16+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.energymonitor.ai/news/google-signs-ppa-50mw-quaise-energy/",
    "title": "Google signs PPA to buy 50MW geothermal power from Quaise Energy",
    "source": "Energy Monitor",
@@ -5475,6 +5678,17 @@
     "policy",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oVFBTSVRYeXRJMnh1MV9YYVg4VDNxeVVTTlB6Nkc4OU5JcGh4TWxnMmcyNXRhM1didVRLVXlGZ3NEbkw5SmxCYkw5dkpjTmZzcFgyWUs5RHhhVkEzOFBDclREZUtVMnhVN0VyR0RRYnlTQQ?oc=5",
+   "title": "Transcript: Whac-a-Mole",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-17T16:37:46+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
@@ -7815,6 +8029,37 @@
    "fetched": true
   },
   {
+   "url": "https://electrek.co/2026/11/13/hyundai-overhauling-kona-ev/",
+   "title": "Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-13T17:47:19+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Hyundai is skipping the typical mid-cycle refresh and plans to launch a completely redesigned Kona, with a sleek new style...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Hyundai is skipping the typical mid-cycle refresh and plans to launch a completely redesigned Kona, with a sleek new style and an updated high-tech interior.",
+    "It’s been nearly four years since Hyundai introduced the second-generation Kona, meaning, like most of its models, the compact SUV was expected to receive a mid-cycle refresh.",
+    "Hyundai is apparently going straight to the third-generation model instead. Earlier this year, early-stage prototypes were spotted in Korea that looked much boxier and more rugged than the current Kona.",
+    "Since then, several test mules have been captured testing in the US, Europe, and other regions, confirming the Kona will adopt a more upright, traditional SUV design similar to the new Santa Fe, Palisade, and Tucson.",
+    "The wider, more powerful design appears to draw inspiration from Hyundai’s off-road Crater Concept, revealed at the LA Auto Show last year.",
+    "Hyundai said the off-road SUV Concept was a preview of the “next evolution” of its Extreme Rugged Terrain (XRT) vehicles, such as the IONIQ 5 XRT and Palisade XRT Pro. Is the Kona next in line to receive the XRT treatment?",
+    "Apparent leaked images from a few months ago revealed a design that looked like a mashup of the Crater Concept and IONIQ 5, with pixelated lighting and a clamshell hood.",
+    "Most recently, the third-gen Hyundai Kona, codenamed “SX3,” was spotted disguised in a parking garage in Korea. The images were sent to ShortsCar, revealing the new Kona’s wheel design.",
+    "While earlier reports suggested Hyundai planned to drop the all-electric Kona variant and would only offer gas and hybrid versions, the prototype captured in Korea is expected to be the EV model. However, Hyundai has yet to confirm powertrain or battery specs.",
+    "The updates are even more evident on the inside. Previous spy images appeared to show the third-gen Hyundai Kona running Hyundai’s new Pleos Connect infotainment system, like the IONIQ 3."
+   ],
+   "lede": "Hyundai is skipping the typical mid-cycle refresh and plans to launch a completely redesigned Kona, with a sleek new style and an updated high-tech interior.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://www.canarymedia.com/articles/electrification/electrify-everything-cop31-climate-conference",
    "title": "‘Electrify everything’ hits the global stage",
    "source": "Canary Media",
@@ -7843,6 +8088,103 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/13/here-are-the-coolest-e-motorcycles-and-gear-we-saw-at-eicma-2026/",
+   "title": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-13T15:39:00+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase. That means that all of the newest electric motorcycle announcements happen in one place, and we get a chance to check out the coolest developments and most interesting new gear.",
+    "Below is a list of the best things I saw while walking around the show this year, presented in no particular order.",
+    "LiveWire came to EICMA with perhaps its most diverse electric two-wheeler lineup yet, showing just how far the company has expanded beyond the premium electric motorcycles that originally defined the Harley-Davidson spin-off.",
+    "The new S4 Honcho family was a major focus, including the street-oriented Honcho Street, off-road Honcho Trail, and newly unveiled Honcho Skate, a stripped-down addition to the modular platform. The booth also included LiveWire’s larger S2 electric motorcycles, creating a pretty broad spectrum from lightweight urban machines up through full-size highway-capable electric motorcycles.",
+    "The other big piece of the booth was DUST Moto, which LiveWire acquired earlier this year. The production-intent DUST Hightail was displayed alongside the newly revealed DUST Spur, giving LiveWire an immediate presence in the increasingly popular lightweight electric dirt bike category.",
+    "Add in STACYC’s electric balance bikes for young riders, and the entire booth almost looked like an electric two-wheeler progression chart: start a kid on a STACYC, move up through lightweight DUST and Honcho machines, and eventually graduate to a full-size LiveWire.",
+    "GR1T Motorcycles is a relatively young European electric motorcycle startup that caught my eye at EICMA with its G1 platform, a lightweight electric motorcycle designed and engineered in Italy. The basic recipe is pretty compelling: 130 km/h (81 mph) top speed, 11 kW of continuous power and 26.6 kW (36 hp) peak, all while weighing just 130 kg (287 lb).",
+    "Perhaps most importantly for urban riders, its roughly 6 kWh battery is actually split into two removable 3 kWh packs, meaning apartment dwellers can pull the batteries out and charge them inside. They’re big, but removing them is doable.",
+    "GR1T’s bikes therefore pack in around 50% more battery capacity than most electric motorcycles in this size and weight class, meaning roughly 50% more range, as well.",
+    "There are also some interesting and clever design choices, like the underslung rear suspension and the triple-camera system that includes front and rear dashcams plus a cockpit-facing camera for recording the rider."
+   ],
+   "lede": "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/13/meta-to-deploy-25-electric-semi-trucks-across-i-10-corridor-but-has-nothing-to-ship/",
+   "title": "Meta to deploy 25 electric semi trucks across I-10 corridor, but has nothing to ship",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-13T15:34:20+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "cats": [
+    "News",
+    "electric trucks",
+    "heavy equipment",
+    "logistics"
+   ],
+   "description": "Electric truck operator Nevoya is expanding its deal with Meta with the fresh deployment of 25 Class 8 battery-electric trucks...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/nevoya_MAIN.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Electric truck operator Nevoya is expanding its deal with Meta with the fresh deployment of 25 Class 8 battery-electric trucks on the Interstate 10 (I-10) between San Bernardino, California and Phoenix, Arizona … but Meta won’t be shipping any products.",
+    "The second major trucking deal between Facebook parent company Meta and electric truck operator Nevoya will put 25 new battery-electric semis on I-10, running freight between San Bernardino, California and Phoenix, Arizona. But Meta isn’t buying trucks, hiring drivers or shipping its own products. Instead, Zuck’s company helping pay for someone else’s cleaner freight through environmental attribute certificates (EACs), a carbon credit mechanism that lets companies claim the emissions benefits of electric trucking without operating the trucks themselves.",
+    "“Coming back to Nevoya for a second corridor reflects what we look for in our value chain work: partners that can scale, and agreements we can repeat, said Devon Lake, Head of Net Zero Strategy, Meta. “Freight is part of the emissions footprint of building and operating our data centers, and multi-year commitments like this help address our scope 3 emissions and make electric trucking available and competitive on the routes that serve the regions where we build.”",
+    "Meta was one of several buyers in the DC-based Center for Green Market Activation (GMA) buyers’ alliance. The group’s collective EAC purchases supported Nevoya’s initial 63-truck deployment on the Houston–Dallas corridor back in May. This new Agreement, however, is a standalone deal between Nevoya and Meta only, and gives Meta an established framework to open more electric truck corridors in the future.",
+    "This clever application of these agreements is what makes the Dallas-Houston run stand out, with GMA calling it, “the first large-scale application of book and claim to zero-emission trucking.” The company adds that this arrangement helps client companies overcome existing barriers to EV adoption while enabling Nevoya to deploy new trucks, “where they deliver the strongest commercial and operational value.”",
+    "Yuck. That's the feeling I get when reading this. Am I happy that more EV semi's will be going on the road? Yes. But the way it's being done just makes me feel dirty. And I refuse to do or have anything that Mark Zuckerberg is involved with. I find him to be disgusting. But then again I find most of these super wealthy people to be vomit inducing.",
+    "So I'd liken this deal to a guy who goes out to a bar with the sole intention of \"having some fun\". And it doesn't matter to him how that happens, as long as he gets his happy ending. But then when the sun rises and the darkness vanishes, who this guy slept with is revealed and it's not good.",
+    "Nevoya expects Meta’s fresh batch of semis to begin prowling I-10 in 2027, where they’ll cover approximately 4 million freight miles annually.",
+    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them."
+   ],
+   "lede": "Electric truck operator Nevoya is expanding its deal with Meta with the fresh deployment of 25 Class 8 battery-electric trucks on the Interstate 10 (I-10) between San Bernardino, California and Phoenix, Arizona … but…",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/13/tesla-kills-41990-model-y-awd-configurator/",
+   "title": "Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-13T15:32:28+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "cats": [
+    "News",
+    "Tesla",
+    "Tesla Model Y"
+   ],
+   "description": "Tesla has pulled the $41,990 Model Y All-Wheel Drive from its US online configurator. The cheapest dual-motor Model Y you...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Model-Y-Standard.png?resize=1200,628",
+   "paragraphs": [
+    "The trim lasted just over nine months. Tesla launched it in early February, and it’s gone without a word from the company.",
+    "Here’s what Tesla’s US Model Y design studio lists as of today (prices before the destination fee):",
+    "If you live somewhere it snows and you were shopping for a new Model Y, the math just got a lot worse. You can still find some base AWD units in Tesla’s inventory, but once those are gone, that’s it.",
+    "There are two plausible reasons. Either Tesla is tight on Model Y build slots and would rather fill them with higher-margin Premium trims, or the cheap AWD simply wasn’t selling. We don’t know which. But both explanations land in the same place for buyers: a more expensive Model Y.",
+    "Tesla is not going to keep 6 different model Y trims especially when the most expensive trim in the Model YL is selling. They will definitely squeeze out as much money from selling more expensive trims so the lowest end trim will most likely be next to go.",
+    "And Tesla has a habit of this. The “Standard” name for its cheaper Model Y and Model 3 lasted a few months. The single-motor Cybertruck, the only version that made sense, was gone within days. Cheaper trims show up, get a news cycle, and quietly disappear.",
+    "That’s a problem for a company whose consumer lineup is shrinking down to two cars. The Model Y is Tesla’s volume. Thinning it out at the bottom is the opposite of what you’d do if growing EV sales were the priority.",
+    "If you’re buying an EV, powering it with home solar can cut your fuel costs to nearly zero. With electricity rates up almost 10% last year and expected to keep climbing, going solar is one of the best ways to protect yourself against rising costs. And with lease and PPA options, you can do it with zero upfront cost and start saving immediately. If you want to find the best deal, check out EnergySage. It’s a free service with hundreds of pre-vetted installers competing for your business, so you save 20 to 30% compared to going it alone. No sales calls until you pick an installer. Get your free quotes here.",
+    "Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas.",
+    "EnergySage helps you get the best price possible on a home solar installation for free and without hassel."
+   ],
+   "lede": "The trim lasted just over nine months. Tesla launched it in early February, and it’s gone without a word from the company.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://www.energy-storage.news/the-next-phase-of-ess-lg-energy-solutions-strategy-for-an-evolving-energy-market/",
    "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
    "source": "Energy-Storage.news",
@@ -7865,6 +8207,35 @@
    "tags": [
     "power"
    ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/13/zonveer-zx3-review-1299-electric-dirt-bike-beginners/",
+   "title": "Zonveer ZX3 review: one of the best-value electric dirt bikes for beginners",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-13T14:06:44+00:00",
+   "seen": "2026-11-22T15:19:53+00:00",
+   "cats": [
+    "News",
+    "Review"
+   ],
+   "description": "Zonveer ZX3 review: a 2,800W electric dirt bike with a 1,200Wh battery for $1,299 on sale, and one of the best values for beginners.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Zonveer-ZX3-1.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "For that money, you get a 1,200Wh battery, dual hydraulic disc brakes, and full suspension in a 130 lb package. That’s a great entry point for beginners.",
+    "Zonveer is a young brand. It launched in the US in March with two bikes, the kid-sized DX1 and the ZX3, and it’s run by United Mobility, which lists its address in Dover, Delaware. It sells direct and ships from US warehouses, and Zonveer also sells the ZX3 across Europe under its own brand through its EU store.",
+    "A hub motor means there’s no motor chain to maintain, and the NFC card and PIN unlock mean there’s no app to fight with. I like that.",
+    "Zonveer sent me a ZX3 to test, and I’m impressed with what they shipped, knowing the cost. It isn’t trying to be a race bike. And it doesn’t need to be. Here’s my first ride review:",
+    "With 2,800W peak, it’s somewhat modest by e-moto standards. That’s exactly what makes it approachable for someone who has never ridden a dirt bike: the power is enough to have a blast on trails without being intimidating.",
+    "My girlfriend had never ridden a dirt bike before, and she got comfortable within a few minutes, and she was hooked as soon as she got the hang of it.",
+    "And while testing with my girlfriend, it was clear this bike makes the most sense for lighter riders. Zonveer claims it climbs slopes of up to 30 degrees, which is optimistic for anyone over ~175 lbs, like myself. It still climbed some of the worst slopes on my land, but it did so with some difficulty, which wasn’t the case for some of my lighter friends who also rode it.",
+    "Range is the other claim to take with a grain of salt. Riding 45 miles on 1,200Wh means using under 27Wh per mile, which is e-bike efficiency on a 130 lb dirt bike with knobby tires. It’s still a lot of energy, and you can ride this long distances at lower speeds. Just expect less if you ride it hard, and that’s where the fun is at.",
+    "It’s not fast by e-moto standards, and the range and climbing claims are optimistic. But for beginners, and especially lighter riders, the power lands right in that sweet spot of manageable fun. It’s a bike you can learn on without scaring yourself, and it’s cheap enough that a family can buy two for less than one Sur-Ron.",
+    "Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas."
+   ],
+   "lede": "Zonveer ZX3 review: a 2,800W electric dirt bike with a 1,200Wh battery for $1,299 on sale, and one of the best values for beginners."
   },
   {
    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
@@ -9643,328 +10014,6 @@
    "desk": "news",
    "published": "2026-11-10T08:00:00+00:00",
    "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObk1aU3dTYUhfSzMtaDFkbjQzYkFEVDlvSVZyNzdON0FkMzVjUE51RW1NVnprQ29sYlkzNDNJb3QxOFNRa0lKUDBnTV9QdU1xT3ZLdE5uT0x6Z0tYSlFTd3RlU2RCd1JtYkhrbkhOLU41LWdQNHRfaW5wdWpyT0NOdmppSEgxNk5GMXZyOFZhYU44QQ?oc=5",
-   "title": "Exclusive: Martin Heinrich on What’s Next for Permitting Reform",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-10T08:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGdJQlE4aGgyQ2o2LTMzNnBaMG5HNFdfM3dJRGdiUTRMZFVTOGYwLU9DVk43aW9UZDh5SWc2TWgxelJvOWFnNkd3ckxQWkpjbDk3b1NKbnU2Sk4xWnJnY3ZSa1ZEM21iWFExaFJDbjdyZ3U3RkFJeEVUQkNqdHAxbkMzLVdxODdOLUt3eUQxWEFia2NQeTRJX2N4akhyZ0lsMmN6ZWVQYjUtbXAtbTFkY1JXM0VWV1I0TzR5ZzliajRhejcxWWZlZ1RrLXIzSE5idS1vd21CVDJHV0VhaWYwXzN3RQ?oc=5",
-   "title": "Utilities deliver record 21,000 kms of new grid as transition investment rises to more than $156 billion per year",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-10T08:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmdGNnpsckRWMjJxUld5Y1hRR1g0TlBHdWlSOUNlMjA3R2NRMVJLR0l0a0ZjdDZabnl6YVlCQjZ2Q21aOWlURGpBOVFvd0FTS0dDdWhmejZYOUlpeHAzekFEdFlpTkdUZW1jN25LSjh0VXotNVNyc0N4X1BEWXBhM2lzNFlTSFFVZGZTak9xUDdCeGFWbU50UTNrT2lsdDNjOV81eE10Q19raE8wOHhYa1BXTHRiSlptMkI0Mw?oc=5",
-   "title": "Türkiye generated $500 million in exports through interconnections in 20 months",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-10T08:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa1FCUE5ObDNFdUZ4TzFUM3lUU2lDUGYyRUtpX2h5VXNaMDZJd2lxLThMYkdwQWplZkZMYmhzWmhXdVFtbzlMa3JJQzB1aGVCU3VMeWUxMUN1R040djhMMGZMTnpjNVRRYW9NWWpMWUFRMHBmeGJtM2NDR3E5X3RVMmZiN0tVX0VNVlNzZjFtNTJJckR1TndmN0ZsZWR2eHJnanNBc3BsMFFTY0duRWpn?oc=5",
-   "title": "A competitive bidding framework for decentralised renewable energy: allocating responsibilities for service delivery and public sector support",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-10T08:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVZuWTBoVWFGdXlsYVBhSFZwcHI5MXJySVFuM21jUjE5bFJLYks4MWdWS3JzN3ZvRmFmckdjQXhMWWNPa3FIckQzNlNQTWt2Q2RCWHBJZG1CU1gwZEFrQ0kzRjR5Zm9HTElrNTVpRUhIN3RXUGxjUE1IWmptRllzQ0o3VEIwNUpick8xczA2MmFzZjJRTElEWHNENDRBVTJldzRVTW1BRDZHUDF0Z0FmN1hHeWFzbEtVM2RsNU5nR0lxcUtYWnhj?oc=5",
-   "title": "Powering the World’s Electrification Ambition Through Next-Generation Grids at COP31",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-10T08:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWFqYVlqWmNiZ0JaUElxemxnT3FENFB3ajYyUHNGb21QRWxUQjdHZFJIQ3JpMl9yeGpIcXVOTWZ0enplMV9hYTY1dkVuemhwZ2tiMV8yUHpwY3I5QWt2TExEM3d2VWR5eF9ScmcxdERtbGUtTE1ZLTBfS1ZVeUN5MTNPXzVYQm11YlozSGJ4Q0phR2dSbEpr?oc=5",
-   "title": "Executive summary",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-10T07:57:34+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXpLSkFxU0dZRnVKNUFSeEpMdzN4eEQ2cUxucFl4WXJROWhPSDF5UWFiRzA3eG94dV94aG1abzJkeDNVd2VJLUZhS0ptOE1EMXR0Zll4MmpvVjlPSUsyLURjd2VoeHFXbDZiT0EwQ19yWklBbUFxYVc2OEFsUTJENWdLaVRkU1VOQWREbTNKYWs5aUdzYU1LR1Q0THM2TjV6ZDVDZGFfOG1fRUxTQWhDN3NpamhIaVNDYWxFNVNHU2lvaW56ZC1KWVF3?oc=5",
-   "title": "[EN] Türkiye generated $500 million in exports through interconnections in 20 months - ember-energy.org",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-10T03:17:41+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
-   "title": "Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
-   "source": "Carbon Brief",
-   "desk": "news",
-   "published": "2026-11-10T01:01:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Uncategorized",
-    "carbon budget",
-    "carbon dioxide",
-    "carbon dioxide emissions",
-    "CO2",
-    "CO2 emissions",
-    "Emissions",
-    "fossil fuel emissions"
-   ],
-   "description": "Carbon dioxide (CO2) emissions from fossil fuels and cement are projected to fall by around 0.4% in 2026 to 38.2bn…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3F2Y58E.jpg",
-   "paragraphs": [
-    "Carbon dioxide (CO2) emissions from fossil fuels and cement are projected to fall by around 0.4% in 2026 to 38.2bn tonnes of CO2 (GtCO2), according to new figures from the Global Carbon Project.",
-    "The 21st edition of the annual “global carbon budget” report, published today, says that this small decline is largely due to a 1.9% drop in emissions from oil and the energy shock triggered by the Iran conflict and the closure of the strait of Hormuz.",
-    "The Global Carbon Project’s projections for fossil fuel and cement CO2 emissions in 2026 are preliminary, with a range that spans a fall of -1.5% to a rise of +0.6%.",
-    "This is primarily driven by peat fires and forest degradation in south-east Asia and is linked to the development of a strong El Niño event this year.",
-    "As a result, total CO2 emissions from fossil fuels and land use are projected to reach a record high of 43.3GtCO2 in 2026 – marginally above 42.8GtCO2 in 2025.",
-    "Research published alongside the report by the same team in Nature Climate Change finds that the growth in solar, wind and electric vehicles (EVs) now offsets around two-thirds of the emissions that would otherwise come from rising energy demand.",
-    "However, the deployment of these technologies is not yet enough to push global emissions into a sustained decline, according to the study.",
-    "(For more on previous editions of the Global Carbon Project’s annual report, see Carbon Brief’s coverage in 2025, 2024, 2023 and 2022 .)",
-    "Total global CO2 emissions, which combines fossil fuels and land-use change, are projected to reach a record high of 43.3GtCO2 in 2026, up from 42.8GtCO2 in 2025.",
-    "The increase in 2026 comes entirely from a projected rise in land-use emissions, which are more challenging to estimate than fossil emissions."
-   ],
-   "lede": "Carbon dioxide (CO2) emissions from fossil fuels and cement are projected to fall by around 0.4% in 2026 to 38.2bn tonnes of CO2 (GtCO2), according to new figures from the Global Carbon Project.",
-   "tags": [
-    "industry"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/removing-barriers-to-distributed-energy-resources-could-save-us-power-system-us614-billion-by-2050-report-finds/",
-   "title": "Removing barriers to distributed energy resources could save US power system US$614 billion by 2050, report finds",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-09T12:39:52+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "affordability",
-    "battery",
-    "bess",
-    "brattle",
-    "demand",
-    "ders",
-    "distributed energy resources"
-   ],
-   "description": "A new report prepared by The Brattle Group for The Pew Charitable Trusts finds that removing barriers to distributed energy resources (DERs) could avoid an estimated US$614 billion in US power system costs through 2050.",
-   "ftries": 1,
-   "lede": "A new report prepared by The Brattle Group for The Pew Charitable Trusts finds that removing barriers to distributed energy resources (DERs) could avoid an estimated US$614 billion in US power system costs through 2050.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.volts.wtf/p/so-how-about-those-midterm-elections",
-   "title": "So, how about those midterm elections?",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-11-09T11:05:33+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "byline": "David Roberts",
-   "description": "A conversation with Caroline Spears of Climate Cabinet.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://substackcdn.com/image/fetch/$s_!ytQi!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F223720280%2F482ee90a-5a68-4452-94ff-260a02362cc1%2Ftranscoded-1794083844.png",
-   "paragraphs": [
-    "Last week’s election was a blue wave all the way down the ballot: Democrats took the House and Senate, went from 16 state trifectas to as many as 22, flipped utility commissions, and rejected data centers almost everywhere. Caroline Spears of Climate Cabinet, which won more than 100 of its 120-plus races, joins me to sort through the statehouses, PSCs, and ballot measures. Then we ask the harder questions of whether these new majorities can actually bring down costs and what it all means for climate and energy policy.",
-    "If you keep a sharp eye on the news, you may have noticed that there were some elections last Tuesday.",
-    "They were, to use the newly coined term, a bluenami. Democrats took the House by a more than 30-seat margin. Depending on how the Alaska and Mississippi races turn out, they could end up with 56 seats in the Senate, something nobody, and I mean absolutely no one, predicted. Dems are probably going to end up with 30 governorships, including in every swing state, representing more than 75% of the US population. They went from 16 state trifectas — governor, state house, and state senate — to, if Arizona goes their way, 22. And those are just the top-line changes — there’s plenty to discuss further down the ballot as well.",
-    "We’re going to discuss the scale of the bluenami, some of the lesser-know state and local races swept up in it, how it might translate to climate and energy policy, what it all portends for 2028, and much more. Let’s jump in!",
-    "Lawsuit Filed Against Money Out of Politics Proposal After Michigan Voters Pass Initiative",
-    "David Roberts: So let’s jump in. With no further ado, Caroline Spears, welcome back to Volts.",
-    "David Roberts: What a day, what a week, what a time to be alive, Caroline. Let’s start here. I think the audience knows at this point what Climate Cabinet does. You, early in election cycles, do some analysis, pick some state and lower-level races that you think matter for climate, and then get involved in those races, support those candidates, support those campaigns. So let’s just start here. How many total races were you involved in this cycle, and how many went your way?",
-    "Caroline Spears: Well, I have good news for you and bad news for you, Dave, which is that we were involved in over 120 races across more than 10 states on Tuesday. We won over 100 of them. We lost 10 of them, and we have 10 still too close to call. And the good news is that’s a win rate of over 90%.",
-    "Caroline Spears: That seems like good news. The bad news is that a year ago, I went on this pod after 2025 when we also had a great win rate, and I said, “Dave, we’re gonna go further. I promise you that we try to pick even more challenging races this year so we could keep expanding the map.”",
-    "David Roberts: Yes, ’cause too high of a win rate would suggest that you’re not taking enough chances. We discussed this last time, and you said, “All right, next time we’re gonna push, we’re gonna take even bigger chances. We’re gonna push even harder.” Apparently, you just can’t push hard enough to get ahead of the blue nami."
-   ],
-   "lede": "A conversation with Caroline Spears of Climate Cabinet.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/bloombergnef-us-midterm-results-likely-a-net-positive-for-bess-despite-data-centre-headwinds/",
-   "title": "BloombergNEF: US midterm results likely a ‘net positive’ for BESS despite data centre headwinds",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-09T11:01:17+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "Analysis",
-    "News",
-    "battery",
-    "bess",
-    "bloomberg nef",
-    "bloombergnef",
-    "bnef",
-    "congress"
-   ],
-   "description": "Derrick Flakoll, senior policy associate for North America at BloombergNEF, has offered a more measured take on how the Democrats' midterm victories could affect the battery energy storage system (BESS) sector.",
-   "ftries": 1,
-   "lede": "Derrick Flakoll, senior policy associate for North America at BloombergNEF, has offered a more measured take on how the Democrats' midterm victories could affect the battery energy storage system (BESS) sector.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/pacific-blue-refers-855mwh-battery-storage-system-in-victoria-to-australias-epbc-act/",
-   "title": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-09T09:23:07+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "News",
-    "battery storage",
-    "bess",
-    "energystorageaus",
-    "epbc",
-    "EPBC Act",
-    "nem",
-    "StorageAus"
-   ],
-   "description": "Australian renewable energy generator and retailer Pacific Blue has referred an 855MWh BESS in Victoria to Australia's EPBC Act.",
-   "ftries": 1,
-   "lede": "Australian renewable energy generator and retailer Pacific Blue has referred an 855MWh BESS in Victoria to Australia's EPBC Act.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/australias-nem-bess-stored-energy-hits-record-20-17gwh-up-203-in-a-year/",
-   "title": "Australia’s NEM BESS-stored energy hits record 20.17GWh, up 203% in a year",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-09T09:19:59+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "News",
-    "australia",
-    "battery",
-    "bess",
-    "energystorageaus",
-    "nem",
-    "new south wales",
-    "nsw"
-   ],
-   "description": "Energy held in battery energy storage systems (BESS) across Australia's NEM reached a record 20.17GWh on 6 November.",
-   "ftries": 1,
-   "lede": "Energy held in battery energy storage systems (BESS) across Australia's NEM reached a record 20.17GWh on 6 November.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/food-and-farms/wheres-the-beef-solar-panels",
-   "title": "Where’s the beef? Under the solar panels.",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-09T08:30:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "description": "A Tennessee developer thinks it’s cracked the code for mixing solar panels and cattle. Scaling the model could make it easier to build clean energy in…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/CattleTracker-1.JPG?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=2b413fe14054502938732ce989ab7260",
-   "paragraphs": [
-    "CHRISTIANA, Tenn. — As sunlight fell between the gaps in flinty November clouds, I found myself impressed by the quietness of the lawn mowers in a Middle Tennessee solar field. Instead of the obnoxious roar of diesel engines, they just produced an occasional moo.",
-    "Six months ago, Tennessee’s largest solar developer, Silicon Ranch, channeled its nomenclature and brought cattle to this 3. 25 -megawatt solar project. The 15 -member herd rotates among 15 paddocks marked out by simple electrical wire, munching Bermuda grass that grows in the shade of the panels, which sit on higher-than-usual steel piles. The cows seem amenable to the situation, judging by how plump they’ve become in that short time.",
-    "This is the first commercially viable utility-scale project combining solar and cattle farming in the U.S., according to Silicon Ranch (an earlier 2 -MW project from AES sought to prove the concept in Massachusetts’ community solar market). If the model takes off, it could boost revenues for farmers while producing more clean, cheap electricity in regions that don’t have a lot of wide-open, unused spaces to develop. And it might remedy a major obstacle to ongoing solar growth.",
-    "The U.S. builds more solar installations than any other form of power plant these days. But the industry’s upstart success story is colliding with a bulwark of local opposition from communities that don’t like the idea of this relatively new technology taking over their landscapes. One way around that conflict is to use the same land for solar power and agriculture.",
-    "The solar industry already has adopted sheep grazing as a mainstream approach to cutting grass at project sites, while supporting a secondary market for domestic meat. Researchers have also found that grasses and some crops grow better in the shade of photovoltaic panels than in an open field. But the burgeoning ​ “ agrivoltaics” sector has almost entirely excluded one of the major pillars of American agriculture — cattle ranching — for the simple reason that rambunctious bovines could easily wreck the carefully calibrated solar panels.",
-    "“ If you’re designing a solar facility that is suitable for cattle grazing, it generally requires more specific and unique design,” said Terry Jennings, principal team leader for renewable energy at the Electric Power Research Institute, a nonprofit that studies the electricity sector. That ​ “ adds cost to the overall project, which is challenging for utilities or electric power companies.” But he noted that research on this topic is still pretty new, and a lot of uncertainty remains around ​ “ how cows really interact with the solar panels.”",
-    "To go mainstream, and help meet America’s soaring demand for electricity with more carbon-free generation, cattle-friendly solar needs to appeal to large-scale developers who rigorously maximize megawatt-hours generated per acre while minimizing cost.",
-    "In the countryside about 45 minutes southeast of its Nashville headquarters, Silicon Ranch has found that the commonly understood challenges for cattle grazing alongside solar were a little overblown."
-   ],
-   "lede": "As sunlight fell between the gaps in flinty November clouds, I found myself impressed by the quietness of the lawn mowers in a Middle Tennessee solar field.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/electrification/gas-furnace-leak-to-all-electric",
-   "title": "After a gas furnace leak, this retiree went all-electric",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-09T08:30:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "description": "A low-income Baltimore homeowner got help from a nonprofit to install electric appliances and a solar array. She’s very thankful for the “blessings.”",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/EL-Sherry-Frazier-in-front-of-Baltimore-home.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7e7e754dce9c825c566eaf54a72162ab",
-   "lede": "A low-income Baltimore homeowner got help from a nonprofit to install electric appliances and a solar array. She’s very thankful for the “blessings.”",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjdSazljdm4xSkMxWklzWU1YSWN4VDBOODgyVGRQMHpyNnhaa1JNclJzSjQ5MUZWWHFYSHU5VkQ3ZWMweUpLZlVjSWNSVnB6NEEwY2VsYjFEZ3hTMy01N3ZrdUlkZW91VWZ1MXpuMnczeHBsX3NfbVRnVzRUN2dCWi0ydmQ4NURhdDB4RHVaYmJKMVNSaC1KTGNlU0l2ZUN4eUViXzlLcUpTbjVwMmNXYXI0dzRqdw?oc=5",
-   "title": "Global electricity generation from coal and COP-aligned pathway, 2030",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-09T08:00:00+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT25yVTkwaWNvZ0RCRlNBbU9reFVVd041cVdCazlRb25yX0hnODdJemFEcHh0X1V3R0hrb1V2VkUweGtZNks3N2ZmZWVkSTlCMy1GMGJSTUM1aGRoRFFaQnVXNVRVeDdsdkI3SmZKRlVxNzZrS0tpRWFZLVplWWdGaFZON05kWk93MlBjdFZRLVZUOVIzdlh2Uy13NGtXU2pfblZNTWV5ZHZFUVk?oc=5",
-   "title": "Global road transport emissions and COP-aligned pathway, 2030",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-09T08:00:00+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
