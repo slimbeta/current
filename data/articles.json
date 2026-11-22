@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:19:53+00:00",
+ "updated": "2026-11-22T21:48:00+00:00",
  "briefing": {
   "headline": "Battery storage, solar and the grid",
   "period": "Nov 16–22",
@@ -44,6 +44,38 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://electrek.co/2026/11/22/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/",
+   "title": "11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-22T19:44:00+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "An 83 year old republican Congresswoman who mocked a child for supporting electric cars has lost her seat by 330 votes, after a recount.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/20200211-OSEC-LSC-0188_49523463572-e1778741712185.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "An 83 year old Congressional representative who sent an embarrassing letter to a well-meaning 10 year old constituent on the topic of electric cars and climate change, where she seems to brag about saddling his generation with debt through a recent climate rollback she voted for, has lost her seat.",
+    "Christian Mango is ten years old, and was encouraged by his elementary school class to write a letter about a topic of his choice, and mail it to a decisionmaker. Christian chose his Congressional representative, 83 year old Virginia Foxx.",
+    "Foxx is an 11-term Congresswoman in North Carolina, one of the most gerrymandered states in the nation, and was expected to win a 12th term in the heavily republican district, having previously proudly touted an endorsement from an enemy of the US who tried to overthrow the government. Her opponent is Democrat Chuck Hubbard, a former journalist and native of the district.",
+    "For the topic of his letter, Christian chose electric cars – which is what makes this story relevant to us here at Electrek. Christian laid out several points about EVs, stating that “they’re better than normal cars. They’re better for the environment. They pay less. And there’s no gas.” (All true! well done Christian).",
+    "Christian went on to suggest action on climate change, stating “maybe there is still a chance for 6.5 million people to not die anymore and for the weather to get better just maybe glaciers stop melting.” Christian was probably referring to the number of people who die from air pollution globally each year (though several estimates suggest that number is actually higher, and Christian did conflate climate and weather… but we’ll give him a pass on this one, his heart is in the right place).",
+    "Christian was proud of his letter, as was his mother, Emily Mango, who said “he researched, cited facts, and made good arguments in his essay – an essay that had nothing to do with politics. He was proud of his essay.”",
+    "But then he got a response, and that’s when things took a turn for the worse. Christian’s mother Emily angrily shared the response on Instagram, where it gained traction.",
+    "Emily said Foxx’s screed was “disrespectful, hostile and unkind” and called it “demoralizing and reprehensible.” She said she had to speak to her son and teach him that this response was “not okay,” and that “nobody should talk to a child like that and nobody should talk to a teacher like that.”",
+    "I’d also add that it’s full of disinformation, and that it even seems to brag about the massive debt that Foxx has imposed on Christian’s generation.",
+    "Foxx includes six links, all from propaganda publications that deny the science of climate change. 3 are from from WSJ (2 of which are opinion pieces) and 1 is from Fox, both of which are owned by the same climate denier, Rupert Murdoch. 1 is from Washington Times, a tabloid founded by a religious cult (yes, really), and 1 is from another right-wing climate denying publication, National Review."
+   ],
+   "lede": "An 83 year old republican Congresswoman who mocked a child for supporting electric cars has lost her seat by 330 votes, after a recount.",
+   "tags": [
+    "policy",
+    "transport"
+   ]
+  },
   {
    "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
    "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
@@ -254,6 +286,21 @@
    "lede": "America is full of rural communities that are miles away from major cities, and EVs offer rural drivers even more benefits!",
    "tags": [
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3F6OVp2MUxvbV9kZ2lUeHpXWHhlbHhJQWVxVzVfTk9qb3NaaXBKZjdmdHVhejM3YV9nRVNldU9sMDJ4Unh5WkJYdTRuaG4wSV9uR21hWmx6UHVBWFhYbHIxMU1WQmFPMjJQLWtVcW5WaEpsYTRGZW5kUVdGQ1JRdGsya28?oc=5",
+   "title": "Dream of gas-powered vehicles falters in China’s hydrogen capital",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-21T21:00:02+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "industry"
    ]
   },
   {
@@ -933,6 +980,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
+   "title": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T21:17:27+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
+  {
    "url": "https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/",
    "title": "This 500 kWh energy storage system runs on retired EV batteries",
    "source": "Electrek",
@@ -1013,6 +1074,20 @@
    "fetched": true,
    "tags": [
     "china"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVhLeDVRNGJfN2d5RGs2bG5MN1J3aFFTZ2hMU2FyRjRYX1A0YWI2NmhKdnhNbXdXU21xZVE2QkQ1dlVOVExyMjhOaEVsZHJOR25xaElwTWdxODZFcnlJQmFoeE9kaHZZTHk3Mm5wYVJXY1YteV9pRlFmakh6WURLWHBURjNrSGVLZmU2cDJwZnF4UVN0cFZSblhJdlhZLV9zNnRjUlhLRjFkRFhNc0VmR0FR?oc=5",
+   "title": "COP31 delivers deals for host Turkey as climate diplomacy stalls",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T18:24:08+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -1483,6 +1558,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjV0OVRhWXlWUnlTSnFPZjlkRjUwdWV1bXpUbUVnTmhMa1pNTVpHVDNHMFhsaXVBeHVKV1o5eEJqejU2TDZ0YktveWEtNnV4NldXQVUxSkhwTlFjTlc2R01qNTM1dE1sY2F5NlpjVVVNcWpUWVRQVmFBZWFaWVlIYUtaVXBaSXNkUTZ0dFM5aGpzNE1XUmtFNVFIam0wV3FRUUtlMkJwV1QwNE0?oc=5",
+   "title": "Why China is unwilling to be the world's next climate leader",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T13:20:00+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
+  {
    "url": "https://www.energy-storage.news/sodium-is-a-chance-for-us-to-lean-forward-and-win-alsym-energy-at-re-on-why-us-battery-policy-needs-to-shift-upstream/",
    "title": "‘Sodium is a chance for us to lean forward and win’: Alsym Energy at RE+ on why US battery policy needs to shift upstream",
    "source": "Energy-Storage.news",
@@ -1650,6 +1739,17 @@
     "policy",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTU1rRVhycDNlRU4xT3BhNG9CcDVUcGp6TlFNVzNyQmhjeDVUVnVuNXg5VmtPRFRFS2Y1NjRpYUVmclA3RW5KSTVQSV9lNEozNUd2YlUzeno5RmJZUklYMXZDYnR0R0hGYjBlcWFVU1F2RnE5YXV5V1IwUWRDWS13YWc0MjNCMGVTUXkzS2V5SFh4WHRja0JBaDZaQUozQ1BtNU9fYldscDlaQ2pf?oc=5",
+   "title": "Astronomers observe a huge puffy star merge with smaller companion",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T11:33:16+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.pv-magazine.com/2026/11/20/proper-voltage-unigrid-unveil-sodium-ion-storage-solution-for-data-centers/",
@@ -1822,6 +1922,17 @@
    "desk": "analysis",
    "published": "2026-11-20T10:00:00+00:00",
    "seen": "2026-11-20T12:55:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0NPRnlSTHF5TmlmSnIxOG1LcnFGZ00zQ1NCOXd4TDBkT2l0V0VZRm5FWTFuYWZnSGphRDdGVlpCSXpaSTBUWnJKcTdpOGYybkpfQUMxWnJhNmV3TklPMWF4NEZici14SmxlbjlyTk1DMnZ6Xy1Uay1Lc21SdDdPUU9ldFllTmZhSEJaNHZxX2xWSGoxdF9oUmttLXFKckN3eTZ3QzI2Q1BQdEFpMlJTMWQ5QQ?oc=5",
+   "title": "Mercedes Labor Says German Plants at Stake as Stoppages Spread",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-20T09:49:30+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -2078,6 +2189,20 @@
    "fetched": true,
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXcEc0VE1KMDc3QUhPQ0dpVFNvOGdCS3NLdEhPbVZXVmRqelV6aG4xWXc5MWMyMmd4OFJONS1YTVFpTWJ1a0xkRzlpdmloRUR2MTlPU01CN2JhRDdMbTg5eDlR?oc=5",
+   "title": "IRENA at COP31",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-20T08:00:00+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -2942,6 +3067,17 @@
    "desk": "news",
    "published": "2026-11-19T12:58:34+00:00",
    "seen": "2026-11-19T13:26:21+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObnh2NW55dVlOaU1GVkducTZmZ0QzZWNsRTdsRXNDVzgzRkFtdV9faGVFVnhKQ0VkMWVSMWlraV9sby1KemZvRFNsS2o2dHNWNVRmUE5Ecmo5VXlabkJweHZuQWFqamFFZGx5elpsa2hiU05IVkVYbjVSeHRCNmlwdUNrNzl4c3FwUE15SDlNRklyeXoyRHdITTZvdmpiMFpnRDA2NXZhdkJkZ3FHbjFnTFFhUDluNFF6TmlTOHloSjZjOFhVVmJuOQ?oc=5",
+   "title": "Violence rises in Bangladesh as Hasina supporters escalate protests, PM Rahman blames India",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-19T12:42:21+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -3945,6 +4081,17 @@
    "tags": [
     "china"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YNHQ1OXBpUHZ4aGNXLXAyYW5QTEdqRjdNSWRCQ05ueVJVZzc2clhtTVJRZE9SN3dzZ1RaYXhabGJqS2ZZR1dJN3FpaUh0S1JoQUYyRnZ2WUFTVE1JYlhUYXpTZ0V2dUtNRlNZVkh4TGw?oc=5",
+   "title": "Whey too much cheese",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-19T06:02:26+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFZaZnNPdmFrMUxfT0NXUmhIelA3XzZUby16VnR4dF9BUlJBUnJRXzBYTG9iSVlTaXpxRE5Id09SMmx6ZDRQTkdJakZjRFFZanlDcHBZM1JOSEdVUm9OVG5iM2FnVXRkaENORURwMTVDZG94d0FQelNFQldjYWd5VjNyaUNsVnkxQUE?oc=5",
@@ -8264,6 +8411,35 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/13/review-engwes-m20-3-0-is-a-60v-super73-killer-at-a-fraction-of-the-price/",
+   "title": "Engwe’s M20 3.0 is a 60V Super73 killer at a fraction of the price",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-13T13:32:11+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Engwe has impressed us repeatedly with its value e-bikes at lower-than-believable prices. But lately, the brand is climbing the value...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_118833.png?resize=1200,628",
+   "paragraphs": [
+    "Engwe has impressed us repeatedly with its value e-bikes at l ower-than-believable prices. But lately, the brand is climbing the value chain with impressive e-bikes that aren’t just great value but also pack strong specs and impressive features. The Engwe M20 3.0 is a great example…",
+    "The Engwe M20 3.0 is a specs monster and blows away the original version of the bike released in 2023:",
+    "The M20 is fairly easy to assemble. At just over 100lbs, it is a bit hard to move around, but once assembled, it feels like a pretty impressive piece of machinery. I love the street tires on here instead of pretending to be an off-roader. Dual bright headlights and brake light with turn signals really give this thing some street cred. Adding to the safety roster, Engwe upgraded the quad-piston brakes with sporty red calipers and 202 mm rotors. This is not a value bike. The rear suspension is tight, which is great for 2 riders but might feel stiff out of the box for light riders. The seat is *chef’s kiss* even for 2 riders. Very soft and comfortable but not too soft. It even has a little ‘gas tank’ storage area aft the seat, which is keyed and enough to hold a few sandwiches, some riding gloves, or a small purse.",
+    "One gripe: There are 3 sets of keys on here, the aforementioned storage area and one set each for each battery. We’d love to see these things keyed together.",
+    "The bike/moped/moto came with a huge 1.2 kW battery (or 2 in our case – unless you have a 80-mile commute, 1 should be plenty) that must be charged individually. But with a 60V 8A charger, each one only takes about 2-3 hours to charge, which is impressive.",
+    "I did not expect to like the ride of this thing as much as I did. We can dispense with the pleasantries here; it came set to Class 2 mode with a 20mph top speed and stickers to match; a quick Google search will show you how to open this up to 40mph open mode. I take responsibility for my own actions.",
+    "The first thing you’ll notice here is that the motor is whisper-quiet, and with the street tires, there is very little road noise, even at 35mph. The half throttle is plenty responsive, a lot more so than the cadence sensor on the pedals, which are vestigial at best here. Those big brakes are a bit softer than I’d prefer, but given a good squeeze, those 203mm rotors and quad-piston hydraulic brakes are going to stop you, the 100lb bike, and your passenger/cargo fairly quickly.",
+    "My girlfriend and I got pulled over for the first time in my e-biking life as I was picking her up at the coffee shop. The cop was immediately apologetic because “he thought we were kids” and not the 50-year-olds under the helmets he encountered. Then he noticed the pedals and said that we’re all clear and that what we were on looked like a motorcycle and that a couple of e-moto kids had gotten into accidents recently, one hit by a drunk driver and who is still in a coma. While he was already letting us go, I pointed out the Class 2 sticker on the bike, and he gave me the thumbs-up as we sped off at 30mph. This M20 passed the local police test with flying colors. I can’t guarantee you’ll have the same experience in your jurisdiction."
+   ],
+   "lede": "Engwe has impressed us repeatedly with its value e-bikes at l ower-than-believable prices.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QSW1IbXFlZHFCd2lPMHVoemMzazJuOUxfR1V4cUNwazZleUk4VG05TVJWTDVSZDlkcUV0XzQ0cG45OFNRZ2FzdkF1WlhORGxqMXY3XzBJUU1HSndkZU00?oc=5",
    "title": "Jensen Huang’s Departure Throws the AI Boom into Fresh Chaos",
    "source": "Heatmap",
@@ -8696,6 +8872,37 @@
    "fetched": true
   },
   {
+   "url": "https://electrek.co/2026/11/12/sonnens-new-smart-breakers-help-your-home-battery-last-longer/",
+   "title": "sonnen’s new smart breakers help your home battery last longer",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T23:22:43+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "sonnen and SOLRITE add smart breakers that can pause appliances, stretch home battery backup, and help the grid when demand spikes.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/sonnen-batteries-smart-breakers.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "A home battery can do more during a blackout if it isn’t busy running nonessential, energy-hungry appliances. sonnen and SOLRITE Energy are putting that same principle to work for the grid, adding smart breakers that can temporarily switch off selected household loads while batteries help meet electricity demand.",
+    "The companies announced today that they’re integrating ADAPT Energy’s controls and Eaton AbleEdge smart breakers into the SOLRITE–sonnen virtual power plant (VPP). The setup combines sonnenHub with breakers that manage power-hungry equipment, both during outages and when the grid needs help.",
+    "The announcement doesn’t specify pricing, how many homes will receive it, or when existing customers can get it.",
+    "A VPP connects home batteries into a network so they can work together as a larger energy resource. This addition gives SOLRITE another way to respond: in addition to controlling the batteries, it can reduce the amount of electricity that participating homes use.",
+    "sonnen and SOLRITE used the example of a pool pump, as it’s energy-intensive, nonessential, and runs for longer periods. When an event begins, ADAPT temporarily switches off the pool pump while the sonnen battery sends electricity to the grid.",
+    "With less battery power going toward the pump, more can flow to the grid. Across participating homes, that gives the VPP more flexibility than relying on battery dispatch alone.",
+    "Homeowners have to opt in to that grid participation, and ADAPT will switch off only pre-approved household loads. Joining the VPP program doesn’t give the operator blanket permission to turn off anything in the house.",
+    "“Instead of putting the pressure on homeowners to change the way their home is wired, and to manually manipulate loads during an outage, we’re putting intelligence into their energy system, which provides a seamless and automatic backup power experience for their home,” said Troy Morgan, president of PanTech Design, the developer of ADAPT Energy.",
+    "The breakers also tackle a practical problem with home backup: Big appliances can drain a battery quickly, and the surge of power some equipment needs to start can overload a backup system just as an outage begins.",
+    "ADAPT coordinates the smart breakers with the sonnen battery to automatically switch off large loads during backup operation. When grid power returns, it restores them, so homeowners don’t have to go around resetting individual circuits."
+   ],
+   "lede": "sonnen and SOLRITE add smart breakers that can pause appliances, stretch home battery backup, and help the grid when demand spikes.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54M0RFcjA0LVRTa292RGtRRk12NWlaMUFsUXZVTjNhSTZ0Y1ExTzc1anY3TU5GV2Z1RDNIUHo0eF80cUVqMFZXYXU0TXFfT1cyYzZrTEd3RWR1Sm8?oc=5",
    "title": "The Deadliest Part of a Wildfire Might Not Be the Blaze",
    "source": "Heatmap",
@@ -8705,6 +8912,38 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://electrek.co/2026/11/12/byd-wins-round-one-defender-copycat-battle-jlr-told-to-destroy-documents/",
+   "title": "BYD wins round one in Defender-copycat battle as JLR is told to destroy documents",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T22:03:03+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "BYD just got some good news in its Defender-copycat court battle with JLR. After JLR had BYD’s Netherlands offices raided...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-JLR-Defender-copycat.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "BYD just got some good news in its Defender-copycat court battle with JLR. After JLR had BYD’s Netherlands offices raided and documents seized, a Dutch court has now handed BYD an early win, ordering JLR to destroy the documents or face a penalty.",
+    "After BYD opened orders for the Ti 7 in Europe and the UK in late July, many ( including us at Electrek) compared it to the iconic Land Rover Defender, with its boxy, rugged (yet still elegant) SUV design.",
+    "BYD even described it as having “an unapologetically boxy profile” that delivers “the imposing, chunky design that finds favour among SUV buyers, yet delivers a contemporary look.”",
+    "In August, authorities on behalf of the British luxury automaker raided BYD’s offices in the Netherlands without prior warning and seized digital records.",
+    "On November 11, a Dutch court in The Hague ruled against JLR and ordered the company to destroy the seized documents, which included launch plans and other technical data, so they wouldn’t fall into anyone else’s hands.",
+    "According to Autoweek Netherlands, the ruling is based on the fact that JLR doesn’t need the documents, noting that the Ti 7 has not yet been sold in the European Union.",
+    "BYD won the ruling, and JLR is prohibited from taking any further legal action under the initial seizure order, but JLR has already begun summary proceedings over the infringement in Rotterdam and The Hague.",
+    "JLR claims that the Ti 7 SUV is a “slavish imitation” and infringes on the intellectual property of the Land Rover Defender and that BYD stripped down the Defender to reverse-engineer some of its technology.",
+    "Before the raid, BYD claims it fully cooperated with JLR’s requests. BYD’s lawyers called the British automakers’ raid a “fishing expedition” and claimed that “too many files were seized.”",
+    "It has a seven-seat arrangement, which BYD said was specifically designed for the European and UK markets."
+   ],
+   "lede": "BYD just got some good news in its Defender-copycat court battle with JLR.",
+   "tags": [
+    "china",
+    "transport"
+   ]
   },
   {
    "url": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
@@ -8735,6 +8974,38 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/12/lunars-new-home-dc-fast-charger-puts-your-ev-battery-to-work/",
+   "title": "Lunar’s new home DC fast charger puts your EV battery to work",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T21:41:32+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Lunar’s new home DC fast charger delivers 100 miles of range in an hour and lets your car give back by powering your house in an outage.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Lunar-Energy-home-fast-charger.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Lunar Energy has unveiled a 25-kW home DC fast charger that will do more than just power up your car really fast. Paired with its next-generation home battery system, the Lunar Fast Charger will also let a compatible EV help keep the house running during an outage and potentially earn money by sending electricity back to the grid.",
+    "The new battery system will be available to customers in early 2027, with the charger rollout expected in mid-2027.",
+    "Lunar says its home DC fast charger can add roughly 100 miles of range in an hour at up to 25 kW. Actual results will depend on the vehicle and charging conditions.",
+    "This is a DC charger, according to Lunar’s product specifications. It connects directly to the DC side of the Lunar Battery, and Lunar says that setup avoids an electrical panel upgrade for the charger. The product page lists CCS and NACS connector support but doesn’t specify which cars will support bidirectional charging.",
+    "That distinction matters. Charging an EV and sending power back are separate capabilities, so buyers will need to check vehicle compatibility before relying on home backup.",
+    "With a compatible EV, Lunar says vehicle-to-home (V2H) charging could extend backup power through a multi-day outage. How long it lasts will depend on the car’s available battery capacity and what’s running in the house.",
+    "Vehicle-to-grid (V2G) payments will also depend on the availability of programs. They aren’t an automatic benefit of installing the charger.",
+    "The updated Lunar System has a 13.4 kW inverter and uses 5 kWh battery modules. A single tower holds 10–30 kWh, while towers installed side by side can provide up to 300 kWh.",
+    "Lunar is also expanding into small businesses, with pad-mounted configurations reaching 1 MWh. Businesses could use the batteries for backup and to reduce demand charges, or fees tied to their highest power draw.",
+    "The system can work with new solar using Lunar Maximizer panel optimizers, existing solar, or no solar at all. Lunar says assembly takes place in California, Georgia, Idaho, and Washington, with engineering and R&D in Mountain View, California."
+   ],
+   "lede": "Lunar’s new home DC fast charger delivers 100 miles of range in an hour and lets your car give back by powering your house in an outage.",
+   "tags": [
+    "power",
+    "transport"
+   ]
+  },
+  {
    "url": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/",
    "title": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia",
    "source": "Energy-Storage.news",
@@ -8756,6 +9027,71 @@
    "lede": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
+   "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T20:39:14+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "cats": [
+    "News",
+    "elon musk",
+    "SpaceX",
+    "Tesla"
+   ],
+   "description": "SpaceX and Tesla merger talks are advancing, with a deal announcement possible in December, right as Tesla shareholders vote on its board.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Elon Musk’s companies are moving faster than expected on a Tesla-SpaceX combination. A deal could be announced as soon as December, which would make it the largest merger ever, according to Bloomberg.",
+    "Tesla holds its annual shareholder meeting on December 3, and the same directors who would sign off on the deal are up for re-election.",
+    "According to Bloomberg’s sources, it’s now a negotiation over price and control, with boards and advisers on both sides involved. December is the target, but early 2027 is also on the table.",
+    "One of the variables on the table is how many SpaceX shares Tesla investors would receive. So, as expected, this is shaping up as SpaceX absorbing Tesla, not the other way around.",
+    "Then, in October, Tesla’s proxy filing read like a board getting ready for a SpaceX merger. Ira Ehrenpreis, who chairs Tesla’s compensation and governance committees, has sat on SpaceX’s board since February. The ballot for the December 3 meeting is limited to re-electing Musk, chair Robyn Denholm, and JB Straubel to terms through 2029, plus a say-on-pay vote and the auditor.",
+    "A day later, Musk confirmed that both boards had formed special committees to explore a merger.",
+    "Musk owns about 20% of Tesla but controlled roughly 85% of SpaceX’s voting power through super-voting shares, according to its S-1. Swapping Tesla shares for SpaceX shares means trading one-share-one-vote for a company where Musk’s control is effectively locked in.",
+    "Bloomberg reports that one of the main obstacles is how to ring-fence Tesla’s China business. A JPMorgan analyst described SpaceX’s defense and government work and Tesla’s China footprint as “key dynamics that are at odds with each other” for regulators and shareholders.",
+    "That’s the same issue behind the Wall Street Journal’s July report that Tesla was weighing a sale or spinoff of its China operations, which Musk denied. Giga Shanghai is Tesla’s most productive factory and builds more than half of its cars. It shipped 67,829 vehicles in October alone.",
+    "Politics is the other wild card. Congress flipped to Democrats in the midterms, and they’ve said Musk’s companies and his political ties will get a hard look. Bloomberg previously reported the companies want to close before President Trump leaves office."
+   ],
+   "lede": "SpaceX and Tesla merger talks are advancing, with a deal announcement possible in December, right as Tesla shareholders vote on its board.",
+   "tags": [
+    "industry",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/12/kia-giving-ev5-update-leaked-images/",
+   "title": "Kia is giving the EV5 an update, and leaked images show what’s next",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T19:39:04+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Kia isn’t wasting any time updating its Sportage-sized EV5 electric SUV. Leaked images just gave us our first look at...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV5-update-image.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "While Kia doesn’t sell the EV5 in the US, the electric SUV has been a hit in other global markets. It first went on sale in China in 2023, and Kia launched the global model last year; it is now available in Europe, Canada, the UK, and other overseas regions.",
+    "The electric SUV has played a major part in Kia’s turnaround in China and is among the top-selling EVs in places like Australia.",
+    "Kia is already preparing to introduce an updated version in 2027. The updated EV5 was revealed through Australian Design Rule (ADR) regulatory documents, including images of the new version and some powertrain specs.",
+    "Front- and all-wheel-drive variants will get a power boost with up to 234 hp (175 kW) in FWD and 334 hp (249 kW) for AWD models.",
+    "The new EV5 will still use the same 64.2 kWh and 88.1 kWh battery packs, but updated range figures have yet to be announced.",
+    "Kia’s current model offers a WLTP range of up to 248 miles (400 km) from the smaller battery and 345 miles (555 km) from the larger battery.",
+    "As previous spy images have shown, the updated Kia EV5 features a few slight exterior design changes.",
+    "These changes include new front and rear bumpers, similar to those of the rugged EV5 WKNDR Concept Kia revealed last November at the Guangzhou Motor Show.",
+    "Saying there are updates with no context is borderline useless. A power boost from what? The EV5 isn't in the US, so I don't have its looks anywhere close to memorized."
+   ],
+   "lede": "While Kia doesn’t sell the EV5 in the US, the electric SUV has been a hit in other global markets.",
+   "tags": [
+    "china"
    ]
   },
   {
@@ -8805,6 +9141,38 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://electrek.co/2026/11/12/byds-new-luxury-suv-brings-big-screens-big-range-starts-at-40000/",
+   "title": "BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T17:46:48+00:00",
+   "seen": "2026-11-22T21:48:00+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "BYD launched the Denza N8 EV in China, a five-seat luxury SUV that promises more than 1,000 km (621 miles)...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-price.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "BYD launched the Denza N8 EV in China, a five-seat luxury SUV that promises more than 1,000 km (621 miles) of CLTC range, a tech-filled cabin, and plenty of premium extras.",
+    "Another day, another new BYD vehicle is now on sale in China. After opening preorders for the Denza N8 EV a few weeks ago, BYD held the grand launch event on Thursday.",
+    "The new N8 EV, or “the king of large 5-seater pure electric vehicles,” as Denza called it, is available in six variants, including four battery-electric (EV) and two plug-in hybrid (PHEV) powertrain options.",
+    "Measuring 5,150 mm long, 1,999 mm wide, and 1,820 mm high, with a 3,075 mm wheelbase, the Denza N8 EV is slightly longer than the Kia EV9 and Hyundai IONIQ 9.",
+    "Inside, the interior is pretty over the top with a huge 30″ panoramic infotainment screen that stretches nearly the entire passenger-side dashboard. There’s also a new 43″ (1.1 meter) panoramic head-up display (PHUD) at the bottom of the windshield.",
+    "BYD added a few premium extras like front and rear zero-gravity seats, a drop-down ceiling entertainment screen, ambient lighting, and wireless phone chargers.",
+    "The Denza N8 is offered with a single rear-wheel-drive (RWD) or a tri-motor all-wheel-drive (AWD) powertrain. The RWD variant uses a single motor that delivers either 320 kW (429 hp) or 370 kW (496 hp), depending on the configuration.",
+    "The tri-motor Denza N8 debuts BYD’s e3 Evo technology. The setup includes three electric motors: a 270 kW (362 hp) front motor and two 310 kW (416 hp) rear motors, for a combined output of 890 kW (1,193 hp).",
+    "BYD’s Denza said the N8 EV boasts an all-electric CLTC range of 1,003 km (623 miles), “making it the world’s longest-range mass-produced all-electric SUV.”",
+    "To put it in perspective, that’s as much as the outgoing N8 plug-in hybrid (PHEV) it’s replacing, which offered a combined CLTC range of 1,003 km (623 miles) on a full tank of gas and a full charge."
+   ],
+   "lede": "BYD launched the Denza N8 EV in China, a five-seat luxury SUV that promises more than 1,000 km (621 miles) of CLTC range, a tech-filled cabin, and plenty of premium extras.",
+   "tags": [
+    "china",
+    "transport"
+   ]
   },
   {
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYk5yT1BQVk5qRU1xRnM4dmh1SkRWMTd6TUdnLUp3OUxrMjVUQld1cmk3TkVQMHNfS3dSdGZDdklIZU0wbHh3MGh3allQTVhyREUzQ3FrRGFVWldtOE5EbnhzTkFEQnp6azQ5WDJ0aUJORWUyT2pHZXZoNTFDUS01OXltaGpjLV9lSjBYMzJWSnRrdFdsbVoyZFBYcVJhb3pkM0dwNg?oc=5",
@@ -9677,342 +10045,6 @@
    "source": "Ember",
    "desk": "analysis",
    "published": "2026-11-11T04:16:16+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/nuclear/novel-nuclear-project-green-light-construction",
-   "title": "Another novel nuclear project gets green light to start construction",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-10T20:30:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "description": "X-energy received regulatory approval to break ground on a facility that will use nuclear reactors to generate power and heat for a Dow Chemical plant.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Xenergy-logo-on-phone.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=2360e4d9e378c1f3433bf9abf9219a60",
-   "paragraphs": [
-    "The United States just cleared another novel nuclear energy project to begin construction.",
-    "On Monday, the U.S. Nuclear Regulatory Commission approved a joint application by X-energy and Dow Chemical to build four Xe- 100 advanced nuclear reactors at a Texas industrial site owned by the Michigan-based chemicals giant. The energy plant, known as Long Mott Generating Station, does not yet have an operating license from the NRC and will not be complete until well into next decade.",
-    "The reactors will generate electricity and high-temperature steam for Dow’s UCC Seadrift Operations, a facility that makes plastics and petroleum derivatives used in everything from food and beverage packaging to paints and solvents. The Seadrift facility currently relies on aging fossil-fueled equipment.",
-    "The NRC took less than 18 months to review the application, a record pace for contested hearings amid a broad-based — and controversial — effort to streamline U.S. nuclear regulation that has been in the works since the Biden administration.",
-    "“ Getting the construction permit earlier than expected is reflective of the thorough and efficient work of the NRC, the reforms that have been put in place by the Congress over the last six years, and the phenomenal work of the X-energy and Dow teams,” X-energy CEO J. Clay Sell said in a statement.",
-    "The approval comes amid a wave of federal support for new nuclear energy projects. In recent years, the U.S. Department of Energy has funded tens of billions of dollars in grants, awards, and loan guarantees to build new reactors and expand capacity at existing nuclear power plants. Support has been consistent throughout both Trump administrations as well as under the Biden administration, which viewed the carbon-free energy source as a way to decarbonize the grid. Quadrupling commercial nuclear capacity by 2050 is now official U.S. government policy.",
-    "The Xe- 100 is one of several non-water-cooled reactors, known as ​ “ Generation IV” reactors, recently granted or seeking NRC permission to begin construction.",
-    "The NRC has also greenlit construction of three molten-salt-cooled reactors by Kairos Power in Tennessee and one liquid-sodium-cooled reactor by Bill Gates–backed TerraPower in Wyoming. TerraPower and X-energy are both set to receive at least $ 2 billion each in federal funding through the DOE’s Advanced Reactor Demonstration Program.",
-    "The Xe- 100’s coolant of choice is helium, a lightweight, inert gas that allows the reactor to operate safely at far higher temperatures than traditional nuclear power plants. Each reactor is designed to generate up to 80 megawatts of electricity and 200 MW of thermal energy, enough to make Seadrift the first U.S. industrial site directly powered and heated by nuclear fission.",
-    "It’s the first time in nearly 60 years that the NRC has approved construction of a high-temperature gas reactor, or HTGR. The first, a 40 -MW design, produced electricity at the still-operating Peach Bottom power plant in Pennsylvania from 1966 to 1974. Another HTGR ran from 1979 to 1989 at Fort St. Vrain Generating Station in Colorado, which is now a natural-gas-fired power plant owned by Xcel Energy."
-   ],
-   "lede": "X-energy received regulatory approval to break ground on a facility that will use nuclear reactors to generate power and heat for a Dow Chemical plant.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVRU5NbnN2WVdkM25FbVFCNnVuZWhxZDRjQmFhS3dPRUhiTEpxZEh6VkFsNUJwTmo2OGQ1emRLNkF5Y0FybHFJcGJuMmV2MFlIMTNz?oc=5",
-   "title": "House Moderates Say Now Is the Time for Permitting Reform",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-10T20:24:39+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVV0WEJVRGJFX1JXS2x1bEpzSllqR05sdnVpMVJnUjBQdV8tRmU0NkJzaEhlWDVtOWxmMTN2QmRLUjllX0ZNUUpBVVdNdnRNcHVOOTRDd1VFNGhGS2VqRUh3RmtBdFpHcUtlUlhpNndvV0wzRGhXdDBVMFJJdzNXdDBuSy1UMTNBNDEydE9qQ3ZJYlhpRHhUem85aEpLVlo3eVZUZTFFZzNYSVc3MWgzTFpkNF9LLS1CYjZyWA?oc=5",
-   "title": "Ember Labs launches two new tools to explore methane targets and satellite data",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-10T15:52:43+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.energy-storage.news/baaja-us-legislation-to-speed-up-permitting-carries-hidden-political-risk-wont-solve-interconnection-queue-wait/",
-   "title": "BAAJA: US legislation to speed up permitting carries hidden political risk, ‘won’t solve interconnection queue wait’",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-10T14:13:31+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "Analysis",
-    "News",
-    "baaja",
-    "bnef",
-    "congress",
-    "democrat",
-    "ferc",
-    "gas"
-   ],
-   "description": "The energy storage industry is abuzz with discussion of passing BAAJA following Democrats’ taking of the House and Senate in the 2026 US midterm elections.",
-   "ftries": 1,
-   "lede": "The energy storage industry is abuzz with discussion of passing BAAJA following Democrats’ taking of the House and Senate in the 2026 US midterm elections.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/canada-alectra-convergent-complete-320mwh-portfolio-in-ontario-rodan-advances-countrys-largest-btm-bess/",
-   "title": "Canada: Alectra-Convergent complete 320MWh portfolio in Ontario, Rodan advances country’s largest BTM BESS",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-10T13:02:06+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "alectra",
-    "battery",
-    "behind the meter",
-    "bess",
-    "btm",
-    "c&i",
-    "canada"
-   ],
-   "description": "Alectra Energy Solutions and Convergent Energy & Power have completed a 320MWh BESS portfolio at three sites in Ontario.",
-   "ftries": 1,
-   "lede": "Alectra Energy Solutions and Convergent Energy & Power have completed a 320MWh BESS portfolio at three sites in Ontario.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/sumitomo-corporation-greenvolt-deploy-bess-japan/",
-   "title": "Sumitomo Corporation, Greenvolt deploy BESS at both ends of scale in Japan’s layered market",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-10T12:20:17+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "battery",
-    "bess",
-    "bnef",
-    "contracted revenues",
-    "greenvolt",
-    "japan",
-    "ltda"
-   ],
-   "description": "Battery energy storage system (BESS) projects in Japan by Sumitomo Corporation and Greenvolt provide an interesting snapshot of the country’s development landscape.",
-   "ftries": 1,
-   "lede": "Battery energy storage system (BESS) projects in Japan by Sumitomo Corporation and Greenvolt provide an interesting snapshot of the country’s development landscape.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/italy-rwe-and-bnz-launch-construction-on-large-scale-battery-projects/",
-   "title": "Italy: RWE and BNZ launch construction on large-scale battery projects",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-10T12:11:44+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "BatteryManagementEurope",
-    "bnz",
-    "EnergyStorageEurope",
-    "italy",
-    "longi",
-    "rwe",
-    "solar-plus-storage"
-   ],
-   "description": "Power firms RWE and BNZ have both announced construction on large-scale BESS projects in Italy, all-in-all totalling nearly 500MWh of capacity.",
-   "ftries": 1,
-   "lede": "Power firms RWE and BNZ have both announced construction on large-scale BESS projects in Italy, all-in-all totalling nearly 500MWh of capacity.",
-   "tags": [
-    "china",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/ngen-croatia-first-standalone-transmission-connected-bess-online-60mw-120mwh-capacity/",
-   "title": "NGEN puts Croatia’s first standalone, transmission-connected BESS online, with 60MW/120MWh capacity",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-10T10:43:06+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "afrr",
-    "croatia",
-    "energystoragecee",
-    "merchant",
-    "ngen",
-    "secondary reserve",
-    "standalone"
-   ],
-   "description": "BESS owner-operator NGEN has put its Šibenik project into commercial operation in Croatia, claiming it as the first standalone project to connect at the transmission-level.",
-   "ftries": 1,
-   "lede": "BESS owner-operator NGEN has put its Šibenik project into commercial operation in Croatia, claiming it as the first standalone project to connect at the transmission-level.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/video-improving-bess-thermal-and-dielectric-performance-with-psa-tape/",
-   "title": "VIDEO: Improving BESS thermal and dielectric performance with PSA tape",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-10T10:08:50+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "Features",
-    "dielectric",
-    "innovation",
-    "manufacturing",
-    "project design",
-    "psa tape",
-    "subsystem",
-    "system integration"
-   ],
-   "description": "Energy-Storage.news proudly presents our sponsored webinar with Argent International, 'New Ways to Improve BESS Thermal and Dielectric Performance.'",
-   "ftries": 1,
-   "lede": "Energy-Storage.news proudly presents our sponsored webinar with Argent International, 'New Ways to Improve BESS Thermal and Dielectric Performance.'",
-   "tags": [
-    "industry",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/1-2gwh-bess-in-south-australia-and-acenergys-little-river-project-referred-to-australias-epbc-act/",
-   "title": "1.2GWh BESS in South Australia and ACEnergy’s Little River project referred to Australia’s EPBC Act",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-10T09:13:08+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "Acenergy",
-    "australia",
-    "battery energy storage",
-    "battery storage",
-    "bess",
-    "energystorageaus",
-    "epbc"
-   ],
-   "description": "Two Australian BESS projects in South Australia and Victoria have been submitted to the federal government under the EPBC Act.",
-   "ftries": 1,
-   "lede": "Two Australian BESS projects in South Australia and Victoria have been submitted to the federal government under the EPBC Act.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-hits-16-8gwh-installed-capacity/",
-   "title": "Australia’s Cheaper Home Batteries Program hits 16.8GWh installed capacity",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-10T09:10:58+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "australia",
-    "Cheaper Home Batteries",
-    "Cheaper Home Batteries Program",
-    "energystorageaus",
-    "home batteries",
-    "home battery",
-    "residential battery"
-   ],
-   "description": "Australia's federal Cheaper Home Batteries Program has passed 600,000 home battery storage systems sold, roughly 16.8GWh.",
-   "ftries": 1,
-   "lede": "Australia's federal Cheaper Home Batteries Program has passed 600,000 home battery storage systems sold, roughly 16.8GWh.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzZXblFlZlZDV1Z6cDdpbVlzOTQ0OE1wd01tRDRjMjVUMHgyRlBuNHpxY3o4QUxOMEVpcDJUX3RETnB4MnZwNmI2Mmw0ZmxzZjJoOVRDaTVXT25kWHNnNXJHU0xKNjZzQ3RMSzNQaEpaUGZmMmlscjVUSW1yMWE0elNFRGVMc0Z6SmVYd2syVWFzbUQtVjNSclg2UkllaGFBekE?oc=5",
-   "title": "IEA launches Global Observatory to help strengthen energy sector resilience",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-10T08:39:07+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/offshore-wind/us-offshore-wind-manufacturing",
-   "title": "The US offshore wind manufacturing boom that wasn’t",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-10T08:30:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "description": "Offshore wind development has spurred investment nationwide. But Trump’s attacks and industry’s struggles have hindered efforts to develop a robust supply…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Ak-Abdalla-Ingeteam.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=01e22ddc35655bfadaf21e8f63467402",
-   "lede": "Offshore wind development has spurred investment nationwide. But Trump’s attacks and industry’s struggles have hindered efforts to develop a robust supply…",
-   "tags": [
-    "industry",
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/clean-energy-jobs/chicago-program-transition-prison-solar-jobs",
-   "title": "Chicago program helps people transition from prison to solar jobs",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-10T08:30:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "description": "Safer Foundation is using funding from Illinois clean energy laws to give formerly incarcerated people the training and support they need to enter the…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/safer_foundation1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=85b4fd607f1f909ba88c74bf7c02bb38",
-   "lede": "Safer Foundation is using funding from Illinois clean energy laws to give formerly incarcerated people the training and support they need to enter the…",
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGS3hHTExqdTlSdXJrZGJiRzZsSmtWdXZwZ2tCQm8yZjdjSzZORUNQRVVKUEk0WWtxMmtjTnVkQVVaamZQUXFZUWJvak80eTIyRV9n?oc=5",
-   "title": "Permitting Reform ‘Survived Its First Test’",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-10T08:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORDAwcjR2d3Z6S3VxakM2U2RsSDFVRko2N0p5TVJ2ajU5elZjVm8yZ0FWTkk2LWtRdmhMdTJneVB5TTFXaEF1R0s4QjJReTBfNlJ0WDR5ZTViSFdhN1htZVVmdDBOSUpRaE1Kc1pLWlBGOHI5NUZmVzAteVZGUEMwNC03Rm0wY3hTWXF4ZTE3eERNbFlUbXNobkxMRVUzM3pOekR6V05VQ181VzZYRENEVnIwYXM1Qk85Z3M5UEUtbzR5Snk5eE9aZ2ZnRGVVQ1lnX25HcE9uVHYzaHV3Nk5oSXZKdUhlWGVkSUE?oc=5",
-   "title": "COP31 Energy Ministerial highlights opportunities to strengthen energy security, affordability and transitions through cooperation",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-10T08:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oekplbUJMdk1Hd1ZWTTQyZ3lFWHJWZmpUenNIdy1hNGVmMlIwcUNuX1p3eWhQUHh6ZzEwdUhnZnBsazhWMXdHQ1dMRWQ5dFZKV0pXVGowM2RHdw?oc=5",
-   "title": "Energy Prices Are Still Heating Up the Economy",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-10T08:00:00+00:00",
    "seen": "2026-11-20T03:18:13+00:00",
    "via_google": true,
    "ftries": 1,
