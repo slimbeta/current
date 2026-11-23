@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:48:00+00:00",
+ "updated": "2026-11-23T02:47:16+00:00",
  "briefing": {
   "headline": "Battery storage, solar and the grid",
   "period": "Nov 16–22",
@@ -45,6 +45,28 @@
  },
  "articles": [
   {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEZaeWtwOXBoWTBIVU00ZThzR1gycVhSLXJQcko2VnNkdWNKaWRJY2VReFJ5R3loTVRHbk5jLVBnd0pPeUJkNlpfeG5GbG04dmdQb3RoVUE0dTVPQUwtbTZpU1lKTHhleWROZXJYUlZiVzR0RElsbExCRlJ0Vk43MUswZzNOSUxNazhTWm5vbF9WbDlnV2R0NVp4cmJmWUNJanBMeUhtUFlFd090dXdkNXQ5OHRTeEVvY183Q2ZOS1RWQktQTXc?oc=5",
+   "title": "Why Nations Failed to Secure a New Global Climate Change Agreement",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-23T01:18:19+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY19EQkgzcWxJMDg3NUxKeFRER0NLRlRsTFN0TGJEelRLZ2xhYi10MTgtNm93R1FOblRBMDRUbTZkaUpORFl1bWVTYlh3bThiQzJDeUZLZkpaTWJ0QlpMV19HVHFzbzZzZFBtN1BzVUVsNFRZcFFka2dlRDNIZEFDMWt2TG5BNWhQZkdPUWhEUnp5UUNKbUJSeTNDd08?oc=5",
+   "title": "Spacecraft begins orbit of Mercury, with a glitch reported",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-22T21:10:18+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://electrek.co/2026/11/22/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/",
    "title": "11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)",
    "source": "Electrek",
@@ -75,6 +97,17 @@
     "policy",
     "transport"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHhBWldUdzAxM3JtaEVFSGxqakFCNDA1M3B4TVdNWFlUSG1NZk53cTIyOE9STEpKbE1PcGNEcWxXZmFXa19iU1U3eURjUFBrN0NfLU53SVFtUm1LZTBlcnVza01KVm9zaFF1S25lWjEzYzN0RkZfeVVtX1A3VTVvakwxdEJsNFdHOGVtdTV0X1VUaGUybzVLWnFzTFNDVWhYRjd5OEV4anhrRmFpX2wzVlpB?oc=5",
+   "title": "UN Climate Talks Collapse in Acrimony as Nations Reject Deal",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-22T15:03:55+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
@@ -836,6 +869,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODd1RElsS1o4eUtnOGppMDNxYTdZdkdhVHphZjZ6ZEZJa0FrVkxKVUp1RFZhUGhjb3MtUTE5OTRibmpzYVh6QTlKQnlBdjh3cmQ4WjVSRndTVjY5a2VxRzc2NXV5a3hlMXEtUFVsc0dDbV9PYzRfZXRNejBXNnFUazVEQ2k?oc=5",
+   "title": "Builders bet on €620bn defence infrastructure boom in Europe",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-21T05:01:04+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise/",
    "title": "Tariffs, taxes and a BESS price rise",
    "source": "pv magazine",
@@ -860,6 +904,20 @@
     "industry",
     "policy",
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkJkSzhOU0N6b2RzbFVVSXBxWUF1SElaZDVUSk52cFFkV1k1RXNKeGhmNTd2OFgwYnR0RFd5YXpHT25oRjNKVmFRYXRpWlNfdndhZjVjYnd2YjMyMkl5SGxlMHZMajlDbkFhdF9RMmpuSGxEQk9VT2JzdGx0Nmo5TnJ1ODU1T2dfN3ZXQnFIdmFYbThKOU5YbjVFN0h6eWJsdzJpNkQ5VWpDQUhBeGN5VTVpSkRfdk80ZDBQTmE0YkVIbjZK?oc=5",
+   "title": "EXCLUSIVE: Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T23:11:18+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
    ]
   },
   {
@@ -1558,6 +1616,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX19PeE5HajNpc01Ta0hzTVJTNjVkQUx4NWdPM09NaG5FM3JfdklQS205ZWQ4QnNxazk3SWVabnY5bUhXVWo2ek5zem5UY21lLXpvby1DUTRtNkV4QkZEUG5KdmVSVEotWWUxNVVDZVlYSnNwMTB4bVNOTkJTLWVVNV9vTFVCbjROdmQtUzY2b25BejFxbzNuakpzMEtrOHEyV0t3S2NKeU4zcmFRbUJFbDFVUUxMSFZGQUFVLVVn?oc=5",
+   "title": "We Were Promised Homes of the Future. Where’d They Go?",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-20T13:30:04+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjV0OVRhWXlWUnlTSnFPZjlkRjUwdWV1bXpUbUVnTmhMa1pNTVpHVDNHMFhsaXVBeHVKV1o5eEJqejU2TDZ0YktveWEtNnV4NldXQVUxSkhwTlFjTlc2R01qNTM1dE1sY2F5NlpjVVVNcWpUWVRQVmFBZWFaWVlIYUtaVXBaSXNkUTZ0dFM5aGpzNE1XUmtFNVFIam0wV3FRUUtlMkJwV1QwNE0?oc=5",
    "title": "Why China is unwilling to be the world's next climate leader",
    "source": "Reuters",
@@ -2041,6 +2110,20 @@
     "china",
     "industry",
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3BWdzJYX3pyUm1XeE1sRlZsMm5BZGQ2clNzNjlfWlNXZmctME0yTnV0a3RBSVFoUVlSd0xPSHd3NVVMNXRLdzBISFV6QmNoazhIem01dUk5d0xJb2ZTYTVMa0x1aTdaZks2MHlldHZ6Qm5xTHdGaDk2QVBkRFJHekZpQjI?oc=5",
+   "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-20T08:52:29+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
    ]
   },
   {
@@ -3165,6 +3248,21 @@
    "ftries": 3,
    "lede": "As AI-driven data centre demand reshapes the US power landscape, BESS technology providers at RE+ highlighted an unexpected competitive advantage.",
    "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbERxTi1zaWxLcUc4SU5ZbGpnWU1TbDg5OVVMZXJrVzRoQ1pRd2hDNFgwZEtSZktrNmNqa0JGenlncGJaaFNUSEx0VEt3M3pyZzhSVkZDQnB0QkFvcUFBcG1XZUt3SVh0QXoxeWIyLTVXM21qaWRyRWpJYTNXZ2FfSXNEWmE?oc=5",
+   "title": "China nears a nuclear energy milestone",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-19T12:00:03+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
     "power"
    ]
   },
@@ -9175,6 +9273,34 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/12/volkswagens-new-electric-suv-taking-over-where-id-4-left-off/",
+   "title": "Volkswagen’s new electric SUV is taking over where the ID.4 left off",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T15:42:15+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Volkswagen is turning one of its best-selling nameplates into an electric SUV. The new ID. Tiguan is now rolling off...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Tiguan-ID.4.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Volkswagen is turning one of its best-selling nameplates into an electric SUV. The new ID. Tiguan is now rolling off the assembly line and will replace the ID.4 in 2027.",
+    "The ID.4 and ID.5 are on the way out, and the new ID. Tiguan will replace them in Volkswagen’s EV lineup next year.",
+    "Following the ID. Polo and ID. Cross, which are now on sale in Europe, the ID. Tiguan is the next model to go on sale as a “True Volkswagen,” as the company calls it.",
+    "The new electric SUV adopts Volkswagen’s best-selling nameplate, the Tiguan, as part of its shift away from the numerical system used on the outgoing ID.4 and ID.5.",
+    "Volkswagen announced on Thursday that series production of the electric ID. Tiguan has now begun at its Embden Plant in Germany.",
+    "“The Tiguan is our best-selling model worldwide, and the ID.4 and ID.5 are among our most successful electric cars,” VW Brand CEO Thomas Shafer said last month after unveiling the new SUV. He added that “The ID. Tiguan brings these two success stories together.”",
+    "The ID. Tiguan will be a step change from its predecessors, the ID.4 and ID.5, featuring Volkswagen’s “Pure Positive” design language, which includes an overhauled interior and exterior design and updated tech.",
+    "Volkswagen said the ID. Tiguan’s “hallmark feature” is the completely redesigned exterior. The new design remains closer to the gas-powered Tiguan, with a boxy, traditional SUV look.",
+    "Unlike the ID.4’s aerodynamic design, the new ID. Tiguan features a wide, chunky front end and traditional pull-style door handles instead of the flush ones.",
+    "In Volkswagen’s words, the new ID. Tiguan electric SUV “looks like a vehicle from the premium segment.”"
+   ],
+   "lede": "Volkswagen is turning one of its best-selling nameplates into an electric SUV. Tiguan is now rolling off the assembly line and will replace the ID.4 in 2027."
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYk5yT1BQVk5qRU1xRnM4dmh1SkRWMTd6TUdnLUp3OUxrMjVUQld1cmk3TkVQMHNfS3dSdGZDdklIZU0wbHh3MGh3allQTVhyREUzQ3FrRGFVWldtOE5EbnhzTkFEQnp6azQ5WDJ0aUJORWUyT2pHZXZoNTFDUS01OXltaGpjLV9lSjBYMzJWSnRrdFdsbVoyZFBYcVJhb3pkM0dwNg?oc=5",
    "title": "A record number of people in Africa gained electricity access in 2025",
    "source": "IEA",
@@ -9184,6 +9310,42 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://electrek.co/2026/11/12/tesla-driver-asleep-ottawa-opp-careless-driving-fsd/",
+   "title": "Police charge another Tesla driver caught asleep in rush hour as cases pile up",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T14:36:09+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "cats": [
+    "News",
+    "canada",
+    "Tesla",
+    "Tesla Autopilot",
+    "Tesla Full Self-Driving"
+   ],
+   "description": "Ontario police charged a Tesla driver found asleep on Ottawa's Highway 417. It's at least the fifth Canadian case this year as FSD complacency grows.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-asleep.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "A Tesla driver caught asleep behind the wheel on Ottawa’s Highway 417 during Tuesday’s rush hour now faces a careless driving charge from the Ontario Provincial Police. The photo OPP shared shows a new-generation Model Y in traffic.",
+    "OPP East Region posted about the stop Wednesday morning. Police didn’t name the brand or the driver-assist system, but the message was clear: “even though your vehicle has an autonomous driving feature, drivers are still required to pay due care and attention when behind the wheel.”",
+    "According to OPP, the officer could see the driver’s eyes were closed and hands were off the steering wheel. Instead of lighting up the cruiser, police pulled in close to capture body camera footage first.",
+    "This isn’t new in Canada either. Back in 2020, Alberta RCMP went further and criminally charged a Tesla driver caught sleeping on Autopilot at 150 km/h with dangerous driving.",
+    "The U.S. has the same problem with less enforcement. In September, Colorado State Patrol got a report of a sleeping Tesla driver on I-70 near Georgetown and never found the car. The same month, Rep. Raja Krishnamoorthi pressed the DOT after NBC News found 43 videos of drivers apparently asleep in moving Teslas, 17 of them posted in 2026 alone.",
+    "And in October, a driver told CHP he was asleep on FSD when his Tesla drove into a closed crash scene and hit a patrol car in Fairfield, California. Two officers were seriously injured.",
+    "A few years ago, FSD needed an intervention every few miles, so nobody was napping. You couldn’t.",
+    "Now FSD can handle long highway stretches without a takeover, and that’s exactly when supervision breaks down. A human asked to watch a system that’s right 99% of the time stops watching. That’s automation complacency, and it’s one of the most studied problems in aviation and driving research.",
+    "Waymo learned this the hard way. In 2013, Google let employees use its highway driver-assist prototype and caught people falling asleep at highway speed. It decided a system that works most of the time but still needs a human to catch its mistakes was the worst of both worlds, and it went straight to driverless.",
+    "Tesla went the other way. It sells a Level 2 system called “Full Self-Driving” that’s good enough to lull people to sleep, and it puts the full responsibility on the human who’s now asleep."
+   ],
+   "lede": "Ontario police charged a Tesla driver found asleep on Ottawa's Highway 417. It's at least the fifth Canadian case this year as FSD complacency grows.",
+   "tags": [
+    "policy",
+    "transport"
+   ]
   },
   {
    "url": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
@@ -9260,6 +9422,40 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/",
+   "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T12:53:50+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "cats": [
+    "News",
+    "canada",
+    "ev charging",
+    "politics"
+   ],
+   "description": "Canada’s government wants to make it easier for citizens to drive electric, and they’re putting more than $4 billion in...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/bchydro_main.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "“The charging industry is really encouraged by the multi-year investment in the budget,” explains Travis Allan, president and CEO of the Canadian Charging Infrastructure Council (CCIC) told Electric Autonomy. “We’ll be looking to make sure that we have great programs in place to deal with the barriers faced by people living in condos and apartments, public fast charging, which needs to cover major corridors and metropolitan areas, and then also charging for fleets and medium- and heavy-duty vehicles, which make up a major share of transportation emissions.”",
+    "Canada continues to take steps to separate itself from the wild swings and economic chaos caused by America’s random tariffs, trade policies, and dumb oil wars – and building out an infrastructure that makes it easier for its citizens to give affordable Chinese EVs a chance while strengthening its relationship with the US’ biggest economic rival?",
+    "I sincerely hope this promotes the idea of installing fast chargers along routes with lower populations. I live in Ottawa, driving to my home town in northern Ontario has pretty much a single fast charger, a Tesla one with short cables at the mid point about 2.25h in. 6 stalls. If that goes down, there is nothing for about 400km of a decent charging speed. They need to have alternatives to Tesla (I've been very reliant on Tesla stations and don't own a Tesla) and more stations in between the current Tesla stations. Southern Ontario for example is very well covered with fast chargers. But the market is there so companies install them. Northern Ontario, the trans Canada highway needs these chargers badly.",
+    "If Washington doesn’t see that for, “Go pound sand, eh?” that it is, then it’s truly lost the plot – but even if the “blue wave” last week was enough to shake a little sense into the folks running the show, it may already be too late to patch things up.",
+    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.",
+    "Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way. Get started here.",
+    "NOTE: any opinions expressed here are solely my own and do not necessarily reflect those of the Federal government, the State of Illinois, Electrek, or anyone else. Nothing here should be interpreted as a statement of official policy, legal guidance, or an endorsement unless expressly labeled as such.",
+    "Establish office dominance with this super creamy blank key masterpiece that makes it easy.",
+    "Find a reliable home solar and battery installer and save 20-30% compared to going it alone."
+   ],
+   "lede": "“The charging industry is really encouraged by the multi-year investment in the budget,” explains Travis Allan, president and CEO of the Canadian Charging Infrastructure Council (CCIC) told Electric Autonomy.",
+   "tags": [
+    "policy",
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zaGIwSjFuWHBQQUdXTTVFYjctZVJKaWRNZl9HVEdyaGc2SnZra18zc1N6anRXZXk3aVR5ZHVPRmxGVGRSOW5xWTBCVFdLOTg?oc=5",
    "title": "Exxon Is Suing the EU Over Carbon Capture Rules",
    "source": "Heatmap",
@@ -9272,6 +9468,37 @@
    "tags": [
     "industry",
     "policy"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/12/hondas-2000-electric-moped-is-a-winner-so-why-cant-americans-buy-it/",
+   "title": "Honda’s $2,000 electric moped is a winner. So why can’t Americans buy it?",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T12:28:02+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Honda has been steadily expanding its electric motorcycle lineup, but one of its most interesting new models isn’t a flashy...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/honda-uc3-head.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "We first covered the Honda UC3 earlier this year when the company announced plans to launch the electric scooter in Thailand and Vietnam. Designed as an electric equivalent to a 110cc gasoline-powered scooter, the UC3 is built for practical everyday transportation rather than weekend joyrides.",
+    "But don’t let its modest appearance fool you. The UC3 packs a 6 kW (8 hp) electric motor capable of reaching approximately 50 mph (80 km/h), making it more than capable of handling typical urban commuting.",
+    "Its 3.2 kWh lithium iron phosphate (LFP) battery provides up to 76 miles (122 km) of range under WMTC testing. Unlike Honda’s other electric scooters that use removable batteries, the UC3 has a permanently installed battery that charges directly on the bike.",
+    "There’s also a full-color TFT display, smartphone connectivity, three riding modes, reverse gear, and a generous 26-liter under-seat storage compartment.",
+    "And perhaps most importantly, it comes from Honda, a company with decades of experience building reliable, affordable motorcycles.",
+    "That’s a pretty compelling price for a 50 mph (80 km/h) electric scooter from one of the world’s largest motorcycle manufacturers.",
+    "But despite its appeal, Honda hasn’t announced any plans to bring the UC3 to the United States.",
+    "In much of Southeast Asia, scooters are everyday transportation, with millions of riders using them for commuting, shopping, and practically everything else. In the US, motorcycles are much more commonly recreational vehicles, and the market for small, practical scooters is comparatively tiny.",
+    "I'm hoping scooters like this take over the world, the sooner the better. Anyone who's travelled in any cities in Asian, India, or most of Europe, there's always a constant background whine of 2-stroke scooters, day and night.",
+    "I would have thought these kinds of markets would have already transitioned to EV - in addition to the annoying sound, those 2-stroke engines spew out an order of magnitude more pollution than most ICE vehicles. I guess it's been a cost issue - this scooter should be cheap enough to take over the world."
+   ],
+   "lede": "We first covered the Honda UC3 earlier this year when the company announced plans to launch the electric scooter in Thailand and Vietnam.",
+   "tags": [
+    "transport"
    ]
   },
   {
@@ -9585,6 +9812,37 @@
    "fetched": true
   },
   {
+   "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+   "title": "Europe’s electric car sales jump 49% as global EV sales grow",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-12T00:01:00+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Global EV sales hit 2.09 million in October as Europe surged, but North America's return to growth comes with an important caveat.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Global EV sales climbed 8% in October, with Europe’s battery electric vehicle (BEV) sales jumping 49% and North America posting its first year-over-year increase in 2026. But that North American rebound comes with a big catch.",
+    "Drivers bought 2.09 million EVs worldwide last month, according to new data from Benchmark Mineral Intelligence. That’s down 3% from September, but it brings sales for the first 10 months of 2026 to 17.5 million – up 5% from the same period last year.",
+    "Benchmark’s figures include both BEVs and plug-in hybrids (PHEVs) in the passenger-car and light-duty vehicle markets.",
+    "Europe sold 510,000 EVs in October, up 36% year over year. Fully electric cars did most of the work: BEV sales rose 49%, while plug-in hybrids grew 7%.",
+    "That puts October’s growth ahead of Europe’s 31% increase for the year so far. The region has now sold 4.5 million EVs in 2026.",
+    "Sales fell 17% from September’s record, but September got a boost from the UK’s twice-yearly registration plate change. The year-over-year figures give a clearer view of how quickly the market is growing.",
+    "Germany’s EV share topped 45% of new car sales, its highest level since December 2022. That earlier peak came as buyers rushed to get cars before subsidy cuts took effect. Fully electric car sales in Germany rose almost 80% from a year earlier to more than 95,000.",
+    "UK EV sales increased 30%. That’s particularly notable because the Electric Car Grant was already available in October 2025, although fewer models qualified then. So this growth comes against a market that was already getting government support.",
+    "And in Portugal, EVs accounted for 55% of new car sales in October, following a sharp rise in their market share over the past few months.",
+    "North American EV sales rose 24% year over year to 130,000 in October, the region’s first annual increase of 2026. Sales were flat from September, while the year-to-date decline narrowed to 21%, from 24% a month earlier. The region has sold 1.3 million EVs so far this year."
+   ],
+   "lede": "Global EV sales hit 2.09 million in October as Europe surged, but North America's return to growth comes with an important caveat.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0p3UXpRSS1UcUltbXJYWjRkQjJLcVRZNHdnRUtpQUpZOFVvUG5kQ1NRX0N4UGhYcDBHZnV2TC1jX3VtYUYzSFJyN2NFQ3lCWjhoQUlHMS1IeTI3VEp4WE5uM1FYVERfVUl3Tl9SSXB5dGRhTHVyRUxBT1gzQlc2R0U5V3d3UXp4ZEJiWHpGNzdDMDdoNlVGVXFYSkpTdmFzZ2VGa01BUkxiT1d4bWdyVkVLc0EwWFdQQndhQURLeTJnc1hZdTdMdm9rQk5EQQ?oc=5",
    "title": "New 30 GW Target of Renewables Capacity by 2035 Reflects Small Islands’ Big Ambition",
    "source": "IRENA",
@@ -9596,6 +9854,38 @@
    "fetched": true
   },
   {
+   "url": "https://electrek.co/2026/11/11/byd-shows-new-cloud-carriage-body-control-system-video/",
+   "title": "BYD shows what its new ‘Cloud Carriage’ intelligent body control system can really do",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-11T22:13:48+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "BYD’s new EV may be about the size of a Toyota Camry, but it’s playing in a whole different league...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Cloud-Carriage-body-system.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "BYD’s new EV may be about the size of a Toyota Camry, but it’s playing in a whole different league when it comes to technology.",
+    "BYD launched the second-generation Seal 07 last week, calling it “the new choice for a class-leading luxury experience.”",
+    "Both versions measure 5,080 mm long, 1,960 mm wide, and 1,495 mm high, with a 2,960 mm wheelbase, which is slightly longer than the Toyota Camry.",
+    "Don’t let the price fool you, however, the vehicle is packed with BYD’s latest breakthrough technology.",
+    "The new Seal 07 EV uses a 76.7 kWh second-generation BYD Blade LFP battery that provides a CLTC range of up to 481 miles (775 km).",
+    "Thanks to the second-gen Blade Batteries and BYD’s Flash Charging technology, the vehicle’s battery can charge from 10% to 70% in just five minutes. A full recharge, or going from 10% to 97%, takes just nine minutes.",
+    "The Seal 07 is also BYD’s first vehicle to debut with its new Disus-M Intelligent Magnetorheological Body Control System.",
+    "The setup features a front double-wishbone suspension and an enhanced rear five-link suspension. It works alongside BYD’s road-surface sensors that use LiDAR, plus its iTAC 2.0 Intelligent Torque Adaptation System.",
+    "Zhang Zhuo, the general manager of BYD’s Ocean sales division, offered a better look at how the system works in real life in the video shown above.",
+    "BYD said the system provides ultra-fast response times down to the millisecond. The advanced suspension system adjusts damping force across a wide range of 100 to 10,000 Nm."
+   ],
+   "lede": "BYD’s new EV may be about the size of a Toyota Camry, but it’s playing in a whole different league when it comes to technology.",
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FNHJDYjAxQ2ZRNFhuZ1lIb3UzOFdsVGNJQ3Y3TXp0MTRnTTNFQkR6MVhWN09EXzNyNGJ6Q1llRjRrbFdOY2JaR3VRXzE1YnVwYjViY1hfQ1Y4MEk5NzR3Rg?oc=5",
    "title": "Running a Smart Home Energy System Takes a Lot of Software",
    "source": "Heatmap",
@@ -9605,6 +9895,37 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://electrek.co/2026/11/11/kia-made-history-germanys-most-prestigious-auto-awards/",
+   "title": "Kia just made history at Germany’s most prestigious auto awards",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-11T20:41:03+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Kia became the first non-European brand to score a hat trick at the 2026 Golden Steering Wheel Awards, Germany’s most...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-new-EV-SUV-EV5.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Kia became the first non-European brand to score a hat trick at the 2026 Golden Steering Wheel Awards, Germany’s most prestigious auto awards.",
+    "The Korean automaker won a triple crown at the 2026 Golden Steering Wheel Awards, with the EV2, K4 Sportswagon, and EV5 taking first in their class.",
+    "This is the first time a non-European brand has won three Golden Steering Wheel Awards in a single year in the prestigious award’s 50-year history.",
+    "The award is organized by AUTO BILD and BILD am SONNTAG with 90 new models nominated this year. Readers chose 27 finalists, three in each of the nine classes, which were then tested by a panel of celebrities and auto experts.",
+    "The judges tested the vehicles at the DEKRA-Lausitzring racetrack. Vehicles were judged on handling, comfort, ease of use, quality, and everyday practicality, as well as the sustainability and value they offer.",
+    "Kia won across three very different categories with the fully electric EV2 and EV5, alongside the gas-powered K4 Sportswagon.",
+    "The EV2, Kia’s entry-level electric SUV, won the award for the “Best Car Under €30,000.” Developed specifically for Europe, the compact EV is only 4.06 meters long, but offers up to 403 liters of cargo space.",
+    "It also offers a WLTP driving range of up to 453 km (281 miles), which is among the longest in its class.",
+    "Kia’s EV5 beat out the Audi Q3 and Cupra Formentor VZ5 in the compact SUV category. Launched in December, the EV5 is about the size of the Sportage.",
+    "It’s available with front- and all-wheel-drive powertrains and offers a range of over 550 km (341 miles). Depending on the configuration, the EV5 can tow up to 1,800 kg (about 4,000 lbs)."
+   ],
+   "lede": "Kia became the first non-European brand to score a hat trick at the 2026 Golden Steering Wheel Awards, Germany’s most prestigious auto awards.",
+   "tags": [
+    "transport"
+   ]
   },
   {
    "url": "https://www.canarymedia.com/articles/nuclear/small-modular-nuclear-reactor-late-canada",
@@ -9631,6 +9952,37 @@
    "lede": "Ontario Power Generation is building North America’s first SMR outside Toronto. The utility says it will miss its budget goal and 2030 timeline.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/11/byds-flagship-suv-wheel-problem-fixing-for-free/",
+   "title": "BYD’s full-size luxury SUV has a wheel problem, and it’s fixing it for free",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-11T18:58:08+00:00",
+   "seen": "2026-11-23T02:47:16+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "BYD is apologizing after a supplier error left some owners of its new full-size flagship SUV with the wrong wheels....",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "The Great Tang, or Da Tang as it’s called in China, is the first flagship D-segment SUV under its Dynasty series, the largest and most luxurious SUV from the lineup.",
+    "After opening preorders at the Beijing Auto Show in April, BYD said the high-end SUV secured over 30,000 preorders in 24 hours. Two weeks later, preorders reached over 100,000.",
+    "By the time it went on sale in mid-June, over 150,000 buyers had preordered the Great Tang, marking a new record for a single BYD model.",
+    "While it has been the top-selling pure electric large SUV for two months, with more than 10,000 sold since it hit the market, BYD issued an apology on November 11 for fitting the wrong front and rear wheel rims on some Great Tang models.",
+    "The apology comes after several owners complained that the wheels were improperly installed on their vehicles.",
+    "BYD said the issue stemmed from a coding error by the wheel mesh assembly supplier, which led to incorrect assembly on some Great Tang vehicles.",
+    "The company said it “immediately” launched an investigation and corrected the issue so newly built vehicles will not be affected. In addition, the supplier introduced a new visual error-prevention mechanism to limit issues like this going forward.",
+    "BYD said the issue does not affect the vehicle’s handling or pose a safety risk during driving.",
+    "The company said owners can take affected vehicles to their local service center for a free inspection and professional wheel rim replacement. It’s also offering a replacement vehicle or compensation for transportation expenses."
+   ],
+   "lede": "The Great Tang, or Da Tang as it’s called in China, is the first flagship D-segment SUV under its Dynasty series, the largest and most luxurious SUV from the lineup.",
+   "tags": [
+    "china",
+    "transport"
    ]
   },
   {
@@ -9736,319 +10088,6 @@
    "tags": [
     "power"
    ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qV3d2VDQxRDh3ME9BdTByRTlfRDRWV1dTOW5neVpzVkdTU1h3aDh0RUNHNVRxSHJaTlR2Z3FMOEpFVHhlVXp1VGNn?oc=5",
-   "title": "North America’s First SMR Project Is Running Late and Over Budget",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-11T12:26:14+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/semi-solid-state-batteries-for-bess-potential-and-challenges/",
-   "title": "Semi-solid state batteries for BESS: potential and challenges",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-11T12:22:59+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "Analysis",
-    "Features",
-    "News",
-    "catl",
-    "energy density",
-    "high energy density",
-    "new technology",
-    "semi-solid"
-   ],
-   "description": "What are semi-solid-state batteries, what potential do they hold for battery energy storage system (BESS) applications, and when are we likely to see them come to market?",
-   "ftries": 1,
-   "lede": "What are semi-solid-state batteries, what potential do they hold for battery energy storage system (BESS) applications, and when are we likely to see them come to market?",
-   "tags": [
-    "china",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/relyez-debuts-on-hkex-main-board-becoming-latest-chinese-energy-storage-player-to-list-in-hong-kong/",
-   "title": "RelyEZ debuts on HKEX Main Board, becoming latest Chinese energy storage player to list in Hong Kong",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-11T11:33:07+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News",
-    "china",
-    "energy trading",
-    "finance",
-    "hkex",
-    "hong kong",
-    "institutional investor",
-    "publicly listed"
-   ],
-   "description": "RelyEZ has listed on the Main Board of The Stock Exchange of Hong Kong Limited, becoming the latest Chinese energy storage system solution provider to list in Hong Kong.",
-   "ftries": 1,
-   "lede": "RelyEZ has listed on the Main Board of The Stock Exchange of Hong Kong Limited, becoming the latest Chinese energy storage system solution provider to list in Hong Kong.",
-   "tags": [
-    "china",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVEw2anp2YUtBbmM4TFl0SWZmaEdJMkE1aTJtYTJ1X2NYQTExZGp2Y2puZFptSW5SQ3pjd2pNbGRFYlNPUXU4TUdkQnZqZk11aEdCeFd0UHRlN3NHb1k3dUNUNHYydzRuUlFqNXdCZUJqYlZnQWhXTmpJeXpxcXZDM0piX0tJNmpMOWM2RmlfMy1SLTV4REdOSDBJaldEU3FsMVNHdzExYXB6b3lFRHhtQldUUkFaWjBDOGJ3?oc=5",
-   "title": "Scaling domestic biogas to meet cooking energy demand and climate ambitions",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-11T10:44:31+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVE53WkdIWm5WdHlfSXQ0a1NTSmNLVGowcEotZzlDeFpFVEFnTWl2SExjNXBTakVsakpRQklTaTdXRV9MU2F5NmRwTEQ3cVJvamQ0S3RnSlRvQnZNTHRzeURldXdRemdTam9VN0V1UEtCQWgwY0c4aDFQSUltQmpiZWRaVXZwSWc3QlkyVUNuUzhtSUxmOGZXSGNIZWRkNjRMQndDbU5B?oc=5",
-   "title": "Do electric cars reduce emissions overall?",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-11T10:08:10+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
-   "title": "ju:niz Energy enlists Envision for 442MWh grid-forming BESS in Germany",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-11T08:57:08+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News",
-    "battery",
-    "energystorageeu",
-    "EnergyStorageEurope",
-    "envision",
-    "Envision Energy",
-    "eu",
-    "germany"
-   ],
-   "description": "Envision Energy will supply its Gen 8 BESS platform for ju:niz Energy's 442MWh Smareg 13 project in Bavaria, Germany.",
-   "ftries": 1,
-   "lede": "Envision Energy will supply its Gen 8 BESS platform for ju:niz Energy's 442MWh Smareg 13 project in Bavaria, Germany.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/800mwh-bess-enters-nsw-assessment-as-recurrents-600mwh-sundown-project-clears-australias-epbc-act/",
-   "title": "800MWh BESS enters NSW assessment as Recurrent’s 600MWh Sundown project clears Australia’s EPBC Act",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-11T08:53:04+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News",
-    "australia",
-    "battery storage",
-    "bess",
-    "co-location",
-    "delta",
-    "epbc",
-    "EPBC Act"
-   ],
-   "description": "Delta and partner Samsung Vista C&I Australia have lodged an EIS for an 800MWh BESS at the Vales Point Power Station site in NSW.",
-   "ftries": 1,
-   "lede": "Delta and partner Samsung Vista C&I Australia have lodged an EIS for an 800MWh BESS at the Vales Point Power Station site in NSW.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/western-australia-backs-australian-vanadiums-relocatable-flow-battery-electrolyte-facility/",
-   "title": "Western Australia backs Australian Vanadium’s relocatable flow battery electrolyte facility",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-11T08:51:29+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News",
-    "australia",
-    "economics",
-    "energystorageaus",
-    "manufacturing",
-    "StorageAus",
-    "vanadium",
-    "vanadium flow battery"
-   ],
-   "description": "The Western Australian (WA) government has awarded AU$15 million for a relocatable vanadium electrolyte manufacturing facility.",
-   "ftries": 1,
-   "lede": "The Western Australian (WA) government has awarded AU$15 million for a relocatable vanadium electrolyte manufacturing facility.",
-   "tags": [
-    "industry",
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/politics/new-dem-regulators-georgia-power",
-   "title": "New Dem regulators plan to take on Georgia Power’s data center gas boom",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-11T08:30:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "description": "For the first time in 30 years, the state’s utility commission will have a Democratic majority — and they’re targeting Georgia Power’s costly fossil gas…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Georgia-miderm-election-races-by-level_GettyImages-2299539594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7d5496218e9a1768c3f276e3be4615ef",
-   "paragraphs": [
-    "Georgia residents are angry at the state’s unchecked data center boom and rising electric bills — and they voted accordingly in last week’s election.",
-    "Democrats won every statewide race in Georgia, including two seats on the Public Service Commission. Republicans had held a majority at the powerful utility regulator for 30 years.",
-    "The winning candidates, Commissioner-elect Shelia Edwards and reelected Commissioner Peter Hubbard, have made clear that their top priority is to rein in rising electricity bills from Georgia Power, the state’s biggest utility. That likely means the new Democratic majority will challenge Georgia Power’s plans to enact one of the largest fossil-fuel expansions in the nation.",
-    "In December 2025, the Republican-led PSC approved Georgia Power’s plan to build nearly 10 gigawatts of new gas-fired power plants and batteries to serve proposed data centers. It did so despite recommendations from commission staff to approve only about one-third of that capacity right away, given the speculative nature of the data center growth projections that the utility used to justify its buildout.",
-    "All three Democrats on the five-member commission have signaled opposition to those plans. The two Democrats already on the commission, Hubbard and Alicia Johnson, tried earlier this year to get the PSC to reconsider the planned gas buildout but were thwarted by the GOP majority.",
-    "The five new gas-burning plants planned as part of that buildout could cost customers an estimated $ 50 billion to $ 60 billion over their multi-decade lifespan and lock in significant amounts of new greenhouse gas emissions, according to estimates from the Southern Environmental Law Center. Hubbard, who worked for 16 years in utility planning and renewable energy project development, has conducted his own analysis that found a ​ “ cost-optimized portfolio” prioritizing solar, batteries, and energy efficiency could meet expected demand and save billions of dollars compared to the utility’s gas-heavy approach.",
-    "Georgia Power’s expensive gas buildout would exacerbate the affordability challenges its customers already face.",
-    "The PSC has approved six rate hikes from Georgia Power in the past few years, increasing typical residential utility bills by 33 %, or more than $ 500 a year on average. The utility, which earns a set rate of return on what regulators allow it to spend on power plants, has seen profits swell over that same time.",
-    "“ Georgia Power is making billions while Georgia families are struggling,” Edwards, who owns a communications consulting firm, said during an Oct. 28 press event hosted by the Southern Alliance for Clean Energy, a nonprofit advocacy group. ​ “ Something is fundamentally wrong with that picture.”",
-    "In February, the PSC voted 3 – 2 against a motion brought by environmental advocates to reconsider the 10 -GW gas buildout, with Hubbard and Johnson voting to block the expansion. The Democratic commissioners argued that the utility had failed to prove that data center growth justified the cost."
-   ],
-   "lede": "Georgia residents are angry at the state’s unchecked data center boom and rising electric bills — and they voted accordingly in last week’s election.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/electric-vehicles/cybertruck-flopped-electric-trucks",
-   "title": "The Cybertruck flopped. Electric trucks don’t have to.",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-11T08:30:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "description": "Tesla is pulling the plug on its controversial EV truck. Experts hope the next wave of electric pickups will be cheaper — and less polarizing.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/cybertruck-wave_Grist_Getty.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=7f2806b35a2f617e3aaaa52f050afc7b",
-   "paragraphs": [
-    "After barely three years on the road, Tesla is planning to kick the Cybertruck to the curb after flagging sales. Elon Musk announced on Friday that the company would wind down production next year to make room for the production of Cybercabs, the robot taxis Tesla hopes will reshape transportation.",
-    "In its short lifespan, the Cybertruck managed to become a top candidate for the most polarizing vehicle on the road — ever. Critics called it a ​ “ MAGA hat on wheels” and compared it to a dumpster — a resemblance that may have fooled some hungry raccoons that once chewed on the vehicle’s rear vault. It’s already being declared ​ “ one of the greatest flops in automotive history ,” on par with Ford’s 1957 Edsel. But the polygonal, supposedly bulletproof truck did appeal to a certain demographic.",
-    "“ It’s the kind of vehicle, as a kid, you imagine for the future,” said Dan Krassner, executive director of the American EV Jobs Alliance, an advocacy organization working to end the partisan divide over electric vehicles. He’s a Republican and a wrestling fan, and noted that some of his favorite pro wrestlers drove Cybertrucks, including the married WWE superstars Seth Rollins and Becky Lynch, along with The Miz and Liv Morgan (though the latter has said it was the ​ “ worst investment” she ever made).",
-    "Weeks before the Cybertruck rolled out in late 2023, Musk told investors that Tesla would sell 250, 000 vehicles a year. But it never came close: Last year, it sold just over 20, 000. It’s the latest sign that the attempt to make EVs macho is falling flat, after Ford announced last December that its F- 150 Lightning pickup truck, the all-electric version of the country’s most popular vehicle, would be discontinued since it was a money-loser. Sales of Rivian’s electric pickup have been sliding downward each year since 2023; they have also dropped sharply for GMC’s Hummer EV, which was dubbed ​ “ the worst-selling pickup truck of 2026 .”",
-    "Automakers have long tried to shed the saintly, environmentally friendly image of the Toyota Prius, and this shift to big, aggressive electric trucks was an effort to appeal to traditional American pickup buyers. But they not only had to contend with conservatives’ hesitations about EVs; they also had to persuade a public increasingly worried about the cost of living to overcome sticker shock, to fork over thousands, if not tens of thousands, more to buy an electric pickup instead of a gas-powered one. A comparable gas-powered Ford pickup starts at $ 52, 000, about $ 11, 000 less than the Lightning did before Ford discontinued it.",
-    "“ The first electric trucks weren’t priced for the people who buy trucks, and buyers still have fair questions about charging and towing,” Krassner said. ​ “ You know, macho advertising can’t fix the monthly payment.”",
-    "The starting price for the 2026 Tesla Cybertruck was just raised to $ 92, 500, and the cheapest Hummer EV is $ 97, 200. Full-size electric pickup trucks need very large batteries to deliver the range and towing capabilities that truck buyers want, leading to higher prices, Krassner said."
-   ],
-   "lede": "Tesla is pulling the plug on its controversial EV truck. Experts hope the next wave of electric pickups will be cheaper — and less polarizing.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzBfbDF0VDRTdFRtbFNQb1pxRTNHWE5JdlhOSFJjZFNYaS1jSk5ORFlXZUtqOHotQUcxSlMtblo5c1AtR3pCV0dMWUJGM21NRm8yNFBRWUdiaS1kbzN2em0tUnVCNWktUElwbERLNmpJMC1RQVlEUm9VdkZwR3JWZTZIVklGemZYZUhRUUk1WjVjY0dpYXl5VlBRdWtCVXhEZHBKRXRJLXZJcmNxOEowQ0RCNkhTRDF2eGlOcFU2TGxHZw?oc=5",
-   "title": "Rethinking how the world uses resources can help cut waste, strengthen economies and lower emissions",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-11T08:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFpCa3dyZlJoWWRaVlZ2cFRaTkE4eTY3MWpBZXhwVlJiSm9VRmRwcXBzcjRrd25ZME4tWUlBY3h4N0JrRng3eUtPUFpIVGZQZE44Q0hrUTl5clRicGF6a1Z0aUd1M01hMjNfV0JSYXR3MXg2THZ4ZXQ2V0FXaHNyLW9wa1NRX0NjLUtqemtjMlBkNm11T3E1RVhObmkzd2pmWFFmRkc5SUN1N2Z4aE9nY1RHekt2bHc?oc=5",
-   "title": "Synergies between waste reduction, resource efficiency and energy systems decarbonisation",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-11T08:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZm9kZm5GSWZWODdkSXMwOExXMTJ1RmR6UllCVGR4S3V5OThqZHZDVW4zNGFadDU5Q1BsYUpjOUxBQjRfWDVpOGRodFVKRXloV00xMXJwZWRCV1JKVVUtdDdCd2ptMGc3Vko0S3JDRS1rOEpvcmJuYlM1Sk9EWnRMZTByeFdCS0R2Wmh0dTh4WDk4U2IwTllUNU1BUFMtVWVnWmtxdHgzVFI5SnBfTDFBS053aGdHRWNpbXdoUXJZN18?oc=5",
-   "title": "Towards Zero Waste: Halving the Growth, Increasing Circularity and Reducing Emissions - IEA Pavilion",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-11T08:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
-   "title": "Climate-finance pledges fall 70% as countries meet at COP31",
-   "source": "Carbon Brief",
-   "desk": "news",
-   "published": "2026-11-11T07:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Uncategorized",
-    "Climate finance",
-    "Climate pledges",
-    "climate policy",
-    "COP31",
-    "Just Transition",
-    "policy",
-    "UN climate talks"
-   ],
-   "description": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/ENB_SB64_16Jun26_KiaraWorth-33.jpg",
-   "paragraphs": [
-    "Developed countries are required under UN climate treaties to provide “ climate finance” and have traditionally announced multi-year pledges to feed into their global commitments.",
-    "Most of these pledges expired in 2025 and, since then, the US has withdrawn from international climate efforts and many European aid budgets have been cut.",
-    "A civil-society tracker shows that only six nations have announced new multi-year pledges, including just one major donor – the UK.",
-    "Germany, France and Japan are among the key contributors that have so far failed to set out plans for new climate finance, while none is expected from the US.",
-    "Experts tell Carbon Brief that global conflict, fiscal constraints and the rise of the far right are all making it harder for developed-country governments to pledge new funds.",
-    "As the COP31 summit in Turkey gets underway, developing countries are stressing their urgent need for new finance, after nations agreed to a new global target just two years ago.",
-    "Under the Paris Agreement, developed countries are obliged to provide climate finance to help developing countries cut their emissions and prepare for climate disasters.",
-    "This financial assistance can be channelled through multilateral development banks, UN climate funds and investments “mobilised” from the private sector.",
-    "But a large chunk is also expected to come directly from the public coffers of developed countries – primarily their foreign-aid budgets. This public spending has made up roughly a third of climate finance flowing to developing countries in recent years."
-   ],
-   "lede": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis.",
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNUUwUnlBX1ZTbWRmWS1QMHZ4ajNkeDRlNXowSnc4NS0wbHJKY2JLbGxCMklXY3B3cDNUVThxQUZVX1VLR0ZBejN4cUV5V1J2bmdKbHVCdGFMU0ViaWE2ZzJlQ1VtdW9zYmVoTjZqNXFaemlzc0xWc1V4UTlEeGF6UEhFVFhsSFYwZ2VrdXVqME85UXJoc0h0Q0k1eXViejNiWmlsVFBhMlZuUVpNMkdjOEtrakZMXzBGZmJqdTlFUTd6cGxVaE40MENueGxNOFEzQzlzZg?oc=5",
-   "title": "China Germany United States $600 $6 000",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-11T05:14:46+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzlxMVdJVmdFemVkcThxT2pmTHNoYjdGY2NtX2xFT1ZvYXdUanFtZnZHaXFsTnZUbWRrS185U3RTWHNfRDZ2cnFoaU9YaWd1SHl0RTlISG5XOFBBMC1BYzRkb1VIcGVHM3dFTlJWbnpPTGNENFg4VnJRVXhCeFJNNDk4RTdOcjNxbDh5TFE5RkdWQQ?oc=5",
-   "title": "Japan and the electrotech revolution",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-11T04:16:16+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
   }
  ],
  "dropped": []
