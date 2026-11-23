@@ -1,14 +1,20 @@
 {
- "updated": "2026-11-23T02:47:16+00:00",
+ "updated": "2026-11-23T12:47:31+00:00",
  "briefing": {
-  "headline": "Battery storage, solar and the grid",
-  "period": "Nov 16–22",
-  "made": "2026-11-22T15:19:53+00:00",
+  "headline": "The grid, battery storage and solar",
+  "period": "Nov 17–23",
+  "made": "2026-11-23T12:47:31+00:00",
   "bullets": [
    {
-    "text": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey.",
+    "text": "Negative wholesale power prices are a useful investment signal for batteries and demand response in Europe only where subsidy design and grid bottlenecks are not distorting them, says a new Eurelectric report.",
     "source": "pv magazine",
-    "url": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/",
+    "url": "https://www.pv-magazine.com/2026/11/23/europe-turns-negative-electricity-prices-into-a-flexibility-signal/",
+    "theme": "the grid"
+   },
+   {
+    "text": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
+    "source": "Energy-Storage.news",
+    "url": "https://www.energy-storage.news/bess-overbuild-or-augmentation-which-strategy-wins/",
     "theme": "battery storage"
    },
    {
@@ -18,32 +24,479 @@
     "theme": "solar"
    },
    {
-    "text": "Improved coordination in the West will help offset lower hydropower output due to historically low water levels in the Colorado River basin, while New England risks overreliance on oil, FERC’s winter market and…",
-    "source": "Utility Dive",
-    "url": "https://www.utilitydive.com/news/western-northeast-market-reforms-drought-grid-ferc/875311/",
-    "theme": "the grid"
-   },
-   {
     "text": "Verse CEO Seyed Madaeni on the flexibility fix for AI’s power crunch.",
     "source": "Latitude Media",
     "url": "https://www.latitudemedia.com/news/data-centers-need-to-earn-their-power/",
     "theme": "AI’s power demand"
    },
    {
-    "text": "The Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation.",
+    "text": "With declining sales, annual capacity cuts approaching a million units, and a wave of affordable Chinese competitors entering Western markets, Volkswagen is facing down its own mortality.",
     "source": "Electrek",
-    "url": "https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/",
-    "theme": "clean-energy finance"
+    "url": "https://electrek.co/2026/11/23/if-you-cant-beat-em-vw-to-export-300000-chinese-built-cars-per-year-by-2030/",
+    "theme": "China"
    },
    {
-    "text": "Earlier this month in Hefei, China, Sungrow held its inaugural Global Energy Pioneer Summit, bringing together installers and distributors from around the globe.",
-    "source": "Energy-Storage.news",
-    "url": "https://www.energy-storage.news/sungrow-utility-scale-success-residential-ci-segments/",
-    "theme": "China"
+    "text": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
+    "source": "Utility Dive",
+    "url": "https://www.utilitydive.com/spons/the-grids-hidden-bottleneck-engineering-capacity/874856/",
+    "theme": "clean-energy finance"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://electrek.co/2026/11/23/if-you-cant-beat-em-vw-to-export-300000-chinese-built-cars-per-year-by-2030/",
+   "title": "If you can’t beat ’em: VW to export 300,000 Chinese-built cars per year by 2030",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-23T12:39:41+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "News",
+    "china",
+    "China EV exports",
+    "volkswagen",
+    "xpeng"
+   ],
+   "description": "With declining sales, annual capacity cuts approaching a million units, and a wave of affordable Chinese competitors entering Western markets,...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/vw_id-AURA_2-copy.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "With declining sales, annual capacity cuts approaching a million units, and a wave of affordable Chinese competitors entering Western markets, Volkswagen is facing down its own mortality. Rather than fighting it, the company is leaning in and announcing plans to export roughly 300,000 Made-in-China VWs per year by 2030.",
+    "American dealers won’t be getting any Made-in-China vehicles (not at first, anyway), but for Mexican, South American, Middle Eastern, African, and Southeast Asian markets, the shift to lower-cost Chinese manufacturing marks a major strategic pivot. In addition to exporting budget-friendly sedans like the Jetta VA3, Volkswagen is also considering a move to adopt Xpeng’s tech stack for up to 75% of its core European lineup.",
+    "“The sharp decline in the overall market in China remains an industry-wide challenge,” said Martin Sander, Volkswagen Group’s sales boss, before adding that VW’s “new, locally developed electric models are beginning to make an impact .”",
+    "Add in rising energy costs, continuing software issues, and serious labor disputes with the IG Metall union in Europe, and Volkswagen may not have much choice in the matter – which is why it’s not exactly surprising to see VW consider turning China into an export hub. And that 300,000 number? That may be just the start.",
+    "On Volkswagen’s third-quarter results call, CFO Arno Antlitz reportedly called that 300,000 annual export target “conservative,” adding that overseas shipments could help offset the carmaker’s weakening prospects in China.",
+    "Here’s hoping those export plans eventually expand to the US. After years of pushing upmarket, seeing a reborn electric Jetta on US lots would feel like a true return to Volkswagen’s affordable and accessible “people’s car” roots.",
+    "Rising energy costs mean more people than ever are considering solar, and it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable installer near you at a competitive price, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.",
+    "Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way. Get started here.",
+    "NOTE: any opinions expressed here are solely my own and do not necessarily reflect those of the Federal government, the State of Illinois, Electrek, or anyone else. Nothing here should be interpreted as a statement of official policy, legal guidance, or an endorsement unless expressly labeled as such.",
+    "Establish office dominance with this super creamy blank key masterpiece that makes it easy."
+   ],
+   "lede": "With declining sales, annual capacity cuts approaching a million units, and a wave of affordable Chinese competitors entering Western markets, Volkswagen is facing down its own mortality.",
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments/",
+   "title": "Lebanon looks to ramp up solar, storage deployments",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T12:09:36+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Asia-Pacific",
+    "Batteries",
+    "Commercial & industrial",
+    "Energy Storage",
+    "Utility-scale"
+   ],
+   "description": "Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/christelle-hayek-00m8ouOiyEY-unsplash-scaled-e1793874769977.jpg",
+   "paragraphs": [
+    "Lebanon’s Cabinet of Ministers has approved a plan to increase the country’s electricity generation capacity by at least 3 GW to 3.5 GW over the coming years, including a focus on deploying solar, wind and battery storage installations.",
+    "The plan was presented by the country’s Energy and Water Minister Joe Sadeh during a cabinet meeting last week.",
+    "According to a statement published by the Presidency of the Council of Ministers, Lebanese citizens currently face high energy costs and rely heavily on private generators, while national utility Électricité du Liban struggles with high operating costs and grid outages.",
+    "The newly-approved plan will see natural gas-fired power plants continue to provide baseload generation, with the government agreeing to import liquefied natural gas to supply existing power plants. It also acknowledges solar, wind and storage projects as a key way to increase generation capacity in the coming years, while committing to enhancing and rehabilitating existing hydroelectric power facilities.",
+    "The government is also exploring cooperation with Qatar to accelerate the development of new renewable energy and storage projects.",
+    "The ministerial statement says potential cooperation could involve government-to-government arrangements with private sector participation under a design-build-operate-transfer model.",
+    "Ministers also discussed investment in Lebanon’s electricity transmission network to accommodate additional generation capacity and reduce existing bottlenecks.",
+    "The government statement says work is underway to involve the private sector in distribution and collection, through distribution system operators, according to the framework adopted by the Electricity Regulatory Authority. It explains the model would split the country into geographical and technical operating zones, with performance monitored by the authority.",
+    "“This operator is responsible for reducing technical and non-technical losses and increasing collection rates, according to clear performance indicators monitored by the regulatory authority,” the statement continues. “Ownership of the network’s assets remains with the state.”",
+    "Lebanon’s cumulative solar capacity stood at 1,505 MW by the end of 2025, according to figures published by the International Renewable Energy Agency (IRENA), up from 1,081 MW at the end of 2024."
+   ],
+   "lede": "Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/wind-driven-spray-system-cools-cleans-solar-panels/",
+   "title": "Wind-driven spray system cools, cleans solar panels",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T12:00:00+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "Research & Development",
+    "Cells & modules",
+    "Module"
+   ],
+   "description": "Researchers have developed a water spray system that cools and cleans PV modules using a wind turbine coupled directly to a mechanical pump. In rooftop tests, the system lowered cell temperature by up to 26.7 C and increased peak power output by 18.6%.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Rooftop-renewable-energy-test-rig.png",
+   "paragraphs": [
+    "A research team from Iran has designed and investigated a novel self-cooling and self-cleaning system for PV modules. The system is wind-driven, using a vertical-axis wind turbine, which drives a mechanical water pump via a belt. The pump feeds a nozzle that sprays water onto the module surface to cool it and wash away dust.",
+    "“First, the system introduces a direct mechanical conversion of wind energy into pump operation. By eliminating generators, batteries, inverters, and grid connections, the proposed system operates with zero electrical power consumption,” the team said. “This fundamental design shift eliminates parasitic pumping losses, ensuring that 100 percent of the PV-generated electrical output is preserved and utilized.”",
+    "The researchers built the vertical-axis wind turbine from two second-hand bicycle rims, a connecting rod, and a support frame. They made the blades by cutting 110 mm PVC pipes lengthwise into half-pipe sections, each 70 cm long, and sealing the ends. A belt transferred rotation from the turbine shaft to a mechanical pump, which drew water from a reservoir and sent it through a hose to a nozzle directed at the front surface of the PV module. The pump began operating at about 1 m/s and could continue running at lower speeds once started.",
+    "The team tested the system on a rooftop in Farrokhshahr, Iran, using two identical 60 W polycrystalline PV modules measuring approximately 70 cm × 70 cm each. One module received the spray, while the other served as the control. During the May-June field campaign, the researchers monitored module temperature, voltage, and current between 7 a.m. and 6 p.m. They recorded wind speed and solar irradiance every 10 minutes and logged ambient temperature and water volume hourly.",
+    "“The thermal results demonstrated that the wind-driven spray system significantly reduced the cell temperature, with a maximum temperature difference of 26.7 C between the conventional and cooled panels, corresponding to approximately 36–37% reduction during peak radiation hours,” the results said. “The daily temperature behavior indicated that the cooling effect was most pronounced during midday under high irradiance and moderate-to- high wind speeds, while in early morning and late afternoon hours, the temperature difference decreased by >76% due to lower solar radiation.”",
+    "The results show that the cooled panel generated higher output power throughout the day, with maximum power increasing from 50.1 W to 59.42 W, an 18.6% improvement. Even under low-irradiance conditions, power increased by up to 25%, indicating stable system performance. The average daily energy efficiency increased from 10.37% to 11.47%, a 10.6% improvement directly attributed to reduced thermal losses.",
+    "“Economic analysis showed that despite a <2% increase in initial and maintenance costs, key financial indicators improved substantially: net present value (NPV) increased by approximately 29%, internal rate of return (IRR) by 12.6%, and levelized cost of energy (LCOE) decreased by 11.4%, confirming the cost-effectiveness of the proposed system,” the academic group concluded. “The payback period and energy payback time decreased by approximately 10% and 9.9%, respectively.”"
+   ],
+   "lede": "Researchers have developed a water spray system that cools and cleans PV modules using a wind turbine coupled directly to a mechanical pump.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/bess-overbuild-or-augmentation-which-strategy-wins/",
+   "title": "BESS overbuild or augmentation: which strategy wins?",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-23T11:39:45+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "Analysis",
+    "Features",
+    "Guest blog",
+    "asset management",
+    "augmentation",
+    "bameurope",
+    "battery asset management",
+    "capacity fade"
+   ],
+   "description": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
+   "ftries": 1,
+   "lede": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/europe-turns-negative-electricity-prices-into-a-flexibility-signal/",
+   "title": "Europe turns negative electricity prices into a flexibility signal",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T10:45:00+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Energy Storage",
+    "Europe",
+    "Highlights",
+    "Utility-scale"
+   ],
+   "description": "Negative wholesale power prices are a useful investment signal for batteries and demand response in Europe only where subsidy design and grid bottlenecks are not distorting them, says a new Eurelectric report.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/08/fluence-gridstack-array_with-utility-lines_02.jpg",
+   "paragraphs": [
+    "Negative electricity prices do not necessarily indicate a failure of European power markets. They can direct investment toward energy storage, demand-side flexibility, and electrification when they reflect actual supply and demand conditions rather than regulatory distortions or structural barriers.",
+    "This is one of the main conclusions of “ Negative prices in EU power markets ,” a new report prepared by economic consultancy Compass Lexecon for European power industry association Eurelectric.",
+    "The analysis examines negative prices across European wholesale electricity markets and distinguishes between episodes that provide economic signals for adapting the power system and those associated with contractual incentives that influence generation bids.",
+    "When negative prices reflect genuine economic conditions, they can support flexible resources. When they persist because of infrastructure constraints or poorly designed support mechanisms, they can create inefficiencies and additional costs.",
+    "The report identifies significant differences in the frequency and duration of negative prices across European electricity markets, reflecting variations in renewable penetration, storage deployment, and the technical and regulatory characteristics of each system.",
+    "Spain and the Netherlands recorded negative electricity prices during approximately 7% of the hours in 2025. Following a widespread increase between 2015 and 2024, some countries subsequently experienced stabilization or a decline, while others maintained an upward trend.",
+    "Renewable generation growth alone does not explain these differences. Demand-side flexibility, grid constraints, battery availability, and generation-related incentives also influence the frequency and severity of negative prices.",
+    "The report highlights Finland as an example of how electricity systems can adapt to economic signals. Negative prices occurred during 8.3% of the hours in 2024, falling to 5.3% in 2025. During the first half of 2026, their frequency stood at approximately 1%.",
+    "Eurelectric links this development to progress in electrification and battery energy storage, which have increased the system’s ability to absorb electricity during periods of high availability.",
+    "However, the study warns that price signals alone may not stimulate investment when regulatory barriers or infrastructure limitations remain."
+   ],
+   "lede": "Negative wholesale power prices are a useful investment signal for batteries and demand response in Europe only where subsidy design and grid bottlenecks are not distorting them, says a new Eurelectric report.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/jordan-plans-200-mw-solar-100-mw-400-mwh-storage-projects/",
+   "title": "Jordan plans 200 MW solar, 100 MW/400 MWh storage projects",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T10:36:16+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Markets & Policy",
+    "Asia-Pacific",
+    "Batteries",
+    "Energy Storage",
+    "Utility-scale"
+   ],
+   "description": "Investor prequalification for the solar project is expected to open in February 2027, followed by prequalification for the battery storage project a month later.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/09/yazan-obeidat-oxac8FRZL3Q-unsplash-1-scaled.jpg",
+   "paragraphs": [
+    "Jordan’s Ministry of Energy and Mineral Resources unveiled plans for new large-scale solar and storage projects during the inaugural Jordan-EU Investment Conference, held last week.",
+    "The ministry is planning to invite private investors to develop a 200 MW solar project and a 100 MW/400 MWh battery energy storage system (BESS) in the new year.",
+    "Both projects will follow a build-own-operate model, with state-owned National Electric Power Company purchasing the electricity generated by the solar project and acting as the beneficiary of the storage project.",
+    "Further details, including the planned locations of the projects, are yet to be announced.",
+    "The two projects form part of a wider investment package also including plans to develop a 100 MW wind project, a 450 MW pumped-storage hydropower project, shared infrastructure for green hydrogen and green ammonia production and natural gas infrastructure projects.",
+    "According to the Jordan News Agency, the projects form part of Jordan’s efforts to attract international investment, expand private sector participation in energy infrastructure and strengthen energy security, while supporting the country’s transition towards cleaner energy sources.",
+    "Jordan’s cumulative solar capacity stood at 2,195 MW by the end of 2025, according to figures published by the International Renewable Energy Agency (IRENA), the same figure reported at the end of the year prior.",
+    "In September, the country’s energy regulator approved the first 200 renewable energy systems under its revised regulatory framework, which allows consumers to access several arrangements depending on their customer category and consumption profile.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Investor prequalification for the solar project is expected to open in February 2027, followed by prequalification for the battery storage project a month later.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/spons/the-grids-hidden-bottleneck-engineering-capacity/874856/",
+   "title": "The grid’s hidden bottleneck: engineering capacity",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-23T10:00:00+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "description": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
+   "ftries": 1,
+   "lede": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energymonitor.ai/news/50hertz-approval-muhlenbeck-substation-converter/",
+   "title": "50Hertz gets approval for Mühlenbeck substation and converter project",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-23T09:54:33+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "50Hertz has received official approval to construct a substation and a converter at the Mühlenbeck grid connection point.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Muhlenbeck-grid.jpg",
+   "paragraphs": [
+    "50Hertz has received official approval to construct a substation and a converter at the Mühlenbeck grid connection point, located in the municipality of Schossin, Mecklenburg-Western Pomerania, in northern Germany.",
+    "The immission control permit was issued by the State Office for Agriculture and Environment (StALU) Western Mecklenburg. It authorises the energy network operator to begin work on a development described as a critical component of Germany’s renewable energy infrastructure.",
+    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+    "The upcoming facility at Mühlenbeck will bring together six power lines spanning extra-high, high and medium voltage levels.",
+    "Once operational, the site will support the integration of significant volumes of climate-neutral electricity produced in Mecklenburg-Western Pomerania, as well as from wind farms in the North and Baltic Seas.",
+    "This electricity will be transmitted to areas across Germany, supplying businesses, households and industry.",
+    "50Hertz CEO Stefan Kapferer said: “The Mühlenbeck grid connection point will become a key hub for the energy transition in northern Germany.",
+    "“In the future, we will bring large quantities of renewable electricity from here to where it is needed: to western Mecklenburg, the Hamburg metropolitan region and industrial sites in southern Germany. This will strengthen both security of supply and competitiveness.”",
+    "The permitted plans specify the construction of a substation equipped with 15 transformers and the installation of the first of three planned converters.",
+    "These converters are designed to change alternating current to direct current, which is required for transmitting large amounts of energy efficiently over long distances."
+   ],
+   "lede": "50Hertz has received official approval to construct a substation and a converter at the Mühlenbeck grid connection point.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/hydrogen-shifts-summer-solar-to-winter-in-japanese-apartment-building/",
+   "title": "Hydrogen shifts summer solar to winter in Japanese apartment building",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T09:15:00+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Green Hydrogen",
+    "Hydrogen"
+   ],
+   "description": "Japanese contractor Takenaka has run a hydrogen system that stores surplus summer solar power for winter use in an apartment block in central Japan for a full year and says it worked as planned, though it has published no performance data.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/09/Apartment_building_with_solar_panels.jpg",
+   "paragraphs": [
+    "Japanese construction company Takenaka Corp. said its hydrogen-linked energy management system at a 24-unit apartment building in Kurobe, Japan’s Toyama prefecture, has moved surplus summer solar power into the winter months as intended during its first year of operation.",
+    "The system pairs I.SEM, an energy management system Takenaka developed to integrate distributed power sources such as solar arrays, batteries, and electric vehicles, with a power-to-gas hydrogen system.",
+    "Surplus solar electricity in summer is used to produce green hydrogen, which is stored in a hydrogen-absorbing alloy and converted back into electricity and heat by a fuel cell in winter, when solar output is lower. Waste heat from hydrogen storage and the fuel cell supports the building’s central hot-water supply, which runs on heat pump water heaters, according to the company’s release.",
+    "The system is installed in Building O of the fifth block of Passive Town, a housing development by YKK Real Estate in Kurobe. The seven-story building, completed in March 2025, has 2,387 m2 of floor space.",
+    "Takenaka said a one-year evaluation of the system, which started operating in April 2025, confirmed that hydrogen produced in summer was stored and later used to generate electricity in winter, and that the battery and other distributed resources were managed as planned. The company aims to supply 95% of electricity demand in the apartments themselves, excluding common areas, from on-site renewable energy alone.",
+    "The Osaka-based contractor described the project as the first installation in Japan of a hydrogen-utilizing energy management system in an apartment building.",
+    "The company did not disclose the capacity of the solar array, battery, electrolyzer, hydrogen storage, or fuel cell. Nor did it publish how much hydrogen was produced, how much electricity the fuel cell generated, or the share of demand met by on-site renewables in the first year. It said it will continue to monitor the system’s operation.",
+    "Japanese contractor Taisei Corp. has tested a similar approach for seasonal storage at a zero energy building test facility in Yokohama, using two 450 kWh lithium-ion batteries, a 5.0 Nm3/h proton exchange membrane (PEM) electrolyzer, a 2,000 Nm3 hydrogen tank, and a 5 kW fuel cell.",
+    "Other building-scale solar-to-hydrogen projects in Japan include a solar-powered hydrogen production trial at a high-rise office complex in Tokyo, whose backers also have not disclosed system capacities, and a 2023 pilot by Sekisui House-W that uses surplus rooftop solar to run a small electrolyzer in a residential building. Economic curtailment of solar has now occurred in every transmission system operator area in Japan, after reaching the Tokyo area in March 2026.",
+    "Researchers from Finland’s LUT University and Germany’s Regensburg University of Applied Sciences have identified high investment costs and the low efficiency of converting electricity to hydrogen and back as major drawbacks for seasonal hydrogen storage in residential solar systems."
+   ],
+   "lede": "Japanese contractor Takenaka has run a hydrogen system that stores surplus summer solar power for winter use in an apartment block in central Japan for a full year and says it worked as planned, though it has published…",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/saudi-arabia-expands-self-consumption-rules-to-50-mw/",
+   "title": "Saudi Arabia expands self-consumption rules to 50 MW",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T09:14:42+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Commercial & industrial",
+    "Residential",
+    "Saudi Arabia"
+   ],
+   "description": "Saudi Arabia’s updated framework sets out new connection requirements, fees and net billing rules for renewable energy systems installed for self-consumption.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/omar-al-ghosson-g9Df_uUMzLQ-unsplash-e1795424960507.jpg",
+   "paragraphs": [
+    "The state-owned Saudi Electricity Regulatory Authority (SERA) has updated its rules for renewable energy generation facilities designed for self-consumption.",
+    "The regulation covers renewable power systems, including solar, wind, waste-to-energy and biofuel installations, at homes and other buildings that are designed to meet consumers’ electricity needs. It stipulates that generation and consumption must take place at the same facility and permits integrated battery storage systems.",
+    "A statement published by the Saudi Press Agency says the new rules aim to improve installation, connection and operation procedures while clarifying requirements for consumers, enhancing safety and efficiency, and protecting consumer rights.",
+    "The updated regulation raises the maximum generation system capacity covered by the framework from 2 MW to 50 MW. Grid-connected systems are now divided into four categories: 1 to 11 kW, above 11 kW to 50 kW, above 50 kW to 2 MW, and above 2 MW to 50 MW.",
+    "Systems in the first category, typically residential-scale installations, require no prior approval before installation but must be notified to the service provider and installed by an accredited contractor. There is no connection fee for this category.",
+    "Systems in the final category, above 2 MW to 50 MW, require a study permit and a generation license from SERA. The application or connection fee is set at SAR 16,500 for systems between 2 MW and 4 MW, increasing to SAR 35,000 for systems above 4 MW.",
+    "The regulation requires service providers to process connection requests in the order they are submitted via an electronic platform. Providers are also required to publish a list of qualified contractors and approved equipment, as well as details of available network capacity.",
+    "The regulation also sets out a framework for mandatory net billing, under which surplus electricity exported to the grid is credited financially.",
+    "Credits are carried forward to the next billing cycle, where they can be deducted from electricity charges. The framework says credits can be used across multiple accounts, provided the accounts belong to the same consumer, and are valid for 12 months from accrual.",
+    "SERA’s updated framework comes three years after it first issued regulations for renewable energy self-consumption. It also consolidates two existing regulatory frameworks for renewable energy self-consumption and small solar energy systems."
+   ],
+   "lede": "Saudi Arabia’s updated framework sets out new connection requirements, fees and net billing rules for renewable energy systems installed for self-consumption.",
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer/",
+   "title": "‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-23T09:07:38+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "News",
+    "aemo",
+    "australia",
+    "battery energy storage",
+    "battery storage",
+    "bess",
+    "energystorageaus",
+    "grid"
+   ],
+   "description": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.",
+   "ftries": 1,
+   "lede": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/batteries/24-7-clean-power-giant-heat-batteries",
+   "title": "Want 24/7 clean power for data centers? Try giant heat batteries.",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-23T08:30:00+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "description": "A new report argues that clean-powered heat batteries are a cost-effective, fast, and pollution-free way for data centers to get the electricity they want.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Lewis-Ohio-data-center_GettyImages-2300722528.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=6709bdae1f08dfdc23d1ea94d62b0c53",
+   "paragraphs": [
+    "Data center developers are scrambling to find enough electricity to power their energy-intensive facilities. Some are building their own fossil gas power plants. But that comes with tradeoffs — sky-high equipment costs, yearslong waits for backlogged turbines, and growing public backlash against their polluting plans.",
+    "A new report from think tank Energy Innovation proposes a faster, cheaper, and cleaner route for powering off-grid data centers: giant heat batteries that are fueled by low-cost solar and wind.",
+    "This ​ “ hybrid thermal power” approach can be cost-competitive with fossil gas in many parts of the country, said Eric Gimon, the report’s author and an Energy Innovation senior fellow. Even more important, it can deliver power within a year or two in places where renewable energy is under development, he said — much faster than the wait for a gas plant.",
+    "“ It’s a pretty simple solution that hyperscalers and developers can pursue,” Gimon said. ​ “ You can do off-grid that’s fast, clean, reliable, and affordable.”",
+    "Nevertheless, Gimon said he’s unaware of a U.S. data center taking this approach today. That’s despite the availability of heat batteries from a number of different companies, including Antora, Brenmiller Energy, Electrified Thermal Solutions, and Rondo Energy.",
+    "These energy storage systems use electricity to heat rocks, bricks, or other materials to temperatures exceeding 1, 000 degrees Celsius ( 1, 832 degrees Fahrenheit). The systems can retain that heat for hours, days, or even weeks at a time, and then dispatch it later.",
+    "Most thermal storage systems installed today supply industrial process heat for everything from food processing to cement production. But they can also use that heat to boil water, spin a steam turbine, and produce electricity.",
+    "Storing heat to make electricity has its drawbacks. The process recovers only about 40 % of the total energy that’s been put into it, mainly because of losses in converting heat to steam and then to power, Gimon said. That’s not great, compared with the typical low-to-mid- 90 % ​ “ round-trip efficiency” rate for lithium-ion batteries.",
+    "“ But when I started modeling it, I realized TES [thermal energy storage] is cost-effective,” he said.",
+    "Data centers that want to run independently of the grid and on clean energy will need to store enormous amounts of power for when solar and wind aren’t available. As long as the solar and wind power is cheap enough, and the value of the electricity being generated from the steam turbines is high enough, the efficiency losses are tolerable. In fact, thermal batteries would be cheaper than conventional lithium-ion storage over longer durations, Gimon said."
+   ],
+   "lede": "A new report argues that clean-powered heat batteries are a cost-effective, fast, and pollution-free way for data centers to get the electricity they want.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies/",
+   "title": "US Senate passes permitting bill letting solar developers sue agencies",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T08:15:00+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Energy Storage",
+    "Policy"
+   ],
+   "description": "The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of disparate treatment, in a Nov. 19 vote that sends the bill to the House.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/07/Qualitas-Energy_Heelstone_Two-Blues.png",
+   "paragraphs": [
+    "The US Senate voted 62-33 last week to pass the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), a bill that would overhaul how US federal agencies permit energy projects, transmission lines, and other infrastructure, and open a route for developers to sue agencies over alleged disparate treatment of their project types.",
+    "The Senate passed the bill as an amendment to H.R. 2347, a tax bill the House of Representatives had already passed, after agreeing on Nov. 18 by 69-27 to replace that bill’s text with BAAJA. The House must now act on the Senate amendment before the bill can go to the president. BAAJA was introduced in the Senate on Sept. 30 by Senators Shelley Moore Capito (R-West Virginia), Mike Lee (R-Utah), Sheldon Whitehouse (D-Rhode Island), and Martin Heinrich (D-New Mexico), and cleared a 73-25 procedural vote on Nov. 9.",
+    "Under Section 1402 of the Senate-passed text, sponsors of 46 listed project types, including solar, onshore wind, and storage as well as fossil fuel, nuclear, and transmission projects, could sue over a permit denied in bad faith or delayed more than 60 days past a deadline as part of a pattern of disparate treatment, according to a section-by-section summary by the Bipartisan Policy Center (BPC), a Washington-based think tank. Plaintiffs would need statistical evidence comparing their treatment against the previous 10 years, and damages would range from 50% to 100% of a project’s reasonably expected construction cost.",
+    "Section 1401 would bar agencies from revoking, suspending, or materially amending a permit in effect on or after Nov. 6, 2026, subject to six exceptions, including court orders, material breaches, fraud, and urgent harm, according to BPC. Where bad-faith interference is proven, sponsors could recover 25% to 50% of development and construction costs from the federal Judgment Fund, which pays court judgments against the US government.",
+    "The bill would also cut the deadline to challenge projects under the National Environmental Policy Act (NEPA), the US law requiring environmental reviews of federal actions, from six years to 150 days, according to BPC. Courts that found a NEPA violation could only send the decision back to the agency without voiding the permit or halting the project, and the agency would have no more than 180 days to correct it, it said.",
+    "The bill’s transmission title would require the US Federal Energy Regulatory Commission (FERC) to issue permits for qualifying lines, including those of 230 kV or more and projects in approved regional plans, once a state has had one year to act, according to BPC. Reconductoring, voltage upgrades, added circuits, advanced technologies, and energy storage within existing rights-of-way, the land already secured for power lines, would be exempt from NEPA and historic-preservation review.",
+    "The bill would also allow behind-the-meter resources, including batteries installed on the customer side of the utility meter, to be aggregated into wholesale electricity markets within 18 months, and would give FERC 90 days to revise its policy so data centers pay their share of grid costs plus incremental costs, said BPC."
+   ],
+   "lede": "The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of…",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://hannahritchie.substack.com/p/delhi-us-fertility",
+   "title": "Delhi now has a lower fertility rate than the United States",
+   "source": "Sustainability by Numbers",
+   "desk": "analysis",
+   "published": "2026-11-23T06:18:00+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "byline": "Hannah Ritchie",
+   "description": "Low fertility rates are not just a feature of high-income countries.",
+   "image": "https://substackcdn.com/image/fetch/$s_!N56F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb66b9b2b-1e5c-449c-a941-388f4b65f610_2048x1229.png",
+   "ftries": 1,
+   "fetched": true,
+   "paragraphs": [
+    "In the opening of his 1968 book, The Population Bomb, Paul Ehrlich did little to hide his disdain for Delhi:",
+    "“People eating, people washing, people sleeping. People visiting, arguing, and screaming. People thrusting their hands through the taxi window, begging. People defecating and urinating. People clinging to buses. People herding animals. People, people, people, people. As we moved slowly through the mob, hand horns squawking, the dust, noise, heat, and cooking fires gave the scene a hellish aspect.”",
+    "Delhi’s population wasn’t even that large at the time: home to fewer than five million people, less than in London or Paris. 1 What Ehrlich was reacting to was probably poverty and lagging infrastructure, not overpopulation.",
+    "Since then, Delhi has changed a lot. It has gotten richer. Living standards have improved. Its population has grown. And most relevant to Ehrlich is that its fertility rates have plummeted.",
+    "Census-based estimates put its total fertility rate at around 4.5 children per woman in 1961. When Ehrlich was there in the mid-60s, it was probably still above 4. By the late 2000s it fell below two and dropped below the average fertility rate across the United States.",
+    "Note that this captures the expected number of children women will have based on the average birth rates of women at each age; it’s not the number women have already had by the end of their childbearing years.",
+    "Now, you might be thinking, this comparison is unfair. We’re comparing a city (where fertility rates are often lower than in rural areas) with the average across a whole country.",
+    "India’s fertility rate is around two; a bit above the US, but now below the replacement rate. Washington DC’s fertility rate is only slightly below Delhi’s, at 1.1.",
+    "What’s striking is how quickly rates have declined in India. They are rapidly converging with a country that is much, much richer per person.",
+    "This rapid decline in fertility rates across India has led to some demographic milestones that many wouldn’t believe. The number of babies being born peaked in 2001. The number of children peaked in 2004, too. 3"
+   ],
+   "lede": "Low fertility rates are not just a feature of high-income countries."
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series/",
+   "title": "Daikin launches R32 retrofit solution for existing residential heat pump series",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T06:09:09+00:00",
+   "seen": "2026-11-23T12:47:31+00:00",
+   "cats": [
+    "Technology & Products",
+    "Heat pumps",
+    "Residential"
+   ],
+   "description": "The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and incorporates integrated refrigerant safety technology.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-065707.png",
+   "paragraphs": [
+    "Daikin has introduced new replacement technology for its R-32 (difluoromethane)-based Mini VRV 5 S-series heat pumps, enabling existing variable refrigerant volume (VRV) and variable refrigerant flow (VRF) systems using R-410A refrigerant to be upgraded to R-32 equipment while retaining suitable existing refrigerant piping and wiring.",
+    "According to Daikin, installation time can be shortened by up to 22% and capital expenditure reduced by up to 55% compared with a complete system replacement. The company also claims energy savings of up to 16% compared with equivalent R-410A systems.",
+    "The new Mini VRV 5 RXYSA-B replacement range will be available in three sizes – 4 HP, 5 HP, and 6 HP – and uses R-32 refrigerant, which has a global warming potential (GWP) of 675, approximately 68% lower than that of R-410A.",
+    "The existing Mini VRV 5 S-series platform offers nominal cooling capacities ranging from 12.1 kW to 15.5 kW and rated heating capacities of 8.4 kW to 10.7 kW, depending on the model. Maximum heating capacities reach 18 kW under specified test conditions.",
+    "The outdoor units feature a compact, single-fan design with a height of 869 mm, low-noise operation down to 39 dB(A), and support for total piping lengths of up to 300 meters.",
+    "The technical specifications refer to the existing RXYSA-A platform, as detailed performance data for the newly introduced RXYSA-B replacement models have not yet been confirmed.",
+    "The systems also incorporate Daikin’s Shîrudo refrigerant safety technology, designed to facilitate the use of mildly flammable R-32 refrigerant in occupied buildings. It includes integrated refrigerant leak detection sensors, audible and visual alarms, and automatic shut-off valves to limit refrigerant leakage.",
+    "According to Daikin, the factory-integrated safety measures facilitate compliance with IEC 60335-2-40 and simplify system design and installation, particularly in smaller indoor spaces.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%.",
+   "tags": [
+    "industry"
+   ]
+  },
   {
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEZaeWtwOXBoWTBIVU00ZThzR1gycVhSLXJQcko2VnNkdWNKaWRJY2VReFJ5R3loTVRHbk5jLVBnd0pPeUJkNlpfeG5GbG04dmdQb3RoVUE0dTVPQUwtbTZpU1lKTHhleWROZXJYUlZiVzR0RElsbExCRlJ0Vk43MUswZzNOSUxNazhTWm5vbF9WbDlnV2R0NVp4cmJmWUNJanBMeUhtUFlFd090dXdkNXQ5OHRTeEVvY183Q2ZOS1RWQktQTXc?oc=5",
    "title": "Why Nations Failed to Secure a New Global Climate Change Agreement",
@@ -9765,329 +10218,6 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
-  },
-  {
-   "url": "https://hannahritchie.substack.com/p/uk-by-numbers-launch",
-   "title": "UK by Numbers: a new website to understand the country’s biggest issues",
-   "source": "Sustainability by Numbers",
-   "desk": "analysis",
-   "published": "2026-11-12T06:43:30+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "byline": "Hannah Ritchie",
-   "description": "Explore national and local data on public spending, taxation, health, poverty, crime, and more.",
-   "image": "https://substackcdn.com/image/fetch/$s_!Ssdl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13504f09-f973-4cea-bea2-e7a23262cf63_2048x1453.png",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "A lot of the work I do is born out of curiosity. And frustration. Or rather, frustration at the fact that the answers to my questions are not easy to find.",
-    "If you’re familiar with Our World in Data (which is my first love and main job), it’s like that, but UK-focused. The data is more detailed (because we can dig into deeper indicators) and goes down to the subnational level.",
-    "My aim is to make the data and information behind the country’s pressing and most-discussed issues easily accessible. Everything from migration and demographics to taxation, public spending, and housing.",
-    "All of this data exists — I’m not collecting anything new here. And some government websites do good job of presenting it. But it’s often scattered around (no agency covers everything), obscure, and hard to find the latest version. I’ve tried to bring it all together in one place.",
-    "This is something I think the government should hire one or two people to do. It wouldn’t take much (in resources or money). I’m squeezing this into some free hours when I can; one or two people doing it full-time could do an even better job. It would cost the government, what, £100,000 a year?",
-    "The budget for the UK Statistics Authority is around £470 million a year. 2 This is money well-spent, and these organisations do invaluable work. But by spending just £100,000 more, they could probably multiply their impact ten-fold, if someone does it well.",
-    "Anyway, enough of my government budget-planning. You can now explore most of this data on UK by Numbers. There are still many topics to add, and things to expand on, but I thought I’d launch it now and build on it over time."
-   ],
-   "lede": "Explore national and local data on public spending, taxation, health, poverty, crime, and more."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkdKMkxqZEVxejAzdmJmVTIzcS1hQ3hET011WDhMR3BweGIzUWRuaUVKczRCTnZsbkQ3alRZT1JhcVRvSzhnRGFfSTltODJhaUN0bTVPaHQweGw1LUFURzZQUGlGTERIRmJfU2U4bXQ5ajRaYjRXdU5BR1h4amU3ajdGVkI5YzRHY096aFBUXzN0TjBrSWRFcmlISWJieUpQcGxEVg?oc=5",
-   "title": "Monitoring and control systems",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-12T04:21:40+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42RWJQU21PcWJ6WXI0eVBPQUZhZG1idmxDdi1vVVlNVEV0ek1RQ2JlRmhWM0lwMXRNQUZwWGp2OGxtZHpFMmp4Z2xZNmM5ZnZDb3RiNktXd2dqNmc0WllKOW0tNTFyTVdpcGYyQ3dR?oc=5",
-   "title": "It’s the Artificial Intelligence Muddle Now",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-12T00:20:24+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
-   "title": "Europe’s electric car sales jump 49% as global EV sales grow",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T00:01:00+00:00",
-   "seen": "2026-11-23T02:47:16+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Global EV sales hit 2.09 million in October as Europe surged, but North America's return to growth comes with an important caveat.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Global EV sales climbed 8% in October, with Europe’s battery electric vehicle (BEV) sales jumping 49% and North America posting its first year-over-year increase in 2026. But that North American rebound comes with a big catch.",
-    "Drivers bought 2.09 million EVs worldwide last month, according to new data from Benchmark Mineral Intelligence. That’s down 3% from September, but it brings sales for the first 10 months of 2026 to 17.5 million – up 5% from the same period last year.",
-    "Benchmark’s figures include both BEVs and plug-in hybrids (PHEVs) in the passenger-car and light-duty vehicle markets.",
-    "Europe sold 510,000 EVs in October, up 36% year over year. Fully electric cars did most of the work: BEV sales rose 49%, while plug-in hybrids grew 7%.",
-    "That puts October’s growth ahead of Europe’s 31% increase for the year so far. The region has now sold 4.5 million EVs in 2026.",
-    "Sales fell 17% from September’s record, but September got a boost from the UK’s twice-yearly registration plate change. The year-over-year figures give a clearer view of how quickly the market is growing.",
-    "Germany’s EV share topped 45% of new car sales, its highest level since December 2022. That earlier peak came as buyers rushed to get cars before subsidy cuts took effect. Fully electric car sales in Germany rose almost 80% from a year earlier to more than 95,000.",
-    "UK EV sales increased 30%. That’s particularly notable because the Electric Car Grant was already available in October 2025, although fewer models qualified then. So this growth comes against a market that was already getting government support.",
-    "And in Portugal, EVs accounted for 55% of new car sales in October, following a sharp rise in their market share over the past few months.",
-    "North American EV sales rose 24% year over year to 130,000 in October, the region’s first annual increase of 2026. Sales were flat from September, while the year-to-date decline narrowed to 21%, from 24% a month earlier. The region has sold 1.3 million EVs so far this year."
-   ],
-   "lede": "Global EV sales hit 2.09 million in October as Europe surged, but North America's return to growth comes with an important caveat.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0p3UXpRSS1UcUltbXJYWjRkQjJLcVRZNHdnRUtpQUpZOFVvUG5kQ1NRX0N4UGhYcDBHZnV2TC1jX3VtYUYzSFJyN2NFQ3lCWjhoQUlHMS1IeTI3VEp4WE5uM1FYVERfVUl3Tl9SSXB5dGRhTHVyRUxBT1gzQlc2R0U5V3d3UXp4ZEJiWHpGNzdDMDdoNlVGVXFYSkpTdmFzZ2VGa01BUkxiT1d4bWdyVkVLc0EwWFdQQndhQURLeTJnc1hZdTdMdm9rQk5EQQ?oc=5",
-   "title": "New 30 GW Target of Renewables Capacity by 2035 Reflects Small Islands’ Big Ambition",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-11T22:44:31+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/11/byd-shows-new-cloud-carriage-body-control-system-video/",
-   "title": "BYD shows what its new ‘Cloud Carriage’ intelligent body control system can really do",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-11T22:13:48+00:00",
-   "seen": "2026-11-23T02:47:16+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "BYD’s new EV may be about the size of a Toyota Camry, but it’s playing in a whole different league...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Cloud-Carriage-body-system.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "BYD’s new EV may be about the size of a Toyota Camry, but it’s playing in a whole different league when it comes to technology.",
-    "BYD launched the second-generation Seal 07 last week, calling it “the new choice for a class-leading luxury experience.”",
-    "Both versions measure 5,080 mm long, 1,960 mm wide, and 1,495 mm high, with a 2,960 mm wheelbase, which is slightly longer than the Toyota Camry.",
-    "Don’t let the price fool you, however, the vehicle is packed with BYD’s latest breakthrough technology.",
-    "The new Seal 07 EV uses a 76.7 kWh second-generation BYD Blade LFP battery that provides a CLTC range of up to 481 miles (775 km).",
-    "Thanks to the second-gen Blade Batteries and BYD’s Flash Charging technology, the vehicle’s battery can charge from 10% to 70% in just five minutes. A full recharge, or going from 10% to 97%, takes just nine minutes.",
-    "The Seal 07 is also BYD’s first vehicle to debut with its new Disus-M Intelligent Magnetorheological Body Control System.",
-    "The setup features a front double-wishbone suspension and an enhanced rear five-link suspension. It works alongside BYD’s road-surface sensors that use LiDAR, plus its iTAC 2.0 Intelligent Torque Adaptation System.",
-    "Zhang Zhuo, the general manager of BYD’s Ocean sales division, offered a better look at how the system works in real life in the video shown above.",
-    "BYD said the system provides ultra-fast response times down to the millisecond. The advanced suspension system adjusts damping force across a wide range of 100 to 10,000 Nm."
-   ],
-   "lede": "BYD’s new EV may be about the size of a Toyota Camry, but it’s playing in a whole different league when it comes to technology.",
-   "tags": [
-    "china",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FNHJDYjAxQ2ZRNFhuZ1lIb3UzOFdsVGNJQ3Y3TXp0MTRnTTNFQkR6MVhWN09EXzNyNGJ6Q1llRjRrbFdOY2JaR3VRXzE1YnVwYjViY1hfQ1Y4MEk5NzR3Rg?oc=5",
-   "title": "Running a Smart Home Energy System Takes a Lot of Software",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-11T21:40:14+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/11/kia-made-history-germanys-most-prestigious-auto-awards/",
-   "title": "Kia just made history at Germany’s most prestigious auto awards",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-11T20:41:03+00:00",
-   "seen": "2026-11-23T02:47:16+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Kia became the first non-European brand to score a hat trick at the 2026 Golden Steering Wheel Awards, Germany’s most...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-new-EV-SUV-EV5.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Kia became the first non-European brand to score a hat trick at the 2026 Golden Steering Wheel Awards, Germany’s most prestigious auto awards.",
-    "The Korean automaker won a triple crown at the 2026 Golden Steering Wheel Awards, with the EV2, K4 Sportswagon, and EV5 taking first in their class.",
-    "This is the first time a non-European brand has won three Golden Steering Wheel Awards in a single year in the prestigious award’s 50-year history.",
-    "The award is organized by AUTO BILD and BILD am SONNTAG with 90 new models nominated this year. Readers chose 27 finalists, three in each of the nine classes, which were then tested by a panel of celebrities and auto experts.",
-    "The judges tested the vehicles at the DEKRA-Lausitzring racetrack. Vehicles were judged on handling, comfort, ease of use, quality, and everyday practicality, as well as the sustainability and value they offer.",
-    "Kia won across three very different categories with the fully electric EV2 and EV5, alongside the gas-powered K4 Sportswagon.",
-    "The EV2, Kia’s entry-level electric SUV, won the award for the “Best Car Under €30,000.” Developed specifically for Europe, the compact EV is only 4.06 meters long, but offers up to 403 liters of cargo space.",
-    "It also offers a WLTP driving range of up to 453 km (281 miles), which is among the longest in its class.",
-    "Kia’s EV5 beat out the Audi Q3 and Cupra Formentor VZ5 in the compact SUV category. Launched in December, the EV5 is about the size of the Sportage.",
-    "It’s available with front- and all-wheel-drive powertrains and offers a range of over 550 km (341 miles). Depending on the configuration, the EV5 can tow up to 1,800 kg (about 4,000 lbs)."
-   ],
-   "lede": "Kia became the first non-European brand to score a hat trick at the 2026 Golden Steering Wheel Awards, Germany’s most prestigious auto awards.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/nuclear/small-modular-nuclear-reactor-late-canada",
-   "title": "Leading small modular nuclear reactor will be late and over budget",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-11T19:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "description": "Ontario Power Generation is building North America’s first SMR outside Toronto. The utility says it will miss its budget goal and 2030 timeline.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Ontario-Power-Generation-building_GettyImages-1156935345.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=3aa6af90df6ce7313cf8d02c6260457d",
-   "paragraphs": [
-    "North America’s first small modular reactor project is running into two familiar challenges for the nuclear industry: timing and cost.",
-    "The Darlington project, located east of Toronto, is the first new nuclear build in Canada in more than three decades. It’s also the first test of a small modular reactor design that is being pursued by developers in the U.S. and beyond. The Tennessee Valley Authority received a construction permit for a BWRX- 300 from the Nuclear Regulatory Commission in September. Developer Blue Energy has also started the NRC application process to build a BWRX- 300 in Texas.",
-    "Unlike other next-gen nuclear designs recently greenlit for construction in the U.S., GE Vernova Hitachi’s BWRX- 300 uses the same light-water technology that undergirds most of the world’s existing nuclear fleet today. It’s designed to produce 300 megawatts of carbon-free electricity — a substantial amount, but far less than a conventional large-scale reactor.",
-    "Timeline and cost overruns have plagued North American nuclear projects and help explain why reactor construction has been anemic in recent decades. Just look at the latest nuclear power plants to be completed in the U.S.: Georgia Power’s Vogtle units 3 and 4, both large-scale AP- 1000 reactors that came online in 2023 and 2024, took an extra seven years and $ 17 billion to wrap up.",
-    "Nevertheless, nuclear energy is seeing resurgent financial and policy support in North America and elsewhere as demand for electricity — especially carbon-free electricity — rises.",
-    "The Darlington project is part of that wave. In total, Ontario Power Generation plans to build four units at a cost of $ 20. 9 billion Canadian, and federal and provincial investment funds have since committed up to $ 3 billion Canadian for minority stakes in the project. In the U.S., the Biden administration backed nuclear power as an anchor for an emissions-free grid, and both Trump administrations have embraced it under the banner of ​ “ energy dominance.”",
-    "Proponents of SMRs argue that smaller, repeatable designs like the BWRX will be cheaper and faster to build than large-scale reactors. The idea is that mass manufacturing and construction of these reactors will create a sort of learning-curve effect, so even if the first unit is expensive to make, the 100 th unit will be far cheaper. But right now, this is only a hypothesis. Just two SMR plants are operating commercially worldwide, in Russia and China, and some in the nuclear industry argue that it’s more economical to stick with big reactors.",
-    "Given that the Darlington project is the first attempt at building a BWRX- 300, some budget and timeline overruns aren’t surprising. Ontario Power Generation itself said that the update ​ “ reflects GE Vernova Hitachi ( GEVH) Nuclear Energy’s ongoing engineering for its first-of-a-kind SMR, which has impacts on construction execution and supply chain performance.”",
-    "“ GE Vernova Hitachi is committed to working closely with Ontario Power Generation ( OPG) and our partners to deliver the Western world’s first commercial SMR ,” a GE Vernova Hitachi spokesperson told Canary Media in an emailed statement. ​ “ While engineering and design maturity are important considerations, as OPG’s update recognizes, there are multiple interconnected contributions across engineering, procurement and construction, as well as evolving market conditions, including inflation and geopolitical risks.”"
-   ],
-   "lede": "Ontario Power Generation is building North America’s first SMR outside Toronto. The utility says it will miss its budget goal and 2030 timeline.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/11/byds-flagship-suv-wheel-problem-fixing-for-free/",
-   "title": "BYD’s full-size luxury SUV has a wheel problem, and it’s fixing it for free",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-11T18:58:08+00:00",
-   "seen": "2026-11-23T02:47:16+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "BYD is apologizing after a supplier error left some owners of its new full-size flagship SUV with the wrong wheels....",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "The Great Tang, or Da Tang as it’s called in China, is the first flagship D-segment SUV under its Dynasty series, the largest and most luxurious SUV from the lineup.",
-    "After opening preorders at the Beijing Auto Show in April, BYD said the high-end SUV secured over 30,000 preorders in 24 hours. Two weeks later, preorders reached over 100,000.",
-    "By the time it went on sale in mid-June, over 150,000 buyers had preordered the Great Tang, marking a new record for a single BYD model.",
-    "While it has been the top-selling pure electric large SUV for two months, with more than 10,000 sold since it hit the market, BYD issued an apology on November 11 for fitting the wrong front and rear wheel rims on some Great Tang models.",
-    "The apology comes after several owners complained that the wheels were improperly installed on their vehicles.",
-    "BYD said the issue stemmed from a coding error by the wheel mesh assembly supplier, which led to incorrect assembly on some Great Tang vehicles.",
-    "The company said it “immediately” launched an investigation and corrected the issue so newly built vehicles will not be affected. In addition, the supplier introduced a new visual error-prevention mechanism to limit issues like this going forward.",
-    "BYD said the issue does not affect the vehicle’s handling or pose a safety risk during driving.",
-    "The company said owners can take affected vehicles to their local service center for a free inspection and professional wheel rim replacement. It’s also offering a replacement vehicle or compensation for transportation expenses."
-   ],
-   "lede": "The Great Tang, or Da Tang as it’s called in China, is the first flagship D-segment SUV under its Dynasty series, the largest and most luxurious SUV from the lineup.",
-   "tags": [
-    "china",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.volts.wtf/p/the-federal-permitting-bill-has-been",
-   "title": "The federal permitting bill has been updated. What changed?",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-11-11T15:57:28+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "byline": "David Roberts",
-   "description": "A(nother) conversation with Daniel Palken.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://substackcdn.com/image/fetch/$s_!KiBs!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F223988186%2F88103d11-2a61-4577-a0cc-9b41ffbb8fb6%2Ftranscoded-1794347656.png",
-   "paragraphs": [
-    "In Congress, the “manager’s amendment” to a piece of legislation — an updated version released by sponsors in response to feedback — is usually a matter of housekeeping, small tweaks and corrected typos. But the just-released manager’s amendment to the federal permitting bill, which everyone in DC has been eagerly awaiting, is more than that. It is intended to answer objections that have piled up since September from environmental groups, tribes, utilities, and states.",
-    "It was released on Saturday, a 494-page substitute that adds 13 new sections and changes 37 others. Protections for already-permitted projects (like offshore wind) were boosted. Transmission lost a little and gained a little. Data centers will pay even more to connect. And the bill’s authors have tried their best to address the many worries about “permit certainty.”",
-    "It arrives mere days after an election that went extremely well for Democrats, who will now dominate the next Congress. Many of them are weighing whether to take this deal or hold out for a better one next year.",
-    "What has changed and, given the election, what are its current chances of passing? Let’s get into it.",
-    "David Roberts: All right. With no further ado, Daniel Palken, welcome back to Volts. Thank you for coming.",
-    "David Roberts: There was a lot last time; now there’s a lot more. Let’s start for people who have not been tracking this as closely as the small band of obsessives on social media. Catch us up with a two-minute backgrounder on what the permitting bill is and where we are in the congressional process.",
-    "It also has targeted reforms within the Federal Power Act that will make a big difference for building out grid infrastructure, as well as reforms to geothermal, permit certainty, and hydropower, and new nuclear provisions have been added as well.",
-    "Where we stand right now is that there’s a procedural vote the day we’re recording. We should note to listeners that we’re recording at 2:00 PM on Monday, November 9th. I’m in Puerto Rico, on Atlantic time, so 1:00 PM Eastern, and we’re expecting a vote at 5:30. So we should know a lot more soon.",
-    "David Roberts: And this is a cloture vote, which is just a vote in the Senate to move forward with debating, right?",
-    "David Roberts: What are we going to learn from the cloture vote? What do Dems want to happen in the cloture vote?"
-   ],
-   "lede": "A(nother) conversation with Daniel Palken.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPeDRoQjdaVFBua3RHS2N1dW8tUzY3WFk2a3lJMUVjWi1yVldRSTNwTWwyeU51SEpoa0tQQ2ZtZy15bGotMWtHc2JLRFh6ME1XelJzTXR1eHZfNEhIRklZRmNvaDlHeDItdWJqdmtkTmFVUEx3SmpXc1lueW1qMHpZRUhyaG1VQXJQLUxNQTU0cV9LOExCb0FxVk95b3JiTjk3SnYya2xKQmM2d3BBUEpuaGpWb0lXaE1xMXlUUkZob3lDX3lYdnNOWi1EeC1oQnBUOUZDWDh5MjVyV1VkUjF3eFFtbEgyLUNQSlU0bXVUWnVKUWl1MFlQNnRULWRPWDhfSE5WdGJmbnR3ZzZGRHNzaGp0VmVmalM5X1paRk1ad2owQQ?oc=5",
-   "title": "Events",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-11T15:55:23+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTHhrZ0g4SkhFQXJXTGxhbzFxT1lsZ0d3eXNVT0ZHWW1uUDVwS2hjakZKR3RSLUpvLUs3OUltNzMxMWh2UkJrTnhrd3RhMlRYekdvbGY5MDZTSWJnWG1JZjlR?oc=5",
-   "title": "Exclusive: Coreshell Raises $30 Million to Replace Chinese Graphite With American Silicon",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-11T15:05:43+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china",
-    "industry"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/",
-   "title": "Lydian’s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-11T14:25:09+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News",
-    "battery",
-    "bess",
-    "energy storage",
-    "esa",
-    "lfp",
-    "ltesa",
-    "lydian"
-   ],
-   "description": "Excelsior Energy Capital-backed developer Lydian Energy has brought its 150MW/600MWh Faraday battery energy storage system (BESS) project in Utah County, Utah, US into commercial operation.",
-   "ftries": 1,
-   "lede": "Excelsior Energy Capital-backed developer Lydian Energy has brought its 150MW/600MWh Faraday battery energy storage system (BESS) project in Utah County, Utah, US into commercial operation.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project/",
-   "title": "Calibrant Energy secures US$145 million for solar and BESS across US power markets including PJM hyperscaler project",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-11T14:21:46+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News",
-    "battery",
-    "bess",
-    "calibrant",
-    "credit facility",
-    "data centre",
-    "debt facility",
-    "energy storage"
-   ],
-   "description": "Calibrant Energy, an energy-as-a-service platform, has closed a US$145 million debt facility for solar and energy storage projects across several US power markets.",
-   "ftries": 1,
-   "lede": "Calibrant Energy, an energy-as-a-service platform, has closed a US$145 million debt facility for solar and energy storage projects across several US power markets.",
-   "tags": [
-    "power"
-   ]
   }
  ],
  "dropped": []
