@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:47:31+00:00",
+ "updated": "2026-11-24T00:53:18+00:00",
  "briefing": {
   "headline": "The grid, battery storage and solar",
   "period": "Nov 17–23",
@@ -44,6 +44,441 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress/",
+   "title": "Japan’s expanding BESS market and its uncertain progress",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-24T00:04:52+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "Analysis",
+    "Features",
+    "Interviews",
+    "ancillary service",
+    "bnef",
+    "deployment forecasts",
+    "duration",
+    "energystorageasia"
+   ],
+   "description": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
+   "ftries": 1,
+   "lede": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/23/one-of-the-worlds-biggest-zinc-mines-is-getting-alaskas-largest-solar-farm/",
+   "title": "One of the world’s biggest zinc mines is getting Alaska’s largest solar farm",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-23T23:10:07+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Alaska’s largest solar farm could cut diesel use at the giant Red Dog zinc mine and meet 90% of its power needs after mining ends.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Operations-T1-15-Teck-Red-Dog-Mining-Mountains-1280x500-2015.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Alaska’s largest solar farm could cut diesel use at the giant Red Dog zinc mine and meet 90% of its power needs after mining ends.",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/solar/re-convention-solar-innovations",
+   "title": "RE+ was huge this year. Here are 3 solar innovations that stood out.",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-23T23:00:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "description": "The solar industry’s annual gathering in Las Vegas showcased endless solar panels, batteries, and new technologies illuminating the sector’s next phase of…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Dont-mess-with-solar-Vegas_2026-11-23-234505_dvjl.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dde6b18f741bc6088f2b1b881b77c024",
+   "paragraphs": [
+    "LAS VEGAS — It was unusually cool under the desert sun as the U.S. solar industry’s biggest annual convention got underway last week. The live sheep munching hay under a solar display in the convention center parking lot had a layer of wool to keep them warm when the sun dipped behind the looming monorail track. The herds of solar professionals, meanwhile, had to warm themselves with thoughts of the business cycle to come.",
+    "After two years in political purgatory, the solar and wind industries saw Americans from coast to coast vote for lawmakers who want to deploy clean technologies to combat rising energy costs. Now, these businesses can look forward to proactive policymaking that could hasten the clean energy transition. But even through the recent hard times, the industries kept building, and now can accelerate to full throttle, like the F 1 drivers that zoomed down the Strip after the solar pros flew home Thursday.",
+    "A decade ago, RE +, the industry’s flagship annual event — hosted by the Solar Energy Industries Association and the Smart Electric Power Alliance — was a relatively intimate gathering, where you could, say, follow a plush solar-inverter mascot into a party atop the skyscraping Strat tower and see familiar faces. This fall, for the first time, it was held in the Las Vegas Convention Center, a conglomeration of concrete and steel so sprawling that Elon Musk convinced the city it made sense to drill single-lane subterranean tubes so that chauffeured Teslas could ferry people between the various halls.",
+    "Inside, vendors displayed more brands of identical-looking solar panels than anyone could rightly recall. But the convening also featured batteries large and small, grid transformers, electric vehicle chargers, customized electronics packages for smooth data center deployment, and the occasional green hydrogen venture not yet gone out of business.",
+    "“ If you look at how broad RE + has become, it’s no longer solar and batteries anymore,” said Raghu Belur, chief products officer at Enphase, the pioneering solar microinverter company. ​ “ It’s all elements that interconnect to a more modern, sophisticated grid.”",
+    "Things that would have been shocking five years ago are now commonplace, like booths touting American-made solar and batteries. Claims of compliance with ​ “ foreign entity of concern” rules — which Republicans imposed last year to restrict tax credit eligibility — were ubiquitous on this year’s floor.",
+    "Even a thoroughly settled industry must have its frontiers, however, and amid the miles walked under fluorescent lights and the fruitless search for available chairs, I found three technological innovations that, taken together, show us something about where Big Solar is headed next.",
+    "Scientists have long contended that crystalline structures called perovskites can propel solar panel efficiency to a whole new level. Now, some companies are taking this tech out of the lab and into the real world. I got my first chance to see it in person in Vegas."
+   ],
+   "lede": "It was unusually cool under the desert sun as the U.S. solar industry’s biggest annual convention got underway last week.",
+   "tags": [
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.latitudemedia.com/news/energy-companies-whiplashed-by-nvidia-drama-as-jensen-huang-returns/",
+   "title": "Energy companies whiplashed by Nvidia drama as Jensen Huang returns",
+   "source": "Latitude Media",
+   "desk": "news",
+   "published": "2026-11-23T22:45:07+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "Corporates",
+    "U.S. market",
+    "Jensen Huang",
+    "Nvidia"
+   ],
+   "description": "The Nvidia CEO’s personal role in partnerships, including with energy startups, earned him the reputation as “the bank of Huang.”",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-23T140043.500.jpg",
+   "paragraphs": [
+    "After 11 days, Jensen Huang is back. The Nvidia CEO had resigned earlier this month after multiple extramarital affairs, including one with a suspected Chinese spy. But after “input from senior levels of the United States government,” per a statement from Nvidia’s board — reporting suggests that President Donald Trump made an appearance at Nvidia’s board meeting to lobby for Huang — the CEO made a triumphant return.",
+    "“Thank you all for the second chance,” Huang said in a video clip posted to social media as he addressed cheering Nvidia workers. “I’m going to be a better CEO the second time around.”",
+    "President Trump lobbied hard for Huang’s return, and told CNBC Monday, “I spoke to them, let me put it that way. And I convinced them.”",
+    "Huang’s return caps off weeks of whiplash for both the technology and energy industries. A combination of direct financing, guarantees, and backstops makes Nvidia a major player in the AI infrastructure buildout and in the world of powering data centers, especially over the past year. As energy becomes a greater strategic need for the company, it has invested in a range of power options including battery energy storage, grid software, and nuclear.",
+    "Huang’s personal involvement in forging partnerships earned him the reputation as “the bank of Huang.” This includes a slew of startups like Cloverleaf Infrastructure, Emerald AI, ThinkLabs, and Redwood Materials.",
+    "Predictably, Nvidia shares surged Monday on the news. But several power and grid companies, even those with only loose ties to the company, saw their stocks rally as well. For example, Constellation is part of a collaboration with Nvidia and other companies to develop AI factories that operate as flexible energy assets and thus can connect to the grid faster; the company’s stock increased 6%. GE Vernova is among the energy companies using Nvidia’s AI factory reference design to unlock grid capacity, and saw its stock rally by more than 8%. And even Bloom Energy, which does not have a direct Nvidia relationship but is marketing its fuel cells to match up with Nvidia’s chip roadmap, saw its stock increase by more than 18%.",
+    "As Peter Hans Hirschboeck, a founder and managing director of impactECI Energy, put it, “Market-wide, whether you are directly involved with Nvidia or not, you are affected.”",
+    "Hirschboeck added that the market response showed investors “don’t want a rudderless ship” at a company with such outsized influence on the AI industry, and indeed the entire U.S. economy, despite the scandal. “You need the guy who created the core of it to be around,” he said of current market thinking.",
+    "That said, it was just a week ago that the energy industry was adjusting to Huang’s absence. Speaking on background, one executive of an energy company with investment from Nvidia told Latitude Media last week that tech companies have been “over-dialed on the founder and CEO,” and that the over-reliance extends to the wider energy and technology ecosystem.",
+    "The spying scandal and Huang’s resignation added an additional layer of uncertainty in a moment of headwinds for the AI boom. The midterm elections gave voice to popular concerns about AI and a pushback against the boom in data center development, and investor confidence in AI companies has been waning."
+   ],
+   "lede": "The Nvidia CEO’s personal role in partnerships, including with energy startups, earned him the reputation as “the bank of Huang.”",
+   "tags": [
+    "china",
+    "policy"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/23/hyundais-new-kona-n-line-spotted-first-time-video/",
+   "title": "Hyundai’s new Kona N Line is already out testing [Video]",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-23T21:59:39+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Hyundai isn’t just giving its compact SUV a fresh coat of paint. The next Kona is getting a major overhaul,...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-new-Kona-N-Line.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Hyundai isn’t just giving its compact SUV a fresh coat of paint. The next Kona is getting a major overhaul,..."
+  },
+  {
+   "url": "https://electrek.co/2026/11/23/subaru-cuts-ev-prices-dropping-most-distinctive-feature/",
+   "title": "Subaru is cutting EV prices by dropping one of its most distinctive features",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-23T19:35:36+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Subaru vehicles are known for their dual-motor all-wheel-drive (AWD) capabilities, but to cut costs, the company is now offering front-wheel-drive...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Subaru-Uncharted-EV-charging.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Subaru vehicles are known for their dual-motor all-wheel-drive (AWD) capabilities, but to cut costs, the company is now offering front-wheel-drive...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/data-centers/ohio-oks-gas-plant-for-data-centers",
+   "title": "Ohio OKs gas plant for data centers despite local voter backlash",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-23T19:00:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "description": "The approval is drawing fresh criticism of Ohio’s permitting process, which has seen renewable energy projects denied or blocked due to local objections.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Ashville-Ohio.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8cb2b7f0fd648e62c7b0d236ec40bd53",
+   "paragraphs": [
+    "Ohio regulators just greenlit construction of a big gas plant to power a data center complex, despite local residents’ overwhelming rejection of the projects in this month’s elections.",
+    "The permit approval itself is not unique: Around the U.S., energy-hungry data center developers are racing ahead with controversial plans to build natural gas–fired generation. But critics of the recent Ohio ruling say it highlights the state’s leniency toward fossil-fuel projects compared with its tight restrictions on solar and wind farms, which are often denied permits due to local opposition.",
+    "“ There’s a huge double standard for fossil fuels and renewables in the state of Ohio,” said state Rep. Tristan Rader, a Democrat who serves as ranking minority member on the Ohio House Energy Committee and took part in the case as a nonvoting member of the Ohio Power Siting Board.",
+    "The gas plant in question is an 800 -megawatt facility to be built at a data center complex under development in the central Ohio village of Ashville. As of now, the plant won’t be connected to the grid at large and will serve just the computing warehouses. The project site is close to homes, as well as a playground, park, and soccer field, Rader noted.",
+    "“ This plant is literally going to be throwing a shadow on these communities,” while spewing health-harming pollution, Rader said during the Power Siting Board’s Nov. 19 meeting. Yet Ohio has more stringent requirements for wind and solar, which emit zero air pollution.",
+    "Ashville’s Village Council passed a resolution in April to back the data center and gas plant project, after its developer, EdgeConneX, agreed to pay up to $ 102 million to support municipal, school, and community work. But the deal didn’t sit well with some residents, who gathered enough signatures for a referendum on whether to overturn the resolution.",
+    "On Election Day, Ashville was one of dozens of U.S. communities to reject data centers, with 81 % of the village’s voters opposing the local government’s agreement with EdgeConneX.",
+    "Even so, the Power Siting Board’s decision OK ’ing the gas plant finds that the developer met a statutory requirement that the project is in the public interest. Regulators pointed to factors like the project’s economic benefits, backing from the Village Council and local school district, and the developer’s promises to limit noise and construction hours.",
+    "That’s sparked frustration from clean energy advocates in the state. The board has denied multiple solar projects on the basis that local opposition outweighs economic benefits or has proposed permit conditions aimed at addressing community concerns, said Chris Tavenor, general counsel for the Ohio Environmental Council, which was not a party to the case.",
+    "“ In this case, the Board does the exact opposite, using those community benefits and conditions to justify ignoring local concerns,” he said in an email."
+   ],
+   "lede": "The approval is drawing fresh criticism of Ohio’s permitting process, which has seen renewable energy projects denied or blocked due to local objections.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/",
+   "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-23T18:00:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "description": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.",
+   "ftries": 1,
+   "lede": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/23/byd-ti7-banned-eu-land-rover-defender-design/",
+   "title": "BYD Ti7 banned from the EU for copying the Land Rover Defender’s design",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-23T17:18:26+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "News",
+    "byd",
+    "eu",
+    "europe",
+    "Land Rover"
+   ],
+   "description": "A Dutch court barred BYD from selling or building the Ti7 SUV in the EU, ruling it copies the Land Rover Defender. Fines run up to €10 million.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/byd-ti7-vs-land-rover-defender-110-side-profile.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "A Dutch court barred BYD from selling or building the Ti7 SUV in the EU, ruling it copies the Land Rover Defender. Fines run up to €10 million.",
+   "tags": [
+    "china",
+    "policy",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/23/toyota-corolla-radical-makeover-first-ev/",
+   "title": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-23T17:02:29+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Toyota is overhauling its best-selling vehicle of all time, which will include the first fully electric Corolla. When is Toyota...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Corolla-Cross-electric-spotted-1.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Toyota is overhauling its best-selling vehicle of all time, which will include the first fully electric Corolla."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hREZUYmZvTWhKNjAwd01VdERTZUotLXJ0X25WaHBGOXYyNGl0c2l3RzV1TlB3STFMMnU4UmJ0NnFvQXBqdGdJX1NsMkplVlRBcWYxbUdn?oc=5",
+   "title": "Climate Talks Collapse",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-23T16:40:37+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.utilitydive.com/news/new-jersey-utilities-have-less-than-a-year-to-implement-virtual-power-plant/875482/",
+   "title": "New Jersey utilities have less than a year to implement virtual power plants",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-23T16:15:34+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "description": "Data from the two-year interim version of PowerUp NJ will inform the development of a long-term, open-access virtual power plant tariff, state utility regulators said on Nov. 12.",
+   "ftries": 1,
+   "lede": "Data from the two-year interim version of PowerUp NJ will inform the development of a long-term, open-access virtual power plant tariff, state utility regulators said on Nov. 12.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/honduras-starts-paying-solar-prosumers-for-excess-power/",
+   "title": "Honduras starts paying solar prosumers for excess power",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T16:01:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Policy",
+    "Residential"
+   ],
+   "description": "Honduras has begun compensating solar self-consumption customers for surplus electricity exported to the distribution grid, with the Zamorano University campus becoming the first eligible user under tariffs of $92.50/MWh to $111.27/MWh.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/1794270227752_ytwli9-1.jpeg",
+   "paragraphs": [
+    "Empresa Nacional de Energía Eléctrica (ENEE), Honduras’s state-owned electric utility, said that Zamorano University is the country’s first self-generating electricity customer to receive financial compensation for surplus renewable power supplied to the grid. The university has a 1,954.84 kWp solar installation comprising 4,832 modules, with an authorized maximum AC output of 1,600 kW.",
+    "Located in the municipality of San Antonio de Oriente, in the department of Francisco Morazán, the system will use a bidirectional meter to record electricity drawn from the grid separately from surplus power exported to it. The exported electricity will be compensated through monthly bill credits, based on tariffs approved by the Electricity Regulatory Commission (CREE).",
+    "Honduras approved regulations that year allowing renewable self-consumption customers to receive compensation for surplus electricity exported to the grid. In 2025, the regulator expanded the rules to include commercial customers connected at medium voltage with installations larger than 1 MW, and provided for the use of energy storage systems.",
+    "Zamorano University has operated solar installations since 2015, when Enertiva completed the first phase of its solar park, with 926.4 kWp of capacity and 2,940 polycrystalline modules. In March 2021, the university inaugurated a second phase with 402 kWp of capacity, comprising 864 465 W modules installed on solar trackers.",
+    "In May 2025, the university also signed a memorandum of understanding with ENEE to develop the 14.5 MWp Energy for Education solar project, which will include lithium-ion battery storage. Revenue from electricity sales is intended to fund scholarships for Honduran students from low-income families.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Honduras has begun compensating solar self-consumption customers for surplus electricity exported to the distribution grid, with the Zamorano University campus becoming the first eligible user under tariffs of…",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit/",
+   "title": "Tesla FSD v15 is AI4’s last shot as Musk reveals how little compute is left",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-23T16:00:53+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "News",
+    "elon musk",
+    "Self-driving",
+    "Tesla",
+    "Tesla Autopilot",
+    "Tesla Full Self-Driving"
+   ],
+   "description": "Musk says Tesla cars will stay on AI4 while FSD v15 already uses most of the chip. AI4.5 got a RAM cut, and AI5 goes to Optimus first.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-v15-update.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Musk says Tesla cars will stay on AI4 while FSD v15 already uses most of the chip. AI4.5 got a RAM cut, and AI5 goes to Optimus first.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/23/bmws-ix4-promises-428-miles-range-and-ultra-fast-charging/",
+   "title": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-23T15:21:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "BMW’s new iX4 is almost here, and it could make range anxiety a thing of the past. With 428 miles...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX4-production-launch.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "BMW’s new iX4 is almost here, and it could make range anxiety a thing of the past.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0wzQ193NFdYNG82RGhFYVl4MG4tSHpNT2xENDRqOW5pb3NLLVhUcVlFSm5WbjFCbzd5dWYxMVJ1UXNJcEZXUDV2M1Y4VVFDVDZZWkFfUnVacWd2bEhyNUNhZzdYcXZHQlM3b0hDVHZfX3BHVjY2WmJzalNaLUVuR21NR0ZDd0tONTFpZGdjd0VCUEFGM1U1VGk1ZlBSNHpVWWdCWDZrVnl5Yl91?oc=5",
+   "title": "China’s $150 Billion COP31 Side Show Upstages Negotiations",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-23T15:14:06+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "policy"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WNlZaWWY5emNtNUxkXzZXbGN5YWM3TTdrUDZJcVpKMjBCakZmcVZLTkYwZkZBUThGMlpybENrSHhBb1lRQzdia3hKVW5GTVI1ejNXZDBhdVptR0lJTWhGWHFJb09PZw?oc=5",
+   "title": "How AI Ate the American Economy",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-23T14:17:20+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajN3aC1jdWFCU0xLNTRoQ1ptX0pxeXE1NlVaU1phTjRseWtkdkNOU2YzVVB6M0pzWlZORkVNdURILUZwNjNEWEk1QWV2MDFtaXU4bHFFbjJYRTIyekI3bmIzaFlqN21ZdWdsZURBZFpKbmhqMWtKQmxDcENUcENtMF83SDR0R2preFpPTHc2ckZKSlpsT3Y2X201NnRtS0tIM0JVWHZCa2Q0Y3ZH?oc=5",
+   "title": "‘Guerrilla Solar’ Goes Mainstream in the US as More States Allow It",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-23T14:07:46+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/news/ferc-miso-interconnection-queue-study/875449/",
+   "title": "FERC approves MISO plan to speed legacy interconnection study process",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-23T14:05:36+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "description": "Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.",
+   "ftries": 1,
+   "lede": "Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28/",
+   "title": "Italy’s recent electricity market decree could reduce BESS revenues in 2027/28",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-23T14:00:55+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "News",
+    "BatteryManagementEurope",
+    "italy",
+    "macse",
+    "optimisation"
+   ],
+   "description": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.",
+   "ftries": 1,
+   "lede": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.latitudemedia.com/news/how-data-centers-can-help-bring-solar-and-batteries-to-homes/",
+   "title": "How data centers can help bring solar and batteries to homes",
+   "source": "Latitude Media",
+   "desk": "news",
+   "published": "2026-11-23T14:00:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "Data centers",
+    "Grid edge",
+    "batteries",
+    "solar",
+    "Sunrun"
+   ],
+   "description": "Sunrun wants hyperscalers to fund residential solar and batteries, accelerating interconnections while benefiting households.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-20T111253.889.jpg?fit=1920%2C1280&ssl=1",
+   "paragraphs": [
+    "Sunrun thinks the homes surrounding proposed data centers could help developers address both challenges.",
+    "“Rather than spending the money you would spend to build [on-premises] or fund some new development of generation, subsidize a consumer offering for people around the data center,” Sunrun president and chief revenue officer Paul Dickson said at Latitude Media ‘s Flex Summit in Austin in October.",
+    "The idea is to use hyperscaler investment to bring solar and batteries to households in the region, creating distributed capacity that could accelerate grid connections while giving residents lower energy costs and greater resilience.",
+    "Much of the data center industry’s search for speed to power has focused on building or buying new generation. Sunrun proposes using residential resources to ease the capacity constraints holding up large-load interconnections. Those resources can be deployed incrementally, potentially faster than conventional infrastructure.",
+    "Here’s how Sunrun envisions it working: Hyperscalers would subsidize solar and battery installments in homes connected to the same grid as their developments. Sunrun would aggregate those systems into dispatchable capacity that utilities could draw on to manage grid constraints. Then, the key to accelerating large-load interconnection is convincing utilities and regulators to recognize that flexibility as a dependable planning resource.",
+    "“If we can get regulators to recognize this resource as planned capacity, you instantly lift the peak capacity headroom, can interconnect more, and have more comfort in controlling costs for consumers,” Dickson said.",
+    "At the same time, hyperscalers face a community pushback problem. A March 2026 Gallup survey found that 71% of Americans opposed construction of an AI data center in their local area. While data centers may bring regional investment and tax revenue, those benefits can feel distant to residents worried about what new electricity demand might mean for their bills.",
+    "Sunrun’s pitch to hyperscalers would offer communities tangible benefits. A resident in the same region of a proposed data center could receive a solar-plus-storage system subsidized by the company creating the new demand. The household could benefit from lower electricity bills, backup power, and reduced installation costs, while the developer could gain access to distributed capacity that helps accelerate its grid connection.",
+    "Discover what bring-your-own-capacity offers C&I projects and how new market structures can make distributed batteries bankable",
+    "Paying for residential solar and batteries would give data center developers a practical way to address local concerns about rising electricity bills. The subsidized systems would give participating residents something more immediate and personal than regional tax revenue, while potentially helping utilities avoid or defer costly infrastructure investments."
+   ],
+   "lede": "Sunrun wants hyperscalers to fund residential solar and batteries, accelerating interconnections while benefiting households.",
+   "tags": [
+    "power"
+   ]
+  },
   {
    "url": "https://electrek.co/2026/11/23/if-you-cant-beat-em-vw-to-export-300000-chinese-built-cars-per-year-by-2030/",
    "title": "If you can’t beat ’em: VW to export 300,000 Chinese-built cars per year by 2030",
@@ -165,7 +600,7 @@
     "capacity fade"
    ],
    "description": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
    "tags": [
     "power"
@@ -205,6 +640,20 @@
    "tags": [
     "policy",
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVkl4VlJUeDZ4VGx0VnFCM1dWSXdwdmJYcW5mQ085dmQ0aTBaNldzbEdyTlBqS2E2dEo1Uk1yZEExcGFFQ2w1Z1p1M0hGcWdnRWF1aVBjaS1GLTBYQWRvdG1HTFQ2cnZpay1QSHhGQ3lQSndFMkJwMWYwWXFxa1lIT2pZQjI3dFY3VDEwZ19xRmYtbENmanloTXRxeVhQODN4Y0R4S0dsZExfb1hLTUt0ZXVpbVdHSUpRTmcxVld1eWc2aXdpemw4ZlVLVEdFRVlZQkNJQkFrYw?oc=5",
+   "title": "IRENA Director-General: “COP31 will be remembered for opening the decade of electrification”",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-23T10:44:33+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -251,7 +700,7 @@
    "published": "2026-11-23T10:00:00+00:00",
    "seen": "2026-11-23T12:47:31+00:00",
    "description": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
    "tags": [
     "power"
@@ -374,10 +823,24 @@
     "grid"
    ],
    "description": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa2VUOVgtMFphNXRJdWdqdnNDT0t2dDVISWstZTFSbGk1eVlEdXRoeWl3bk01OE9IQjRiN0ZLek5vdXEwQUhtN2RlZThmV1RIdERCWmtsaFphSGYwRnlrM0VId2h4R1cyUHJGaXc1THVXcUVTNnJpQlc3VUxmT1NEQ25DYUhlNk44OXdwc0l6Smc0OGwxMk9zQjU4VzdENFZt?oc=5",
+   "title": "COP31 failure is both healthy and a sideshow",
+   "source": "Breakingviews",
+   "desk": "news",
+   "published": "2026-11-23T08:36:37+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -440,6 +903,37 @@
    ]
   },
   {
+   "url": "https://www.energymonitor.ai/news/second-buxar-thermal-power-plant-inaugurated/",
+   "title": "Second unit of Buxar Thermal Power Plant inaugurated in Bihar, India",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-23T08:09:02+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "India’s PM Narendra Modi has virtually inaugurated the second unit of SJVN’s 1.32GW Buxar Thermal Power Plant, located in Chausa, Bihar.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Thermal-power-plant-Power-23-11-26.jpg",
+   "paragraphs": [
+    "India’s Prime Minister (PM) Narendra Modi has virtually inaugurated the second unit of SJVN’s 1.32GW Buxar Thermal Power Plant, located in Chausa, Buxar district, Bihar.",
+    "The launch marks the completion of the facility, which now operates at its full intended capacity after the commissioning of the additional 660MW unit.",
+    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+    "The ceremony was attended online by state and central government officials, including the Governor of Bihar, Syed Ata Hasnain, Bihar Chief Minister Samrat Choudhary, and India’s Union Minister Manohar Lal.",
+    "SJVN’s Buxar project aims to generate approximately 9,828.72 million units of electricity annually at an 85% plant load factor, with a projected total generation of about 245,718 million units over 25 years.",
+    "A long-term power purchase agreement allocates 85% of the plant’s output to Bihar, intended to address the state’s growing electricity needs, particularly during peak demand periods.",
+    "The project is based on ultra super critical technology, which the company states is designed to improve operational efficiency and minimise environmental impact through modern emission-control systems.",
+    "Fuel supply for the plant is secured through an agreement with Central Coalfields, a subsidiary of Coal India.",
+    "PM Modi had previously laid the foundation stone for the project in March 2019. The first unit began operations in August 2025.",
+    "SJVN reports that the construction phase used significant quantities of domestically sourced materials, including approximately 254,932 metric tonnes of steel and 284,291 metric tonnes of cement, and provided employment for about 65,000 workers."
+   ],
+   "lede": "India’s PM Narendra Modi has virtually inaugurated the second unit of SJVN’s 1.32GW Buxar Thermal Power Plant, located in Chausa, Bihar.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://hannahritchie.substack.com/p/delhi-us-fertility",
    "title": "Delhi now has a lower fertility rate than the United States",
    "source": "Sustainability by Numbers",
@@ -498,6 +992,88 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEd1T0pjQjRCQklVS2tPbGF2elpYZFl5d0k3MmhtOFJWejU1LTVoN1lnWlBtcXMzZmFxX0M3azFjQ0Fwd21TUG0tamRTaTM3T1h1Q2NmM0l6SkxwaUtDOE9JQjE5WVR1QWxXNWNlRGtmSmNWc0hMeWpEdEtYbWZUWURZUVpPOVF3Q0wtR2JVaDVES19aRlNUZGs5WGdNbi1zcWswellITkNkcUhXUjZycEUxSERTeTJ2TE5NODBkczA?oc=5",
+   "title": "COMMENTARY: The wind has finally shown up in Germany, and fossil fuels feel it",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-23T06:00:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0NCRGJZc2ZlM3J4TXBVLW9JSVRDc1dxdmJZcy1UT3lMdUZxN0RjdzZlQTFCS2ZYWHlrVk9tRmZZemlzcWV0OFhlNklhOVFBOUtteGVPUDFaV1F3SWM2ajlMbm15Nm9fNExCTFB5RGsySHN1TlNNNGxBNUdqY0ZnZDR5Y0xGcFRYTGpMdHJMd0hRd3duX1JwbG85NGdxM0s0cU5ydzc3dDdONXdrN0JYWHpB?oc=5",
+   "title": "Energy crisis disrupts global demand trends in 2026, underscoring benefits of efficiency",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-23T06:00:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FNkVSdlpQeXJ4M0Q4TVZGQ1ozSE9pT3dQRjM3SnBTNjJXOExpMExGTTdMNUhjaWdURVk3a1Bob1Buc0VBOXZlRU5MVUNQMGdXX3hnOTVaR05uUThJZHVz?oc=5",
+   "title": "Energy Efficiency 2026",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-23T06:00:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re/",
+   "title": "Ten innovative renewable energy startups give their pitch at RE+",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-23T05:40:55+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "cats": [
+    "Technology & Products",
+    "Energy Storage",
+    "Racking",
+    "Residential"
+   ],
+   "description": "California-based fault-detection startup Magnefy won the fifth annual RE+ Startup Pitch Competition, beating out nine other clean energy finalists tackling challenges in solar robotics, grid cybersecurity, EV charging, and data center power.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/091124_RESG-729-1536x1024-1.png",
+   "paragraphs": [
+    "Ten renewable energy startups pitched their businesses this year in the fifth Startup Pitch Competition, hosted by Mercom Capital in partnership with RE+.",
+    "The ten startups made pitches before a panel of three judges including Stephanie Annerose, director of investments at HASI, a global expert in acquisition, capital raises, project finance and corporate lending; Alexander Carbone, vice president at Clairvest, an investor specializing in energy, power and utility investments; and Raj Prabhu, CEO of Mercom Capital Group, a specialist in global clean energy markets.",
+    "“The quality of startups this year was outstanding. What really stood out was that all ten finalists were tackling some of the most pressing challenges facing the market today,” said Raj Prabhu, CEO of Mercom Capital Group. “These are solutions the industry needs now, and I hope these companies secure the funding they need to scale, succeed, and keep innovating.”",
+    "Cosmic Robotics is bringing autonomous construction equipment to utility-scale solar projects with its flagship product, Cosmic-1. This tracked, battery-electric robot loads its own pallet of solar modules, and the company reports it places panels on single-axis trackers or fixed-tilt racking reportedly with precision of plus or minus 5 millimeters. Cosmic Robotics says the robot positions one module every 30 to 45 seconds and that a three-person crew operating Cosmic-1 can install 400 to 500 or more modules daily",
+    "evPower.ai bring AI-powered energy management to public electric vehicle (EV) DC fast-charging hubs. It uses software to analyze vehicle charging patterns, equipment limitations, driver behavior and energy costs to intelligently distribute electricity between vehicles, batteries and the grid, thus potentially increasing sales while maintaining charging performance. The company reports its machine learning models have demonstrated 98.5% prediction accuracy across dozens of sites. Based on solutions deployed in the United States, Canada and Israel, the company reports it has delivered 20% higher energy sales and a 40% reduction in demand charges.",
+    "Noble Carbon helps homeowners to monitor and remotely manage electricity use with its modular smart circuit breaker platform that reportedly avoid electrical infrastructure upgrades. The solution brings energy monitoring, remote switching, cloud connectivity and automated load management to individual household circuits, letting homeowners monitor electricity consumption, control appliances remotely, schedule energy use and prioritize electrical loads.",
+    "Axentum is developing solar and battery storage platform to help speed up construction of data centers while reducing costs and electrical infrastructure requirements. The proposed system, intended to be installed by robots, comes pre-assembled and combines standard utility-scale solar modules with distributed lithium iron phosphate battery storage, integrated controls and proprietary mechanical connections.",
+    "SWIF Rack offers elevated commercial rooftop solar racking systems designed to protect roof integrity, simplify installation and improve solar production. The company describes its SWIF TEN racking solution as UL 2703-certified and Class A fire-rated, including its UL 2703-certified, Class A fire-rated."
+   ],
+   "lede": "California-based fault-detection startup Magnefy won the fifth annual RE+ Startup Pitch Competition, beating out nine other clean energy finalists tackling challenges in solar robotics, grid cybersecurity, EV charging…",
+   "tags": [
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnE0aVFEenk4Y19LdXlocTVBSk1qVzNXeEN0bTNEQmxWRk1mdFZlNzB2VkVIQWlKdlR0aE43bm5LM1NKeGNOVGxwUnVYLUp1dHRUTFdmVXpJRkwzemw1M05BWUx5SDdhb3lSQ3JEek1JS3pVYTlVbUFlc1hyeXdUNUJSX1k?oc=5",
+   "title": "BYD hit after court bars SUV from EU over Land Rover design copy",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-23T02:48:12+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "policy",
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEZaeWtwOXBoWTBIVU00ZThzR1gycVhSLXJQcko2VnNkdWNKaWRJY2VReFJ5R3loTVRHbk5jLVBnd0pPeUJkNlpfeG5GbG04dmdQb3RoVUE0dTVPQUwtbTZpU1lKTHhleWROZXJYUlZiVzR0RElsbExCRlJ0Vk43MUswZzNOSUxNazhTWm5vbF9WbDlnV2R0NVp4cmJmWUNJanBMeUhtUFlFd090dXdkNXQ5OHRTeEVvY183Q2ZOS1RWQktQTXc?oc=5",
    "title": "Why Nations Failed to Secure a New Global Climate Change Agreement",
    "source": "Bloomberg",
@@ -550,6 +1126,17 @@
     "policy",
     "transport"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0xZYkZCSnJtbGxwMjZjSURERXc3TFE0cFVScDg3UUZnNHdUQjJtdTRCNzIyaGtPLXFSM0U2RFNkOS1hczJJb1VGSjdTRFVfZWFxLWhPS1lxenFKaGxNWWFuN3c5Qkhxb29iclZGX0xiazM5STVHWEVvUF93VjUyanFiUm5wNjYzUlJobWk2V2lKMjJUd1dUbGJfajdiSmc?oc=5",
+   "title": "AI’s Hunger for Turbines Is Sucking In Entire Industries",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-22T19:01:13+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHhBWldUdzAxM3JtaEVFSGxqakFCNDA1M3B4TVdNWFlUSG1NZk53cTIyOE9STEpKbE1PcGNEcWxXZmFXa19iU1U3eURjUFBrN0NfLU53SVFtUm1LZTBlcnVza01KVm9zaFF1S25lWjEzYzN0RkZfeVVtX1A3VTVvakwxdEJsNFdHOGVtdTV0X1VUaGUybzVLWnFzTFNDVWhYRjd5OEV4anhrRmFpX2wzVlpB?oc=5",
@@ -1374,6 +1961,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNNmtmXzNEX19yRHJBVFJQSTA3eWU2QlFoajZWMVpJNzJDTlhiVFVwZm5aN29ISTNBODd6U2FKZHpZRHBwUEFBa2lmTkxRM3FWZ3pna0FWWFczTDY4a0o5MVFVUk94NDA4dTQwd3RTYzFPb0RPQ2JjVWpGZDhGRVIzTklBZERzQmY5YzI4ZjVUOFVUVlZOazBWM2VDR1Vxb2lyYzQzMGRLc3JJOGloQXltRVJBTFFDNkd1cncyMTQ0SzN4RnJySktmUkV3MkQzQnltd3l1SkFhMm9odmRtVFgzSG5iUktrdTdBcm1pbWhOdGlybFdQa0RMeE1sU0VKVjdFZzFFZFAxWElTb0JmZENZU2tnZmRzdjBHMHhmSHI4ZzJtcExwNGJnT1A1SEFTemxNVjhwaG9mNjU?oc=5",
+   "title": "Search",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-20T22:20:34+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44S0dCOXlYODlIZUxhdHBYdC1zQ2ZHRHBMWHN1a2k2T1F2TzVFZDBRNGd5eWlqeW9OT3EwZ3VSUHA4VTBZNnBmdlhVX1BOMldKQ3V3?oc=5",
    "title": "The Permitting Bill’s Next Battleground",
    "source": "Heatmap",
@@ -2052,6 +2650,20 @@
    "tags": [
     "power",
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDdhS3NmTHkwLUt3RXZmVVc0eUd0WUxwR3RCUDc3X0hvY1RLRnN2bWhGanFtQzYtSjF4WllaNk9xV2FFNTdLMUhkOGNzRzAyb0FIOXJGZDlUWXItdm1PaWZRd0l4blNBdDdJamgyQ0R1bkNVbndMQWM3OWlSay1tQlVjS0RqZHRFSjNGSkhGSmVHVTZoRGhHNERZSk54aE9sWHBTejhmQkRRTzZ6anpFV2RTMWY?oc=5",
+   "title": "China Focuses on Crusade Against Trade Barriers at Climate Talks",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-20T13:45:20+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
    ]
   },
   {
@@ -3090,6 +3702,17 @@
    "tags": [
     "transport"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNR2FxTElEVFc0WHFpdmpuWjA1VG5PampqRzdNYVNSY2RWUjl4SXhxbERVanBsVVNoQWxwdE5XUGdBQks0NXZQX2tER3VNaGliUzUzYUs5RVFYQUM1QmQ2dUV6eWRYTDZKZnFnbnFPZEpiMm94aUxPeWpmbWtxUmpXTGZjOXB0a25ZNUZ0OTRzRml2NjA4SEcyV0VSX081eWQ3Mk5Fa3hFVk0xd0hTTzEyUEhJTE1zQndaN2VrTTBweFlMWmlvYkpqd0M4TXhyZjRhRjNNM1Bqc0ZwYUVPbjF4blNNTVpJUTJzX2VoczRWRlp4bG5sMnFiZkNSUURYZ3o0OFo5dUFXUHpoN3ZsZnNRdHEzQ2lQYmZhTXVxeGdZZEhPR2hPQzV5dGdnaXlqZWV4VUdtNVE4VVdveWV0LW5rYXJmbkpxdmd0eTU2YUV0SWliWkdYOUFXYVlhRkdObVlRY0hWbG1IXzFZMTMzbWpGSFh0MmtTZ0N4ZWxTa3RaRmw4THV4b21lS3IwQVRKZlU0Z3pxdGFfMmlxcndFeVdENUdxeXZBeGxBb3BjYjNWa0tyM1VrUlFYaXNJWmc0dWdJQ3FuaEdVcw?oc=5",
+   "title": "Search",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-19T19:06:37+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEJnU0FpNlBIQVVrY3RZWkxwVzV5a0RJajBPLWpIZW5DX1Y1cDBuZnJsWU14dHBGcGV3aE9LRkx6aVg4VDRjVHB1UmphaWN1VVJCQVQ1bEhnel9rTnNzSmZVZUJlTHZsTHVsdWpmZjM2aHQ1R09mZEZTUVpqbV9VZ18tMC15WkhxOW5PN2FtNHRXMHkwUndMV3NBQVZtaGNKajVzZkZfMWNwd0pYS21Ea0ZBNkZtUQ?oc=5",
@@ -6025,6 +6648,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3p6MHo0c2dTQkhmV0N0dlRRWGROWXp4NFpXVU96bkVYc1ZxRHRWeUZyTXdNeE9NQTZ1S3c0clBDNHk4TzZ6R0ZpV19LaGNfcVhFNkpJV21FUnJacWJ5ZEd3S21tQXJxdFFWNzY5WFlnUFBxTHFhZEdXbWNqa0Z6WFcyNzRyR1dJRWIzbl8yT3ZpQlg1UGpxZDJ3?oc=5",
+   "title": "Amazon's Bezos says he helped pick Pattinson as Bond",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-18T00:56:00+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOcjRPdW9NQVdhMFc2UFEtOU5rZ0I1Y3V1bmFkTkJobld0QjgxWEdOMHVhOXdRaEl4ZU5JSHh1aWM1Rzk4Qm1fX3pfMDd3QnlQd2MxTy04VF9sdDRoSWZzUFU2WDB4N0Nlbk5walZ4UFRxNFNlT3lXRG5laVMxdVNMZjZXLVdGVmZFQlZ2bUw5RlhXWFFsQ2licnVud1R6RjAtWVR0Sk1fUkVHc25iQUNMS2hmQTV0MXRoNG96ekJFcnpIUllpaG5HSDhuTm4weS1MWkZTbGRUVkxPQ2VmNUx0ZmVHc3dIR1VhTmdTeW1wMUQ1Q29aNGVVSXpwZ2ZYV25vRmNVR1dlZ05uTnN5SWpuWlNmTWRrYTYwdThObHdSak5ncUFpY29ETm9IRi0wVTR0TldqXzZuLTFvSFBTQ1hkLXZoRE1fTTNqWWR3QndfUC02LUtiWkQ1cnM0X04zemZpTmpSQ3BDS1Zvb2hjZTRQUTdidVJkVE5zSm0wQ1NWdi1UcUtYa2R4NzdMbGgxOUZ6aDZJeDFjdXQtZE95OXFOOFBXcUM2a2t3VEdKZmNsSWVQa29POThzUTRoWk84bHg5Vnp2bnlNdnFSNGs?oc=5",
    "title": "Search",
    "source": "IRENA",
@@ -8579,6 +9213,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MbVNmejVSRFBiM3Vhbkh4Zll3MVFGbFpLemdGc3FVZUFkZDNYcU53SVJiX0k1dW85NG1mem5MeXVkM0s4S1JHeXV0bUdSem5zSGd6bTVGSDlHZ0ZpOTRDNEFiMGxlNVFacmZCLU5yd0pZQQ?oc=5",
+   "title": "How to Channel Voters’ Anxieties About Data Centers",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-13T21:26:53+00:00",
+   "seen": "2026-11-24T00:53:18+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1STFZCZHNxNXVpZDloY2VsUmZ2X0RaSDBFUUxKZnk4RTJNUnNUdUpOMnlPTF8tMUxOOVNxd1BUeEc5cDl5Z0tZUnpvLWhSUVRUVmd2cFU5aWd0cU10Y25HaHdHNHpETTFrMDE5N1JIN1ZqVjVxM1V4Vg?oc=5",
    "title": "Consider the Lobstermen Affected by New York’s Empire Wind",
    "source": "Heatmap",
@@ -9418,803 +10066,6 @@
    "desk": "analysis",
    "published": "2026-11-12T23:29:04+00:00",
    "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/sonnens-new-smart-breakers-help-your-home-battery-last-longer/",
-   "title": "sonnen’s new smart breakers help your home battery last longer",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T23:22:43+00:00",
-   "seen": "2026-11-22T21:48:00+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "sonnen and SOLRITE add smart breakers that can pause appliances, stretch home battery backup, and help the grid when demand spikes.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/sonnen-batteries-smart-breakers.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "A home battery can do more during a blackout if it isn’t busy running nonessential, energy-hungry appliances. sonnen and SOLRITE Energy are putting that same principle to work for the grid, adding smart breakers that can temporarily switch off selected household loads while batteries help meet electricity demand.",
-    "The companies announced today that they’re integrating ADAPT Energy’s controls and Eaton AbleEdge smart breakers into the SOLRITE–sonnen virtual power plant (VPP). The setup combines sonnenHub with breakers that manage power-hungry equipment, both during outages and when the grid needs help.",
-    "The announcement doesn’t specify pricing, how many homes will receive it, or when existing customers can get it.",
-    "A VPP connects home batteries into a network so they can work together as a larger energy resource. This addition gives SOLRITE another way to respond: in addition to controlling the batteries, it can reduce the amount of electricity that participating homes use.",
-    "sonnen and SOLRITE used the example of a pool pump, as it’s energy-intensive, nonessential, and runs for longer periods. When an event begins, ADAPT temporarily switches off the pool pump while the sonnen battery sends electricity to the grid.",
-    "With less battery power going toward the pump, more can flow to the grid. Across participating homes, that gives the VPP more flexibility than relying on battery dispatch alone.",
-    "Homeowners have to opt in to that grid participation, and ADAPT will switch off only pre-approved household loads. Joining the VPP program doesn’t give the operator blanket permission to turn off anything in the house.",
-    "“Instead of putting the pressure on homeowners to change the way their home is wired, and to manually manipulate loads during an outage, we’re putting intelligence into their energy system, which provides a seamless and automatic backup power experience for their home,” said Troy Morgan, president of PanTech Design, the developer of ADAPT Energy.",
-    "The breakers also tackle a practical problem with home backup: Big appliances can drain a battery quickly, and the surge of power some equipment needs to start can overload a backup system just as an outage begins.",
-    "ADAPT coordinates the smart breakers with the sonnen battery to automatically switch off large loads during backup operation. When grid power returns, it restores them, so homeowners don’t have to go around resetting individual circuits."
-   ],
-   "lede": "sonnen and SOLRITE add smart breakers that can pause appliances, stretch home battery backup, and help the grid when demand spikes.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54M0RFcjA0LVRTa292RGtRRk12NWlaMUFsUXZVTjNhSTZ0Y1ExTzc1anY3TU5GV2Z1RDNIUHo0eF80cUVqMFZXYXU0TXFfT1cyYzZrTEd3RWR1Sm8?oc=5",
-   "title": "The Deadliest Part of a Wildfire Might Not Be the Blaze",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-12T22:16:09+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/byd-wins-round-one-defender-copycat-battle-jlr-told-to-destroy-documents/",
-   "title": "BYD wins round one in Defender-copycat battle as JLR is told to destroy documents",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T22:03:03+00:00",
-   "seen": "2026-11-22T21:48:00+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "BYD just got some good news in its Defender-copycat court battle with JLR. After JLR had BYD’s Netherlands offices raided...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-JLR-Defender-copycat.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "BYD just got some good news in its Defender-copycat court battle with JLR. After JLR had BYD’s Netherlands offices raided and documents seized, a Dutch court has now handed BYD an early win, ordering JLR to destroy the documents or face a penalty.",
-    "After BYD opened orders for the Ti 7 in Europe and the UK in late July, many ( including us at Electrek) compared it to the iconic Land Rover Defender, with its boxy, rugged (yet still elegant) SUV design.",
-    "BYD even described it as having “an unapologetically boxy profile” that delivers “the imposing, chunky design that finds favour among SUV buyers, yet delivers a contemporary look.”",
-    "In August, authorities on behalf of the British luxury automaker raided BYD’s offices in the Netherlands without prior warning and seized digital records.",
-    "On November 11, a Dutch court in The Hague ruled against JLR and ordered the company to destroy the seized documents, which included launch plans and other technical data, so they wouldn’t fall into anyone else’s hands.",
-    "According to Autoweek Netherlands, the ruling is based on the fact that JLR doesn’t need the documents, noting that the Ti 7 has not yet been sold in the European Union.",
-    "BYD won the ruling, and JLR is prohibited from taking any further legal action under the initial seizure order, but JLR has already begun summary proceedings over the infringement in Rotterdam and The Hague.",
-    "JLR claims that the Ti 7 SUV is a “slavish imitation” and infringes on the intellectual property of the Land Rover Defender and that BYD stripped down the Defender to reverse-engineer some of its technology.",
-    "Before the raid, BYD claims it fully cooperated with JLR’s requests. BYD’s lawyers called the British automakers’ raid a “fishing expedition” and claimed that “too many files were seized.”",
-    "It has a seven-seat arrangement, which BYD said was specifically designed for the European and UK markets."
-   ],
-   "lede": "BYD just got some good news in its Defender-copycat court battle with JLR.",
-   "tags": [
-    "china",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
-   "title": "Ohio GOP circulates bill that would stymie coal plant closures",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-12T22:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Draft legislation obtained by Canary Media would undo a past deal to close a coal plant in 2028 — and block future settlements from shuttering similar…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Cardinal-power-plant-Ohio_GettyImages-537977358.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ef30fb0b9ba04a37b61baa031cf63cfa",
-   "paragraphs": [
-    "Republican lawmakers in Ohio are circulating a plan to keep coal plants open, even if an owner has a contractual obligation to close a facility. And they hope to pass it fast, before the new Democratic governor-elect, Amy Acton, takes office.",
-    "A draft bill obtained by Canary Media would block coal-fired power plants from closing when the shutdown is required by a settlement agreement. It would apply to both past and future contracts between plant owners and private parties to resolve issues in a state court or regulatory proceeding.",
-    "“ My first thought was, ​ ‘ Why is there a piece of legislation trying to go against the Ohio Constitution?’” said Neil Waggoner, Midwest coordinator for the Sierra Club’s Beyond Coal campaign, referring to a prohibition against retroactive laws. ​ “ This breaks not just any contract moving forward but also breaks any previous contract.”",
-    "The proposal would directly affect the 620 -megawatt coal unit at the Cardinal power plant in eastern Ohio, which is slated to close by the end of 2028. In 2015, the Sierra Club and American Electric Power’s Ohio utility, which owned part of the plant at the time, reached a settlement in a regulatory case that included a commitment for the closure and other measures.",
-    "Under the draft bill, Buckeye Power, which took on AEP’s obligations for the Cardinal power plant following a 2022 sale, could ignore the terms of the settlement and keep the facility online if requested or ordered by various people or agencies.",
-    "In a statement sent to Canary Media, Buckeye Power said that it ​ “ supports the draft legislation and intends to file testimony in its favor after it is introduced.”",
-    "The company added that it views the proposal as ​ “ a balanced and narrowly tailored solution that helps keep electricity reliable and affordable for Ohio consumers by allowing critical generation resources to remain available until the reliability crisis has passed.”",
-    "For years, Ohio lawmakers have made it harder and harder to build renewable energy projects that would bring down electricity costs in the state while reining in greenhouse gas emissions that cause climate change.",
-    "Now, instead of reducing those barriers with a genuine all-of-the-above strategy, ​ “ they’re extending the life of these dirty, expensive coal plants,” said Democratic Rep. Tristan Rader, who is the ranking minority member on the House Energy Committee and opposes the plan. Rader said it’s unclear whether the draft bill will be considered on its own or tacked onto other legislation that is further along so it could pass in the lame-duck session. The session ends on Dec. 31. In January, Acton will move into the governor’s mansion, and Republicans will no longer have a supermajority in the House.",
-    "The draft legislation cites grid reliability as justification for the proposal, echoing the Trump administration’s assertions that aging coal plants are needed to prevent power outages. The administration has repeatedly ordered coal plants to stay open past their planned closure dates because of alleged reliability concerns. Critics say those orders are unfounded and unlawful."
-   ],
-   "lede": "Republican lawmakers in Ohio are circulating a plan to keep coal plants open, even if an owner has a contractual obligation to close a facility.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/lunars-new-home-dc-fast-charger-puts-your-ev-battery-to-work/",
-   "title": "Lunar’s new home DC fast charger puts your EV battery to work",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T21:41:32+00:00",
-   "seen": "2026-11-22T21:48:00+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Lunar’s new home DC fast charger delivers 100 miles of range in an hour and lets your car give back by powering your house in an outage.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Lunar-Energy-home-fast-charger.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Lunar Energy has unveiled a 25-kW home DC fast charger that will do more than just power up your car really fast. Paired with its next-generation home battery system, the Lunar Fast Charger will also let a compatible EV help keep the house running during an outage and potentially earn money by sending electricity back to the grid.",
-    "The new battery system will be available to customers in early 2027, with the charger rollout expected in mid-2027.",
-    "Lunar says its home DC fast charger can add roughly 100 miles of range in an hour at up to 25 kW. Actual results will depend on the vehicle and charging conditions.",
-    "This is a DC charger, according to Lunar’s product specifications. It connects directly to the DC side of the Lunar Battery, and Lunar says that setup avoids an electrical panel upgrade for the charger. The product page lists CCS and NACS connector support but doesn’t specify which cars will support bidirectional charging.",
-    "That distinction matters. Charging an EV and sending power back are separate capabilities, so buyers will need to check vehicle compatibility before relying on home backup.",
-    "With a compatible EV, Lunar says vehicle-to-home (V2H) charging could extend backup power through a multi-day outage. How long it lasts will depend on the car’s available battery capacity and what’s running in the house.",
-    "Vehicle-to-grid (V2G) payments will also depend on the availability of programs. They aren’t an automatic benefit of installing the charger.",
-    "The updated Lunar System has a 13.4 kW inverter and uses 5 kWh battery modules. A single tower holds 10–30 kWh, while towers installed side by side can provide up to 300 kWh.",
-    "Lunar is also expanding into small businesses, with pad-mounted configurations reaching 1 MWh. Businesses could use the batteries for backup and to reduce demand charges, or fees tied to their highest power draw.",
-    "The system can work with new solar using Lunar Maximizer panel optimizers, existing solar, or no solar at all. Lunar says assembly takes place in California, Georgia, Idaho, and Washington, with engineering and R&D in Mountain View, California."
-   ],
-   "lede": "Lunar’s new home DC fast charger delivers 100 miles of range in an hour and lets your car give back by powering your house in an outage.",
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/",
-   "title": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-12T21:12:52+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "News",
-    "australia",
-    "battery energy storage",
-    "battery storage",
-    "data centre",
-    "data centres",
-    "energystorageaus",
-    "new south wales"
-   ],
-   "description": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW.",
-   "ftries": 1,
-   "lede": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
-   "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T20:39:14+00:00",
-   "seen": "2026-11-22T21:48:00+00:00",
-   "cats": [
-    "News",
-    "elon musk",
-    "SpaceX",
-    "Tesla"
-   ],
-   "description": "SpaceX and Tesla merger talks are advancing, with a deal announcement possible in December, right as Tesla shareholders vote on its board.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Elon Musk’s companies are moving faster than expected on a Tesla-SpaceX combination. A deal could be announced as soon as December, which would make it the largest merger ever, according to Bloomberg.",
-    "Tesla holds its annual shareholder meeting on December 3, and the same directors who would sign off on the deal are up for re-election.",
-    "According to Bloomberg’s sources, it’s now a negotiation over price and control, with boards and advisers on both sides involved. December is the target, but early 2027 is also on the table.",
-    "One of the variables on the table is how many SpaceX shares Tesla investors would receive. So, as expected, this is shaping up as SpaceX absorbing Tesla, not the other way around.",
-    "Then, in October, Tesla’s proxy filing read like a board getting ready for a SpaceX merger. Ira Ehrenpreis, who chairs Tesla’s compensation and governance committees, has sat on SpaceX’s board since February. The ballot for the December 3 meeting is limited to re-electing Musk, chair Robyn Denholm, and JB Straubel to terms through 2029, plus a say-on-pay vote and the auditor.",
-    "A day later, Musk confirmed that both boards had formed special committees to explore a merger.",
-    "Musk owns about 20% of Tesla but controlled roughly 85% of SpaceX’s voting power through super-voting shares, according to its S-1. Swapping Tesla shares for SpaceX shares means trading one-share-one-vote for a company where Musk’s control is effectively locked in.",
-    "Bloomberg reports that one of the main obstacles is how to ring-fence Tesla’s China business. A JPMorgan analyst described SpaceX’s defense and government work and Tesla’s China footprint as “key dynamics that are at odds with each other” for regulators and shareholders.",
-    "That’s the same issue behind the Wall Street Journal’s July report that Tesla was weighing a sale or spinoff of its China operations, which Musk denied. Giga Shanghai is Tesla’s most productive factory and builds more than half of its cars. It shipped 67,829 vehicles in October alone.",
-    "Politics is the other wild card. Congress flipped to Democrats in the midterms, and they’ve said Musk’s companies and his political ties will get a hard look. Bloomberg previously reported the companies want to close before President Trump leaves office."
-   ],
-   "lede": "SpaceX and Tesla merger talks are advancing, with a deal announcement possible in December, right as Tesla shareholders vote on its board.",
-   "tags": [
-    "industry",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/kia-giving-ev5-update-leaked-images/",
-   "title": "Kia is giving the EV5 an update, and leaked images show what’s next",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T19:39:04+00:00",
-   "seen": "2026-11-22T21:48:00+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Kia isn’t wasting any time updating its Sportage-sized EV5 electric SUV. Leaked images just gave us our first look at...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV5-update-image.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "While Kia doesn’t sell the EV5 in the US, the electric SUV has been a hit in other global markets. It first went on sale in China in 2023, and Kia launched the global model last year; it is now available in Europe, Canada, the UK, and other overseas regions.",
-    "The electric SUV has played a major part in Kia’s turnaround in China and is among the top-selling EVs in places like Australia.",
-    "Kia is already preparing to introduce an updated version in 2027. The updated EV5 was revealed through Australian Design Rule (ADR) regulatory documents, including images of the new version and some powertrain specs.",
-    "Front- and all-wheel-drive variants will get a power boost with up to 234 hp (175 kW) in FWD and 334 hp (249 kW) for AWD models.",
-    "The new EV5 will still use the same 64.2 kWh and 88.1 kWh battery packs, but updated range figures have yet to be announced.",
-    "Kia’s current model offers a WLTP range of up to 248 miles (400 km) from the smaller battery and 345 miles (555 km) from the larger battery.",
-    "As previous spy images have shown, the updated Kia EV5 features a few slight exterior design changes.",
-    "These changes include new front and rear bumpers, similar to those of the rugged EV5 WKNDR Concept Kia revealed last November at the Guangzhou Motor Show.",
-    "Saying there are updates with no context is borderline useless. A power boost from what? The EV5 isn't in the US, so I don't have its looks anywhere close to memorized."
-   ],
-   "lede": "While Kia doesn’t sell the EV5 in the US, the electric SUV has been a hit in other global markets.",
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KRkR0TjY0S2VnX3F3YUttb3liSEJSalZZcEdTRmc0MXBoMnp6ZGN3MHRrR3hOUXJoRDdETU8wSjJxS1FrWXhfU3NQVW1YYjRE?oc=5",
-   "title": "Jamie Van Nostrand",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-12T18:00:39+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GeDlwVEx6OU1razlZTmJGR09NTS00QUVZZ1F0V0RLeGRSR2Z1U0puRHRwSUY4UEdLV2U4UkxuMmNKenZWTWVfY3hEQUZSUQ?oc=5",
-   "title": "Sonia Aggarwal",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-12T18:00:37+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13RFEtVHd4ZzFlWi1SQmNsZWhzc1Bva1RBdXdaZnBSSkFoYklQSWlPb1lPeGx0RmZLSXc1TGJvRVNRcWFaV0ttWjYxdFh5VGwzd0xzTGloRkl6QQ?oc=5",
-   "title": "The U.S. Reactor Startup Going Head to Head With China for Singapore’s Business",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-12T18:00:24+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hbWJxaUZXTWdVV0hMX05jRDdiZVJFZVV5aXZyZGRtelJFdXhQNXVCdUZiOXNhNHBQOFBWNWdvXzlIRFRPdnh1ZHExS2xGOHpYdktNTGY0QkFnOWY5cjJJTmRoRFFfTlAy?oc=5",
-   "title": "Electricity Isn’t the Only Thing Getting More Expensive Because of AI",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-12T18:00:14+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/byds-new-luxury-suv-brings-big-screens-big-range-starts-at-40000/",
-   "title": "BYD’s new 5-seat luxury SUV brings big screens, big range, and starts at about $40,000",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T17:46:48+00:00",
-   "seen": "2026-11-22T21:48:00+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "BYD launched the Denza N8 EV in China, a five-seat luxury SUV that promises more than 1,000 km (621 miles)...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Denza-N8-EV-price.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "BYD launched the Denza N8 EV in China, a five-seat luxury SUV that promises more than 1,000 km (621 miles) of CLTC range, a tech-filled cabin, and plenty of premium extras.",
-    "Another day, another new BYD vehicle is now on sale in China. After opening preorders for the Denza N8 EV a few weeks ago, BYD held the grand launch event on Thursday.",
-    "The new N8 EV, or “the king of large 5-seater pure electric vehicles,” as Denza called it, is available in six variants, including four battery-electric (EV) and two plug-in hybrid (PHEV) powertrain options.",
-    "Measuring 5,150 mm long, 1,999 mm wide, and 1,820 mm high, with a 3,075 mm wheelbase, the Denza N8 EV is slightly longer than the Kia EV9 and Hyundai IONIQ 9.",
-    "Inside, the interior is pretty over the top with a huge 30″ panoramic infotainment screen that stretches nearly the entire passenger-side dashboard. There’s also a new 43″ (1.1 meter) panoramic head-up display (PHUD) at the bottom of the windshield.",
-    "BYD added a few premium extras like front and rear zero-gravity seats, a drop-down ceiling entertainment screen, ambient lighting, and wireless phone chargers.",
-    "The Denza N8 is offered with a single rear-wheel-drive (RWD) or a tri-motor all-wheel-drive (AWD) powertrain. The RWD variant uses a single motor that delivers either 320 kW (429 hp) or 370 kW (496 hp), depending on the configuration.",
-    "The tri-motor Denza N8 debuts BYD’s e3 Evo technology. The setup includes three electric motors: a 270 kW (362 hp) front motor and two 310 kW (416 hp) rear motors, for a combined output of 890 kW (1,193 hp).",
-    "BYD’s Denza said the N8 EV boasts an all-electric CLTC range of 1,003 km (623 miles), “making it the world’s longest-range mass-produced all-electric SUV.”",
-    "To put it in perspective, that’s as much as the outgoing N8 plug-in hybrid (PHEV) it’s replacing, which offered a combined CLTC range of 1,003 km (623 miles) on a full tank of gas and a full charge."
-   ],
-   "lede": "BYD launched the Denza N8 EV in China, a five-seat luxury SUV that promises more than 1,000 km (621 miles) of CLTC range, a tech-filled cabin, and plenty of premium extras.",
-   "tags": [
-    "china",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/volkswagens-new-electric-suv-taking-over-where-id-4-left-off/",
-   "title": "Volkswagen’s new electric SUV is taking over where the ID.4 left off",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T15:42:15+00:00",
-   "seen": "2026-11-23T02:47:16+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Volkswagen is turning one of its best-selling nameplates into an electric SUV. The new ID. Tiguan is now rolling off...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Tiguan-ID.4.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Volkswagen is turning one of its best-selling nameplates into an electric SUV. The new ID. Tiguan is now rolling off the assembly line and will replace the ID.4 in 2027.",
-    "The ID.4 and ID.5 are on the way out, and the new ID. Tiguan will replace them in Volkswagen’s EV lineup next year.",
-    "Following the ID. Polo and ID. Cross, which are now on sale in Europe, the ID. Tiguan is the next model to go on sale as a “True Volkswagen,” as the company calls it.",
-    "The new electric SUV adopts Volkswagen’s best-selling nameplate, the Tiguan, as part of its shift away from the numerical system used on the outgoing ID.4 and ID.5.",
-    "Volkswagen announced on Thursday that series production of the electric ID. Tiguan has now begun at its Embden Plant in Germany.",
-    "“The Tiguan is our best-selling model worldwide, and the ID.4 and ID.5 are among our most successful electric cars,” VW Brand CEO Thomas Shafer said last month after unveiling the new SUV. He added that “The ID. Tiguan brings these two success stories together.”",
-    "The ID. Tiguan will be a step change from its predecessors, the ID.4 and ID.5, featuring Volkswagen’s “Pure Positive” design language, which includes an overhauled interior and exterior design and updated tech.",
-    "Volkswagen said the ID. Tiguan’s “hallmark feature” is the completely redesigned exterior. The new design remains closer to the gas-powered Tiguan, with a boxy, traditional SUV look.",
-    "Unlike the ID.4’s aerodynamic design, the new ID. Tiguan features a wide, chunky front end and traditional pull-style door handles instead of the flush ones.",
-    "In Volkswagen’s words, the new ID. Tiguan electric SUV “looks like a vehicle from the premium segment.”"
-   ],
-   "lede": "Volkswagen is turning one of its best-selling nameplates into an electric SUV. Tiguan is now rolling off the assembly line and will replace the ID.4 in 2027."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYk5yT1BQVk5qRU1xRnM4dmh1SkRWMTd6TUdnLUp3OUxrMjVUQld1cmk3TkVQMHNfS3dSdGZDdklIZU0wbHh3MGh3allQTVhyREUzQ3FrRGFVWldtOE5EbnhzTkFEQnp6azQ5WDJ0aUJORWUyT2pHZXZoNTFDUS01OXltaGpjLV9lSjBYMzJWSnRrdFdsbVoyZFBYcVJhb3pkM0dwNg?oc=5",
-   "title": "A record number of people in Africa gained electricity access in 2025",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-12T14:46:38+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/tesla-driver-asleep-ottawa-opp-careless-driving-fsd/",
-   "title": "Police charge another Tesla driver caught asleep in rush hour as cases pile up",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T14:36:09+00:00",
-   "seen": "2026-11-23T02:47:16+00:00",
-   "cats": [
-    "News",
-    "canada",
-    "Tesla",
-    "Tesla Autopilot",
-    "Tesla Full Self-Driving"
-   ],
-   "description": "Ontario police charged a Tesla driver found asleep on Ottawa's Highway 417. It's at least the fifth Canadian case this year as FSD complacency grows.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-asleep.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "A Tesla driver caught asleep behind the wheel on Ottawa’s Highway 417 during Tuesday’s rush hour now faces a careless driving charge from the Ontario Provincial Police. The photo OPP shared shows a new-generation Model Y in traffic.",
-    "OPP East Region posted about the stop Wednesday morning. Police didn’t name the brand or the driver-assist system, but the message was clear: “even though your vehicle has an autonomous driving feature, drivers are still required to pay due care and attention when behind the wheel.”",
-    "According to OPP, the officer could see the driver’s eyes were closed and hands were off the steering wheel. Instead of lighting up the cruiser, police pulled in close to capture body camera footage first.",
-    "This isn’t new in Canada either. Back in 2020, Alberta RCMP went further and criminally charged a Tesla driver caught sleeping on Autopilot at 150 km/h with dangerous driving.",
-    "The U.S. has the same problem with less enforcement. In September, Colorado State Patrol got a report of a sleeping Tesla driver on I-70 near Georgetown and never found the car. The same month, Rep. Raja Krishnamoorthi pressed the DOT after NBC News found 43 videos of drivers apparently asleep in moving Teslas, 17 of them posted in 2026 alone.",
-    "And in October, a driver told CHP he was asleep on FSD when his Tesla drove into a closed crash scene and hit a patrol car in Fairfield, California. Two officers were seriously injured.",
-    "A few years ago, FSD needed an intervention every few miles, so nobody was napping. You couldn’t.",
-    "Now FSD can handle long highway stretches without a takeover, and that’s exactly when supervision breaks down. A human asked to watch a system that’s right 99% of the time stops watching. That’s automation complacency, and it’s one of the most studied problems in aviation and driving research.",
-    "Waymo learned this the hard way. In 2013, Google let employees use its highway driver-assist prototype and caught people falling asleep at highway speed. It decided a system that works most of the time but still needs a human to catch its mistakes was the worst of both worlds, and it went straight to driverless.",
-    "Tesla went the other way. It sells a Level 2 system called “Full Self-Driving” that’s good enough to lull people to sleep, and it puts the full responsibility on the human who’s now asleep."
-   ],
-   "lede": "Ontario police charged a Tesla driver found asleep on Ottawa's Highway 417. It's at least the fifth Canadian case this year as FSD complacency grows.",
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
-   "title": "DC bidirectional charging and data centre demand are reshaping the case for US DERs",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-12T14:33:57+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "Features",
-    "Interviews",
-    "AC/DC",
-    "battery",
-    "bess",
-    "bidirectional",
-    "data centre",
-    "data centres"
-   ],
-   "description": "As data centre demand surges, utilities and developers are turning to distributed energy resources (DERs) to ease grid strain.",
-   "ftries": 1,
-   "lede": "As data centre demand surges, utilities and developers are turning to distributed energy resources (DERs) to ease grid strain.",
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.energymonitor.ai/analyst-comment/finland-nuclear-wind-expansion/",
-   "title": "Finland’s nuclear and wind expansion to drive clean power surge, says GlobalData",
-   "source": "Energy Monitor",
-   "desk": "news",
-   "published": "2026-11-12T14:05:35+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "Analyst Comment"
-   ],
-   "description": "Finland’s capacity is set to reach 45.6GW by 2035 as wind and solar scale up alongside Olkiluoto 3 nuclear baseload.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/shutterstock_1478348690.jpg",
-   "paragraphs": [
-    "Experience unmatched clarity with a single platform that combines unique data, AI, and human expertise."
-   ],
-   "lede": "Finland’s capacity is set to reach 45.6GW by 2035 as wind and solar scale up alongside Olkiluoto 3 nuclear baseload.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
-   "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-11-12T14:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.11.12/main.png?1795094658",
-   "paragraphs": [
-    "Data source: U.S. Energy Information Administration, Short-Term Energy Outlook, November 2026 After decades of decline, crude oil production in Alaska is growing, driven by two projects on Alaska’s North Slope. In our latest Short-Term Energy Outlook, we expect a 23,000 barrels per day (b/d) (6%) increase in 2026, followed by a 60,000 b/d (13%) rise in 2027. At a forecast 505,000 b/d in 2027, output would be the most since 2014.",
-    "If realized, these annual production increases will be the largest since the 1980s, when Alaskan crude production peaked at 2.0 million b/d.",
-    "Notably, our STEO production data indicate that third-quarter 2026 production grew 4% as Pikka Phase 1 came online, marking the first third-quarter production increase in more than 40 years. Alaskan crude output typically dips in late summer when operators conduct annual maintenance, running an average of 7% lower than first-quarter levels over the previous five years (2021–2025).",
-    "Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.",
-    "Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions.",
-    "Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.",
-    "Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports.",
-    "Tools to customize searches, view specific data sets, study detailed documentation, and access time-series data.",
-    "Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information."
-   ],
-   "lede": "Data source: U.S. Energy Information Administration, Short-Term Energy Outlook, November 2026 After decades of decline, crude oil production in Alaska is growing, driven by two projects on Alaska’s North Slope.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/",
-   "title": "Latest Canadian budget packs funding for 55,000 new EV chargers",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T12:53:50+00:00",
-   "seen": "2026-11-23T02:47:16+00:00",
-   "cats": [
-    "News",
-    "canada",
-    "ev charging",
-    "politics"
-   ],
-   "description": "Canada’s government wants to make it easier for citizens to drive electric, and they’re putting more than $4 billion in...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/bchydro_main.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "“The charging industry is really encouraged by the multi-year investment in the budget,” explains Travis Allan, president and CEO of the Canadian Charging Infrastructure Council (CCIC) told Electric Autonomy. “We’ll be looking to make sure that we have great programs in place to deal with the barriers faced by people living in condos and apartments, public fast charging, which needs to cover major corridors and metropolitan areas, and then also charging for fleets and medium- and heavy-duty vehicles, which make up a major share of transportation emissions.”",
-    "Canada continues to take steps to separate itself from the wild swings and economic chaos caused by America’s random tariffs, trade policies, and dumb oil wars – and building out an infrastructure that makes it easier for its citizens to give affordable Chinese EVs a chance while strengthening its relationship with the US’ biggest economic rival?",
-    "I sincerely hope this promotes the idea of installing fast chargers along routes with lower populations. I live in Ottawa, driving to my home town in northern Ontario has pretty much a single fast charger, a Tesla one with short cables at the mid point about 2.25h in. 6 stalls. If that goes down, there is nothing for about 400km of a decent charging speed. They need to have alternatives to Tesla (I've been very reliant on Tesla stations and don't own a Tesla) and more stations in between the current Tesla stations. Southern Ontario for example is very well covered with fast chargers. But the market is there so companies install them. Northern Ontario, the trans Canada highway needs these chargers badly.",
-    "If Washington doesn’t see that for, “Go pound sand, eh?” that it is, then it’s truly lost the plot – but even if the “blue wave” last week was enough to shake a little sense into the folks running the show, it may already be too late to patch things up.",
-    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.",
-    "Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way. Get started here.",
-    "NOTE: any opinions expressed here are solely my own and do not necessarily reflect those of the Federal government, the State of Illinois, Electrek, or anyone else. Nothing here should be interpreted as a statement of official policy, legal guidance, or an endorsement unless expressly labeled as such.",
-    "Establish office dominance with this super creamy blank key masterpiece that makes it easy.",
-    "Find a reliable home solar and battery installer and save 20-30% compared to going it alone."
-   ],
-   "lede": "“The charging industry is really encouraged by the multi-year investment in the budget,” explains Travis Allan, president and CEO of the Canadian Charging Infrastructure Council (CCIC) told Electric Autonomy.",
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zaGIwSjFuWHBQQUdXTTVFYjctZVJKaWRNZl9HVEdyaGc2SnZra18zc1N6anRXZXk3aVR5ZHVPRmxGVGRSOW5xWTBCVFdLOTg?oc=5",
-   "title": "Exxon Is Suing the EU Over Carbon Capture Rules",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-12T12:35:44+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "industry",
-    "policy"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/12/hondas-2000-electric-moped-is-a-winner-so-why-cant-americans-buy-it/",
-   "title": "Honda’s $2,000 electric moped is a winner. So why can’t Americans buy it?",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-12T12:28:02+00:00",
-   "seen": "2026-11-23T02:47:16+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Honda has been steadily expanding its electric motorcycle lineup, but one of its most interesting new models isn’t a flashy...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/honda-uc3-head.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "We first covered the Honda UC3 earlier this year when the company announced plans to launch the electric scooter in Thailand and Vietnam. Designed as an electric equivalent to a 110cc gasoline-powered scooter, the UC3 is built for practical everyday transportation rather than weekend joyrides.",
-    "But don’t let its modest appearance fool you. The UC3 packs a 6 kW (8 hp) electric motor capable of reaching approximately 50 mph (80 km/h), making it more than capable of handling typical urban commuting.",
-    "Its 3.2 kWh lithium iron phosphate (LFP) battery provides up to 76 miles (122 km) of range under WMTC testing. Unlike Honda’s other electric scooters that use removable batteries, the UC3 has a permanently installed battery that charges directly on the bike.",
-    "There’s also a full-color TFT display, smartphone connectivity, three riding modes, reverse gear, and a generous 26-liter under-seat storage compartment.",
-    "And perhaps most importantly, it comes from Honda, a company with decades of experience building reliable, affordable motorcycles.",
-    "That’s a pretty compelling price for a 50 mph (80 km/h) electric scooter from one of the world’s largest motorcycle manufacturers.",
-    "But despite its appeal, Honda hasn’t announced any plans to bring the UC3 to the United States.",
-    "In much of Southeast Asia, scooters are everyday transportation, with millions of riders using them for commuting, shopping, and practically everything else. In the US, motorcycles are much more commonly recreational vehicles, and the market for small, practical scooters is comparatively tiny.",
-    "I'm hoping scooters like this take over the world, the sooner the better. Anyone who's travelled in any cities in Asian, India, or most of Europe, there's always a constant background whine of 2-stroke scooters, day and night.",
-    "I would have thought these kinds of markets would have already transitioned to EV - in addition to the annoying sound, those 2-stroke engines spew out an order of magnitude more pollution than most ICE vehicles. I guess it's been a cost issue - this scooter should be cheap enough to take over the world."
-   ],
-   "lede": "We first covered the Honda UC3 earlier this year when the company announced plans to launch the electric scooter in Thailand and Vietnam.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91NjNBSjZTaGE2TFJsZHlPQ1N6RlEwYlhkZmdsT2lLcEpOckhVa1d0eU1WY2lydjIwTFFnR2NGSGd5MWtzYm5qQmd6bUZWOFVCRmtmVmROeVh0UjdHQzhRZlhB?oc=5",
-   "title": "Pledges to Progress 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-12T12:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
-   "title": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-12T11:59:58+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "News",
-    "germany",
-    "ldes",
-    "utility",
-    "zinc",
-    "zinc-bromide"
-   ],
-   "description": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises.",
-   "ftries": 1,
-   "lede": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc19TSlU3ZTJGbmNrTkFWS1F0dmFabUNHRHRneVBMYnBSamM4UjRueThLNzJUUmJfdFJtaWlRMDdQSWhMX0pCQ0hlNDFxWC1BTDN4Q3ZxUDEyTW1zWXplZWlOa3kxWGp5NE11eURkb0k0eFFBOVVZVjF2UGpob2MtaXpiZjR0WGdNWHF0TUZ6SURXc0Y2TnZOX1lrWmxrZ2c5V3BXMzFyR0VweXNLaFZ6Q05MSU5Qb3Yy?oc=5",
-   "title": "Leaders at COP31 seek to accelerate clean cooking progress in Africa ahead of Nairobi Summit",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-12T11:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/flexgen-chosen-as-system-integrator-for-google-backed-us-solar-plus-storage-project-with-mn8-eos/",
-   "title": "FlexGen chosen as system integrator for Google-backed US solar-plus-storage project with MN8, Eos",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-12T10:58:28+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "News",
-    "battery",
-    "bess",
-    "eos",
-    "eos energy enterprises",
-    "flexgen",
-    "google",
-    "lithium-ion"
-   ],
-   "description": "Software-focused energy storage system integrator FlexGen will serve as the integrator of MN8 Energy’s solar-plus-storage project in Kanawha, West Virginia, US, using solutions from Eos Energy Enterprises.",
-   "ftries": 1,
-   "lede": "Software-focused energy storage system integrator FlexGen will serve as the integrator of MN8 Energy’s solar-plus-storage project in Kanawha, West Virginia, US, using solutions from Eos Energy Enterprises.",
-   "tags": [
-    "industry",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energymonitor.ai/news/indonesia-carbon-agreement-norway-cop31/",
-   "title": "Indonesia secures carbon market agreement with Norway at COP31",
-   "source": "Energy Monitor",
-   "desk": "news",
-   "published": "2026-11-12T10:26:28+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Indonesia and Norway have entered into a Mitigation Outcome Purchase Agreement (MOPA) at the 31st United Nations COP31 in Antalya, Türkiye.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Indonesia-COP31.jpg",
-   "paragraphs": [
-    "Indonesia and Norway have entered into a Mitigation Outcome Purchase Agreement (MOPA) at the 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye.",
-    "The agreement, facilitated by the Global Green Growth Institute (GGGI), marks Indonesia’s first MOPA designed to operationalise Article 6.2 of the Paris Agreement. It is backed by the Norwegian Article 6 Climate Action (NACA) Fund under GGGI’s Carbon Transaction Facility.",
-    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
-    "According to the parties involved, the deal is expected to count among the largest carbon market transactions yet conducted under the Paris Agreement’s cooperative framework.",
-    "The signing ceremony took place at the Indonesia Pavilion during COP31. It was witnessed by Indonesia’s Minister of Environment and Head of the Environmental Protection Agency Moh Jumhur Hidayat, and Norway’s Climate and Environment Minister Sigrun Aasland.",
-    "Following this agreement, GGGI is set to collaborate with the Indonesian government, the state electricity company PT PLN (Persero), and the Norwegian Ministry of Climate and Environment to establish the arrangements necessary to implement the deal.",
-    "Hidayat said: “Through this cooperation, we seek to mobilise carbon finance to support Indonesia’s energy transition and contribute to the achievement of our national climate targets.",
-    "“This cooperation will also support efforts to strengthen Indonesia’s SRUK (Carbon Unit Registry System) and ensure transparent recording and tracking of international transfers.",
-    "“Our priority is to ensure that this cooperation delivers credible mitigation outcomes, upholds environmental integrity, and is implemented in line with Indonesia’s national climate commitments.”",
-    "The MOPA will support the Generation-Based Incentive (GBI) Program in Indonesia, a results-based crediting mechanism built to encourage investment in additional clean, grid-connected electricity."
-   ],
-   "lede": "Indonesia and Norway have entered into a Mitigation Outcome Purchase Agreement (MOPA) at the 31st United Nations COP31 in Antalya, Türkiye.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2dyNFpZSUtMVlczSlRIMDVtUjNpOXF4N3J1bHc2Mm51OHJSaUtwbkl1UUNSSTFtWHNoU2U5Q3NrTFpSX0pjR1NUNEhURlJsNmN1eVVxbHEtQVRybFdXc2trN0NBMmlpRW85NmVaOWRYcDR5d2FsU2dvUVNrd3A3WGZBclI0LUdlSHBXcWNnTTR2SDQ1cmxKRFdOX2NXVTBTdUJ5bUFUckZycG02ZU10RkVvNUVkR0JBaUg5anhR?oc=5",
-   "title": "Electricity demand and supply trends",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-12T10:01:30+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/what-six-months-of-dutch-market-data-tell-us-about-the-true-worth-of-renewables-bess-dispatch-optimisation/",
-   "title": "What six months of Dutch market data tell us about the true worth of renewables & BESS dispatch optimisation",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-12T09:54:46+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "Features",
-    "Guest blog",
-    "energy trading",
-    "netherlands",
-    "optimisation"
-   ],
-   "description": "Analysis of optimiser performance in the Dutch electricity market highlights the need to separate claims and forecasting from realistic outcomes, writes Omer Bumin of trading infrastructure software company Powerlys.",
-   "ftries": 1,
-   "lede": "Analysis of optimiser performance in the Dutch electricity market highlights the need to separate claims and forecasting from realistic outcomes, writes Omer Bumin of trading infrastructure software company Powerlys.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/alinta-energys-200mwh-wagerup-bess-online-in-western-australia-after-significant-redesign/",
-   "title": "Alinta Energy’s 200MWh Wagerup BESS online in Western Australia after ‘significant redesign’",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-12T08:53:07+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "News",
-    "Alinta",
-    "Alinta Energy",
-    "australia",
-    "battery",
-    "battery storage",
-    "bess",
-    "energystorageaus"
-   ],
-   "description": "Alinta Energy's 100MW/200MWh BESS at its Wagerup thermal power plant in Western Australia has been operating commercially since September.",
-   "ftries": 1,
-   "lede": "Alinta Energy's 100MW/200MWh BESS at its Wagerup thermal power plant in Western Australia has been operating commercially since September.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/must-be-ready-and-able-to-deliver-energyaustralia-pays-au750000-over-alleged-fcas-failures-at-four-bess/",
-   "title": "‘Must be ready and able to deliver’: EnergyAustralia pays AU$750,000 over alleged FCAS failures at four BESS",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-12T08:51:14+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "News",
-    "AER",
-    "australia",
-    "battery",
-    "battery energy storage",
-    "battery storage",
-    "bess",
-    "business"
-   ],
-   "description": "EnergyAustralia has paid AU$750,000 (US$519,300) in penalties after the Australian Energy Regulator (AER) alleged that four battery energy storage systems (BESS) it manages failed to deliver frequency services offered into the market.",
-   "ftries": 1,
-   "lede": "EnergyAustralia has paid AU$750,000 (US$519,300) in penalties after the Australian Energy Regulator (AER) alleged that four battery energy storage systems (BESS) it manages failed to deliver frequency services offered…",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/heat-pumps/bay-area-heat-pump-water-heater-rules",
-   "title": "Bay Area finalizes rules to boost heat-pump water heater adoption",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-12T08:30:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "description": "The first-in-the-nation air regulation will limit the sale of residential gas water heaters in the region. It goes into effect in 2028, with some major…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Vernon-Coleman-heat-pump-installation.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9ff29eb69a31437b3632cf2f400439d3",
-   "paragraphs": [
-    "San Francisco Bay Area regulators have finalized a long-awaited rule that limits pollution from residential water heaters.",
-    "In 2023, the Bay Area Air District board passed first-in-the-nation regulations setting zero-nitrogen-oxides ( NO x) emissions standards on new home water heaters and space-heating systems sold in the region.",
-    "Last week, board members voted on final amendments for the water-heater measure, ensuring it will now take effect in 2028 — one year later than planned. The regulation includes several exemptions to address affordability concerns; about half of Bay Area installations are expected to qualify. Rules regarding the sale of home heating systems have yet to be finalized.",
-    "“ The vote is an enormous victory for clean air and the climate in the Bay Area — and really, for the nation,” said Sam Fishman, senior sustainability and resilience policy manager at the nonprofit San Francisco Bay Area Planning and Urban Research Association. The regulations put forward ​ “ a new model for how to transition the market away from polluting equipment in our buildings to clean equipment in a way that ensures a smooth, affordable, and equitable implementation.”",
-    "With the water-heater rules now firmly moving forward, ​ “ there’s no additional opportunity to roll them back,” Fishman noted.",
-    "The Bay Area’s newly cemented measure could guide other regulators in crafting clean-appliance rules, including those in California, Maryland, and a handful of other states that are exploring similar standards.",
-    "In the Bay Area, home to more than 7 million people, gas appliances emit more smog- and particulate-forming NO x pollution than the region’s passenger vehicles, according to the district. The bulk of those home emissions come from their fossil-fueled furnaces and water heaters.",
-    "Their pollution causes up to 85 premature deaths and 15, 000 asthma attacks in the region annually, and eliminating it would deliver health benefits valued at $ 1. 1 billion per year, according to Greg Nudd, deputy executive officer of policy at the air district. Space heating is responsible for the vast majority of the emissions.",
-    "Cost remains the main drag on heat-pump water heater adoption. On average, replacing an old gas water heater with a new gas model is about $ 3, 600, the district says, while switching to a heat-pump option is around $ 7, 100. Homeowners may also need to pay for changes to their property, like running an electrical line or remodeling a utility space, in order to accommodate the heat-pump water heater.",
-    "To address these economic barriers, regulators decided to allow certain property owners to continue to install gas water heaters: low-income households, owners of small water heaters for which heat-pump options don’t exist, and those with space or electrical constraints. Multifamily-building owners, who may need to plan system upgrades years in advance, won’t need to make the switch until 2033."
-   ],
-   "lede": "San Francisco Bay Area regulators have finalized a long-awaited rule that limits pollution from residential water heaters.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/politics/gop-lost-ohio-outlook-clean-energy",
-   "title": "The GOP lost its iron grip on Ohio. What’s the outlook for clean energy?",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-12T08:30:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "A long-standing Republican trifecta has kneecapped wind and solar in Ohio. But the Democratic governor-elect and a state House shakeup could change the…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Amy-Acton-Ohio-onstage-November-3_GettyImages-2303422637.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=50f432458a60dc3de650bdfe45ad502a",
-   "paragraphs": [
-    "Democrats have finally managed to gain footing in Ohio’s halls of power — a shift that bodes well for clean energy in a state that’s become particularly hostile toward solar and wind.",
-    "Last week, voters ended Republicans’ 15 -year-long trifecta in Ohio, picking Democrat Amy Acton to be their next governor (and the first woman elected to that office). While the GOP still controls the state House and Senate, Democrats won enough seats to break Republicans’ supermajority in the House, meaning the party can no longer unilaterally override the governor’s vetoes.",
-    "From 2011 until now, Republican control of all three branches of state government has increasingly favored the oil and gas industry while limiting the growth of renewable power and scaling back energy-efficiency standards.",
-    "Acton campaigned on a different vision. Her affordability plan pledged to promote ​ “ the lowest-cost and cleanest sources of energy readily available” and to reinstate energy efficiency measures, renewable portfolio standards, and demand response programs, which incentivize customers to reduce or shift their energy consumption when the grid is strained.",
-    "In a Substack post last month, Acton wrote, ​ “ Ohio politicians have made it nearly impossible to advance zero marginal cost generation such as wind and solar,” so most of the state’s electricity comes from higher-cost fossil-fuels. ​ “ I will reexamine these obstacles that, in the long run, hit Ohio families in their pocketbooks.”",
-    "The main obstacle to utility-scale solar over the past five years has been a 2021 law, Senate Bill 52, that lets counties ban almost all such new projects within their territories. Even without an outright ban, counties can block most projects before a developer can proceed with a permit application at the state level. SB 52 also applies to wind farms of 5 megawatts or more, though almost all proposals for large-scale wind projects stopped after a 2014 budget law more than doubled the distance that turbines must be from neighboring property lines.",
-    "Over a third of Ohio counties have now designated large swaths of land as off-limits to renewables under SB 52. Acton can’t change that law and others on her own, since doing so requires legislative action.",
-    "Still, clean energy advocates are optimistic that the new governor will be able to knock down some roadblocks.",
-    "“ It’s a brand-new day here,” said Neil Waggoner, Midwest manager for the Sierra Club’s Beyond Coal campaign, who’s based in central Ohio.",
-    "Very soon, Acton will choose leaders for various regulatory agencies, subject to confirmation by the Ohio Senate. Those include the directors of the Ohio Environmental Protection Agency and the departments that deal with health, natural resources, agriculture, and development. The Ohio EPA handles permits for fossil-fuel plants and other polluting facilities, while the Ohio Department of Natural Resources decides matters dealing with hydraulic fracturing, injection wells, and coal mining."
-   ],
-   "lede": "Democrats have finally managed to gain footing in Ohio’s halls of power — a shift that bodes well for clean energy in a state that’s become particularly hostile toward solar and wind.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzY4LTA4UmVyRmtheHNRMGI5dHJWSllEdkg1aVJCRE1zQWxIWWxqS0RlcVhtQ2VqaVgwOHFrc0gxN1RUeWNnQWl6NEdnQUxuY3AwQVdyTS1BemNNeG9jLU9rTzJpNC1oVGQyNWFLRXhwTXQyMFREN3hPREE4WENDQ203R29WQQ?oc=5",
-   "title": "End-Use Prices Data Explorer",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-12T08:00:00+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YMGhudGJCMk5DdXB6MzRPcjZ0MVl5TVVuWVlteTlyWkJMY0FmWUl0Z3VITDdBa3B4aEkxcUpkU0VzUEl5c3NlM2JMNUtyeHpSdzlGV2JYWE1qcVNtcFJNaXFRdlJYeVE?oc=5",
-   "title": "Latest Electrification Targets",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-12T08:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
