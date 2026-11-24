@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:56:55+00:00",
+ "updated": "2026-11-24T21:13:28+00:00",
  "briefing": {
   "headline": "The grid, solar and AI’s power demand",
   "period": "Nov 18–24",
@@ -44,6 +44,682 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://electrek.co/2026/11/24/vw-will-pay-ev-drivers-in-germany-up-to-e720-to-plug-in-at-home/",
+   "title": "VW will pay EV drivers in Germany up to €720 to plug in at home",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T20:28:22+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "VW’s Elli will pay EV drivers in Germany up to €720 in the first year for plugging in using its €1,995 bidirectional home charger.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/B2026CW00331_large.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "VW’s Elli will pay EV drivers in Germany up to €720 in the first year for plugging in using its €1,995 bidirectional home charger.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/hyundai-ioniq-3-spotted-us-affordable-ev-images/",
+   "title": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [Images]",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T20:07:39+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Hyundai’s new IONIQ 3 checks all the boxes as an affordable EV: it offers over 300 miles of range, a practical...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-IONIQ-3-spotted-US.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Hyundai’s new IONIQ 3 checks all the boxes as an affordable EV: it offers over 300 miles of range, a practical...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/bluetti-elite-300-power-station-ecovacs-lidar-pro-robot-mower-gotrax-go-kart-more/",
+   "title": "Bluetti Elite 300 power station exclusively at $1,044, ECOVACS LiDAR Pro robot mower lows from $949, GoTrax kids go kart, more",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T19:00:00+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "As Amazon’s Black Friday Sale continues, there are countless Green Deals worth jumping on – all of which can be...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/ECOVACS-Bluetti-Autel-Gotrax-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "As Amazon’s Black Friday Sale continues, there are countless Green Deals worth jumping on – all of which can be..."
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/",
+   "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T17:58:40+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News",
+    "byd",
+    "eu",
+    "europe",
+    "france",
+    "tariffs"
+   ],
+   "description": "BYD is in exclusive talks to buy Ineos' Hambach plant in France, its 2nd EU car factory, as Ineos moves Grenadier production to the US to dodge tariffs.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/ineos-grenadier-fieldmaster-byd-hambach.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "BYD is in exclusive talks to buy Ineos' Hambach plant in France, its 2nd EU car factory, as Ineos moves Grenadier production to the US to dodge tariffs.",
+   "tags": [
+    "china",
+    "industry",
+    "policy",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/",
+   "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-24T17:26:49+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "description": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
+   "ftries": 1,
+   "lede": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/two-tech-companies-tried-to-reinvent-the-e-bike-why-djis-amflow-soared-while-rivians-also-floundered/",
+   "title": "Two tech companies tried to reinvent the e-bike. Why DJI’s Amflow soared while Rivian’s ALSO floundered",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T17:19:16+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Two of the most interesting new electric bicycle companies in the world made headlines on the same day last week,...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/amflow-vs-also-head.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Two of the most interesting new electric bicycle companies in the world made headlines on the same day last week,...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/porsche-boxster-ev-coming-most-powerful-718-ever-images/",
+   "title": "The Porsche Boxster EV is finally almost here, and it will be the most powerful 718 yet [Images]",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T17:16:08+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "The first fully electric Porsche Boxster is finally in the home stretch of development. Ahead of its official debut in...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Porsche-electric-Boxster-first-look.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "The first fully electric Porsche Boxster is finally in the home stretch of development. Ahead of its official debut in...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/",
+   "title": "Trump says he ‘protected’ Musk in first term after ‘a tough incident’",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T16:24:11+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News",
+    "elon musk",
+    "Tesla",
+    "trump"
+   ],
+   "description": "Trump says he protected Elon Musk in his first term after 'a tough incident.' The 2018 'funding secured' SEC case is the most likely candidate.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-14-at-2.19.11 PM.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Trump says he protected Elon Musk in his first term after 'a tough incident.' The 2018 'funding secured' SEC case is the most likely candidate.",
+   "tags": [
+    "policy",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/greenworks-snow-blower-shovel-kits-worx-tools-segway-navimow-robot-mower-more/",
+   "title": "Greenworks snow blower + shovel kits at lows from $178, Worx tools up to 45% off, Segway Navimow robot mower lows, more",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T16:15:53+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "With Amazon’s Black Friday Sale going strong, you can currently find a wide variety of tool deals from various brands....",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Greenworks-Worx-Navimow-EGO-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "With Amazon’s Black Friday Sale going strong, you can currently find a wide variety of tool deals from various brands...."
+  },
+  {
+   "url": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
+   "title": "TVA touts $1.7B data center deal under new large-load tariff",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-24T16:11:04+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "description": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.",
+   "ftries": 1,
+   "lede": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to…",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/news/spp-decision-to-prevent-transmission-competition-escalates-electric-prices/874143/",
+   "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-24T16:03:19+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "description": "The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.",
+   "ftries": 1,
+   "lede": "The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.latitudemedia.com/news/is-it-time-for-geothermal-to-lean-on-oil-and-gas/",
+   "title": "Is it time for oil and gas to lean in on next-gen geothermal?",
+   "source": "Latitude Media",
+   "desk": "news",
+   "published": "2026-11-24T15:55:53+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "Geothermal",
+    "Policy",
+    "Fervo",
+    "geothermal",
+    "Trump administration"
+   ],
+   "description": "The industry has momentum thanks to both federal policy and the AI boom. Now, experts say, it needs fossil fuel money.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-23T170402.656.jpg",
+   "paragraphs": [
+    "About 20 miles southeast of Bend, Ore., hot rocks lurk below the surface of cauldron-like hills and an expansive obsidian formation. The area, known as the Newberry Volcano, is a major testing ground for enhanced geothermal systems due to its extreme underground heat.",
+    "They told Latitude Media that whether the industry can unlock power at gigawatt scale in the coming years likely relies on several major breakthroughs: how Fervo’s Cape Station performs; whether Congress can pass permitting reform that yields much faster timelines for building big energy projects like transmissions lines — critical infrastructure to the geothermal industry — and whether the oil and gas industry brings in massive balance sheets.",
+    "Research analysts at Bank of America made a similar observation in a Nov. 20 note to investors. While startups have accelerated innovation, they said, delivering multiple gigawatts on shorter timelines will likely require greater investment from oil and gas majors.",
+    "If one or more major fossil fuel company commits to a multi-GW project for a large power buyer, that could validate the market and accelerate investment across the supply chain, the note said, which summarized a call with Jamie Beard, founder and executive director of Project InnerSpace, a geothermal research nonprofit.",
+    "But investors are still wary. Fervo’s stock dropped about 70% since its debut in May amid concerns about the massive capital needed to expand its first commercial plant in Utah, called Cape Station, which delivered its first 33 megawatts of power in September.",
+    "Transmission bottlenecks are also undercutting confidence in the market. And companies are still testing a wide range of different ESG technologies to unlock geothermal power in more geological formations than past approaches that were limited to naturally occurring hotspots.",
+    "As a result, the sector remains a risky bet for traditional infrastructure investors. It instead relies on a mix of venture capital, strategic power purchase agreements with hyperscalers and utilities, and DOE grants, according to Rebecca Rogers, a partner at law firm Foley Hoag who advises on renewable and geothermal project finance.",
+    "“Project finance hates uncertainty, and they hate variation because it leads to uncertainty,” Rogers told Latitude Media. “This is still largely wildcatting. You have to pick a 30-square-foot location and punch a hole in the ground. That’s a really costly decision.”",
+    "Fervo followed a similar financing pathway up until its IPO in May. Cohen of Currence said the nearest term bellwether for the industry is what happens at Fervo’s Cape Station as it expands over the next couple years. Data on drilling costs, repeatability, and sustained thermal output will be closely watched — and ultimately will likely determine whether EGS can attract bigger pools of capital, especially from oil and gas majors.",
+    "“How it performs in the first year or two will really indicate how many people are going to rush in with how much capital, how fast,” Cohen said. “Anything before those data points, you’re kind of like, is EGS something that’s kind of cool and will improve over a long time, or will there be a flip much sooner, where those oil majors come in each doing gigawatt-sized [projects]? Those things are up in the air.”"
+   ],
+   "lede": "The industry has momentum thanks to both federal policy and the AI boom. Now, experts say, it needs fossil fuel money.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/news/vistra-midterms-data-center-ercot-pjm/875626/",
+   "title": "Midterms provide clarity on data center development: Vistra CEO",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-24T15:54:55+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "description": "“As we've said for some time, load interconnect queues were overstated across the country and especially in ERCOT, driven by speculation from developers,” Vistra CEO James Burke said.",
+   "ftries": 1,
+   "lede": "“As we've said for some time, load interconnect queues were overstated across the country and especially in ERCOT, driven by speculation from developers,” Vistra CEO James Burke said.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzFsdXI1QXJUcUhsRmRscTRZSHVOS3Q3ZjN6MW5fcFV6UGMtdUZBdl9WaWZMa0RObWxNdjV2bm1udXlISDEyVjJScHRjQkZOcmJSakNIcHZzZ3ZNdk5OaXdTRDJ3bEtpWDZseGtBcHRvVUs4TF9UNDZ3dkxBWFdhRjdac2Q?oc=5",
+   "title": "Jim Ratcliffe’s Ineos in talks to sell French car plant to BYD in US production shift",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-24T15:14:22+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/france-may-tie-5-5-solar-vat-rate-to-rg5-hail-resistance/",
+   "title": "France may tie 5.5% solar VAT rate to RG5 hail resistance",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T14:30:04+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Modules",
+    "Policy"
+   ],
+   "description": "A forthcoming French decree could require RG5 hail-resistant modules and qualified installation for residential PV systems up to 9 kW to qualify for the reduced 5.5% value-added tax (VAT) rate.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/voltec-module-complet-10835-scaled-1.jpeg",
+   "paragraphs": [
+    "France is preparing to introduce stricter technical and installation requirements for residential solar systems seeking the reduced 5.5% VAT rate, including RG5 hail-resistance certification for modules and installation by a qualified professional, according to the National Federation of Solar Energy (FNES).",
+    "The new decree, which is expected to be published shortly, would introduce RG5 as a requirement for photovoltaic installations eligible for the reduced tax rate.",
+    "RG5 is the highest level of hail resistance in the European classification, including the AEAI-VKF hail register. It certifies that a material or product, such as a roof tile, facade component or solar panel, can withstand impacts from hailstones at least 50 mm in diameter, traveling at around 100 to 110 km/h, without visible damage or loss of function.",
+    "The requirement would represent a significant increase over the standard IEC 61215 module certification, which tests resistance to hailstones measuring 25 mm in diameter. For hailstones of the same shape, doubling the diameter increases their mass eightfold.",
+    "Against a backdrop of more frequent hail events and growing reluctance among insurers to cover exposed installations, the proposed requirement could exclude many modules currently eligible for the reduced VAT rate. The French manufacturer Voltec Solar’s Tarka L11OR 500 W module, in its Diamant version, is cited as a notable exception.",
+    "For installers and distributors, the timing is significant because the new rules could take effect the day after publication. Subject to any transitional provisions for sales already agreed, modules without RG5 certification would no longer qualify for the reduced rate.",
+    "For quotations already accepted at the 5.5% rate, FNES recommends that installers collect initial deposits without delay and check that modules have valid certification. Installers should also ask suppliers which module models hold RG5 certification to prepare for future sales.",
+    "The decree of Sept. 8, 2025, which extended the 5.5% VAT rate to residential solar installations of up to 9 kW from Oct. 1, 2025, already imposed several conditions. These included a module carbon footprint below 530 kg of CO2 equivalent per kW, limits on silver, lead and cadmium content, and an energy management system.",
+    "The forthcoming decree would add installation by a qualified or certified company and introduce tighter checks on carbon-footprint calculations and measures to combat fraud.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "A forthcoming French decree could require RG5 hail-resistant modules and qualified installation for residential PV systems up to 9 kW to qualify for the reduced 5.5% value-added tax (VAT) rate.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV24tbDFfV2gxNmtkbWtEM1dkUzVRN2k1dWFTMXdaX3BISEo5S25ZakNWY1hncmhCbkQteUtISTl3T1Q5clkwRGFORWN3ZlBJZWx3alo2WUxFYWZzQnc0a1J4T3ZCajVDeFhfeDZqb1VERFduRmF2UkkyNGJpMVhZYkk1RmliYUZsS0V4N2M0eFpzS0dwbkI0Qk91bDJ2b3p2Rmt6RXFaX0czSnlhWWVERQ?oc=5",
+   "title": "BYD in Talks to Buy Ratcliffe’s Ineos Auto Factory in France",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-24T14:20:02+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "industry",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68504",
+   "title": "How does EIA compare different types of energy?",
+   "source": "EIA Today in Energy",
+   "desk": "analysis",
+   "published": "2026-11-24T14:00:00+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.eia.gov/todayinenergy/images/2026.11.24/main.png?1795554831",
+   "paragraphs": [
+    "Data source: U.S. Energy Information Administration, Monthly Energy Review Note: Btu=British thermal units To compare production and consumption across different resources, we convert to a common energy metric, British thermal units (Btu), which typically measures the heat content of the fuels such as petroleum, natural gas, and coal that are burned for energy. For energy sources such as hydropower, wind, solar, and geothermal that aren’t combusted to create energy, we apply a constant conversion factor based on the heat content of electricity.",
+    "For combustible fuels, EIA uses thermal conversion factors to convert the physical units into heat content values. Because these factors can change based on the specific characteristics of fuels being produced at different points in time, we update our conversion factors each year.",
+    "We publish heat content data for more than 30 petroleum products, 4 types of coal, and natural gas. Each fuel has a unique chemistry and heat content, and the heat content can vary based on the different types of fuel in the mix. For example, the heat content of anthracite coal is higher than the heat content of lignite. The aggregate heat content of coal generally varies based on the mix of the different types of coal produced and consumed.",
+    "The aggregate heat contents for petroleum consumption and production have declined in recent decades because of decreasing use of residual fuel oil, which has relatively high heat content, and increasing use of fuels with a lower heat content—such as motor gasoline, distillate fuel oil, and hydrocarbon gas liquids.",
+    "Our heat content estimates for natural gas have fluctuated within a relatively narrow range because of highly consistent pipeline specifications. Methane, the primary component of natural gas, has a heat content of 1,010 Btu per cubic foot. Other gases such as ethane, biomass gases, synthetic gases, and supplemental gases, which may be left in the natural gas stream, have higher heat content values.",
+    "Total coal thermal conversion factors depend on the relative mix of coal types consumed and produced that year. Anthracite and bituminous coals have higher heat contents than lignite and subbituminous coals. Subbituminous coal production and consumption have increased over time, bringing down coal’s aggregate heat contents.",
+    "To measure how efficient a power plant is at converting the fuel into electricity, we use heat rates. While thermal conversion factors measure the heat content of a fuel, heat rates measure the efficiency of power plants to convert fuel into heat and then into electricity. The heat rate is the amount of energy used to generate one kilowatthour (kWh) of electricity. The lower the heat rate, the higher the efficiency of a power plant to convert fuel into electricity.",
+    "Since 2001—the earliest year in our data—heat rates for electricity generation from coal and petroleum have risen slightly, while the heat rate for electricity generation from natural gas has gone down, due in part to more efficient combined-cycle plants coming online."
+   ],
+   "lede": "Data source: U.S. Energy Information Administration, Monthly Energy Review Note: Btu=British thermal units To compare production and consumption across different resources, we convert to a common energy metric, British…",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw/",
+   "title": "Algeria’s solar capacity surpasses 1 GW",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T13:45:31+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Markets & Policy",
+    "Research & Development",
+    "Africa",
+    "Commercial & industrial",
+    "Highlights",
+    "Residential",
+    "Utility-scale"
+   ],
+   "description": "Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/07/thomas-marquize-YeLlk9vJGso-unsplash-scaled-e1795526103509.jpg",
+   "paragraphs": [
+    "Algeria’s installed solar capacity has exceeded 1 GW, according to analysis by Rystad Energy.",
+    "The country has inaugurated three large-scale solar projects this year, the latest of which, the 300 MW El Oued Foulia solar plant, is now its largest operational PV facility. These three plants have added 760 MW of solar already this year, Rystad Energy says, more than Algeria had installed in total by the end of last year.",
+    "Surpassing the 1 GW milestone marks a step toward Algeria’s target of deploying 15 GW of renewables by 2035. Work continues on the first phase of the country’s renewables program, which covers 3.2 GW of solar capacity.",
+    "Algeria’s next interim target is to add a further 2 GW of solar capacity in 2027. Nivedh Thaikoottathil, Senior Analyst, Renewables & Power at Rystad Energy, told pv magazine the target is achievable as it is supported by an existing project pipeline rather than new projects that still need to be tendered.",
+    "“Government-led procurement with [state-owned utility] Sonelgaz’s 1 GW scheme and a 2 GW tender translated policy ambitions into executable projects,” he explained. “With Sonelgaz being the owner it avoids power purchase agreement (PPA) bankability questions, giving greater speed and certainty.”",
+    "Thaikoottathil said meeting next year’s 2 GW target will depend on the timely completion of substations and transmission infrastructure, particularly in southern Algeria, as well as effective coordination between Sonelgaz and engineering, procurement and construction contractors. Equipment supply, customs procedures and local-content requirements could also cause delays, while mobilization and site management in remote areas present additional challenges.",
+    "“State-backed procurement reduces commercial uncertainty, while continued funding and project supervision should support delivery,” Thaikoottathil said. “Strong political backing also helps prioritize resources, but it can produce overly optimistic announced completion dates.”",
+    "Thaikoottathil suggested that in order to reach the 15 GW by 2035 target, Algeria needs to shift from its state-funded first phase to an externally-financed, regularly-tendered second phase.",
+    "“Operational solar PV, along with the 2 GW targeted for 2027, and a 0.2 GW wind tender cover only about 23% of the 15 GW target,” he told pv magazine. “Closing the gap means adding more than 1.4 GW a year from 2028 to 2035.”",
+    "Regular, rolling auctions of 1.5 GW to 2 GW will be important to sustaining deployment, alongside standardized PPAs, faster permitting and payment security from Sonelgaz, he added."
+   ],
+   "lede": "Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/gorkin-solar-launches-510-w-all-black-bc-panel-with-25-0-efficiency/",
+   "title": "Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T13:30:17+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "Technology & Products",
+    "Commercial & industrial",
+    "Modules",
+    "Residential"
+   ],
+   "description": "The Chinese manufacturer’s new double-glass, all-black modules are designed for high-end rooftop applications across Europe. They feature a temperature coefficient of -0.26% per C and a 30-year linear power output guarantee.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/IMG_6418-scaled.jpeg",
+   "paragraphs": [
+    "Chinese solar module manufacturer Gokin Solar has presented a new series of full-black solar panels based on back-contact cell technology at the Genera trade show in Madrid, Spain.",
+    "The company’s sales manager for the European region, Gloria Luo, told pv magazine that the new panels were designed primarily for high-end rooftop applications, where both aesthetics and module dimensions are important considerations. “The panels will be available across all European markets,” she said.",
+    "The panels rely on the company’s proprietary GBC technology, which utilizes lightly doped, high-resistivity n-type silicon wafers. According to the manufacturer, the cell architecture places all electrodes on the rear side, eliminating front-side metallization shading and increasing the active light-receiving area by around 1.1%.",
+    "The GK-3-54HGFDb series comprises five versions with power outputs ranging from 480 W to 510 W and power conversion efficiencies ranging from 23.5% to 25.0%.",
+    "All versions of the panel measure 1,800 mm x 1,134 mm x 30 mm and weigh 24.8 kg. They feature 108 cells arranged in a 6 x 18 configuration, two layers of 2 mm coated semi-tempered glass, a black anodized aluminum frame, and an IP68-rated junction box.",
+    "Luo said the company is also offering a version of the product with a black frame rather than a full-black design, depending on customer requirements and price considerations.",
+    "The open-circuit voltage ranges from 40.44 V to 40.84 V and the short-circuit current is between 14.78 A and 15.18 A.",
+    "The panels have a maximum system voltage of 1,500 V and a temperature coefficient of -0.26% per C. The temperature coefficients for the open-circuit voltage and short-circuit current are -0.22% per C and 0.05% per C, respectively.",
+    "The modules can withstand front and rear static loads of up to 5,400 Pa and 2,400 Pa, respectively. They have also undergone hailstone testing with 25 mm diameter hailstones at a speed of 23 m/s, according to the datasheet.",
+    "The new products come with a 25-year product warranty and a 30-year linear power output guarantee. The modules are guaranteed to retain 99% of their nominal power output after the first year and 88.85% after 30 years, corresponding to an annual degradation rate of 0.35% after the first year."
+   ],
+   "lede": "The Chinese manufacturer’s new double-glass, all-black modules are designed for high-end rooftop applications across Europe. They feature a temperature coefficient of -0.26% per C and a 30-year linear power output guarantee.",
+   "tags": [
+    "china",
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/felicity-solar-showcases-20-kwh-low-voltage-residential-battery/",
+   "title": "Felicity Solar showcases 20 kWh low-voltage residential battery",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T12:47:08+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "Technology & Products",
+    "Batteries",
+    "Commercial & industrial",
+    "Residential"
+   ],
+   "description": "The Chinese manufacturer’s new lithium iron phosphate battery features a maximum charging power of 10.2 kW, a maximum discharging power of 12.8 kW, and a depth of discharge of 95%. Up to 15 units can be connected in parallel for a total storage capacity of 300 kWh.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Felicity-scaled.jpeg",
+   "paragraphs": [
+    "China-based battery manufacturer Felicity Solar unveiled a new low-voltage battery energy storage system for residential and small-scale commercial and industrial (C&I) applications at the Genera trade show in Madrid, Spain.",
+    "“This product is for the whole world,” Qiqi Zheng, regional director at Felicity Solar, told pv magazin e, noting that that the adoption of higher-capacity cells is intended to address increasing household electricity consumption.",
+    "Dubbed FLA48392TG2-EU, the new product belongs to the company’s FLA series and utilizes lithium iron phosphate (LiFePO4) cells with a capacity of 392 Ah, providing a nominal energy storage capacity of 20 kWh.",
+    "The battery has a nominal voltage of 51.2 V and an operating voltage range of 44.8 V to 57.6 V. Its recommended charging and discharging currents are 100 A and 125 A, respectively, while its maximum charging and discharging currents are 200 A and 250 A, respectively. The system supports a peak current of 300 A for two minutes and has a maximum charging power of 10.2 kW and a maximum discharging power of 12.8 kW.",
+    "The floor-mounted battery measures 960 mm x 450 mm x 265 mm and weighs 150.5 kg. It features an IP21-rated enclosure and a depth of discharge of 95%. Its operating temperature ranges from 0 C to 55 C during charging and from -20 C to 55 C during discharging.",
+    "The system integrates a battery management system (BMS), a fuse, a circuit breaker, and an aerosol-based fire suppression system. Zheng said the battery, like the company’s other storage products, incorporates multiple levels of protection and features LED and LCD displays that allow users to monitor the battery’s state of charge (SOC).",
+    "The device also supports CAN 2.0, RS485, Wi-Fi, and Bluetooth communication. “It can be 15 units in parallel,” Zheng said, referring to the system’s scalability to 300 kWh, which also makes it suitable for small-scale C&I installations.",
+    "The regional director noted that the company has already deployed multiple units of its existing 16 kWh low-voltage battery in parallel in Spain, demonstrating the potential of its residential storage technology for larger-scale applications.",
+    "Felicity Solar claims the new battery has a lifespan of at least 10,000 cycles at 25 C. The company offers a 10-year warranty and lists a cumulative energy throughput of 62 MWh, based on a residual capacity of 60% at the end of life.",
+    "Founded in 2007 and headquartered in Guangzhou, southern China, Felicity Solar manufactures solar inverters, lithium batteries, and energy storage systems for residential and C&I applications. The company established its first overseas subsidiary in Nigeria in 2016 and expanded into the European market in 2022, with operations in Germany and the Netherlands."
+   ],
+   "lede": "The Chinese manufacturer’s new lithium iron phosphate battery features a maximum charging power of 10.2 kW, a maximum discharging power of 12.8 kW, and a depth of discharge of 95%.",
+   "tags": [
+    "china",
+    "industry",
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience/",
+   "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-24T12:42:40+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "Interviews",
+    "News",
+    "battery",
+    "bess",
+    "california",
+    "california energy commission",
+    "cec",
+    "cmblu"
+   ],
+   "description": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
+   "ftries": 1,
+   "lede": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/us-senate-passes-bipartisan-permitting-reform-bill-baaja-continues-to-house-vote/",
+   "title": "US Senate passes bipartisan permitting reform bill BAAJA, continues to House vote",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-24T12:32:18+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News",
+    "baaja",
+    "battery",
+    "bess",
+    "democrat",
+    "house of representatives",
+    "interconnection",
+    "oil and gas"
+   ],
+   "description": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion.",
+   "ftries": 1,
+   "lede": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump/",
+   "title": "Differ Power unveils ‘9-in-1’ solar-storage heat pump",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T12:29:38+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "Technology & Products",
+    "Heat pumps",
+    "Residential"
+   ],
+   "description": "The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/IMG_6422-scaled.jpeg",
+   "paragraphs": [
+    "Differ Power has unveiled a “9-in-1” air-to-water heat pump system for residential applications at Spain’s Genera trade show. The system combines space heating, cooling and domestic hot water production with PV power inversion, battery management, a power conversion system (PCS), backup power supply, a home energy management system (HEMS) and communication gateway functionality.",
+    "Dubbed D Series, the new product was specifically designed for the European residential market and integrates a single-phase hybrid inverter directly into the heat pump unit.",
+    "“The most obvious feature is that we put the hybrid inverter inside the heat pump,” Differ Power’s European Product and Technical Director, Schaochen Ji, told pv magazine. “The biggest problem for inverters is ventilation.”",
+    "Ji explained that the integration enables the inverter to benefit from the heat pump’s ventilation system, reducing thermal stress on its electronic components and potentially extending its operational lifetime.",
+    "“For a 6 kW inverter, heat is no longer a problem. The lifespan of the inverter will be significantly extended,” he added.",
+    "According to Ji, the system was conceived to address the growing convergence of residential PV and heat pump installations in Europe, particularly in the context of building energy efficiency upgrades.",
+    "“When you do an energy efficiency upgrade, most of the time you consider the PV installation and the heat pump at the same time. So why not put them together?” he said.",
+    "The new heat pump uses propane (R290) as the refrigerant and features a twin-rotary DC inverter compressor, an electronic expansion valve and a brushless DC fan motor.",
+    "It comes in three versions with nominal heating capacities of 12.14 kW, 14.02 kW and 16.04 kW at an outdoor temperature of 7 C and an outlet water temperature of 35 C. The coefficient of performance (COP) ranges from 4.57 to 4.82. At an outlet water temperature of 55 C, the heating capacity ranges from 12.16 kW to 15.84 kW, with a COP of between 3.0 and 3.09.",
+    "The systems have a seasonal coefficient of performance (SCOP) ranging from 5.06 to 5.11 at an outlet water temperature of 35 C and from 3.96 to 3.99 at 55 C. All three models have an A+++ energy efficiency rating at both temperature levels, according to the manufacturer."
+   ],
+   "lede": "The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage.",
+   "tags": [
+    "china",
+    "industry",
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vSVZ6cGFBQThoejNFOGhDYWNENC1jUzJVS0N6d3BSc1IxY0txSXpnZ29FLXpGV09JaDE5QW51N0ZZcHZkOG9oUGlGSExRSGRUdW13?oc=5",
+   "title": "Congo Bans Cobalt Exports for Second Time in 2 Years",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-24T12:18:42+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/pilot-line-recovers-high-purity-silver-silicon-from-pv-panels/",
+   "title": "Pilot line recovers high-purity silver, silicon from PV panels",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T12:16:00+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "Research & Development",
+    "Modules",
+    "recycling"
+   ],
+   "description": "Researchers have tested two routes for separating the layers of end-of-life solar panels on a pilot recycling line, recovering silver and silicon at purities above 99.99% and finding that a shockwave-based process also preserves a layer the heat-based route destroys.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/10/dirty-panel.png",
+   "paragraphs": [
+    "A research team led by academics from Poland’s AGH University of Krakow has found that separating solar panel layers with shockwaves, rather than heat, preserves more material while still yielding high-purity silver and silicon.",
+    "Prof. Pradeep Padhamnath of AGH University of Krakow and three collaborators said they recovered silver at above 99.99% purity and silicon at above 99.995% from end-of-life PV panels on pilot recycling lines, using either heat or shockwaves to separate the layers.",
+    "The researchers compared a thermal process with electrohydraulic fragmentation (EHF), a shockwave-based separation process. Only EHF recovered the laminating layer around the solar cells completely; the thermal process lost it.",
+    "The backsheet, the protective polymer layer on the rear of a module, was recovered at room temperature before the layers were separated.",
+    "The scientists also looked at whether EHF could be integrated into an existing PV recycling pilot line, assessing its compatibility and setting out its advantages and challenges.",
+    "“Further developments in recycling of polymers and material processing could result in entirely closed-loop recycling of EOL PV panels,” said the research team.",
+    "The pilot-line study builds on the group’s 2025 paper in Solar Energy. In that study, the researchers described EHF as a process in which electrodes connected to a power supply of about 50 kV create an arc in water, generating shockwaves that separate the panel’s layers. They tested laboratory-made glass-glass, glass-backsheet and glass-free panels for 240, 480 or 720 seconds.",
+    "The group’s earlier work describes the thermal route as heating panels to about 450 C to 550 C to decompose polymers such as EVA, PVDF and PET, separating the glass, metallic ribbons and solar cells.",
+    "In the 2025 study, the scientists cited EHF’s room-temperature operation, its lack of toxic emissions and its ability to recover polymers that would otherwise be burned in pyrolysis. They also found the process was sensitive to feed size and could clog when overloaded. EVA did not fully separate from the backsheet, glass-free panels separated poorly, and some fine powder was lost.",
+    "The scientists described their latest findings in “ Design of pilot lines with thermal and electrohydraulic fragmentation delamination routes and analysis of materials recovered from end-of-life silicon PV panels ,” which was recently published in Waste Management."
+   ],
+   "lede": "Researchers have tested two routes for separating the layers of end-of-life solar panels on a pilot recycling line, recovering silver and silicon at purities above 99.99% and finding that a shockwave-based process also…",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3VIWGloMlJFRUp6Z2FWWGZna3ItX2huYk9xcTNKbVg5eml6RGZJNENXMWFHcjB1cHBuZ1MxNTNSVzNWLXJsUXcyN292LVNqcWZDZGdvWGRKNTZ1STZGV1N6VmhaODJPT0ZoU3BOOGpfUDBDOHNhWGtuR21mTS1CNHhCdVE?oc=5",
+   "title": "EU edges towards Made in Europe deal for UK cars",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-24T12:07:48+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-42-in-ytd-europe-nearly-200/",
+   "title": "Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-24T11:43:36+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News",
+    "china",
+    "deployment figures",
+    "globaldeploymentsroundup",
+    "globaldeploymentsroundup#",
+    "statistics",
+    "trends"
+   ],
+   "description": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
+   "ftries": 1,
+   "lede": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/cyprus-plans-to-deploy-over-300-mw-of-battery-storage/",
+   "title": "Cyprus plans to deploy over 300 MW of battery storage",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T11:15:00+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Batteries",
+    "Energy Storage",
+    "Europe"
+   ],
+   "description": "With Cyprus having more than 1 GW of installed solar capacity against average electricity demand of around 650 MW, its government is looking to accelerate storage deployment to address rising solar curtailment and improve grid flexibility.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/aboodi-vesakaran-xsvM6HdXvuw-unsplash-scaled-e1795517229356.jpg",
+   "paragraphs": [
+    "Cyprus is planning to deploy more than 300 MW of battery storage capacity across its electricity system as it seeks to reduce ongoing curtailment of solar power.",
+    "Speaking at the 14th Cyprus Energy Symposium, the country’s Energy, Commerce and Industry Minister Michael Damianos identified energy storage, electricity interconnection and market reforms as the three main pillars of the government’s strategy to address growing pressure on its electricity system.",
+    "Damianos told attendees of the symposium that Cyprus has more than 1,040 MW of installed solar capacity, compared with average electricity demand of approximately 650 MW.",
+    "This imbalance means the country is forced to curtail renewable electricity during periods of high solar generation while continuing to rely heavily on imported oil.",
+    "Solar curtailment in Cyprus hit 47% in 2025 and increased further over the first five months of 2026, reaching 65%. The country’s storage market is still in its relative infancy with its first utility battery project, a 5 MWh facility tied to a 1.8 MW solar array, entering the market in August.",
+    "During his speech, Damianos confirmed the first 120 MW of grid-connected storage being developed by the transmission system operator is expected to be operational by summer 2027.",
+    "He added that the state-owned utility Electricity Authority of Cyprus is developing 80 MW of storage capacity at its Dhekelia power station, targeted for 2027, and revealed a further 100 MW is planned at Moni power station.",
+    "“These investments will reduce renewable energy curtailments, increase system flexibility and allow greater integration of renewables,” Damianos said.",
+    "The minister’s speech comes as several battery projects installed earlier this year are still waiting for grid connections in order to begin operations.",
+    "Damianos also discussed electricity market reforms designed to encourage more flexible consumption and investment. Cyprus’ competitive electricity market became operational in October 2025, while new rooftop solar installations transitioned from net metering to a market-based self-consumption framework in January this year."
+   ],
+   "lede": "With Cyprus having more than 1 GW of installed solar capacity against average electricity demand of around 650 MW, its government is looking to accelerate storage deployment to address rising solar curtailment and…",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHZGMjFURWl3LTRkOFo0VkJpRmlXSThOSmJDd25xMjFaUVVIODZoRTZmLTJNOGNLRU9UOTJabnh3UU1NTjROY2VlOUdlQ0d5cGlTanI4QmhtMTBNTmd0Ti03a0s5YXhhRERWaDJtNjJjcXZ6MmVUajdlS180SWl5LTc3c05KTnk2dWwzNkRPaThTVTl5aVNyWmhSbllyRkw2YWxpVW9XWFRZUk4wNVhOV2NIWnlFODQ?oc=5",
+   "title": "France plans to create rare earths stockpile and encourage joint buying",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T11:02:22+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
+   ]
+  },
   {
    "url": "https://www.pv-magazine.com/2026/11/24/bangladesh-developer-plans-45-mw-solar-plant-with-foreign-funding/",
    "title": "Bangladesh developer plans 45 MW solar plant with foreign funding",
@@ -94,11 +770,22 @@
     "RTE"
    ],
    "description": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
    "tags": [
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1dNS0RJeDVvNU9rMUE0VEhSemhDZm5hUVQ2NkVUQzVnUXlMQmFCWjU4dDg1YWVwSkRrSTJxdm8tMWFVdkUtMllzeEF1dFhtSmxzX3dmZzRaTU9GSzZwbHkyQy1PeHJNdUlCMGNmcnp6dzBWaTFkTW01MXBCZHhMckdfZ05DZVBHbW1FanU1QWhLRDhXLTNQS3hpWFJQSmgtb2ZUUHdwV0RRcFNRX0hRazhuRF9naFBxZVdLUm1ZUQ?oc=5",
+   "title": "Hyundai Motor India, Tata Motors Passenger Vehicles to raise prices from December 1",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T10:19:46+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.pv-magazine.com/2026/11/24/solar-and-storage-insolvencies-hit-larger-german-companies/",
@@ -185,7 +872,7 @@
     "manufacturing"
    ],
    "description": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
    "tags": [
     "china",
@@ -225,7 +912,7 @@
     "co-location"
    ],
    "description": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
    "tags": [
     "power"
@@ -371,6 +1058,37 @@
     "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
    ],
    "lede": "Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can…",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energymonitor.ai/news/financial-close-reached-taweelah-c/",
+   "title": "Financial close reached on $2.1bn Taweelah C power plant",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-24T08:27:05+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "TAQA and partners reach financial close on the Dh7.76bn ($2.1bn) Taweelah C independent power project in Abu Dhabi.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Combined-Cycle-Power-Plant-Power-24-11-26.jpg",
+   "paragraphs": [
+    "The plant, which will be situated approximately 50km northeast of Abu Dhabi within the Al Taweelah Power and Desalination Complex, is expected to deliver a capacity of 2.6GW using a combined cycle gas turbine (CCGT) configuration.",
+    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+    "The project is being financed primarily through senior debt arranged by several local and international banks.",
+    "These include the Hongkong and Shanghai Banking Corporation, Development Bank of Singapore, KfW International Project and Export Finance Bank, Oversea-Chinese Banking Corporation, Industrial and Commercial Bank of China, and First Abu Dhabi Bank.",
+    "Dubai Islamic Bank and Abu Dhabi Islamic Bank also participated in coordinating and arranging the transaction.",
+    "EWEC, TAQA, and the consortium previously signed a power purchase agreement making EWEC the sole purchaser of the plant’s electricity.",
+    "TAQA holds a 60% equity stake in the project company, with the remaining 40% owned by the international partners.",
+    "In the operations and maintenance company, TAQA will own 40%, while the consortium will hold 60%.",
+    "The partners are jointly responsible for the plant’s design, financing, construction, operation, and maintenance.",
+    "China Energy Engineering Corporation has been selected to undertake the engineering, procurement, and construction works."
+   ],
+   "lede": "TAQA and partners reach financial close on the Dh7.76bn ($2.1bn) Taweelah C independent power project in Abu Dhabi.",
    "tags": [
     "power"
    ]
@@ -539,7 +1257,7 @@
     "energystorageasia"
    ],
    "description": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
    "tags": [
     "power"
@@ -699,7 +1417,7 @@
    "published": "2026-11-23T18:00:00+00:00",
    "seen": "2026-11-24T00:53:18+00:00",
    "description": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers.",
    "tags": [
     "power"
@@ -765,7 +1483,7 @@
    "published": "2026-11-23T16:27:12+00:00",
    "seen": "2026-11-24T10:56:55+00:00",
    "description": "The decision followed a promise by the utilities to allow ISO-NE’s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer benefits.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "The decision followed a promise by the utilities to allow ISO-NE’s internal market monitor to investigate proposed plant retirements.",
    "tags": [
     "power"
@@ -779,11 +1497,26 @@
    "published": "2026-11-23T16:15:34+00:00",
    "seen": "2026-11-24T00:53:18+00:00",
    "description": "Data from the two-year interim version of PowerUp NJ will inform the development of a long-term, open-access virtual power plant tariff, state utility regulators said on Nov. 12.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Data from the two-year interim version of PowerUp NJ will inform the development of a long-term, open-access virtual power plant tariff, state utility regulators said on Nov. 12.",
    "tags": [
     "policy",
     "power"
+   ]
+  },
+  {
+   "url": "https://www.utilitydive.com/news/miami-dade-transit-operations-center-electric-bus-facility/875590/",
+   "title": "$251M electric bus facility opens in Miami-Dade County",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-23T16:12:00+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "description": "Because lithium-ion batteries can pose a fire hazard, the structure will be heat-insulated to prevent damage should a fire erupt.",
+   "ftries": 1,
+   "lede": "Because lithium-ion batteries can pose a fire hazard, the structure will be heat-insulated to prevent damage should a fire erupt.",
+   "tags": [
+    "industry",
+    "transport"
    ]
   },
   {
@@ -921,7 +1654,7 @@
    "published": "2026-11-23T14:05:36+00:00",
    "seen": "2026-11-24T00:53:18+00:00",
    "description": "Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.",
    "tags": [
     "policy",
@@ -943,7 +1676,7 @@
     "optimisation"
    ],
    "description": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.",
    "tags": [
     "power"
@@ -982,6 +1715,20 @@
    "lede": "Sunrun wants hyperscalers to fund residential solar and batteries, accelerating interconnections while benefiting households.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3pXV3ZRUFpGREJVNXVFZkR4RVM3WVZOMGppZWFUQ1M0ZWJLU2gzM1llT2RaU1B3eHotZnRkQlZLdXJSeThtNmlxVWZzaGRvU3ZackkxRVUwTnRYY19Jb1F0TEFoTnZqdExuMnh3eE5zc1F3a1djRnBYQTlOQ2VzSE5id2lrMzMyMEF2aUJQU1BicE1CMXBJSm1ERlJFbTNrWFNzdzBlN2ZEWkMtdS03SkVnRUZWcDRzZERscnVQSUJTV1MzWXU0?oc=5",
+   "title": "Lego to invest around €1 billion in new Portugal factory to meet growing demand",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-23T12:42:31+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
    ]
   },
   {
@@ -1823,12 +2570,34 @@
    "lede": "Developed by Japanese material handling giant Tadano, the 35-ton V320RC wheeled electric pick & carry crane has spent the last few months proving itself at NMG Italia’s job sites, where it’s been handling heavy loads in…"
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWZfWjg2eXlGZmRkZ3BMNnBIVFppeFdONkNncm5ELS10MEdsMC1xOGhVVnpoTklmMHJ4b240ZUdtOXhFOVRFVnBjTDUtZDlrQjBKMnR1OU00cVpjQXVTbHFtb2xBaERINDRtWEhERmp1LWo3SlBidDBsNVVPSFVyMF80aFEzV3c2YkE3SENLc2t1Vl9nSFVRelhhVUNJdWhNNzdUSmxnUXllNnNkV2tncUdmaW0?oc=5",
+   "title": "Snarled Climate Talks Seek Breakthrough on Fossil Fuels, Finance",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-22T10:37:34+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWFqYVlqWmNiZ0JaUElxemxnT3FENFB3ajYyUHNGb21QRWxUQjdHZFJIQ3JpMl9yeGpIcXVOTWZ0enplMV9hYTY1dkVuemhwZ2tiMV8yUHpwY3I5QWt2TExEM3d2VWR5eF9ScmcxdERtbGUtTE1ZLTBfS1ZVeUN5MTNPXzVYQm11YlozSGJ4Q0phR2dSbEpr?oc=5",
    "title": "Executive summary",
    "source": "IEA",
    "desk": "analysis",
    "published": "2026-11-22T09:32:04+00:00",
    "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDZ5NkNmRkJyVzQ3aWVBV2VSQTZNLVBReXVrZ1VLbmhDd18zN0cyY2NuVFhEX2JXUnN1QllwY3pDaTBOeGFqMER5TzVWOURKMmx3Y3c1YlJORTctTmszNnVRUzVUZE0ybnoydks2NDFnYmNzbnhMVzlZRTBvbjRSdU54cGRDLWp1LXhUR2ZLUkFlX0tUblRySXRmcTFKYXM3NjR3MzY2akVfRThlT0dPUHpyZHJIOUNs?oc=5",
+   "title": "Thailand Plans to Ban Exports of Chemicals as It Tackles Pollution",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-22T03:24:00+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -5838,6 +6607,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWhKSUNTR0xsYzhRM2pUdHNXOVhnNGxKTF9xWHZqRnFqQTBuclNlOXhOSGNZUURac1JEWGxhQWdJMjlyZm9QN0tsaEZQaGlvR1ZyMHJGRW45QVdwVGhBQncxY2RlVExuY2IyM1RYRWVMWXBfWTRGTTdHUUVKQmxmTGZFMzY0Zw?oc=5",
+   "title": "Overview and key findings - World Energy Outlook 2026",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-19T06:05:16+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YNHQ1OXBpUHZ4aGNXLXAyYW5QTEdqRjdNSWRCQ05ueVJVZzc2clhtTVJRZE9SN3dzZ1RaYXhabGJqS2ZZR1dJN3FpaUh0S1JoQUYyRnZ2WUFTVE1JYlhUYXpTZ0V2dUtNRlNZVkh4TGw?oc=5",
    "title": "Whey too much cheese",
    "source": "Financial Times",
@@ -5860,6 +6640,20 @@
    "fetched": true,
    "tags": [
     "policy"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOHRlZ2ItemZBYzd1ck0wRDFSZlZlX1llcXR6aGM3aWphbVhVd2R6UzdRSW9lbG51TV90NFo1Sk10X2lqVmpkbUtlbHJUZU51S2o3Zm1fLXUtWldMZDAwUHdfa1NDaTZlY3UwRW9qVWg5M3JtNzdBczdDZ3owQ3JQQWp5TF9mZGtsRDBXWk9KVmZEQQ?oc=5",
+   "title": "The outlook for energy transitions",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-19T05:33:24+00:00",
+   "seen": "2026-11-24T21:13:28+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
    ]
   },
   {
@@ -9321,889 +10115,6 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5OV29NU2xOdjZvWU50WnIzcFdiRUUyc0VoTE5oSnNibV94WUZacG4wbVBKeDF1NUdVU19mRGk5cjBHYWh1VjJQNDF4a1dpM2xWZ1VzZldxS1psODNsQXZXa25JUDR2RGFjVkJxYkZoLWR0bVpNd0QwVkEtbkg4UlVyZUFFb05yaHFsa2ZzSEU0UWZDa3VfUGZkbF9mdENCX1NNWUh0U1F1eTRweWlPQWNn?oc=5",
-   "title": "Canada Has ‘Eyes Wide Open’ in Push for Deeper China Trade Ties",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-15T23:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd01YRUYtbzBvM2xsVVEySVZxd1JDUjZKTGloMHgwM2hKRDBISUxfNHFRQmVTU0hBMzBQS3NBT3VLZXIwTTJpVTR1NDMtUmxSbldja1Z2NmhBc2hlY25oUE5TVlcyR2VaMWUwSm1sSVRRSE5hb1Q5NGw5aDVTOHNSem11em82SG9icXg3THBrTzNCUVh2VHJhcEc0alFDTmlRLTdOLU5fV3U5YXAtS1VCLWo1THBSdw?oc=5",
-   "title": "India EV Maker Considers IPO as Shift to Electric Mobility Grows",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-15T16:51:53+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
-   "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-15T16:31:24+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "elon musk",
-    "Tesla",
-    "Tesla Cybercab",
-    "Tesla Robotaxi"
-   ],
-   "description": "Musk called MKBHD a 'chicken' over his Cybercab bet as Tesla rushes an invite-only, $299/mo, Texas-only Cybercab out before the Dec. 31 deadline.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Musk called MKBHD a 'chicken' over his Cybercab bet as Tesla rushes an invite-only, $299/mo, Texas-only Cybercab out before the Dec. 31 deadline.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/15/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/",
-   "title": "Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-15T16:07:39+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "News",
-    "autonomous",
-    "commercial robots",
-    "lawn mower"
-   ],
-   "description": "Autonomous lawncare specialists Greenzie passed a major milestone with their self-driving mowers last week, surpassing 255,000 cumulative robomowing miles. For...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/vanquish-autonomous-banner-copy.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Autonomous lawncare specialists Greenzie passed a major milestone with their self-driving mowers last week, surpassing 255,000 cumulative robomowing miles. For context, that’s far enough to mow every inch of space between the Earth and Moon.",
-    "Greenzie announced the self-driving milestone last week, and it’s genuinely impressive, reflecting Greenzie Powered Autonomy mowing more than 9 billion (with a b) square feet of turf across more than 200 commercial customers, 45 US states, and more than 500,000 equivalent man-hours of mowing.",
-    "And, while I might have pointed the fact that Greenzie mowers have covered more miles in its press release than Daimler’s entire hydrogen truck fleet, the company really seems to be leaning into the Moon angle.",
-    "“We mowed to the moon, but the real achievement is the commercial experience behind those miles,” says Charles Brian Quinn, co-founder and CEO of Greenzie and almost definitely the guy who first came up with the lunar lawncare line. “Every mile represents equipment working on real properties with commercial crews. That experience has shaped our technology, strengthened our OEM partnerships and taught us how to help customers successfully integrate autonomy into their daily operations.”",
-    "Greenzie develops autonomous packages for, and maintains OEM relationships with electric brands Mean Green Electric Mowers (whose Vanquish Autonomous commercial mower is shown, above), and Greenworks Commercial, as well as gas-powered brands like Bobcat and Wright Manufacturing. Regardless of what powers the mowers, Greenzie supplies the self-driving technology and integration expertise, while its OEM partners develop and manufacture the equipment that does the actual cutting, clearing, and whatever else their clients need.",
-    "“Successful autonomy requires more than capable technology,” said Steve Bush, chief operating officer of Greenzie. “Customers need to understand where autonomy fits into their operations, how to prepare their crews and how to measure success. We have spent years learning those lessons alongside our customers and OEM partners, creating a more consistent path to adoption as the industry grows.”",
-    "The Mean Green Vanquish Autonomous featured gere is a fully electric, stand-on, zero-turn (ZTR) mower built around an all-day-ready 22 kWh li-ion battery pack and featuring a 60″ rear-discharge mulching deck.",
-    "Mean Green claims that the combination of big battery and the electric motors that drive the ZTR mower and spin up its blades are good up to eight hours of continuous mowing on a charge, with an aluminum chassis and deck helping to keep the machine’s overall weight down for easier towing maximum efficiency.",
-    "The company says the mower can operate in either manual or autonomous mode, with Greenzie’s self-driving software supported by six depth-sensing stereo cameras providing 360-degree vision, RTK-corrected GPS, and visual-inertial odometry for onboard site mapping and precise positioning, which Greenzie says allows the mower to detect obstacles up to twenty feet away, recognize designated keep-out zones, and automatically return to its starting point when called back."
-   ],
-   "lede": "Autonomous lawncare specialists Greenzie passed a major milestone with their self-driving mowers last week, surpassing 255,000 cumulative robomowing miles. For context, that’s far enough to mow every inch of space between the Earth and Moon."
-  },
-  {
-   "url": "https://electrek.co/2026/11/15/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-tibetan-mine/",
-   "title": "High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-15T15:02:35+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "News",
-    "autonomous",
-    "china",
-    "heavy equipment",
-    "sany"
-   ],
-   "description": "Finding qualified equipment operators is hard enough for most mining companies, and the extreme weather, punishing conditions, and oxygen-deprived air...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/SANY_EACON_MAIN.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Finding qualified equipment operators is hard enough for most mining companies, and the extreme weather, punishing conditions, and oxygen-deprived air of the Tibetan mountains combine to make finding operators even tougher for the operators if this high-altitude copper mine – but SANY thinks they have a solution: fully self-driving haul trucks.",
-    "Chinese equipment brand SANY has deployed fully 60 of its 70-tonne (~80 ton) payload-rated SKT105ED battery electric haul trucks at the Zhibula Copper Mine in Tibet. Operated by Zijin Minig and Tibet Julong Copper, the mine functions at a dizzying 17,700 foot elevation in a region of the Gangdese Mountains known as the Kailas Range, and the conditions there would challenge the health and safety of even the toughest and fittest operators.",
-    "“High-altitude illness becomes increasingly relevant above 2,500 meters,” explains Eacon, in one section of a published paper. “Research involving workers in Andes mines operating between 3,800 and 4,500 meters found that 73% of workers assessed experienced periods of nocturnal oxygen saturation below 85% during their high-altitude shifts, indicating moderate-to-severe hypoxemia.”",
-    "That’s bad news for Zijin’s workers – but the good news here, of course, is that the company won’t be needing many heavy haul drivers going forward.",
-    "SANY has been working with Perth, Australia-based Eacon Mining Technology to develop an autonomous haulage solution that uses a full suite of both in-vehicle and ground-based sensors, adaptive vehicle controls, and machine learning that can handle the big bad trucks even here in the Kailas range.",
-    "“Autonomous haulage offers one way to address this challenge,” continues the Econ report. “Rather than requiring a driver for each truck, autonomous systems allow fleets to be managed through centralized supervision, with personnel overseeing operations and intervening when required. This reduces the need for people to spend entire shifts operating equipment at elevation, while changing how workforce resources are allocated across the mine … depending on the system configuration, some operations can manage autonomous fleets from remote Integrated Operations Centers located away from the mine site, (allowing) personnel to supervise haulage activities from lower-altitude locations, further reducing the need for workers to remain in extreme-altitude environments.”",
-    "The working partnership between the two companies combines SANY’s battery-powered truck platform with Eacon’s full technology stack to create dependable, driverless haul trucks with logic and behaviors that are ideally suited to China’s open-pit mining environments.",
-    "Eacon technology is currently operating more than 3,100 autonomous trucks cross more than 40 large-scale mines, including Zijin Mining’s Zijinshan Gold-Copper Mine and at the Norton Gold Fields project in Australia.",
-    "While specifications for this specific deployment weren’t disclosed, the SANY SKT105E trucks (the “D” is, presumably, the wide-body variant) the company has deployed elsewhere are powered by a dual-motor electric drivetrain, pairing two permanent-magnet synchronous motors with a dual three-speed automated manual transmission. The system delivers 570 kW (~765 hp) of continuous power and up to 820 kW (~1,100 hp) at peak output, with each motor producing some 2,430 Nm (~18,00 lb-ft) of peak torque."
-   ],
-   "lede": "Finding qualified equipment operators is hard enough for most mining companies, and the extreme weather, punishing conditions, and oxygen-deprived air of the Tibetan mountains combine to make finding operators even…",
-   "tags": [
-    "china",
-    "industry"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/",
-   "title": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-15T14:43:57+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "News",
-    "CATL",
-    "china",
-    "electric aircraft"
-   ],
-   "description": "COMAC's 19-seat CE-25A electric plane made its first crewed flight in China after 19 autonomous tests, as certification review gets underway.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/CE-25A-Comac-electric-plane-flying.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "COMAC’s CE-25A, China’s 19-seat battery-electric commuter plane, flew with a crew for the first time on Saturday in Binzhou, Shandong. Two pilots and a flight test engineer were aboard the roughly 10-tonne demonstrator, and COMAC says every system worked normally.",
-    "It wasn’t the plane’s first flight. The CE-25A had already completed 19 autonomous test flights with nobody on board since February 2, and China’s aviation regulator is now reviewing it for a type certificate.",
-    "The CE-25A is a T-tail commuter plane with 10 electric ducted fans on the wings, five per side, instead of propellers. COMAC lists a 300 km/h cruise speed and a 400 km (250-mile) range.",
-    "The CAAC accepting COMAC’s type certificate application starts the airworthiness review. It doesn’t mean paying passengers are close, and COMAC hasn’t given a date for commercial service.",
-    "The program has been quiet for a long time. COMAC showed a CE-25A model at the China International Import Expo in Shanghai in November 2023, with a placard listing 400 to 500 km of range and a 400 km/h top cruise speed. The full-size aircraft, registered B-0EFH, only became public when photos leaked on Chinese social media on October 28.",
-    "The obvious battery candidate is CATL. In July 2023, COMAC, CATL, and Shanghai Jiao Tong University formed a joint venture with CNY 600 million in registered capital to develop electric aircraft, as we reported when CATL launched its aviation unit.",
-    "CATL had just unveiled its “condensed” battery at the time, claiming up to 500 Wh/kg at the cell level, and said it was testing the cells to aviation standards. Neither company has confirmed what’s inside the CE-25A, though.",
-    "~500 Wh/kg has long been seen as the target for battery energy density to enable electric flight on a commercial scale.",
-    "COMAC isn’t alone in flying a large electric demonstrator. In August, Heart Aerospace flew its X1 in Plattsburgh, New York, for 27 minutes. It’s a 25,000-lb aircraft with a 106-foot wingspan, which Heart calls the largest battery-electric aircraft ever flown.",
-    "Eviation flew its 9-passenger Alice back in September 2022, then laid off most of its staff in early 2025."
-   ],
-   "lede": "COMAC's 19-seat CE-25A electric plane made its first crewed flight in China after 19 autonomous tests, as certification review gets underway.",
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNV9FeG1nem5ZOEIwQ2NfcTFxVGNwQmp2c0o1akk0SUE1YkdGR2dBaWRwbGhiMjhqWmFsdldrdTFZSjRwek9RNHB0SkVleHlaeXd6RHhRSi1RNUVKcDFvSjRGb2tYME5ZcDg2RDRZV0xFem9YQ2pfcjg3cXp0MURNbHE3S1hSR0loQkdZb1c2UmQtUHJpNzNvMGZrYWNWOUJrVi1heVYxQQ?oc=5",
-   "title": "NASA's Voyager 1 probe poised to achieve mega-distance milestone",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-15T13:13:54+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYWNReERuREZxdmk2NXF2YlhwWENlcU5wR3hkT0xTMUhzTTJfT2hQcHpjUzJDRFctemw3S1RMdFJ4VEd5NzRUak9Oa1UzeFBRNHRyZnZMU19OaGhiNkVXUWN4N1luLU5pT1ZhelN5V01XRDlBUUt2cVNOOWV6aGZWWnBIRTQ?oc=5",
-   "title": "Pension funds raise alarm on systemic risk from climate events",
-   "source": "Financial Times",
-   "desk": "news",
-   "published": "2026-11-15T10:00:04+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEdHNmdSYU9NYzhkdE1iVHREZHV1TGl0a296LUNwZ3dGZEJvSm9KMVQzYmt4U3U4NGU3QTVnUmhQRG82NWMyLU4zVFJZMDQzTm5UWExZdVVTbFJSbmlQR1ZWM0ZCR1hHUnpMR3FmSloyc1cyX2x6MUF6cEVZeDdZODhGUkpuR1JDTjNDY05JZ2ZHNFdXXzdmRkNEVXIwd2w3NFVFd3lwNjBtN2dSbzZWVlVR?oc=5",
-   "title": "As Democrats seek changes to bill on energy permits, divisions emerge",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-14T18:53:43+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/14/check-your-ego-at-the-door-stellantis-new-electric-dolly-turns-any-car-into-a-tow-rig/",
-   "title": "Check your ego at the door: Stellantis’ new electric dolly turns ANY car into a tow rig",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-14T17:35:39+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "News",
-    "electric trucks",
-    "offbeat",
-    "stellantis",
-    "towing"
-   ],
-   "description": "We all know the type: grizzled stubble, wraparound PitVipers, a MAGA hat quietly retired after last week’s deep-blue shellacking, and...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/500e_HAUL_MONSTER.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "We all know the type: grizzled stubble, wraparound PitVipers, a MAGA hat quietly retired after last week’s deep-blue shellacking, and a pristine, polished pickup parked in the driveway that they “need for towing.” With Stellantis’ new patent for an AI-powered electric tow dolly that turns just about ANY vehicle into a capable tow rig, however, those might need a new to find a new excuse to keep that gas-guzzler.",
-    "Originally filed in 2023, Stellantis received US Patent No. 12,779,916 for its electric tow dolly on 03NOV2026. The patent covers a machine that’s designed to shoulder the trailer’s hitch load with its own ball hitch or fifth-wheel plate, using an on-board electric motor and battery to get the trailer going while its regenerative braking system and AI-backed steering and traction control system keeps everything pointed in the right direction.",
-    "In other words, the dolly takes on many of the jobs that traditionally require a big tow vehicle: providing the pulling power, managing the trailer’s weight and controlling its braking and traction. The vehicle up front doesn’t necessarily need a massive motor, heavy-duty suspension or oversized brakes. With a system like this, you could argue that the “tow vehicle” isn’t really a tow vehicle at all. It’s more of a “lead vehicle,” since the dolly is the one doing the towing … and it can follow just about anything – including the diminutive ( and supremely affordable) Fiat 500e, which is also made by Stellantis.",
-    "To be clear, this isn’t just Uncle Jojo making fun of the commuter conveys – Stellantis’ patent describes the dolly as being equipped with an autonomous control system using cameras, sensors, a controller, and an advanced, four wheel steer-by-wire system. It also specifically discusses how the dolly’s independently powered acceleration, braking and steering, and sway controls essentially remove the need to own a truck in the first place.",
-    "The dolly system’s truck bed sides and small size allow users to experience the functionality and utility of a truck only when they need it, allowing them to own a smaller, cheaper, and more fuel efficient vehicle that suits daily use needs.",
-    "There are some pretty obvious practical questions still to answer, of course, including how much battery capacity the dolly would need, how much weight it could handle and how it would perform on long grades or in emergency braking situations. And, to be clear, a patent isn’t a product announcement or proof that Stellantis plans to put one of these things on sale – heck, if I were Stellantis’ CEO, I’d patent this thing just to prevent anyone else from building one so I could keep selling ancient, low-tech, high-margin Ram Trucks – but it’s a neat idea.",
-    "Okay, I like this idea and appreciate the problem it is trying to solve, but it has the same challenge as any electric-tow situation, which is the charging logistics. Even if you find a pull-through charger (very rare), if you are using an EV, you still need to charge two \"vehicles,\" so you have to charge your car, then pull up and charge the dolly afterwards. Even if you are using a gas car, charging the dolly will be logistically challenging. Of course, that's a problem with an easy solution (more pull-through chargers), but also one that doesn't seem to be on any charging network's radar."
-   ],
-   "lede": "We all know the type: grizzled stubble, wraparound PitVipers, a MAGA hat quietly retired after last week’s deep-blue shellacking, and a pristine, polished pickup parked in the driveway that they “need for towing.”",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/14/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery/",
-   "title": "Huawei set to challenge Tesla Powerwall with new, 20 kW home battery",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-14T16:25:02+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "News",
-    "home battery",
-    "home solar",
-    "huawei"
-   ],
-   "description": "This high-tech Huawei home battery pack hopes to hold back Tesla’s latest Powerwall with silicon carbide technology, AI-powered energy management...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/huawei_home-battery.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "This high-tech Huawei home battery pack hopes to hold back Tesla’s latest Powerwall with silicon carbide technology, AI-powered energy management baked in, and enough modular storage to keep even large homes bright and warm when the rest of the block goes dark.",
-    "Huawei believes its new Luterra S2 is more than just a home backup battery. The Chinese tech firm is calling it an “all-in-one residential energy system” that combines a hybrid inverter, modular battery storage, and AI-powered energy management in a single, simple, and stackable package that’s available in single-phase versions that put out between 3 and 10 kW and three-phase versions that can push up to 20 kW.",
-    "The Luterra S2 is the first system of its kind to use Huawei’s proprietary full-silicon carbide (SiC) architecture, which promises improved efficiency, power density, and ease of use. It’s so easy, in fact, that Huawei claims it can be installed and commissioned in just minutes.",
-    "“We are thrilled to introduce Huawei Luterra S2, our next-generation all-in-one residential energy system,” said Steve Zhang, President of Huawei Distributed PV & BESS Business. “By combining full-SiC architecture, AI-driven energy management, and industry-leading safety, Luterra S2 is designed to be smaller, lighter, quieter, safer, smarter and more powerful than ever before.”",
-    "Huawei’s basic Luterra S2 configuration starts with “just” 5 kWh of battery energy storage and 3 kW of output. That’s enough to keep essential household appliances, lighting, and electronics running during a power outage, but you’ll want to keep going if you’re preparing for more than a day or two without power.",
-    "If that sounds like you, Luterra’s got you covered. T he modular system can be expanded with modular 7 kWh LFP battery packs and can scaling up to a massive 336 kWh of total storage across interconnected systems, with inverter output peaking at an impressive 60 kW using three 20 kW units in parallel.",
-    "Keeping all that power cool and quiet is a Huawei-developed passive cooling system that does without external fans, keeping operating noise levels below a claimed 29 dB ( about the same as my Mac mini ). It operates at ambient temperatures from –25° C to about 60° C, and features a sturdy IP66-rated enclosure (safe to hit with a high-pressure hose) with corrosion protection up to C5-M to keep it from rusting away.",
-    "Alas, the Luterra S2 probably won’t be making its way to the US anytime soon – but fear not! If you’re shopping for a Tesla Powerwall alternative that won’t help fund the absolute worst people in politics, there are a number of great home battery systems on the market that can deliver backup power, store your solar energy, and keep your home running when the grid goes down. We’ve rounded up some of the best alternatives right here.",
-    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them."
-   ],
-   "lede": "This high-tech Huawei home battery pack hopes to hold back Tesla’s latest Powerwall with silicon carbide technology, AI-powered energy management baked in, and enough modular storage to keep even large homes bright and…",
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
-   "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-14T13:33:00+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "cats": [
-    "News",
-    "elon musk",
-    "Tesla",
-    "Tesla Cybercab",
-    "Tesla Model Y",
-    "Tesla Robotaxi"
-   ],
-   "description": "Tesla's Cybercab agreement makes the $29,990 two-seater useless without a $299/mo plan that Tesla can reprice, suspend, and geofence at will.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "And Tesla wants consumers to sign it while still refusing to give unsupervised self-driving to the Model Y owners it has been selling “Full Self-Driving” to for nearly a decade.",
-    "That personal-use clause kills the whole pitch. For years, Musk told people they’d buy a Tesla, add it to the fleet, and make money while they sleep. The first Tesla sold to consumers for unsupervised operation is contractually barred from doing exactly that.",
-    "Then there’s the geofence. Tesla’s Robotaxi service areas are already smaller in practice than advertised: when we tested them, real coverage was between 59% and 78% of the advertised maps, and parts of the Houston map have been called “fake” by the person tracking it. Now Tesla reserves the right to shrink that area after you’ve paid for the car.",
-    "Mark Valorian, who went through the terms on X, summed it up as “an endless variable-rate lease with a ridiculous down payment.” That’s about right.",
-    "Tesla has spent the last year telling everyone that its Model Y is just as much a robotaxi as the Cybercab. Ahead of the Robotaxi launch in Austin, Musk said the cars were “the Model Ys we make currently, there’s no change to it.” On Tesla’s Q3 2026 earnings call last month, AI chief Ashok Elluswamy said Cybercabs and Model Y robotaxis already run the same software, and that customer cars might join the network around Q2 2027. The Cybercab launches on the same AI4 computer found in the current Model Y.",
-    "So the hardware is the same, the software is the same, and unsupervised Model Ys are already operating in the exact geofences where Cybercab owners will be allowed to ride.",
-    "Tesla’s answer to all those owners is a new car. One with two seats, no controls, a geofence it can move whenever it wants, and a subscription that costs three times as much as FSD.",
-    "There are three possible reasons Tesla isn't allowing model Y owners to use FSD in the allowed zones:",
-    "2: Tesla doesn't have enough \"remote operators\" to cover all of those supposedly self-driving cars if users join the network",
-    "And the Model Y part is what gives the game away. If Tesla truly believed its unsupervised system was ready for customers, the obvious move would be to turn it on for the Model Y owners in Austin who already paid for it. It’s the same computer and the same software in the same geofence. But that would mean honoring a promise made in 2016, on cars already sold, with no new revenue attached."
-   ],
-   "lede": "Tesla's Cybercab agreement makes the $29,990 two-seater useless without a $299/mo plan that Tesla can reprice, suspend, and geofence at will.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/14/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-rivians-bike/",
-   "title": "I finally got a USB-C charging e-bike, and it costs 75% less than Rivian’s bike",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-14T13:02:00+00:00",
-   "seen": "2026-11-21T23:19:11+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "I’ve been waiting years for electric bikes to finally embrace USB-C charging. We’ve already standardized much of our lives around...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/engwe-zip-foldig-bike-head.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "I’ve been waiting years for electric bikes to finally embrace USB-C charging. We’ve already standardized much of our lives around the convenient little connector, from phones and laptops to tablets and countless other gadgets. But for some reason, electric bikes have largely missed the memo. Now, though, I’m finally riding an e-bike that charges with USB-C, and the best part is that it doesn’t cost an arm and a leg.",
-    "Meet the ENGWE Zip, a quirky little folding electric bike that costs just €999 and has quickly become one of my favorite examples of how a small feature can make a big difference.",
-    "When it debuted earlier this year, it became only the third production e-bike I’ve seen that could charge via USB-C, allowing it to use the same charger that is likely already shared by your phone and laptop.",
-    "Of course, it’s not nearly as technologically advanced as Rivian’s ALSO e-bike. But hey, it’s at least shipping.",
-    "And while the Zip is a fun little 16″ wheel folding electric bike in its own right, with a compact design that makes it easy to store and transport, it’s the charging setup that has me particularly excited.",
-    "Instead of keeping track of yet another proprietary charging brick, I can simply grab the USB-C charger from my laptop and plug it into the bike. There’s one in my living room by the couch. There’s one by my bed. There’s one in all of my friends’ places. There’s a USB-C charger everywhere.",
-    "If I’m traveling around, that means one less charger to pack. If I’m visiting someone, there’s a decent chance they already have a compatible charger sitting around.",
-    "Heck, I can even use a basic USB-C phone charger in a pinch. Sure, charging a relatively large e-bike battery at 20W isn’t going to be particularly quick, but the fact that I can do it at all is incredibly convenient.",
-    "Plus, the bike has one more trick. The battery also outputs USB-C, so I can charge my laptop or other devices from it as well. I can even charge two devices simultaneously, thanks to the dual USB-C ports.",
-    "The battery is housed in a roll-top bag that is locked into the headset of the bike but can be quickly unlocked for charging off the bike. And since it’s a keyed lock, no one can steal the battery even when the bag is left on the bike."
-   ],
-   "lede": "I’ve been waiting years for electric bikes to finally embrace USB-C charging. We’ve already standardized much of our lives around the convenient little connector, from phones and laptops to tablets and countless other gadgets.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Zbm5tOUlYSmdIOVV6NjByeV9wbGFlSUg4dWhISlNPTjhfb255UENfNEI0eF83T3lMVG44N0x1VXZxVklELWFUeDQ2c2pTYmVobHM1Zml6MWtDQXZEMzBLNml6SQ?oc=5",
-   "title": "China Electricity Data",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-14T05:34:02+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HWklNVFZvMUhaX1Q3RkJ2M2ZfREwyN0hDbkhTdTV4UzlMa1l0bUJpWk9tVDg4bXNMQUNZQVZoX0otRUZzU3YzX1llYi1FWkRsaS1JdmpWU0tEZw?oc=5",
-   "title": "Julia Bayliss",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-14T04:11:29+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVhHdzBKMzBTb3ozUTZETmtWT2xTcXU0TzNJdzhnWW5ZVzZMYnlGZTM3OEJGWU5kOEd4Vkl1N0w3bDRKSlVXaGNsYkp2eU0zZVdZWlBqbTBzMTd4dWUzcUJ6czNqSFlXWlhzR2kwam1lMDNrSGRRcDR5U2tyQ18yZG84MU9Pb0ZKQzVyZXBOZDV4aUVhXzZhcGwzaTNpYThPbkRFWGFXVVdtcEI0djF5RmJVVQ?oc=5",
-   "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-14T04:05:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china",
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
-   "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-14T02:11:39+00:00",
-   "seen": "2026-11-21T23:19:11+00:00",
-   "cats": [
-    "News",
-    "Cybercab",
-    "Self-driving",
-    "Tesla",
-    "Tesla FSD",
-    "Tesla Robotaxi"
-   ],
-   "description": "Tesla is inviting buyers to order a personal Cybercab for $29,990 plus a mandatory $299/month subscription, but it only works inside Robotaxi geofences.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "And it only works inside Tesla’s Robotaxi service areas in Texas and Florida, the same geofences that have turned out to be significantly smaller than what Tesla advertises.",
-    "Tesla’s official Robotaxi account announced the invites on X on Friday with screenshots of the order page and the invitation email.",
-    "The email is even more direct. Its asterisk reads: “Only available in supported service areas. Subscription required for operation.”",
-    "The rest is what we already knew. Two seats, a 21-inch center touchscreen, 20.1 cubic feet of cargo space, and no steering wheel or pedals. Tesla calls it “fully autonomous” and says you’ll “manage your ride in the app.”",
-    "And those service areas aren’t what Tesla says they are. Independent tracker Koby Pierce tested thousands of addresses in the Robotaxi app and found that the areas where Tesla actually accepts pickups and drop-offs are only 59% to 78% of the advertised geofences in the six cities he checked. In Austin, the very city where Tesla is delivering these cars, it’s about 59%.",
-    "Railroad crossings are a big reason why. In Houston, the creator of Robotaxi Tracker found the app quoting about 40 minutes to go two blocks downtown because the vehicle appeared to route around rail crossings. Tesla also lists San Antonio’s airport inside its polygon but doesn’t serve it.",
-    "Then there’s the regulatory cloud. NHTSA has ordered Tesla to prove under oath that a car with no brake pedal meets federal safety standards that require one. Tesla answered on October 30 and asked that the entire response be kept confidential. NHTSA hasn’t ruled. Tesla is now selling the car to consumers anyway.",
-    "I think this is going to be a total mess. It looks like Tesla is only doing this by invitation and delivering it in Austin to prove they can deliver an “unsupervised” vehicle in 2026.",
-    "No point trying to calculate what it will cost over X years. Tesla can change that monthly fee at will anyway (and shall be expected to, considering their overall pricing history).",
-    "And here’s the part that makes no sense to me. The Cybercab runs on the same AI4 computer as the current Model Y. Tesla already runs unsupervised Model Y Robotaxis in these same geofences. So why can’t the Model Y owners who already paid for “Full Self-Driving” get unsupervised operation in those same zones? Wouldn’t be even easier to turn that on these vehicles which have accumulated much more data? Tesla keeps pushing that to “next year,” currently around Q2 2027, while asking people to buy a new two-seater that can do nothing else."
-   ],
-   "lede": "Tesla is inviting buyers to order a personal Cybercab for $29,990 plus a mandatory $299/month subscription, but it only works inside Robotaxi geofences.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/rinnai-new-heat-pump-water-heaters-get-smarter-and-easier-to-install/",
-   "title": "Rinnai’s new heat pump water heaters get smarter",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-14T00:53:37+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Rinnai’s new heat pump water heaters add wifi, flexible installation options, and controls to help manage your home energy costs.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/3583_Rinnai_REHP_Storage_0000.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Rinnai has launched a new lineup of electric heat pump water heaters that adds wifi controls and more installation options to an appliance that can cut the energy needed for hot showers.",
-    "The REHPW series comes in 50-, 65-, and 80-gallon sizes. It builds on Rinnai’s existing REHP lineup, with changes designed to make the units easier to install, monitor, and maintain.",
-    "Heat pump water heaters pull heat from the surrounding air and transfer it into the tank. Moving that heat requires less electricity than producing it with conventional electric resistance elements. There’s no fuel combustion at the appliance, although emissions from its electricity supply depend on the grid.",
-    "Rinnai lists a Uniform Energy Factor, or UEF, of 3.75 for the 50-gallon model and 4.0 for the two larger versions. Higher numbers mean greater efficiency under standardized testing; actual bills depend on electricity rates, hot water use, and installation conditions.",
-    "The lineup delivers up to 91 gallons of hot water in the first hour, depending on tank size. That rating includes both stored hot water and what the unit can heat during that hour – useful context when several people take consecutive showers.",
-    "There are five operating modes, 4.5 kW backup heating elements, and a variable-speed fan designed to keep noise down. The heat pump can operate with ambient air as low as 37°F.",
-    "The new Rinnai heat pump water heater units have water connections on both the top and side, giving installers more options for connecting existing plumbing. Both the air intake and exhaust are on top, allowing zero side clearance where Rinnai’s installation requirements permit.",
-    "An optional ducting kit adds flexibility for tighter spaces. Carrying handles help with moving the tank into place, and the air filter slides out horizontally from the side for cleaning.",
-    "Rinnai has also added a third tank temperature sensor to the 50- and 80-gallon models to help manage hot water delivery.",
-    "Wifi adds remote monitoring and control. Rinnai’s updated Central app supports the REHPW series, including scheduling and tools to use time-of-use electricity rates to manage energy use."
-   ],
-   "lede": "Rinnai’s new heat pump water heaters add wifi, flexible installation options, and controls to help manage your home energy costs.",
-   "tags": [
-    "industry"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/",
-   "title": "Volkswagen may have just hinted at the name of its next affordable EV",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T22:14:38+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Volkswagen is getting ready to launch a new electric car starting at about €20,000 ($22,000) in 2027, and it looks...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "The new entry-level EV is “the last piece of the puzzle,” Volkswagen brand CEO Thomas Schäfer said last March after unveiling the ID. EVERY1 concept car.",
-    "The new model will sit below the ID. Polo in Volkswagen’s Electric Urban Car Family, a lineup of compact, affordable electric cars.",
-    "Volkswagen’s current entry-level EV lineup includes the ID. Polo, ID. Cross, the Cupra Raval, and Skoda Epiq, all based on its new MEB+ platform.",
-    "After launching the lower-priced standard versions of the ID. Polo and ID. Cross recently, starting at €24,995 and €27,995, respectively, Volkswagen is preparing to launch an even smaller, more affordable EV next year.",
-    "A recent trademark filing with the European Union Intellectual Property Office (EUIPO) and the German DPMA may have just revealed the name of VW’s upcoming €20,000 EV.",
-    "Volkswagen filed a trademark application for the name ID. UP on October 22, 2026, with the EUIPO and DPMA, suggesting this will be the name of the upcoming electric car in 2027.",
-    "The trademark follows previous reports that VW planned to revive the former Up! name as part of its shift away from its previous numerical naming scheme (ID.3, ID.4, ID.5, etc.).",
-    "Volkswagen has kept most details a secret thus far. Like the ID. Polo, the first to go on sale with an established VW nameplate, the ID. UP is expected to use the same 37 kWh LFP battery to reduce costs.",
-    "The VW ID. Polo with the 37 kWh battery offers a WLTP range of up to 334 km (207 miles), so the smaller ID. UP will likely provide around the same, if not slightly more.",
-    "Volkswagen said it will offer at least 250 km (155 miles) of range. It will also use a new 70 kW (94 hp) electric motor, enabling a top speed of 130 km/h (80 mph)."
-   ],
-   "lede": "The new model will sit below the ID. Polo in Volkswagen’s Electric Urban Car Family, a lineup of compact, affordable electric cars.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/byd-opens-tang-ev-orders-two-enormous-screens-for-34000/",
-   "title": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T21:38:04+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "BYD opened pre-orders for the third-generation Tang starting at about $34,000 in China. This five-seat flagship SUV packs more than...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Tang-EV.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "The third-generation Tang joins the Great Tang, or Da Tang, as it’s called in China in BYD’s expanding flagship SUV lineup.",
-    "We knew it was coming soon after the new model appeared in a regulatory filing in China’s Ministry of Industry and Information Technology (MIIT) last month.",
-    "The two lower-priced variants are both RWD, offering a CLTC range of up to 850 km (528 miles), while the top-spec dual-motor AWD version has up to 770 km (478 miles).",
-    "All versions use BYD’s second-generation Blade Batteries and Flash Charging tech, enabling the battery to be charged from 10% to 80% in five minutes, or nine minutes to go from 10% to 97%.",
-    "Inside, the five-seat SUV packs a surprising amount of tech and premium extras for the price. The setup features two massive screens: a 35.4″ integrated display and another 30″ panoramic theater screen.",
-    "Unlike its predessor, which offered five and six-seat configurations, the third-gen Tang will only be offered as a five-seater.",
-    "The five-seat setup opens up interior space for passengers and the third-gen Tang has the largest front trunk (frunk) in its class at 205L, BYD said.",
-    "Like many of its new flagship vehicles, the third-gen Tang is equipped with BYD’s latest tech, including its God’s Eye B driver-assistance system and Disus-A dual-chamber intelligent air suspension body control system.",
-    "Other added features include a 22-speaker Dynaudio sound system, intelligent electric all‑wheel drive, a high-speed tire blowout stability system, and its iTAC intelligent torque control system.",
-    "Lu Tian, the general manager of BYD’s Dynasty division said third-gen Tang vehicles have arrived at dealerships nationwide."
-   ],
-   "lede": "The third-generation Tang joins the Great Tang, or Da Tang, as it’s called in China in BYD’s expanding flagship SUV lineup.",
-   "tags": [
-    "china",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MbVNmejVSRFBiM3Vhbkh4Zll3MVFGbFpLemdGc3FVZUFkZDNYcU53SVJiX0k1dW85NG1mem5MeXVkM0s4S1JHeXV0bUdSem5zSGd6bTVGSDlHZ0ZpOTRDNEFiMGxlNVFacmZCLU5yd0pZQQ?oc=5",
-   "title": "How to Channel Voters’ Anxieties About Data Centers",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-13T21:26:53+00:00",
-   "seen": "2026-11-24T00:53:18+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1STFZCZHNxNXVpZDloY2VsUmZ2X0RaSDBFUUxKZnk4RTJNUnNUdUpOMnlPTF8tMUxOOVNxd1BUeEc5cDl5Z0tZUnpvLWhSUVRUVmd2cFU5aWd0cU10Y25HaHdHNHpETTFrMDE5N1JIN1ZqVjVxM1V4Vg?oc=5",
-   "title": "Consider the Lobstermen Affected by New York’s Empire Wind",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-13T21:26:52+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate",
-   "title": "How California Gov.-elect Becerra could be better on climate than Newsom",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-13T20:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Leah Stokes joined me at a Canary event to talk about her hopes for Xavier Becerra, school electrification, California climate politics, and more.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/CW-bayarea-16.9.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=b6f8f97bd9e066d5ce2aa834c9387c5e",
-   "paragraphs": [
-    "Welcome back, everyone! Well, we may have finally caught a break when it comes to making progress on climate and energy. The midterm elections have given Democrats control of Congress and dramatically expanded the party’s power in state legislatures and governors’ mansions. That’s opening up big opportunities for reinvigorated clean — and affordable — energy transition policies and actions across the country.",
-    "In California, Canary Media just held what amounts to a big party for Golden State climate and energy aficionados: our fourth annual Canary Live Bay Area show, which brought nearly 400 people to The Freight in downtown Berkeley on Tuesday night. The vibe was fantastic — with so much exuberance at the blue wave lifting our common climate ambitions. And onstage and off, there was a whole bunch of gritty, detail-oriented discussion about how to best proceed on all the work ahead.",
-    "I was thrilled to share the stage with Leah Stokes, the Anton Vonk Associate Professor of Environmental Politics at the University of California, Santa Barbara; author of top-ranked climate books ​ “ Short Circuiting Policy” and the newly released ​ “ The Carbon Wave”; writer of the Substack ​ “ Notes from the Electric Era”; and one of the chief behind-the-scenes architects of the Biden-era climate triumph, the Inflation Reduction Act. She even created a Carbon Wave Calculator to help people understand how to make climate progress in their communities.",
-    "Stokes has a lot to say about outgoing Gov. Gavin Newsom’s climate and environmental justice policy record — much of it not very flattering. She’s particularly angry that Newsom clawed back nearly $ 200 million in funding for schools to upgrade their heating, air-conditioning, ventilation, and plumbing systems — a move he made right when schools in Santa Barbara were reporting classroom temperatures of 93 degrees Fahrenheit. ​ “ Half a million kids were under extreme heat-modified days at the same time that Gov. Newsom gutted that program,” she said.",
-    "She and I eventually turned to Gov.-elect Xavier Becerra’s potential climate agenda. She, for one, is feeling hopeful. ​ “ I think that there’s more of a focus on affordability, on holding the utilities accountable, on delivering on environmental justice,” she said. ​ “ I think that these are things that actually matter to Becerra.”",
-    "In particular, she’s a fan of Becerra’s free ​ “ Power Hour” proposal for no-cost utility power when solar is flooding the state’s grid — an idea that’s been pioneered in Australia and floated for California by Stokes herself and a number of other climate thinkers.",
-    "For more than a decade, California has been trying to design energy policy to solve for the ​ “ duck curve” — excess solar at midday, not enough grid power as the sun goes down. Batteries can soak up that power, obviously. But so can heat pumps and air conditioners that preheat or precool homes and buildings, as can heat-pump water heaters, which store energy in tanks of hot water, she said."
-   ],
-   "lede": "Leah Stokes joined me at a Canary event to talk about her hopes for Xavier Becerra, school electrification, California climate politics, and more.",
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/",
-   "title": "Volkswagen is delaying another EV based on the SSP",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T19:03:28+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "After delaying development of the long-awaited electric Golf, Volkswagen is delaying another EV based on its SSP platform. Volkswagen EV...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "As it scrambles to cut costs, Volkswagen brand CEO Thomas Schäfer revealed in an internal memo at the end of October that development of the all-electric Golf is being delayed at its Wolfsburg plant in Germany.",
-    "Volkswagen initially planned to launch the Golf EV in 2028, but Schäfer announced earlier this year that the long-awaited electric car was delayed until closer to 2030.",
-    "Schäfer suggested the delay was because the SSP (Scalable Systems Platform), which is being developed through its partnership with Rivian, was taking longer than expected, again due to costs.",
-    "According to Autocar, Volkswagen is now delaying the Audi A4 E-tron as well, another vehicle that was initially planned to be among the first based on the SSP platform.",
-    "Production of the electric A4 is being pushed back until at least 2029, a year later than originally planned. While the delay is disappointing for Audi fans (including myself) still waiting for an electric A4, it also puts Audi behind rival luxury brands in the mid-size sedan segment.",
-    "BMW has the new i3, and Mercedes-Benz has the C-Class EV, both of which feature major improvements in range, charging, and efficiency over their previous-generation EVs.",
-    "Volkswagen said in 2023 that the 800V SSP will serve as a “single future backbone with integrated electric and electronics architecture,” claiming that more than 40 million models were expected to be built on it.",
-    "The company also said investment and R&D costs were expected to be reduced by about 30% compared to the current MEB platform, enabling most models “to achieve the same margin compared to their conventionally powered counterparts.”",
-    "Volkswagen’s software struggles started in its internal division, Cariad, leading to delays, missed targets, and budget overruns."
-   ],
-   "lede": "As it scrambles to cut costs, Volkswagen brand CEO Thomas Schäfer revealed in an internal memo at the end of October that development of the all-electric Golf is being delayed at its Wolfsburg plant in Germany.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fLVlPa2QzS3pySGZMeVBTU1cyNmY1TTYzcUMzWEFHcUpnUV9oSG5oV3FxVU9NdXVKTWs5cWtjOHh3eWxaenZ0ZXI0U3czTmlqbE5odXpEN1dmLTgycUwyRjY2RmdBSnUwOHd6eDhFTzBWUGxTakpUcndEUQ?oc=5",
-   "title": "Data Center Developers Can’t Pay People Enough to Accept Them",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-13T19:03:07+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
-   "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T18:13:44+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "cats": [
-    "News",
-    "Tesla",
-    "Tesla Cybertruck"
-   ],
-   "description": "Tesla pulled the Dual Motor and Premium Cybertruck from its US configurator and raised the Cyberbeast to $109,990, up 57% from the August entry price.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "New inventory isn’t an alternative either. When we checked, Tesla’s inventory search showed no new Cybertrucks within 200 miles of Los Angeles.",
-    "This comes two days after Musk extended Cybertruck production through the end of summer 2027 to “work through more of the Cybertruck order backlog.” On Monday, he claimed the order rate “far exceeds” production and that Tesla would “have to return deposits for a lot of people.”",
-    "If there really is a backlog, cutting off the two cheaper trims is one way to cap it before the line shuts down. It also pushes whatever demand is left toward the most expensive, highest-margin version of the truck.",
-    "This is the wind-down playbook, and it’s moving faster than I expected. Announce the end, raise prices, pull the cheaper trims, and sell the last trucks in their most expensive form. Tesla is squeezing as much as it can out of every remaining Cybertruck.",
-    "If you want a Cybertruck that isn’t a Cyberbeast, you’re now shopping used. And I’d keep an eye on used prices, because a truck that’s going out of production with no cheaper new option could hold its value better than it has over the last two years.",
-    "If you’re buying an EV, powering it with home solar can cut your fuel costs to nearly zero. With electricity rates up almost 10% last year and expected to keep climbing, going solar is one of the best ways to protect yourself against rising costs. And with lease and PPA options, you can do it with zero upfront cost and start saving immediately. If you want to find the best deal, check out EnergySage. It’s a free service with hundreds of pre-vetted installers competing for your business, so you save 20 to 30% compared to going it alone. No sales calls until you pick an installer. Get your free quotes here.",
-    "Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas.",
-    "EnergySage helps you get the best price possible on a home solar installation for free and without hassel."
-   ],
-   "lede": "Tesla pulled the Dual Motor and Premium Cybertruck from its US configurator and raised the Cyberbeast to $109,990, up 57% from the August entry price.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RT2t2dEtrR2hka0xUY1pKYWdXNWlUak54NUsyQU5ENW5XWVRRVHdhLW95WVY1NHRERlplSWlzdnZiaG1OOFpPNDlZYm02VkVyZkN0RElhbWY1NFpvVklfcXlfdEI?oc=5",
-   "title": "Where Rising Electricity Prices Showed Up in the Blue Wave",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-13T18:07:03+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTJYMWdEVHFDV3FURUQ3RmpMYlY0UkV4a2gwZ3lXa080ZnBKZGdtakFaUk4xejFRNWRaWm43ZE5SdWdjcDR6VFU5ZFNxc2RvTmtPbWVoQ1g4WlRHZjhuWVBzUnBWOGQ1QjhXWlpYN2pDeTByQTlSWmNHbk1PQTdOejBSMDlNUkhpdmktRl94b0JpbHhRSG1oTjVHaExQMnoxUWo2dDJsaHZCV1J4UEs2NHBQaVU?oc=5",
-   "title": "Silver demand seen down 5% this year due to weaker jewellery purchases",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-13T18:05:26+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnMtTGw2a0JPSHFrTDN0RTQ2Z0pMeUMxQktWVThieTFrdzV2T3ZZRDJ5ODV5b3Nnc3dMX0lXc2tQcTM3amJEVTJXRXE1dmtHQk0yWkpoM2dNU2pvRGZ5MFRJS2FVZkh1SVZWbDFIbjMyZ0FNaHNVYTZpYU1wZnJmb1BON2c?oc=5",
-   "title": "Harnessing the winds",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-13T17:56:11+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/hyundai-overhauling-kona-ev/",
-   "title": "Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T17:47:19+00:00",
-   "seen": "2026-11-22T15:19:53+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Hyundai is skipping the typical mid-cycle refresh and plans to launch a completely redesigned Kona, with a sleek new style...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Hyundai is skipping the typical mid-cycle refresh and plans to launch a completely redesigned Kona, with a sleek new style and an updated high-tech interior.",
-    "It’s been nearly four years since Hyundai introduced the second-generation Kona, meaning, like most of its models, the compact SUV was expected to receive a mid-cycle refresh.",
-    "Hyundai is apparently going straight to the third-generation model instead. Earlier this year, early-stage prototypes were spotted in Korea that looked much boxier and more rugged than the current Kona.",
-    "Since then, several test mules have been captured testing in the US, Europe, and other regions, confirming the Kona will adopt a more upright, traditional SUV design similar to the new Santa Fe, Palisade, and Tucson.",
-    "The wider, more powerful design appears to draw inspiration from Hyundai’s off-road Crater Concept, revealed at the LA Auto Show last year.",
-    "Hyundai said the off-road SUV Concept was a preview of the “next evolution” of its Extreme Rugged Terrain (XRT) vehicles, such as the IONIQ 5 XRT and Palisade XRT Pro. Is the Kona next in line to receive the XRT treatment?",
-    "Apparent leaked images from a few months ago revealed a design that looked like a mashup of the Crater Concept and IONIQ 5, with pixelated lighting and a clamshell hood.",
-    "Most recently, the third-gen Hyundai Kona, codenamed “SX3,” was spotted disguised in a parking garage in Korea. The images were sent to ShortsCar, revealing the new Kona’s wheel design.",
-    "While earlier reports suggested Hyundai planned to drop the all-electric Kona variant and would only offer gas and hybrid versions, the prototype captured in Korea is expected to be the EV model. However, Hyundai has yet to confirm powertrain or battery specs.",
-    "The updates are even more evident on the inside. Previous spy images appeared to show the third-gen Hyundai Kona running Hyundai’s new Pleos Connect infotainment system, like the IONIQ 3."
-   ],
-   "lede": "Hyundai is skipping the typical mid-cycle refresh and plans to launch a completely redesigned Kona, with a sleek new style and an updated high-tech interior.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/electrification/electrify-everything-cop31-climate-conference",
-   "title": "‘Electrify everything’ hits the global stage",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-13T16:14:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "The world gets most of its power from fossil fuels. Mass electrification, promoted by this year’s climate conference, is still a climate solution.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/GettyImages-2304574077.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=6e269aab1418de10509b4af69fb7b7a8",
-   "paragraphs": [
-    "World leaders — well, some of them — gathered in Turkey this week for COP 31, the annual climate conference, for discussions focused on how we power our world. Specifically, conference organizers proposed that attendees join in on a goal of meeting 35 % of the world’s final energy demand with electricity by 2035, up from just over 20 % today.",
-    "Achieving that target demands participation from across the global economy. Everyday drivers and shippers will need to replace gasoline- and diesel-powered cars and trucks with plug-in alternatives. Manufacturers will need to swap in industrial heat pumps and electric boilers. Steel and ironmakers must embrace electric arc furnaces and other cleaner technologies.",
-    "But if the power that supplies all those electric vehicles, heat pumps, and furnaces comes from fossil fuels, will electrification still make a dent in global emissions? Yes, and there are a few reasons why.",
-    "For one, electrification is a necessary step to ditching fossil fuels. And it can take a long time to make the switch, whether it’s your home’s heating or an industrial-scale system providing steam to a factory. Getting more homes and processes electrified now means a larger portion of the world’s energy demand will be cleaned up as soon as more renewables arrive on the grid.",
-    "Electric-powered machines are also way more energy efficient than fossil-fueled options, as energy and climate policy expert Jan Rosenow has explained. A lot of energy gets wasted when you burn fossil fuels, particularly in small localized applications like a boiler that heats up a home. But you can get the same result with less fuel — and fewer carbon emissions — if you burn natural gas at a big power plant and then use that electricity to power a heat pump.",
-    "Electrification has a benefit beyond emissions, too — one that has become especially pertinent as the war in the Middle East has sent global oil and gas prices through the roof. It lets countries reduce their reliance on imported fossil fuels.",
-    "In Europe and Asia, people have responded by buying electric stoves and cars to curb their reliance on imported oil and natural gas. And the EU, learning both from the Iran war and the ongoing struggle in Ukraine, announced plans in July to ramp up electricity’s share of energy use to 46 % by 2040.",
-    "Whatever comes out of this year’s COP meeting, expect these climate, efficiency, and security benefits to keep nudging countries toward ever-greater levels of electrification.",
-    "The Senate’s bipartisan permitting bill passed its first big test this week as legislators voted 73 - 25 to formally take up the proposal. The bill as written would speed up permitting timelines for transmission, clean energy, and fossil fuel projects, but it’s likely to undergo a lot of edits before it becomes law.",
-    "Monday’s vote was the Senate’s first since Election Day, when it became clear Democrats would have resounding majorities in both houses of Congress next year. Many Democratic senators voted against advancing the permitting bill, with some saying they could use their newfound power to beef up the legislation’s clean energy benefits — and address concerns that the bill is too generous to fossil fuel interests."
-   ],
-   "lede": "The world gets most of its power from fossil fuels. Mass electrification, promoted by this year’s climate conference, is still a climate solution.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/here-are-the-coolest-e-motorcycles-and-gear-we-saw-at-eicma-2026/",
-   "title": "Here are the coolest e-motorcycles and gear we saw at EICMA 2026",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T15:39:00+00:00",
-   "seen": "2026-11-22T15:19:53+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Livewire-customized-s4-eicma-2026-1.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase. That means that all of the newest electric motorcycle announcements happen in one place, and we get a chance to check out the coolest developments and most interesting new gear.",
-    "Below is a list of the best things I saw while walking around the show this year, presented in no particular order.",
-    "LiveWire came to EICMA with perhaps its most diverse electric two-wheeler lineup yet, showing just how far the company has expanded beyond the premium electric motorcycles that originally defined the Harley-Davidson spin-off.",
-    "The new S4 Honcho family was a major focus, including the street-oriented Honcho Street, off-road Honcho Trail, and newly unveiled Honcho Skate, a stripped-down addition to the modular platform. The booth also included LiveWire’s larger S2 electric motorcycles, creating a pretty broad spectrum from lightweight urban machines up through full-size highway-capable electric motorcycles.",
-    "The other big piece of the booth was DUST Moto, which LiveWire acquired earlier this year. The production-intent DUST Hightail was displayed alongside the newly revealed DUST Spur, giving LiveWire an immediate presence in the increasingly popular lightweight electric dirt bike category.",
-    "Add in STACYC’s electric balance bikes for young riders, and the entire booth almost looked like an electric two-wheeler progression chart: start a kid on a STACYC, move up through lightweight DUST and Honcho machines, and eventually graduate to a full-size LiveWire.",
-    "GR1T Motorcycles is a relatively young European electric motorcycle startup that caught my eye at EICMA with its G1 platform, a lightweight electric motorcycle designed and engineered in Italy. The basic recipe is pretty compelling: 130 km/h (81 mph) top speed, 11 kW of continuous power and 26.6 kW (36 hp) peak, all while weighing just 130 kg (287 lb).",
-    "Perhaps most importantly for urban riders, its roughly 6 kWh battery is actually split into two removable 3 kWh packs, meaning apartment dwellers can pull the batteries out and charge them inside. They’re big, but removing them is doable.",
-    "GR1T’s bikes therefore pack in around 50% more battery capacity than most electric motorcycles in this size and weight class, meaning roughly 50% more range, as well.",
-    "There are also some interesting and clever design choices, like the underslung rear suspension and the triple-camera system that includes front and rear dashcams plus a cockpit-facing camera for recording the rider."
-   ],
-   "lede": "Every year, the world’s largest motorcycle companies (and plenty of the world’s smallest motorcycle companies, too) converge on Milan, Italy for Europe’s premier motorcycle showcase.",
-   "tags": [
-    "industry"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/meta-to-deploy-25-electric-semi-trucks-across-i-10-corridor-but-has-nothing-to-ship/",
-   "title": "Meta to deploy 25 electric semi trucks across I-10 corridor, but has nothing to ship",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T15:34:20+00:00",
-   "seen": "2026-11-22T15:19:53+00:00",
-   "cats": [
-    "News",
-    "electric trucks",
-    "heavy equipment",
-    "logistics"
-   ],
-   "description": "Electric truck operator Nevoya is expanding its deal with Meta with the fresh deployment of 25 Class 8 battery-electric trucks...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/nevoya_MAIN.jpg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "Electric truck operator Nevoya is expanding its deal with Meta with the fresh deployment of 25 Class 8 battery-electric trucks on the Interstate 10 (I-10) between San Bernardino, California and Phoenix, Arizona … but Meta won’t be shipping any products.",
-    "The second major trucking deal between Facebook parent company Meta and electric truck operator Nevoya will put 25 new battery-electric semis on I-10, running freight between San Bernardino, California and Phoenix, Arizona. But Meta isn’t buying trucks, hiring drivers or shipping its own products. Instead, Zuck’s company helping pay for someone else’s cleaner freight through environmental attribute certificates (EACs), a carbon credit mechanism that lets companies claim the emissions benefits of electric trucking without operating the trucks themselves.",
-    "“Coming back to Nevoya for a second corridor reflects what we look for in our value chain work: partners that can scale, and agreements we can repeat, said Devon Lake, Head of Net Zero Strategy, Meta. “Freight is part of the emissions footprint of building and operating our data centers, and multi-year commitments like this help address our scope 3 emissions and make electric trucking available and competitive on the routes that serve the regions where we build.”",
-    "Meta was one of several buyers in the DC-based Center for Green Market Activation (GMA) buyers’ alliance. The group’s collective EAC purchases supported Nevoya’s initial 63-truck deployment on the Houston–Dallas corridor back in May. This new Agreement, however, is a standalone deal between Nevoya and Meta only, and gives Meta an established framework to open more electric truck corridors in the future.",
-    "This clever application of these agreements is what makes the Dallas-Houston run stand out, with GMA calling it, “the first large-scale application of book and claim to zero-emission trucking.” The company adds that this arrangement helps client companies overcome existing barriers to EV adoption while enabling Nevoya to deploy new trucks, “where they deliver the strongest commercial and operational value.”",
-    "Yuck. That's the feeling I get when reading this. Am I happy that more EV semi's will be going on the road? Yes. But the way it's being done just makes me feel dirty. And I refuse to do or have anything that Mark Zuckerberg is involved with. I find him to be disgusting. But then again I find most of these super wealthy people to be vomit inducing.",
-    "So I'd liken this deal to a guy who goes out to a bar with the sole intention of \"having some fun\". And it doesn't matter to him how that happens, as long as he gets his happy ending. But then when the sun rises and the darkness vanishes, who this guy slept with is revealed and it's not good.",
-    "Nevoya expects Meta’s fresh batch of semis to begin prowling I-10 in 2027, where they’ll cover approximately 4 million freight miles annually.",
-    "If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them."
-   ],
-   "lede": "Electric truck operator Nevoya is expanding its deal with Meta with the fresh deployment of 25 Class 8 battery-electric trucks on the Interstate 10 (I-10) between San Bernardino, California and Phoenix, Arizona … but…",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/tesla-kills-41990-model-y-awd-configurator/",
-   "title": "Tesla kills $41,990 Model Y AWD: all-wheel drive now costs $8,000 more",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T15:32:28+00:00",
-   "seen": "2026-11-22T15:19:53+00:00",
-   "cats": [
-    "News",
-    "Tesla",
-    "Tesla Model Y"
-   ],
-   "description": "Tesla has pulled the $41,990 Model Y All-Wheel Drive from its US online configurator. The cheapest dual-motor Model Y you...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Model-Y-Standard.png?resize=1200,628",
-   "paragraphs": [
-    "The trim lasted just over nine months. Tesla launched it in early February, and it’s gone without a word from the company.",
-    "Here’s what Tesla’s US Model Y design studio lists as of today (prices before the destination fee):",
-    "If you live somewhere it snows and you were shopping for a new Model Y, the math just got a lot worse. You can still find some base AWD units in Tesla’s inventory, but once those are gone, that’s it.",
-    "There are two plausible reasons. Either Tesla is tight on Model Y build slots and would rather fill them with higher-margin Premium trims, or the cheap AWD simply wasn’t selling. We don’t know which. But both explanations land in the same place for buyers: a more expensive Model Y.",
-    "Tesla is not going to keep 6 different model Y trims especially when the most expensive trim in the Model YL is selling. They will definitely squeeze out as much money from selling more expensive trims so the lowest end trim will most likely be next to go.",
-    "And Tesla has a habit of this. The “Standard” name for its cheaper Model Y and Model 3 lasted a few months. The single-motor Cybertruck, the only version that made sense, was gone within days. Cheaper trims show up, get a news cycle, and quietly disappear.",
-    "That’s a problem for a company whose consumer lineup is shrinking down to two cars. The Model Y is Tesla’s volume. Thinning it out at the bottom is the opposite of what you’d do if growing EV sales were the priority.",
-    "If you’re buying an EV, powering it with home solar can cut your fuel costs to nearly zero. With electricity rates up almost 10% last year and expected to keep climbing, going solar is one of the best ways to protect yourself against rising costs. And with lease and PPA options, you can do it with zero upfront cost and start saving immediately. If you want to find the best deal, check out EnergySage. It’s a free service with hundreds of pre-vetted installers competing for your business, so you save 20 to 30% compared to going it alone. No sales calls until you pick an installer. Get your free quotes here.",
-    "Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas.",
-    "EnergySage helps you get the best price possible on a home solar installation for free and without hassel."
-   ],
-   "lede": "The trim lasted just over nine months. Tesla launched it in early February, and it’s gone without a word from the company.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/the-next-phase-of-ess-lg-energy-solutions-strategy-for-an-evolving-energy-market/",
-   "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-13T14:14:09+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "Features",
-    "Interviews",
-    "aidc",
-    "data centre",
-    "digital twin",
-    "ldes",
-    "lg energy solution",
-    "lg es"
-   ],
-   "description": "Chang Beom Kang, Head of the ESS Battery Division at LG Energy Solution, discusses his view of the changing market and the company's strategy for future growth.",
-   "ftries": 1,
-   "lede": "Chang Beom Kang, Head of the ESS Battery Division at LG Energy Solution, discusses his view of the changing market and the company's strategy for future growth.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/zonveer-zx3-review-1299-electric-dirt-bike-beginners/",
-   "title": "Zonveer ZX3 review: one of the best-value electric dirt bikes for beginners",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T14:06:44+00:00",
-   "seen": "2026-11-22T15:19:53+00:00",
-   "cats": [
-    "News",
-    "Review"
-   ],
-   "description": "Zonveer ZX3 review: a 2,800W electric dirt bike with a 1,200Wh battery for $1,299 on sale, and one of the best values for beginners.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Zonveer-ZX3-1.jpeg?quality=82&strip=all&resize=1200,628",
-   "paragraphs": [
-    "For that money, you get a 1,200Wh battery, dual hydraulic disc brakes, and full suspension in a 130 lb package. That’s a great entry point for beginners.",
-    "Zonveer is a young brand. It launched in the US in March with two bikes, the kid-sized DX1 and the ZX3, and it’s run by United Mobility, which lists its address in Dover, Delaware. It sells direct and ships from US warehouses, and Zonveer also sells the ZX3 across Europe under its own brand through its EU store.",
-    "A hub motor means there’s no motor chain to maintain, and the NFC card and PIN unlock mean there’s no app to fight with. I like that.",
-    "Zonveer sent me a ZX3 to test, and I’m impressed with what they shipped, knowing the cost. It isn’t trying to be a race bike. And it doesn’t need to be. Here’s my first ride review:",
-    "With 2,800W peak, it’s somewhat modest by e-moto standards. That’s exactly what makes it approachable for someone who has never ridden a dirt bike: the power is enough to have a blast on trails without being intimidating.",
-    "My girlfriend had never ridden a dirt bike before, and she got comfortable within a few minutes, and she was hooked as soon as she got the hang of it.",
-    "And while testing with my girlfriend, it was clear this bike makes the most sense for lighter riders. Zonveer claims it climbs slopes of up to 30 degrees, which is optimistic for anyone over ~175 lbs, like myself. It still climbed some of the worst slopes on my land, but it did so with some difficulty, which wasn’t the case for some of my lighter friends who also rode it.",
-    "Range is the other claim to take with a grain of salt. Riding 45 miles on 1,200Wh means using under 27Wh per mile, which is e-bike efficiency on a 130 lb dirt bike with knobby tires. It’s still a lot of energy, and you can ride this long distances at lower speeds. Just expect less if you ride it hard, and that’s where the fun is at.",
-    "It’s not fast by e-moto standards, and the range and climbing claims are optimistic. But for beginners, and especially lighter riders, the power lands right in that sweet spot of manageable fun. It’s a bike you can learn on without scaring yourself, and it’s cheap enough that a family can buy two for less than one Sur-Ron.",
-    "Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas."
-   ],
-   "lede": "Zonveer ZX3 review: a 2,800W electric dirt bike with a 1,200Wh battery for $1,299 on sale, and one of the best values for beginners."
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
-   "title": "Hydropower generation in the Southwest fell to record lows this summer",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-11-13T14:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.11.13/main.png?1795094640",
-   "paragraphs": [
-    "Data source: U.S. Energy Information Administration, Form EIA-923, Power Plant Operating Data Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the Southwestern electricity supply region, which includes Arizona, New Mexico, and small parts of Nevada and California. Hydropower generation from April through August 2026 was 19% lower than during the same period last year and 28% lower than the 10-year average, according to the latest data from our Form EIA-923 survey.",
-    "Water elevations at Lake Powell and Lake Mead, which are formed by the Glen Canyon Dam and Hoover Dam, respectively, hit record lows. To be able to generate hydropower at the Glen Canyon Dam, Lake Powell should have an elevation of at least 3,490 feet, also known as the minimum power pool. At the end of September, this elevation reached 3,518 feet, less than 1% above minimum power pool. The Hoover Dam requires an elevation of at least 950 feet at Lake Mead, which by the end of September reached 1,038 feet, 9% higher than minimum power pool. The U.S. Bureau of Reclamation manages most dams across the Colorado River Basin. Seven states (Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming) depend on the river for hydropower generation and for other water supply needs. To mitigate the risk of Lake Powell’s water elevation falling below the minimum power pool, water was released from Flaming Gorge, a reservoir located in the Upper Colorado River Basin. Additionally, water releases from Lake Powell were reduced to maintain an elevation of at least 3,510 feet given the most probable water inflows.",
-    "However, lower water releases from Lake Powell could also impact water elevation downstream at Lake Mead, in turn affecting hydropower generation at the Hoover Dam. To address this possibility, the Department of the Interior decided to reduce the collective water consumption of California, Arizona, and Nevada by 1.25 million acre-feet each year over the next two years.",
-    "We expect hydropower generation in the Southwest will total 6.13 billion kilowatthours (BkWh) in 2026 in our November Short-Term Energy Outlook (STEO), 9% lower than last year and 24% lower than the 10-year average. In 2027, we expect hydropower generation in the Southwest to total 6.1 BkWh, 0.5% lower than this year. This year’s El Niño could bring more precipitation than normal, providing some drought relief and improving the hydropower generation forecast in the region. However, one good water year likely won't eliminate the effects of multiple years of water scarcity.",
-    "According to the STEO, hydropower generation in the Southwest is expected to account for about 4% of the region's generation mix in 2026. That share has declined from a peak of 8% in 2011.",
-    "Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.",
-    "Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions."
-   ],
-   "lede": "Data source: U.S. Energy Information Administration, Form EIA-923, Power Plant Operating Data Prolonged drought conditions affecting the Colorado River Basin led to record low hydropower generation this summer in the…",
-   "tags": [
-    "policy",
-    "power"
-   ]
   }
  ],
  "dropped": []
