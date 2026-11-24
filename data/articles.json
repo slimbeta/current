@@ -1,49 +1,526 @@
 {
- "updated": "2026-11-24T00:53:18+00:00",
+ "updated": "2026-11-24T10:56:55+00:00",
  "briefing": {
-  "headline": "The grid, battery storage and solar",
-  "period": "Nov 17–23",
-  "made": "2026-11-23T12:47:31+00:00",
+  "headline": "The grid, solar and AI’s power demand",
+  "period": "Nov 18–24",
+  "made": "2026-11-24T10:56:55+00:00",
   "bullets": [
    {
-    "text": "Negative wholesale power prices are a useful investment signal for batteries and demand response in Europe only where subsidy design and grid bottlenecks are not distorting them, says a new Eurelectric report.",
-    "source": "pv magazine",
-    "url": "https://www.pv-magazine.com/2026/11/23/europe-turns-negative-electricity-prices-into-a-flexibility-signal/",
+    "text": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers.",
+    "source": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/",
     "theme": "the grid"
    },
    {
-    "text": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
-    "source": "Energy-Storage.news",
-    "url": "https://www.energy-storage.news/bess-overbuild-or-augmentation-which-strategy-wins/",
-    "theme": "battery storage"
-   },
-   {
-    "text": "This spring, when North Carolina’s top utility regulator abruptly canceled bidding for new Duke Energy large solar contracts for 2026, critics filed an array of legal motions in protest, calling the unilateral order…",
-    "source": "Canary Media",
-    "url": "https://www.canarymedia.com/articles/solar/2026-year-of-lost-solar-north-carolina",
+    "text": "A Bangladeshi power producer and an international infrastructure investor plan to build a 45 MW solar plant in Chittagong district at a cost of about $45 million, with output sold to the state utility.",
+    "source": "pv magazine",
+    "url": "https://www.pv-magazine.com/2026/11/24/bangladesh-developer-plans-45-mw-solar-plant-with-foreign-funding/",
     "theme": "solar"
    },
    {
-    "text": "Verse CEO Seyed Madaeni on the flexibility fix for AI’s power crunch.",
-    "source": "Latitude Media",
-    "url": "https://www.latitudemedia.com/news/data-centers-need-to-earn-their-power/",
+    "text": "The approval is drawing fresh criticism of Ohio’s permitting process, which has seen renewable energy projects denied or blocked due to local objections.",
+    "source": "Canary Media",
+    "url": "https://www.canarymedia.com/articles/data-centers/ohio-oks-gas-plant-for-data-centers",
     "theme": "AI’s power demand"
    },
    {
-    "text": "With declining sales, annual capacity cuts approaching a million units, and a wave of affordable Chinese competitors entering Western markets, Volkswagen is facing down its own mortality.",
-    "source": "Electrek",
-    "url": "https://electrek.co/2026/11/23/if-you-cant-beat-em-vw-to-export-300000-chinese-built-cars-per-year-by-2030/",
-    "theme": "China"
+    "text": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
+    "source": "Energy-Storage.news",
+    "url": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
+    "theme": "battery storage"
    },
    {
-    "text": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
-    "source": "Utility Dive",
-    "url": "https://www.utilitydive.com/spons/the-grids-hidden-bottleneck-engineering-capacity/874856/",
+    "text": "The Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation.",
+    "source": "Electrek",
+    "url": "https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/",
     "theme": "clean-energy finance"
+   },
+   {
+    "text": "Gov.-elect Jocelyn Benson and Democratic lawmakers want to tie utility profits to reliability, and pause new data center builds.",
+    "source": "Latitude Media",
+    "url": "https://www.latitudemedia.com/news/michigan-is-a-test-bed-for-democrats-energy-affordability-promises/",
+    "theme": "power prices"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/bangladesh-developer-plans-45-mw-solar-plant-with-foreign-funding/",
+   "title": "Bangladesh developer plans 45 MW solar plant with foreign funding",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T10:45:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Finance",
+    "Utility-scale"
+   ],
+   "description": "A Bangladeshi power producer and an international infrastructure investor plan to build a 45 MW solar plant in Chittagong district at a cost of about $45 million, with output sold to the state utility.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/tushar-das-EqE99MUK9Ng-unsplash-scaled.jpg",
+   "paragraphs": [
+    "Bangladeshi conglomerate Baraka Group and international infrastructure investment firm Private Infrastructure Development Group (PIDG) have agreed to jointly set up a 45 MW solar power plant in Fatikchhari subdistrict, in Bangladesh’s Chittagong district.",
+    "Baraka Power already supplies 265 MW of electricity to the national grid. The group also has businesses in the apparel, healthcare, securities, and education sectors.",
+    "Faisal Ahmed Chowdhury, chairman of Baraka Power, said the project is being implemented through large-scale investment in foreign currency, which will have a positive impact on the country’s economy.",
+    "“PIDG’s investments in Bangladesh’s power and renewable energy sectors would continue to grow in the future,” he said.",
+    "He also said the company is committed to implementing more eco-friendly power projects, in line with the government’s goal of generating 20% of electricity from renewable sources by 2030.",
+    "PIDG has previously invested in Bangladesh’s renewable energy and agriculture sectors. In 2020, it arranged loans for the country’s first utility-scale solar plant, the 20 MW Teknaf Solartech facility.",
+    "“The project had significant market-level benefits: it now serves as an open-source framework to inspire replication by other developers, and also serves as a case study for local lenders,” said PIDG.",
+    "Bangladesh now has 2,210 MW of renewable generation capacity, including 1,917 MW of solar.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "A Bangladeshi power producer and an international infrastructure investor plan to build a 45 MW solar plant in Chittagong district at a cost of about $45 million, with output sold to the state utility.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
+   "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-24T10:26:24+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "Features",
+    "Interviews",
+    "batterymanagement",
+    "BatteryManagementEurope",
+    "degradation",
+    "italy",
+    "macse",
+    "RTE"
+   ],
+   "description": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
+   "ftries": 1,
+   "lede": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/solar-and-storage-insolvencies-hit-larger-german-companies/",
+   "title": "Solar and storage insolvencies hit larger German companies",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T10:00:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Bankruptcies",
+    "Energy Storage",
+    "Utility-scale"
+   ],
+   "description": "Solar and storage companies accounted for 10 of Germany’s 103 major corporate insolvencies in the third quarter of 2026, with cases increasingly involving project developers and battery manufacturers alongside installers and distributors, according to consultancy Falkensteg.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Insolvenz_Schild_Symbolbild.jpg",
+   "paragraphs": [
+    "A total of 103 companies filed for insolvency between July and September, down 3% from the previous quarter and 18% year on year, according to Falkensteg’s quarterly report, published on Monday.",
+    "Photovoltaic and storage companies accounted for almost 10% of those cases, a significant increase from two in the second quarter of 2026 and seven in the same period a year earlier. Although the sector recorded 13 major insolvencies in the first nine months of 2026, compared with 16 in the same period of 2025, the size and distribution of the affected businesses have changed.",
+    "Alongside installation and trading companies, project developers and battery storage manufacturers are now facing insolvency proceedings. Falkensteg’s analysis found that four of the 10 cases involved solar and wind project developers, three involved battery and storage system manufacturers, and three involved installation and trading companies.",
+    "Two of the 10 companies, Enerparc and Varta, each had group revenue exceeding €750 million, making them the largest insolvency cases of the quarter by revenue, Falkensteg said. However, Varta’s residential photovoltaic storage business is not included in its insolvency proceedings.",
+    "The reasons for the filings also differed. Varta cited a financing shortfall at its parent company, weaker demand and the loss of a key customer. Enerparc, meanwhile, was unable to secure financing for battery storage projects.",
+    "Falkensteg partner Jonas Eckhardt, who authored the report, said the number of cases had fallen but the largest insolvencies had become more significant. While installation companies were particularly affected in 2025, project developers and battery storage manufacturers have increasingly come under pressure in 2026.",
+    "Eckhardt said the storage market was expanding rapidly while newly installed photovoltaic capacity had stagnated. Both business models require substantial capital, while revenues can fluctuate considerably. He identified financing as the main constraint, adding that uncertainty over Germany’s planned amendments to its Renewable Energy Sources Act (EEG) and its grid package was making projects difficult to assess and finance.",
+    "Falkensteg expects further major insolvencies in the current quarter. Sonnen and Energiekonzepte Deutschland, among others, filed for preliminary insolvency proceedings in October. However, Eckhardt does not expect the sector to reach its 2025 total of 21 insolvency filings by the end of this year.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Solar and storage companies accounted for 10 of Germany’s 103 major corporate insolvencies in the third quarter of 2026, with cases increasingly involving project developers and battery manufacturers alongside…",
+   "tags": [
+    "industry",
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energymonitor.ai/news/ais-wins-contract-shinan-ui-wind-farm/",
+   "title": "AIS wins contract for cable protection at 390MW Shinan-Ui wind farm",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-24T09:47:28+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "AIS has secured a contract to provide cable protection systems (CPS) and bellmouths for the Shinan-Ui Offshore Wind Farm in South Korea.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/AIS-CPS.jpg",
+   "paragraphs": [
+    "UK-based manufacturer AIS has secured a contract to provide cable protection systems (CPS) and bellmouths for the Shinan-Ui Offshore Wind Farm (OWF) in South Korea.",
+    "The agreement, made with LS Marine Solution, involves the supply of 55 NjordGuard CPS and 54 associated bellmouths.",
+    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+    "These components will be used to protect the network of inter-array and export cables at the wind farm, located about 4km south of Uido Island.",
+    "The 390MW Shinan-Ui OWF will feature 26 offshore wind turbine generators, each with a capacity of 15MW.",
+    "Electricity generated by the turbines will be transferred to an offshore substation using 66kV inter-array cables, before transmission to the mainland through two 154kV export cables.",
+    "AIS’s NjordGuard systems are intended to safeguard the submarine cables connecting the turbines and the substation. They aim to protect cable integrity from environmental forces, abrasion, over-bending, and other operational challenges during the project’s expected 28-year lifespan, stated the company.",
+    "Manufacturing for the NjordGuard CPS and bellmouths will take place at AIS’s facility in the north-west of England.",
+    "Engineering for the project is set to begin immediately, with delivery of the systems to South Korea scheduled to be completed by August 2027.",
+    "AIS senior sales engineer Michael Simmons said: “We are delighted to have secured this contract with LS Marine Solution for the Shinan-Ui Offshore Wind Farm. It is another great opportunity to demonstrate the capabilities of our NjordGuard systems and bellmouth solutions."
+   ],
+   "lede": "AIS has secured a contract to provide cable protection systems (CPS) and bellmouths for the Shinan-Ui Offshore Wind Farm in South Korea.",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/chinese-listed-energy-storage-firms-chint-power-eve-energy-announce-ups-lfp-capacity-additions/",
+   "title": "Chinese listed energy storage firms Chint Power, EVE Energy announce UPS, LFP capacity additions",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-24T09:44:39+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "News",
+    "china",
+    "chint power systems",
+    "data centre",
+    "eve energy",
+    "lfp",
+    "listed companies",
+    "manufacturing"
+   ],
+   "description": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
+   "ftries": 1,
+   "lede": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
+   "tags": [
+    "china",
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVRXRXNVdWlUSW15d2NMVU05NU5JU2t5MnNldjZPMDNycFAzU2syZTNqdmdOVHFHQzJmMFVKMlpaYXlmNUxvWk9qZWhPcmNtNGgzamFuQ3Z5ZE1fUkk4S3Uwai1yUHk1VW9yOHlRTjl4bHJWTVRNS1ExWXN3UG5VSGIxVXhmU0Vtb05GY2R4dU9uOHNYcVRxZEFpelV2c1RjemlHb09FR0pCUzQ?oc=5",
+   "title": "EV Surge Helps Europe Auto Sales Gains to Nine-Month Run",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-24T09:26:28+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/apa-starts-work-on-104mwh-solar-plus-storage-project-in-australia/",
+   "title": "APA starts work on 104MWh solar-plus-storage project in Australia",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-24T09:24:23+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "News",
+    "APA",
+    "APA group",
+    "australia",
+    "battery energy storage",
+    "battery storage",
+    "bess",
+    "co-location"
+   ],
+   "description": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
+   "ftries": 1,
+   "lede": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/residential-solar-linked-to-reduced-health-risks-from-extreme-temperatures/",
+   "title": "Residential solar linked to reduced health risks from extreme temperatures",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T09:18:43+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "Research & Development",
+    "Highlights",
+    "Japan",
+    "Residential"
+   ],
+   "description": "Research from Japan finds residential solar installations can offer protection against heat-related mortality by making electricity more affordable for households to run air conditioning.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/tuan-p-nZpUn9cOnq4-unsplash-e1795511188845.jpg",
+   "paragraphs": [
+    "Residential solar installations can mitigate the mortality risks associated with extremely hot temperatures, according to new research.",
+    "Researchers Yi-Chun Ko from the Asian Growth Research Institute and Shinsuke Uchida from Japan’s Doshisha University explored how residential solar can make electricity more affordable to run air conditioning when electricity prices spike due to factors such as supply disruptions, geopolitical shocks or extremely hot weather.",
+    "Their findings are presented in the research paper Climate resilience through residential solar energy: Reducing health risks from extreme temperatures, available in the journal Social Science & Medicine. According to Uchida, it marks the “first causal evidence that household solar PV can also work as a public health intervention, reducing heat-related mortality through improved energy affordability”.",
+    "Ko and Uchida used the 2011 Great East Japan Earthquake as a natural experiment. The shutdown of nuclear power plants following the earthquake contributed to electricity price increases of up to 38%, while Japan simultaneously promoted residential solar PV through a nationwide subsidy program.",
+    "The pair combined monthly prefecture-level mortality data from 44 Japanese prefectures between 2009 and 2014 with weather data and official solar installation figures. They then used an instrumental variable approach to isolate the effects of solar PV adoption from other factors that might influence household health outcomes.",
+    "The results showed that residential solar PV adoption significantly reduced mortality associated with extreme heat, with the greatest impact observed among people aged 65 and above.",
+    "Based on the annual average growth rate of solar PV installations during the study period, the researchers estimated that excess deaths associated with extremely hot days were reduced by approximately 8.2% annually for the overall population and 8.5% for people aged 65 and above.",
+    "The protective effects of residential solar were also stronger in warmer prefectures, those that experienced greater electricity price increases following the 2011 earthquake, and areas subject to stricter energy conservation targets. No comparable effects were observed at cold temperatures, which the researchers attributed to solar PV’s stronger generation profile during sunnier and warmer weather.",
+    "Analysis from the research paper says these findings “show that distributed renewable energy provides direct health protection during climate extremes”.",
+    "“By relaxing households’ electricity affordability constraints, solar PV improves their ability to maintain safe indoor environments when cooling demand is highest,” it explains. “Our findings reframe residential solar PV from a primarily environmental intervention into a multifaceted tool for climate resilience that addresses the interlinked challenges of energy security, public health, and climate adaptation.”"
+   ],
+   "lede": "Research from Japan finds residential solar installations can offer protection against heat-related mortality by making electricity more affordable for households to run air conditioning.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/rainfall-alone-cannot-eliminate-bird-dropping-soiling-on-solar-panels-study-finds/",
+   "title": "Rainfall alone cannot eliminate bird-dropping soiling on solar panels, study finds",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T09:15:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "Research & Development",
+    "Commercial & industrial",
+    "Modules",
+    "Residential",
+    "Utility-scale"
+   ],
+   "description": "An international research team has found that bird-dropping soiling can cause annual PV performance losses of around 6%. The researchers also found that conventional soiling models underestimate these losses, highlighting the need for improved modeling approaches and cleaning strategies.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/IMG_8180-scaled.jpeg",
+   "paragraphs": [
+    "An international research team has conducted a year-long experimental study to assess the impact of bird droppings on PV system performance and has found that soiling losses stabilized after a prolonged accumulation period, remaining at consistent levels despite repeated rainfall events.",
+    "“Our paper highlights this limitation, but we cannot yet provide a solution,” corresponding author Leonardo Micheli told pv magazine. “Factors such as bird activity and proximity to nesting areas are likely to influence soiling accumulation under these conditions, but further research is needed to identify the quantitative variables that could be used to reliably model this type of soiling.”",
+    "“Our study demonstrates that a monitoring approach based on clean irradiance measurements can successfully estimate soiling losses caused by bird droppings, without the need to maintain a clean reference module,” Micheli added. “However, we also show that its accuracy depends on calibration. Furthermore, accuracy could also be influenced by operating conditions, and further validation across different sites is needed to confirm its general applicability.”",
+    "“We show that rainfall does not necessarily restore modules to clean conditions: significant soiling losses can persist even after repeated natural cleaning events,” he said. “The existence of this phenomenon has already been discussed in the literature, and our study confirms its relevance in environments affected by bird droppings, as this can be particularly difficult to remove. This challenges the common modelling assumption that rainfall effectively removes accumulated soiling and should be considered when optimizing cleaning schedules and costs. A rainy period should not be taken as evidence that PV modules are free from soiling.”",
+    "The experimental setup consisted of two monocrystalline JA Solar JAM54S30-410/MR silicon modules installed at ground level at the University of Split, Croatia. One module served as a clean reference, while the other was left to accumulate natural soiling. Both were mounted on an open rack with identical tilt, azimuth, and height to ensure comparable environmental and irradiance conditions.",
+    "The researchers conducted weekly measurements from July 2024 to July 2025. During each session, they recorded four current-voltage (I-V) curves per module using an EKO Instruments MP-11 tracer, while also measuring irradiance and module temperature. Measurements were taken near solar noon under clear skies and stable irradiance conditions, in accordance with IEC 61724-1.",
+    "The researchers calculated the soiling ratio by comparing the short-circuit currents of the soiled and clean modules. They also tested an alternative approach that estimates clean-module output using irradiance and temperature data. In addition, they evaluated three established soiling models based on particulate matter concentrations and rainfall. Two models assumed complete cleaning when daily rainfall exceeded 1 mm, while the third accounted for partial cleaning."
+   ],
+   "lede": "An international research team has found that bird-dropping soiling can cause annual PV performance losses of around 6%.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnJZcDFUVUFqQm9UemlwNXFEa05tdnNGNmZWRmE5YVd4T25IRW0yTThlNVp5SDJ3bVhVb1M0UkNTNERCNXFJNFRva3lFMjk0TmNETmFsZDZHSnI1NFZnUUp6ZERoNjVMd1pJc3hEQTViWEZRd3VtU3Rod3k2WnJ5cGFfVjNhSnJpN0x0ZDcwVm9hdEFfNmhNUmJuV3ItZkZmV3JlN2l2NFFMS0U0?oc=5",
+   "title": "EU Adopts Cap on Hybrid Cars to Help Curb Chinese Imports",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-24T09:06:37+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "policy",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/clean-energy/north-carolina-clean-transition-tariff-punt",
+   "title": "North Carolina utility regulators punt on clean transition tariff",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-24T08:30:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "description": "The mechanism would allow tech companies to build their own renewables, but the Utilities Commission has dragged its feet on directing Duke to come up…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Duke-solar-panels-Stanton-Flickr.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=77dbd7b7cd70e029d2c914aab8d4b70c",
+   "paragraphs": [
+    "For big corporations in North Carolina with ambitious climate goals, the clean transition tariff is becoming something of a white whale.",
+    "Tech firms and other large electricity consumers have long sought this special rate structure because, across most of the state, they can buy electricity only from Duke Energy, a vertically integrated monopoly utility. A clean tariff would let them contract for their own renewable electrons using Duke as a go-between, without violating the law.",
+    "In spring 2024, Duke announced its intention to pursue such a plan but never followed through. Earlier this year, the company said it would evaluate the clean tariff ​ “ in good faith,” but made no commitments.",
+    "Last month, the whale got closer than ever, when Duke said it would definitely begin negotiations on a clean tariff in early 2027. Proponents of the policy urged state officials to back up that pledge with an order and an enforceable deadline. They hoped that such a directive would be tucked somewhere in the hundreds of pages of regulatory decisions issued last week.",
+    "Instead, the state Utilities Commission, a five-member panel controlled by Republicans, offered encouragement.",
+    "“ The Commission declines at this time to direct Duke to file or propose a clean customer tariff,” its Nov. 16 order said. ​ “ The Commission nevertheless recognizes Duke’s representation that it remains willing to collaborate with interested parties. … [It] encourages Duke to work with the interested parties to work on a proposal for a Clean Transition Tariff.”",
+    "Steve Levitas, a longtime clean energy lawyer — and, briefly, a commissioner himself — welcomed the verbiage but called it insufficient.",
+    "“ This issue is just too important to leave to Duke’s discretion,” said Levitas, now the interim executive director of New Energy Economics, a nonprofit that provides expert testimony in state regulatory proceedings.",
+    "Levitas testified this year on behalf of the Corporate Energy Buyers Association, whose 300 -plus business members run the gamut from hospitality to manufacturing to tech companies.",
+    "“ All CEBA and many other interveners asked the commission to do was to require Duke to file a new, voluntary customer program,” Levitas said. ​ “ That wasn’t really a huge ask.”"
+   ],
+   "lede": "For big corporations in North Carolina with ambitious climate goals, the clean transition tariff is becoming something of a white whale.",
+   "tags": [
+    "policy",
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai/",
+   "title": "Japanese utility to forecast perovskite window output with AI",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T08:30:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "Technology & Products",
+    "Artificial Intelligence",
+    "perovskites"
+   ],
+   "description": "Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/stefan-szankowski-YhPvHDtX-ZQ-unsplash-scaled.jpg",
+   "paragraphs": [
+    "Japanese utility Kansai Electric Power has signed a basic agreement with Kansai University, Panasonic Holdings, Panasonic Environmental Engineering, and Kanden Energy Solution to demonstrate Panasonic’s glass-based perovskite solar cells on a working building.",
+    "Fourteen modules will be installed in the window frames of a building at the university’s Takatsuki Muse Campus in Takatsuki, Japan’s Osaka prefecture. The partners will collect and analyze generation data under real building and weather conditions, and use the trial to assess installation and operating methods.",
+    "Kansai Electric will coordinate the project and use SenaSon, its AI-based energy management service, to forecast the modules’ output from weather and other conditions. It will then compare the forecasts with actual generation to assess their accuracy. The company did not give an accuracy target.",
+    "Panasonic Holdings will supply the modules and evaluate their performance, while Panasonic Environmental Engineering will install, operate, and maintain them. Kanden Energy Solution will handle the electrical equipment, and Kansai University will provide the site.",
+    "The partners did not disclose the modules’ size, total capacity, transparency, or efficiency. They also did not say whether the electricity will be fed into the grid or used on site.",
+    "Kansai Electric began offering SenaSon nationwide in April 2023. The service uses AI forecasts of demand and generation to control distributed resources, such as batteries, electric vehicles, and air-conditioning systems, in real time. The platform is also being used in an AI-led smart energy trial at Osaka Metropolitan University, where it is paired with a vanadium redox flow battery from Sumitomo Electric Industries.",
+    "Kansai Electric and Kansai University already have a partnership agreement covering carbon neutrality. Panasonic has tested its glass-based perovskite technology in a building in Fujisawa with Mitsui Fudosan Residential and in office windows made by YKK AP. It began selling glass-based perovskite panels for building-integrated PV ahead of full-scale mass production, which is scheduled to start in April 2029.",
+    "Japan aims to deploy around 20 GW of perovskite solar capacity by 2040, and its environment ministry plans to exclude conventional silicon panels from new subsidy programs from fiscal 2027 to prioritize perovskite and other next-generation technologies. Other window trials include a perovskite pilot at Tokyo’s Telecom Center Building, while Ricoh plans to start producing perovskite cells in Japan by 2030.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can…",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/researchers-find-up-to-2-28-annual-wave-induced-losses-in-floating-pv-systems/",
+   "title": "Researchers find up to 2.28% annual wave-induced losses in floating PV systems",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T08:00:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "Research & Development",
+    "Commercial & industrial",
+    "Modules",
+    "Utility-scale"
+   ],
+   "description": "Researchers in Norway have expanded a modeling framework to assess the impact of wave motion on floating PV performance under realistic weather conditions. Their simulations show that electrical mismatch is the main contributor to energy losses, while changes in average irradiance can produce small gains.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/07/Centrale_Lac_de_la_Madone_1.jpg",
+   "paragraphs": [
+    "A research team in Norway has expanded a model for wave-induced loss (WIL) in floating photovoltaics (FPV) that it first presented in 2025. The updated framework uses site-specific, time-correlated wave and solar irradiance data to estimate annual energy losses under realistic weather conditions, including cloudy periods.",
+    "“While the previous study enabled an understanding of the WIL effect from variations in individual parameters, this work simulates WIL throughout the year, taking into consideration the varying environmental conditions,” the researchers said. “The expanded modeling framework is used to simulate WIL, wave-induced irradiance variation (WIIV), and wave-induced mismatch loss (WIML) for the year 2023 at four nearshore locations along the Norwegian coast.”",
+    "The framework consists of four modeling steps. First, in a step added to the original model, the researchers used the SWAN wave model to generate hourly, site-specific sea-state parameters based on wind, boundary wave spectra, and bathymetric data. Second, they used their existing 3DFloat approach to simulate panel movements, assuming that each panel directly follows local wave motion. This step now accounts for changing sea states throughout the year and allows for a more flexible wave spectrum.",
+    "In the third step, the researchers used pvlib to calculate the irradiance reaching each moving panel and an equivalent stationary reference panel, accounting for panel orientation and reflection losses. Unlike the previous study, which relied on clear-sky calculations, the updated model uses time-correlated irradiance data that include cloudy periods. Finally, the researchers used the existing PVMismatch electrical model to calculate individual panel and string output, which they integrated over time to determine energy production.",
+    "The researchers tested the updated framework through simulations covering the full year of 2023 at four locations along the Norwegian coast, selected to represent increasing exposure to the Skagerrak Strait. The first site is located in a sheltered fjord, while the second is closer to the fjord’s mouth but protected by small islands. The third and fourth sites are located beyond these islands, with the fourth being the most exposed.",
+    "At each location, the researchers simulated 10 horizontally mounted panels connected in a single string and arranged along an east-west axis. The electrical parameters were based on Jinko Solar’s Cheetah 60M-V 325 W monocrystalline PERC module, with the panel temperature held constant at 25 C. An additional simulation at the most exposed site used a panel tilt angle of 15 degrees to assess its effect on wave-induced losses.",
+    "“The simulations yielded an annual WIL of 1.12% for the most sheltered location (with median wave height 0.22 m) and 2.28% for the more exposed location (with median wave height 0.52 m),” the researchers said. “The contribution from WIML and WIIV was quantified, showing that mismatch losses dominate the total WIL, while changes in average irradiance resulted in a small gain.”"
+   ],
+   "lede": "Researchers in Norway have expanded a modeling framework to assess the impact of wave motion on floating PV performance under realistic weather conditions.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/eco2-systems-unveils-40-kw-co2-heat-pump-for-commercial-hot-water-applications/",
+   "title": "ECO2 Systems unveils 40 kW CO2 heat pump for commercial hot water applications",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T07:30:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "Technology & Products",
+    "Commercial & industrial",
+    "Heat pumps"
+   ],
+   "description": "US-based ECO2 Systems has introduced a new 40 kW air-to-water heat pump for commercial hot water applications. The system uses natural CO2 refrigerant, delivers a heating coefficient of performance (COP) of 5.0 at an ambient temperature of 26.7 C, and can operate at outdoor temperatures as low as -31.7 C.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-204443.png",
+   "paragraphs": [
+    "US-based heat pump water heater manufacturer ECO2 Systems has unveiled a new 40 kW heat pump for commercial domestic hot water applications.",
+    "The new Sanco 40kW Heat Pump is designed for multifamily residential buildings, hotels, healthcare facilities, educational institutions and other medium- to large-scale commercial applications.",
+    "According to the manufacturer, the system has a nominal heating capacity of 40 kW (136,520 BTU/h) and uses natural CO2 (R744) as its refrigerant. It reportedly achieves a heating coefficient of performance (COP) of 5.0 at an ambient temperature of 26.7 C.",
+    "The heat pump can operate at outdoor temperatures ranging from -31.7 C to 45.6 C, making it suitable for installations in cold-climate regions.",
+    "The unit measures 1,803 mm × 829 mm × 1,978 mm and has a reported sound level of 57 dBA. It offers a hot water recovery rate of approximately 761 liters per hour at a temperature rise of 50 C.",
+    "The system is available with 208/230 V or 460 V three-phase electrical connections, requiring 80 A and 50 A circuit breakers, respectively.",
+    "ECO2 Systems said the new heat pump can be installed as a standalone unit or combined with additional units to meet higher hot water demand. It also allows up to 30.5 meters of horizontal separation between the heat pump and storage tanks, including up to 15.2 meters of vertical separation, providing flexibility for commercial system design.",
+    "The manufacturer said the product incorporates controls designed to optimize operating performance and support integration with building management systems (BMS).",
+    "The new model expands the company’s Sanco2 commercial portfolio, which includes smaller-capacity CO2 heat pumps, hot water storage tanks and control systems.",
+    "ECO2 Systems introduced the product as it marks 10 years of Sanco2 operations in North America. The company has not specified a commercial availability date or pricing for the new 40 kW unit."
+   ],
+   "lede": "US-based ECO2 Systems has introduced a new 40 kW air-to-water heat pump for commercial hot water applications.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit/",
+   "title": "Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-24T07:00:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "Technology & Products",
+    "Commercial & industrial",
+    "Residential"
+   ],
+   "description": "The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand. Tongwei claims the approach could extend annual operating hours to 3,000–4,000 while improving grid connection utilization.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Tongwei-High-Capacity-Credit-PV-System-Level-Solution-Signing1.jpg",
+   "paragraphs": [
+    "Chinese PV manufacturer Tongwei unveiled its High-Capacity-Credit PV system-level solution on Nov. 18 at the ninth International Photovoltaic and Energy Storage Industry Conference in Chengdu, China.",
+    "The proposed system increases DC-side PV capacity to at least twice its original level while retaining the existing grid connection capacity. Battery storage absorbs surplus electricity when solar generation exceeds the plant’s export limit and discharges when PV output falls or demand rises, extending operating hours and shifting generation toward periods of higher electricity demand.",
+    "The approach is designed to improve capacity credit, which measures how much of a power plant’s installed capacity can reliably contribute to meeting electricity demand during critical periods. Unlike capacity factor, which reflects electricity generation over time, capacity credit measures a plant’s contribution to grid reliability. The metric is gaining importance in China as the country seeks to make variable renewable generation more dependable.",
+    "Tongwei said suitable projects could achieve 3,000 to 4,000 equivalent operating hours annually, compared with approximately 1,000 to 1,500 hours for conventional PV plants. The company also claimed that retrofits could increase investment returns by more than three percentage points under favorable conditions.",
+    "Tongwei has not disclosed detailed project economics, the reference capacity used to calculate equivalent operating hours or independently verified operational data supporting the projections.",
+    "At the launch, Tongwei signed cooperation agreements with battery manufacturer CATL, inverter and storage supplier Sungrow, the Guangxi branch of China Resources New Energy Investment, Zhongxiang Capital New Energy, Hunan Industrial Equipment Installation and Lingluzhe New Energy.",
+    "The partners plan to cooperate on system design, construction, operations and asset securitization for new solar projects and retrofits. Specific investment commitments and equipment orders were not disclosed.",
+    "The initiative comes as China’s solar market faces mounting pressure from weaker installations, low midday electricity prices and grid connection constraints. The country added 110.83 GW of PV capacity in the first nine months of 2026, down 53.9% year on year, according to National Energy Administration (NEA) data.",
+    "The concept also aligns with China’s 15th Five-Year Plan for Renewable Energy Development, which targets an average dependable capacity contribution of 8% from wind and solar, including approximately 6% for PV, by 2030. New utility-scale wind and solar projects are generally expected to achieve at least 10%, with projects encouraged to exceed 20% where conditions permit.",
+    "Tongwei Group Chairman Liu Hanyuan said widespread adoption of the approach could increase grid connection equipment utilization twofold to fourfold, potentially improving project economics while creating additional demand for PV modules, batteries and power electronics."
+   ],
+   "lede": "The system combines substantially oversized PV arrays with battery storage to capture surplus generation and release electricity during periods of higher demand.",
+   "tags": [
+    "china",
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/23/the-e-bike-industry-has-a-horsepower-problem/",
+   "title": "The e-bike industry has a horsepower problem",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T06:38:11+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "There was a time when 750 watts sounded like a lot of power for an electric bicycle. These days, apparently...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/heybike-titan-header-teens-e-bike-moped.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "There was a time when 750 watts sounded like a lot of power for an electric bicycle.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmxGdmpXV1NCTXhJejE0UXpFckk2X2VYMXk4RldUa3RwS21SRExfZzRMZ19lMGhuTmF1OVhEN3gxeEloenhKUnV4Y2VTbHF0S1Z4U1d2elllM21OUzdZUEhCQlNIV3lUZDNHbE9ET0Y3OWd0RWt1cnA0TDBNMmZNOWFjN0FHcWZmZnMxcWhvOVBCa3U0NmJCSHhHYnBOU0pxMHFINExqZw?oc=5",
+   "title": "Battery EV surge continues to push Europe car sales in October",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T05:02:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnVVYWNQLU5pMnI3eUxoUEN1NjFpTnhmckd6MFR3anZ0ZG5BT09xUWRrODR0ZkpFQjZVVXRUb0U1Q0xWN1FSMzBXUnNXVVU3X2dETGM1TE1HZGtLczhobWNXNHNxaEtTZkF2T1VtNlAwTkFNZm04QUJEQ0tXV0h5aF9WazFqdlZsVnNoMTlKWmhKczloanVvNUJhZnFhb1c0UmZSLUUzV1BDQVRnRWM5T0VhZ2dfOFBGRFBMRG94VQ?oc=5",
+   "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T00:05:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
   {
    "url": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress/",
    "title": "Japan’s expanding BESS market and its uncertain progress",
@@ -62,7 +539,7 @@
     "energystorageasia"
    ],
    "description": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
    "tags": [
     "power"
@@ -222,7 +699,7 @@
    "published": "2026-11-23T18:00:00+00:00",
    "seen": "2026-11-24T00:53:18+00:00",
    "description": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if some projected demand doesn’t materialize, the effect would be “limited,” he said.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers.",
    "tags": [
     "power"
@@ -281,6 +758,20 @@
    "fetched": true
   },
   {
+   "url": "https://www.utilitydive.com/news/doj-closes-nextera-dominion-antitrust-probe-as-state-hearings-continue/875489/",
+   "title": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue",
+   "source": "Utility Dive",
+   "desk": "news",
+   "published": "2026-11-23T16:27:12+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "description": "The decision followed a promise by the utilities to allow ISO-NE’s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer benefits.",
+   "ftries": 1,
+   "lede": "The decision followed a promise by the utilities to allow ISO-NE’s internal market monitor to investigate proposed plant retirements.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
    "url": "https://www.utilitydive.com/news/new-jersey-utilities-have-less-than-a-year-to-implement-virtual-power-plant/875482/",
    "title": "New Jersey utilities have less than a year to implement virtual power plants",
    "source": "Utility Dive",
@@ -288,7 +779,7 @@
    "published": "2026-11-23T16:15:34+00:00",
    "seen": "2026-11-24T00:53:18+00:00",
    "description": "Data from the two-year interim version of PowerUp NJ will inform the development of a long-term, open-access virtual power plant tariff, state utility regulators said on Nov. 12.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Data from the two-year interim version of PowerUp NJ will inform the development of a long-term, open-access virtual power plant tariff, state utility regulators said on Nov. 12.",
    "tags": [
     "policy",
@@ -384,6 +875,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSE1nMTBHYkphTjliMGotRHhIc2dqaG5MMkk1bHlwMkRFS1VUdzk1SEpjYzhuRHJ4RTEzMkczUFhmMk9YakNtWEwxaE1XQnNjWkN0VXlwdnQ0MFVoZ081WWxnV3ZEalBYdnRBWkQ2U1ZmUE5sODdGMko3QmJyV3cwaFhpc2tmTHVPcHBsZ3JQblFkSHBPOGRoZl8zV0VkalZycmVGRmVfcHdCRDI5Mll6Qks4U0RLSW9fdmpDdg?oc=5",
+   "title": "EU launches trade probe into glass fibre, chemical imports",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-23T15:01:30+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WNlZaWWY5emNtNUxkXzZXbGN5YWM3TTdrUDZJcVpKMjBCakZmcVZLTkYwZkZBUThGMlpybENrSHhBb1lRQzdia3hKVW5GTVI1ejNXZDBhdVptR0lJTWhGWHFJb09PZw?oc=5",
    "title": "How AI Ate the American Economy",
    "source": "Heatmap",
@@ -416,7 +921,7 @@
    "published": "2026-11-23T14:05:36+00:00",
    "seen": "2026-11-24T00:53:18+00:00",
    "description": "Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Without the rule changes, the Midcontinent Independent System Operator’s queue cycles — totaling about 125 GW of generation and storage — would have been delayed, according to the grid operator.",
    "tags": [
     "policy",
@@ -438,7 +943,7 @@
     "optimisation"
    ],
    "description": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.",
    "tags": [
     "power"
@@ -600,8 +1105,22 @@
     "capacity fade"
    ],
    "description": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0tTdzFnVVpmQkQ5Xy1yYTNkRnFab2d4R2tIVEJJT19zWmMwMDF5bWJHcnJqc0dUdGxieHBIa3pfVW9IZjA1cVhqb3IwdEJfelcwWTNSQ1p0MUhiQzhmRHhNbU44blVQOEprNzluVHZ5OGlKc0hSLUpEei02MF95VEpKVUR1MTYyd29SVUJESUZQZ2tWbWt2Q1RYNDFvZmV5dzVRQnpzWm5sRVZidy1iTmtPMUVMZw?oc=5",
+   "title": "Poland Targets Early 2027 Contract to Sign Final Contract for Flagship Nuclear Power Plant",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-23T11:01:47+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
    "tags": [
     "power"
    ]
@@ -657,6 +1176,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54aWtLQ2FDZGpwQ0VjX1FieXVUWkxBcnZiVGN3LWtid1hGWkY1LVVQMjdDUk1BVWFpNWcwNjNfZTUxZlJFNVNyWVE5N0FkcXlSYTBDR3N4cjZzdWFGU1Y2N3JITjU4Mnp2TEpfR1d3Q2YxTkJyVTlJ?oc=5",
+   "title": "Executive summary",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-23T10:40:42+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.pv-magazine.com/2026/11/23/jordan-plans-200-mw-solar-100-mw-400-mwh-storage-projects/",
    "title": "Jordan plans 200 MW solar, 100 MW/400 MWh storage projects",
    "source": "pv magazine",
@@ -700,7 +1230,7 @@
    "published": "2026-11-23T10:00:00+00:00",
    "seen": "2026-11-23T12:47:31+00:00",
    "description": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
    "tags": [
     "power"
@@ -806,6 +1336,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDZwQ1RpRl9DNzJaVWhhRV9aQjBWVXhBZmZxVUw0OGo0cXpXQzlYckxMSmx5WXJkMlBoMnl6bEJpd2VBbFpURlY1NVA5bC1kYmpzMHd3akdUWS1hVHhSN2xOQmlrcjh0TklTMmVkNnZwbWd1MlhwODVvTDZ3cjdEdTNCVVh0LVhSdHUzRkp5SktDdmRXVFZFTTNCYnBJRVVLeUpmbGEwMHcxdG44ZlE?oc=5",
+   "title": "Vietnam firm breaks ground on rare earth materials plant",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-23T09:14:09+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
+   ]
+  },
+  {
    "url": "https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer/",
    "title": "‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer",
    "source": "Energy-Storage.news",
@@ -823,10 +1367,25 @@
     "grid"
    ],
    "description": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1BfSHBGTXdOdml4N0c0VFMzcFRoODY0M2xmTkc1TXB0Y05uTzZYMGVsaGt1UWV4MUZnVzdwSlR1U3dyOXFvMEg0eGdNTE5SRTBMbHNndHE0RVVSMHBaZHFrejN0RzIyWHVsaDBQdVpZd20wQW9oTFRtOU5kUmJsdEdxQ3JFRGRJcG9FMkhkS0ZpNG81RVdLQ3dMbUktRWM?oc=5",
+   "title": "Watch How Plug-In Solar Is Sweeping the US",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-23T09:01:56+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power",
+    "transport"
    ]
   },
   {
@@ -1262,6 +1821,17 @@
     "NOTE: any opinions expressed here are solely my own and do not necessarily reflect those of the Federal government, the State of Illinois, Electrek, or anyone else. Nothing here should be interpreted as a statement of official policy, legal guidance, or an endorsement unless expressly labeled as such."
    ],
    "lede": "Developed by Japanese material handling giant Tadano, the 35-ton V320RC wheeled electric pick & carry crane has spent the last few months proving itself at NMG Italia’s job sites, where it’s been handling heavy loads in…"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWFqYVlqWmNiZ0JaUElxemxnT3FENFB3ajYyUHNGb21QRWxUQjdHZFJIQ3JpMl9yeGpIcXVOTWZ0enplMV9hYTY1dkVuemhwZ2tiMV8yUHpwY3I5QWt2TExEM3d2VWR5eF9ScmcxdERtbGUtTE1ZLTBfS1ZVeUN5MTNPXzVYQm11YlozSGJ4Q0phR2dSbEpr?oc=5",
+   "title": "Executive summary",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-22T09:32:04+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/",
@@ -3013,6 +3583,17 @@
     "policy",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNck51eTRXTVJrbkVqbDV2VG9pNncyN05ISGVNSE9VMnJ5SzhfOXFWOEdKbFZ3WHIwaWUyYVdweVAwZEoxVHFWMjNMYzMzanc2MVpRU1dlT0loVmJ5QTFlR0ltVG43c0lXWTB1Q3BpVkdBYWFrdXppSXRLT1RWWEFkaDg3Wi1aSHNwejFkZWhuYTRPVDg?oc=5",
+   "title": "World Energy Outlook 2026",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-20T10:09:36+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.energy-storage.news/edf-acquires-250mw-holloway-battery-storage-project-new-south-wales-australia/",
@@ -8438,6 +9019,21 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMWZpUWctdHpwTktJZHJmcmN0SkhYZUdqLUlvRDNzVWFybnloZlRwVUdnOEx1TldQeGZUUmpqNVc3N3VlRVdxUDMxeGZad1FwdDQ5Y3V2ai1ZMjl6NmUteE9zMHBNLXY1bFljNnp1azNwTkpRdzdfdmk0UkwtUF93cDc2a19JRExMS3ZIUzZNSWZTWHVSeWJkWU5KZWllSFpqU2FCSzZHMXpOMEtaT1BkX054bzNlc0FNN2RSckgtcllqWjhhVnQxNVZwUVdtZ2FkMlZsSGFhQjdzSUZDbWZaM3ItWXVhcmlQNXVWbGFmc1FPdzEtRzFBVXlYMkRmZF8ycmtnbm1Qb1J1MlhMR1RIenlOcGdvaFF4aFMzOWE1TzJiRTBnb1I3SWxFRE84b1AyWV9xUGVnZG9vajBZbWdhY3haNEdtd0FZME13LUFMcERuQVNscHNSNHNfdnQ1V0k?oc=5",
+   "title": "From People Power to Public Policy: Empowering Communities and Local Action for Inclusive Energy Transitions in Asia-Pacific, co-organised with CEED, CLEAN, and Climate Era Catalyst - Regional Climate Foundations Pavilion",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-16T12:45:00+00:00",
+   "seen": "2026-11-24T10:56:55+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy",
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjalJGT25xMFoyMkZyN3RPemtpMWp3enAwVTRUd2tQa3VyZUM4cEtIZWNOVTBrRjhvTGN1TldfbGNMdTRQckY5VEFjVWR6WS1XdXQ3NmtQQld1NUc0N2dyRkdBRmV5RUt6emN4bVo5NHc2SmdoNkJZcA?oc=5",
    "title": "Rebuilding Ukraine with Energy Efficiency",
    "source": "IEA",
@@ -9608,467 +10204,6 @@
     "policy",
     "power"
    ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/13/review-engwes-m20-3-0-is-a-60v-super73-killer-at-a-fraction-of-the-price/",
-   "title": "Engwe’s M20 3.0 is a 60V Super73 killer at a fraction of the price",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-13T13:32:11+00:00",
-   "seen": "2026-11-22T21:48:00+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Engwe has impressed us repeatedly with its value e-bikes at lower-than-believable prices. But lately, the brand is climbing the value...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_118833.png?resize=1200,628",
-   "paragraphs": [
-    "Engwe has impressed us repeatedly with its value e-bikes at l ower-than-believable prices. But lately, the brand is climbing the value chain with impressive e-bikes that aren’t just great value but also pack strong specs and impressive features. The Engwe M20 3.0 is a great example…",
-    "The Engwe M20 3.0 is a specs monster and blows away the original version of the bike released in 2023:",
-    "The M20 is fairly easy to assemble. At just over 100lbs, it is a bit hard to move around, but once assembled, it feels like a pretty impressive piece of machinery. I love the street tires on here instead of pretending to be an off-roader. Dual bright headlights and brake light with turn signals really give this thing some street cred. Adding to the safety roster, Engwe upgraded the quad-piston brakes with sporty red calipers and 202 mm rotors. This is not a value bike. The rear suspension is tight, which is great for 2 riders but might feel stiff out of the box for light riders. The seat is *chef’s kiss* even for 2 riders. Very soft and comfortable but not too soft. It even has a little ‘gas tank’ storage area aft the seat, which is keyed and enough to hold a few sandwiches, some riding gloves, or a small purse.",
-    "One gripe: There are 3 sets of keys on here, the aforementioned storage area and one set each for each battery. We’d love to see these things keyed together.",
-    "The bike/moped/moto came with a huge 1.2 kW battery (or 2 in our case – unless you have a 80-mile commute, 1 should be plenty) that must be charged individually. But with a 60V 8A charger, each one only takes about 2-3 hours to charge, which is impressive.",
-    "I did not expect to like the ride of this thing as much as I did. We can dispense with the pleasantries here; it came set to Class 2 mode with a 20mph top speed and stickers to match; a quick Google search will show you how to open this up to 40mph open mode. I take responsibility for my own actions.",
-    "The first thing you’ll notice here is that the motor is whisper-quiet, and with the street tires, there is very little road noise, even at 35mph. The half throttle is plenty responsive, a lot more so than the cadence sensor on the pedals, which are vestigial at best here. Those big brakes are a bit softer than I’d prefer, but given a good squeeze, those 203mm rotors and quad-piston hydraulic brakes are going to stop you, the 100lb bike, and your passenger/cargo fairly quickly.",
-    "My girlfriend and I got pulled over for the first time in my e-biking life as I was picking her up at the coffee shop. The cop was immediately apologetic because “he thought we were kids” and not the 50-year-olds under the helmets he encountered. Then he noticed the pedals and said that we’re all clear and that what we were on looked like a motorcycle and that a couple of e-moto kids had gotten into accidents recently, one hit by a drunk driver and who is still in a coma. While he was already letting us go, I pointed out the Class 2 sticker on the bike, and he gave me the thumbs-up as we sped off at 30mph. This M20 passed the local police test with flying colors. I can’t guarantee you’ll have the same experience in your jurisdiction."
-   ],
-   "lede": "Engwe has impressed us repeatedly with its value e-bikes at l ower-than-believable prices.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QSW1IbXFlZHFCd2lPMHVoemMzazJuOUxfR1V4cUNwazZleUk4VG05TVJWTDVSZDlkcUV0XzQ0cG45OFNRZ2FzdkF1WlhORGxqMXY3XzBJUU1HSndkZU00?oc=5",
-   "title": "Jensen Huang’s Departure Throws the AI Boom into Fresh Chaos",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-13T13:00:14+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQlRTLWxLRkR5SWQ2ZFFFN2FaWHRnLWQwTmN6RGg5SWYtZDV4ekk0T0l1VVh0SVZqTVNJd3k4TnVrZF9BWVJDcmt2STlYMVNBbDFrTTRUWXpnMWFwcmhrZEpXdjFCbDdZQlp4RmVRSXZjd3R2OGFuMXhEc25NZDZXTUVQaXl0QzNEajdnQjhxMUlBNnJMUzI4b01GaVRoTndZSzZmQ3B2Qmg2eTBZVVNRTnN6ZnFzc05OREgyc0VidlhkTWN3WkdIeWd3aS00bDRzSkNzb2RzTWVWZjh4RFF3?oc=5",
-   "title": "Youth Dialogue on the Opportunities of Adopting the COP31 35-by-35 Global Electrification Pledge, by YOUNGO - IEA Pavilion - Event - IEA",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T13:00:00+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/toll-makes-way-for-floor-offtake-contracting-beginning-to-standardise-in-uk-bess-market/",
-   "title": "Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-13T12:24:56+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "News",
-    "batterymanagementuk",
-    "contracted revenues",
-    "contracting",
-    "floor",
-    "optimisation",
-    "toll",
-    "uk"
-   ],
-   "description": "Floors are increasingly the offtake structure of choice in the UK market, and the contracting for them is beginning to standardise, industry experts said.",
-   "ftries": 1,
-   "lede": "Floors are increasingly the offtake structure of choice in the UK market, and the contracting for them is beginning to standardise, industry experts said.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVJKdXpMOTd1YUpaV1RTUHAyNXJ0MUFrNjJXamIySWZKU2l3MmVEWmRBTUYyQlU4OG5kNUZxUHlqdGN0ODVVRHVhRjFmSS1zckJMZkp0bVBWbVppU3k4T1pIWk14VTlhSnBtT1lCV21iVEpkUUxtOWRRd2RZSjVtZDJ2cWZaQQ?oc=5",
-   "title": "Türkiye’de Elektrifikasyonun Geleceği",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-13T12:13:00+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS29nRmNzclNScl9rZ0dHdWc5VFY4LWtoRmZfaFdwdmJYUDhYaFVWYndVazdxNFUxdV9INXc3MmRfdHQ0Y0d1b214aXRYb0l3ZVUwMHJ0Nk9jMzgtVXFoUzRlbzY2YVpCZDRSSGs2VnhtcGNBaWNvOGI1VUdoNDhaRXprYkxwclhqaF84d3hveFJxVjhjbG1HR0pNNFVHekVlUENobGRWa0l4RXlva1pmRXBlOVhLbm1jbzAzOW9qaGhKTDg?oc=5",
-   "title": "China’s Improbable Transformation Into an Automobile Superpower",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-13T12:00:05+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/",
-   "title": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-13T11:38:00+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "News",
-    "battery",
-    "captona",
-    "ders",
-    "distributed energy resources",
-    "equity investment",
-    "residential BESS",
-    "residential solar"
-   ],
-   "description": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
-   "ftries": 1,
-   "lede": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energymonitor.ai/news/oman-signs-hydrogen-deals-cop31/",
-   "title": "Oman signs green hydrogen deals at COP31 in Türkiye",
-   "source": "Energy Monitor",
-   "desk": "news",
-   "published": "2026-11-13T10:15:26+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Oman has awarded two integrated green hydrogen projects in Duqm with a combined planned annual production capacity of about 121,000t by 2032.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/R3-consortium-1.jpg",
-   "paragraphs": [
-    "Oman has awarded two integrated green hydrogen projects in its port town of Duqm with a combined planned annual production capacity of about 121,000t by 2032.",
-    "As part of the announcements, which were made during COP31 in Antalya, Türkiye, the country has also launched a fourth green hydrogen auction focusing on energy supplies for data centres.",
-    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
-    "Oman advances its green hydrogen strategy through Hydrom, the national body responsible for coordinating hydrogen development.",
-    "The first agreement will see a collaboration between Oman’s Petrogas E&P and Italy’s Bio3Energy.",
-    "The partners plan to introduce green ammonium nitrate production in Oman for use in fertiliser and mining.",
-    "By 2032, the project aims to produce 625,000t of green ammonium nitrate per year, supplied by 50,000t of green hydrogen generated from 1.16GW of renewable energy on a 100km² site.",
-    "The deal also includes a reservation for an additional 100km² for potential future expansion.",
-    "The second agreement involves Oman’s Alawi Enterprises, Indonesia’s PLN Indonesia Power Renewables, and Singapore’s HBA Offshore International.",
-    "This consortium will develop a green hydrogen and ammonia project, targeting 400,000t of green ammonia for export by 2032."
-   ],
-   "lede": "Oman has awarded two integrated green hydrogen projects in Duqm with a combined planned annual production capacity of about 121,000t by 2032.",
-   "tags": [
-    "industry",
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/",
-   "title": "BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-13T10:01:42+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "cats": [
-    "News",
-    "analytics",
-    "australia",
-    "availability",
-    "baaja",
-    "catl",
-    "data centres",
-    "germany"
-   ],
-   "description": "Another edition of our BESS Industry Buzz, this week looking at new details on CATL's sodium-ion technology, BESS availability, BAAJA trade-offs and the price of speed to power.",
-   "ftries": 1,
-   "lede": "Another edition of our BESS Industry Buzz, this week looking at new details on CATL's sodium-ion technology, BESS availability, BAAJA trade-offs and the price of speed to power.",
-   "tags": [
-    "china",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcVlTMW9Qc3Fjdkpab0MwRHFaTEc2eEU5QkJuNGZqTng1UXd1cUdmZE05QlhPbm80bWlIYXVBaDdUX0kyMlJtam9Nd0VIS0xydzRIV3ktTFNoY0Y2X0I0YTNVOVdLQ3FLWjExaExSc2ttN2xsZG1EM0RxSEtvZGpWczZFWDBYd3c1ejFFbXE1RHVGUUJkTnNMbDFDMmNDLU5QNWNBdG5QQS1kSDI5aFZZdnFiRkE4ZUJzY0lXeVVzak96S1hO?oc=5",
-   "title": "Solutions for building a new power system: The role of grids, storage and hydropower",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-13T09:23:13+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTFlfbk85VV84cHpqMjZLMmt4ZExaVmhQLVIyMnk3dEd1RFZKMGh6VkFFR241OVRRaE9lMWg5M3kwemtScHlDQnYyUFJPa0E0OXNGWU5MRDBXNXE4SElyLU9ETXlfLXdXcXhUVjhzeDRtbEFvVFpj?oc=5",
-   "title": "Recommendations",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T09:16:57+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
-   "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-13T09:10:33+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "News",
-    "australia",
-    "battery storage",
-    "bess",
-    "co-location",
-    "energystorageaus",
-    "Lacour Energy",
-    "StorageAus"
-   ],
-   "description": "West Arthur Energy, a project company owned by Western Australian developer Lacour Energy, has referred a wind generation site with a 4,000MWh battery energy storage system (BESS) to Australia's EPBC Act.",
-   "ftries": 1,
-   "lede": "West Arthur Energy, a project company owned by Western Australian developer Lacour Energy, has referred a wind generation site with a 4,000MWh battery energy storage system (BESS) to Australia's EPBC Act.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCcjlkUGFSSXRUNklHMVJrTmNYV3NtX1gzMUJ5cjlwOVI4ZzZtWE0yVmdxU1VxYmJfcEJrcDNRNkxqbS1pcWs0R0VaelUxWncwR2pMQ3FpQVRsb0U2RDhyQlBIcEVKZFFhNVRv?oc=5",
-   "title": "Oil Market Report - November 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T09:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/politics/solar-pac-revenge-in-congress",
-   "title": "Solar PAC got revenge on clean energy’s enemies in Congress",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-13T08:30:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Most of the GOP lawmakers targeted by the Invest in Tomorrow Coalition lost reelection. The PAC is now looking toward 2028.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/ITC-PAC-truck_GettyImages-2280948571.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a57e837a909931e69fdc4e38f82a0653",
-   "paragraphs": [
-    "Before this election cycle, it was hard to identify any politician who feared the solar industry. The Invest in Tomorrow Coalition PAC set out to change that, and now has a roster of wins to back up its threats.",
-    "The super PAC, funded and led by solar entrepreneurs and investors, emerged during the midterm primaries with pledges to spend millions of dollars on attack ads against politicians who undermined clean energy policy. ITC got the outcomes it wanted in all six primaries it targeted. Its ads didn’t mention renewables, but instead used messages that tested well with voters — for instance blasting archconservative members of Congress for not being MAGA enough.",
-    "In the general election, ITC engaged in 17 congressional races, many of them in districts that President Donald Trump won by double digits, said Tom Matzzie, who chairs the PAC. ITC saw its desired outcome in 13 of those races, counting the apparent, though not totally final, loss by Republican Lauren Boebert in Colorado’s 4 th District. ITC’s targets won election in four cases: Arizona’s 2 nd District, Florida’s 13 th, Florida’s 27 th, and New York’s 21 st.",
-    "“ We definitely sent a message that we can make an impact no matter where you are,” Matzzie said. Of the Republicans who signed a letter in May 2025 calling to ​ “ fully repeal” the Inflation Reduction Act, 40 % won’t be returning to their jobs in Congress.",
-    "The PAC lost its perfect hit rate, but after spending $ 17 million across the election cycle, it’s on track for 19 wins out of 23 races, or 83 % success.",
-    "ITC wasn’t solely responsible for all Republican losses. The group exploited a political environment that had soured on unified GOP control of Washington, amid rising costs, an open-ended war in Iran that disrupted the global energy trade, novel and highly lucrative forms of corruption, and masked federal operatives attacking immigrants and citizens alike in the streets of American cities.",
-    "But the group demonstrated a knack for homing in on its targets’ weaknesses and amplifying them to voters who might not have gotten the message otherwise. The PAC also frequently trolled the candidates to get under their skin. After the election, the group issued press statements calling Brandon Herrera, who lost in Texas’ 23 rd, ​ “ one of the most despicable candidates we’ve ever seen run for office,” and saying of the incumbent in New Jersey’s 2 nd, ​ “ Jeff Van Drew always looked out for Jeff Van Drew, and now he can do it full time.”",
-    "In several races, ITC’s targets ended up corroborating the group’s effectiveness, by giving interviews venting about how the PAC was making reelection harder for them. Boebert recently guest-hosted ​ “ The Matt Gaetz Show” — a conservative talk show — and spent some of that time in the spotlight criticizing the solar PAC for obscuring its true policy aim behind ads on other topics.",
-    "To maximize its impact, the PAC deliberately chose races where promising Democratic candidates weren’t getting much outside funding. It became the biggest spender in Indiana’s 5 th District, dropping more money on ads than either candidate’s campaign mustered. After the Republican lost, the group released a braggadocious statement to the press: ​ “ Tell Victoria Spartz. We want her to know it was us.”"
-   ],
-   "lede": "Most of the GOP lawmakers targeted by the Invest in Tomorrow Coalition lost reelection. The PAC is now looking toward 2028.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/emissions-reduction/turns-out-the-worlds-fossil-fuel-emissions-will-actually-drop-this-year",
-   "title": "The Iran war will cause global fossil fuel emissions to fall",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-13T08:30:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Counter to analysts’ early expectations, planet-warming pollution from fossil fuels is set to dip in 2026 — the first time since the COVID-19 pandemic.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/COTW-global-emissions.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=b03fafb36569aee1b2ce1ddb06a9edc9",
-   "paragraphs": [
-    "This time it was not plague but war driving the decline. The Iran war has caused brutal increases in oil and natural gas prices, leading many countries to cut their consumption of the fossil fuels and seek alternatives.",
-    "It’s not an especially large drop. Fossil-fuel-related emissions will tick down by less than half a percent this year, compared to 2025, per new data from the Global Carbon Project. Nevertheless, it’s a surprising development: Analysts had initially expected emissions to rise this year.",
-    "It was clear from the earliest days that the Iran war would reshape the world’s energy use.",
-    "Iran shut down the Strait of Hormuz, through which roughly 25 % of the world’s crude oil and 19 % of its liquified natural gas flows, shortly after the first U.S.-Israeli strikes began. But it was not obvious what that would mean for global emissions in the near term.",
-    "Yes, countries were trying to use less of those fuels to avoid spiking costs. And, yes, plenty of nations were racing to backfill their needs with EVs or renewables. At the same time, however, several countries sought refuge in coal — the dirtiest fossil fuel of all.",
-    "It’s now evident that the bump in coal use has been offset by the stark decline in oil consumption in particular.",
-    "The question is whether this is the start of a trend — or an aberration, like the pandemic-fueled drop of 2020. The answer is hotly debated. Some analysts argue oil and gas demand will come roaring back whenever the war eventually ends. Others say it has kick-started a wave of cleantech adoption that is here to stay.",
-    "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
-   ],
-   "lede": "Counter to analysts’ early expectations, planet-warming pollution from fossil fuels is set to dip in 2026 — the first time since the COVID-19 pandemic."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUFzUWY0b3VMNXM0NS1TS3pzV2NzcFBJcHI5SWhDOG1rSldVNWxLN0s5QmJvdGdwR0I4LWdidVJSTXhoRlZabVpfSDIyY2pWVzg3Q2ljZkI0WUsyaTlaX1M4U0NBcEE3Y3FXTGVoVjZJaXg1N3JNT0VGdzN4anhLQ3FzYjUtcmJyTUxR?oc=5",
-   "title": "Monthly Electricity Statistics",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T08:00:00+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOHRlZ2ItemZBYzd1ck0wRDFSZlZlX1llcXR6aGM3aWphbVhVd2R6UzdRSW9lbG51TV90NFo1Sk10X2lqVmpkbUtlbHJUZU51S2o3Zm1fLXUtWldMZDAwUHdfa1NDaTZlY3UwRW9qVWg5M3JtNzdBczdDZ3owQ3JQQWp5TF9mZGtsRDBXWk9KVmZEQQ?oc=5",
-   "title": "The outlook for energy transitions",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T08:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlF4Zl8wY1R6VTM4OTl1WUZha09BbVBMUURhQzBJOFlYZDA2T29KYmg4S2t3LUtIeUVfR2NrZXU2QXBGeDRGMWgzWEN4THJiUTllc29McnFaeGZEZ3hCLTJWNGlVa3ljX2NMY25NY1U0aFhsd0FnbzFkMnF5blJiWFJQQXU3WjA1dnJLMQ?oc=5",
-   "title": "Potential additional responses",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T08:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kM2I4am5ENUJuQ0phbTNkMEp4Q0xFbi1wNnNEMENUSG5UV1pUWVJJdjY5MGlTNlRiWUlRNFFxTTlSMWMxVlV2amdZaGtzUUJSZDlDOGJJYkNwcUlHU3ViY3RJM2VMcTgxbFpCOFp1VHBaTWMtRWxwaTJJZw?oc=5",
-   "title": "Regional insights",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T08:00:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWhKSUNTR0xsYzhRM2pUdHNXOVhnNGxKTF9xWHZqRnFqQTBuclNlOXhOSGNZUURac1JEWGxhQWdJMjlyZm9QN0tsaEZQaGlvR1ZyMHJGRW45QVdwVGhBQncxY2RlVExuY2IyM1RYRWVMWXBfWTRGTTdHUUVKQmxmTGZFMzY0Zw?oc=5",
-   "title": "Overview and key findings - World Energy Outlook 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T08:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFRPMUE3bk5obmhFcHo4Z2FLc2tlVGJoUzZEb1JtVWhyS3p2WEVwRXg3bHdHYVJyZThZR05yaGtZZXVUbkd5b3ZVUTc0ZzRNN21GLWVBY2NqV3pWSG0zclZwT3NyNEw1d2djVVh2Tk92WlNRU08tVDdzZlczM3dhM2g5dUMwNlg4NmZv?oc=5",
-   "title": "The Current Policies Scenario",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T08:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3ZfOVhwLTF3b2hPdTZkdTU2WnhtUFl5aGo0cHR3b0pZaHc4OGFXYU1heTNrS3J1dnVJWjkyTlFZWDVYRUk1LWFfbFpERENWTWo1T2xyV2xQTkxwbkcyMnI5YmNHcFFnUnpLRkFFS0VlaVVVS3hyODhKUHliOXllU3JqQmpfdGdST3lPRGRmZHNBRno1RzhyRWd3UTV4VVk4cWpSS2lFNA?oc=5",
-   "title": "Implications for energy security and affordability",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T08:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.energymonitor.ai/news/china-turkiye-sign-mou-cop31/",
-   "title": "China and Türkiye sign $15bn MoU for wind and solar projects at COP31",
-   "source": "Energy Monitor",
-   "desk": "news",
-   "published": "2026-11-13T07:58:58+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "China and Türkiye have reached an initial agreement for Beijing to invest up to $15bn in the construction of solar and wind power plants on Turkish soil.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Wind-turbines-and-solar-panels.jpg",
-   "paragraphs": [
-    "The signing of the agreement was announced by Turkish Energy and Natural Resources Minister Alparslan Bayraktar.",
-    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
-    "The memorandum of understanding (MoU), signed by the national energy administrations of both countries, was formalised on the sidelines of the COP31 climate summit in Antalya, Türkiye.",
-    "The agreement sets out plans for a combined 7GW of new solar and wind energy capacity to be developed in Türkiye.",
-    "On social media platform X, Bayraktar indicated that the MoU covers the establishment of new energy storage systems and an electricity transmission capacity of 4GW.",
-    "Bayraktar wrote: “This cooperation will expand our renewable energy capacity and enable technology transfer, supporting the production of wind turbine equipment in Türkiye and making a significant contribution to the development of our domestic industry.",
-    "“In line with our National Energy 2040 Vision, this historic agreement will strengthen our energy security and accelerate our green transition. I wish both our countries every success in this partnership.”",
-    "The China–Türkiye MoU comes as Ankara is accelerating efforts to pair renewable generation with grid and storage investment.",
-    "According to GlobalData, Türkiye’s Renewable Energy 2035 strategy targets 120GW of installed wind and solar capacity by 2035, while international lenders are already backing transmission upgrades to integrate larger volumes of variable renewable power. The planned Chinese-backed package would therefore complement Türkiye’s wider push to reduce fossil fuel import dependence, strengthen energy security and localise clean-energy manufacturing.",
-    "The EBRD made the announcement as it became one of the initial signatories to REACT during an event at COP31 in Antalya."
-   ],
-   "lede": "China and Türkiye have reached an initial agreement for Beijing to invest up to $15bn in the construction of solar and wind power plants on Turkish soil.",
-   "tags": [
-    "china",
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3hCVFBRWWM2Wk1yMTFLWUxWZlVoNXllRGpZQ0tERkxESzBDT0phTmJhQ1Q2SFczT3ZEcWdtb1JCcUE5OGVpbW1VdHp3ajhlZnhqY2NzdmJEWXpFUmFndnVCSzdCZ01Ha2c2T3NvTE1VM1c3dWNmWFRpeHl6aTZkQ0JZc3d4X28?oc=5",
-   "title": "IEA PRODUCT PRICES 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-13T02:47:12+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rMDFFQTJMTE9Jcy1KOGZfMXg0YVFkSmZyWnh0enIxTTZvNklVd1d1WkttdV9abzBSN19wZWhESTRZdDl4MjFtZ1FzbjAxNGpHZWNQY3hVTjZneGFYSWRlLWxGcGFRT3oxQmJXU0p4Z3hCS0NlbUZBeQ?oc=5",
-   "title": "Transcript: Lots of Environmental Groups Oppose the Permitting Bill. This One Doesn’t.",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-13T01:17:24+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SaENBVGRQUV9iZG5ldzV5WTdlWF81bEhVdmlZYmIzaG5BcHM3dktqbFZUa05ybzhqejNFMjJUSFR5QTUyMFg4emtUMGlOSkZ4MDRPc1FfUjJnelVxcHRQalhiY29tUmdyN0E?oc=5",
-   "title": "Lots of Environmental Groups Oppose the Permitting Bill. This One Doesn’t.",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-12T23:55:38+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHJQYzU1bWtRanVhRG1GVjFoamZpNEhrZFRwbG80N084Uno1WE1qTkJEWWd0dlFBdmQ4ajlOTld5anR3endPMmtHakZZQk9uS2xfMFFYbHY1c0F5YUt3ZF9ORVZYeGpkSU1hS1hPVTFNQVdoQ1lHUFZSVlpLMGh6SE5hVW5nUjhkM3huWjc3ODZ5UXhYanhIVF95REdpQQ?oc=5",
-   "title": "World Energy Outlook 2026 Extended Dataset",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-12T23:29:04+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
   }
  ],
  "dropped": []
