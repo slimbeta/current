@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:13:28+00:00",
+ "updated": "2026-11-25T04:15:17+00:00",
  "briefing": {
   "headline": "The grid, solar and AI’s power demand",
   "period": "Nov 18–24",
@@ -44,6 +44,87 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVFua000U21ZaUd3cmRhN0tacHNNbWFaODdHNnpMMXduYVNRMWpyRlhLVy1PMDBQMXE1WUloMXA4YURIQmQ2YUtaV283RDNYZ3lLMHEyNG8wM2syM3hBRG9sVlUwX2d5NVl5N0M3M0JDb3hPYURhTEdXTW1ZbkV0LWV2VmZPYm9yZlE?oc=5",
+   "title": "Will Democrats Really Take Up Permitting Reform in 2027?",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-25T02:14:45+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczdXX09VbktzSHB2LWVWdy1ZR3d0OTlhbGpndW9HU3ZzWjU0VXZwNzI5M0pFYXhXM0pOSS01REQxeG9rUG9kekdqbzdQdEttaDZ1YUVqSjFBc0xCSk45SnlyQ3ZHeXNlX2RYLUk1aVhuSU9hLTAxMjFoc3pYS3loNWZDLXdIUXFKd2xqcVJOMFVUMFhlOXA1TDd5UVgySHU1d3hwZ3BhTlFxOVc5OEl0UGVfRnUtVEJvZE5zZW82SXU3RmViQnp6Zl9kdkRYZw?oc=5",
+   "title": "COMMENTARY: Trump's Nvidia intervention rips up Wall Street playbook",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T23:30:28+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/cadillacs-3-row-ev-more-expensive-now-starting-at-80k/",
+   "title": "Cadillac’s luxury 3-row EV just got more expensive, now starting at over $80,000",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T22:20:15+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Cadillac’s three-row electric SUV just got a little more expensive. The 2027 Cadillac Vistiq now starts at over $80,000. 2027...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Cadillac-Vistiq-prices-2027.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Cadillac’s three-row electric SUV just got a little more expensive. The 2027 Cadillac Vistiq now starts at over $80,000.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.latitudemedia.com/news/open-circuit-why-everyone-is-talking-about-grid-utilization/",
+   "title": "Why everyone is talking about grid utilization",
+   "source": "Latitude Media",
+   "desk": "news",
+   "published": "2026-11-24T21:00:00+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "cats": [
+    "Grid edge",
+    "U.S. market",
+    "Flex Summit",
+    "grid",
+    "grid utilization"
+   ],
+   "description": "The push to get more out of the grid is picking up momentum.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-24T121902.723.jpg",
+   "paragraphs": [
+    "The grid is built to serve peaks on the hottest afternoon or coldest morning of the year. The rest of the time, much of that capacity is unused. So how do we use more of it to accommodate load growth?",
+    "A growing coalition of experts argues that the US electric system has vast untapped potential, hidden in the underutilized infrastructure we’ve already built. And they’re pushing utilization as a resource that utilities can harness.",
+    "This fall, that idea became concrete. Under a first-of-a-kind law, Virginia required its two biggest utilities to file utilization metrics with regulators. Supporters say it will provide more visibility into parts of the system that can accommodate more power, and change the way utilities plan and build.",
+    "This week, a deep dive into the concept of utilization: how it works, why it matters, and where it fits into the growth of the grid. This conversation was recorded live at Latitude Media’s Flex Summit in Austin, Texas.",
+    "Stephen sits down with Molly Knoll, a senior advisor at Align Energy Advisors; Ian Magruder, founder and executive director of the Utilize Coalition; and Zach Zimmerman, director of research at Grid Strategies. They discuss how utilization should be defined, reflect on lessons learned from Virginia, and explore critiques of the approach.",
+    "Open Circuit is brought to you by EnergyHub. EnergyHub works with more than 230 utilities to coordinate over 2.6 million DERs and more than 3.6 gigawatts of dispatchable flexibility through a single platform designed to perform when it counts most. See what that looks like at EnergyHub.com.",
+    "Open Circuit is brought to you by Everyday Electric. Everyday Electric simplifies savings at home, helping support a more reliable, affordable grid. Operating the country’s largest residential VPP, it coordinates 6+ GW of capacity across connected products. Learn more at everydayelectric.com.",
+    "Molly Knoll: I talked to a distribution system engineer and I said, “Look, how many more kilowatt-hours can we flow through the system? If we control peak and we raise the valley, how much more value can we get out of the existing grid?” And there’s just silence on the other end of the phone. The guy was like, “Why would you even ask that question?” I said, “Because that’s how we drive down rates for customers. That’s how we handle electrification of transportation and buildings.” And when we talk about utilization, I really want to be talking about durable solutions that go beyond the data center moment to the load growth that’s coming in the five and 10 years beyond that.",
+    "Stephen Lacey: Policymakers are desperate to contain rising rates, and do it without choking off economic growth. So they’re increasingly looking at how to make better use of the grid we’ve already paid for. And utilization has become the concept of the moment in the power sector. It’s a pretty simple concept. We build the grid for the hottest afternoon and the coldest morning of the year, and then much of it sits idle the rest of the time. If you can get more power through those wires, you can connect new load faster and spread the cost of the grid over more kilowatt-hours. And now it’s moving into actual policy, first in Virginia and likely soon in other states. So is there a common playbook emerging, and what are the limits? This week on Open Circuit, a conversation with the people pushing utilization forward and the hard questions they’re still working through."
+   ],
+   "lede": "The push to get more out of the grid is picking up momentum.",
+   "tags": [
+    "power"
+   ]
+  },
   {
    "url": "https://electrek.co/2026/11/24/vw-will-pay-ev-drivers-in-germany-up-to-e720-to-plug-in-at-home/",
    "title": "VW will pay EV drivers in Germany up to €720 to plug in at home",
@@ -133,7 +214,7 @@
    "published": "2026-11-24T17:26:49+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
    "tags": [
     "power"
@@ -175,6 +256,20 @@
    "lede": "The first fully electric Porsche Boxster is finally in the home stretch of development. Ahead of its official debut in...",
    "tags": [
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMEpMYkJwLXVfeTlRZFB4SlI3LXBRb2RUMFhtTm9TSGRtODVzT2RjUXJBODVXdDVhalRWU1I5T3d2YjlNWFNiM2h2OFZOcl9JUWROb19HQ0dlQi1Vcy1QOVV1WF9QZ3FvUUNFR05TeUtSWENfVFdtamlIZGdUcmY4Y3dScUJ6ak0ybkwzczZuMVdlQ3lkX0ZXejNiN0RCRG5OQ0hlbUtES0JNdzNOMHdMVHJEakMyU00?oc=5",
+   "title": "Longer battery storage durations reshape US power markets",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T17:08:50+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
    ]
   },
   {
@@ -224,7 +319,7 @@
    "published": "2026-11-24T16:11:04+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to…",
    "tags": [
     "policy",
@@ -239,7 +334,7 @@
    "published": "2026-11-24T16:03:19+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.",
    "tags": [
     "policy",
@@ -290,11 +385,52 @@
    "published": "2026-11-24T15:54:55+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "“As we've said for some time, load interconnect queues were overstated across the country and especially in ERCOT, driven by speculation from developers,” Vistra CEO James Burke said.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "“As we've said for some time, load interconnect queues were overstated across the country and especially in ERCOT, driven by speculation from developers,” Vistra CEO James Burke said.",
    "tags": [
     "power"
    ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/byd-launches-new-luxury-5-seat-ev-suv-two-30-screens-under-30000/",
+   "title": "BYD launches the new Tang EV, a luxury 5-seat SUV with two +30″ screens for under $30,000",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T15:40:49+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "BYD launched the third-generation Tang, a large, high-tech five-seat flagship electric SUV, starting at under $30,000 in China. BYD third-gen...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Tang-EV-launch.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "BYD launched the third-generation Tang, a large, high-tech five-seat flagship electric SUV, starting at under $30,000 in China.",
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/24/nuro-lucid-gravity-uber-robotaxi-driverless-testing-bay-area/",
+   "title": "Nuro pulls safety drivers from Lucid Gravity Uber robotaxis in Bay Area",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-24T15:32:19+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "cats": [
+    "News",
+    "lucid",
+    "robotaxi",
+    "Self-driving",
+    "uber",
+    "Waymo"
+   ],
+   "description": "Nuro starts driverless testing of Lucid Gravity Uber robotaxis in four Bay Area cities, but the public launch has slipped from 2026 to Q1 2027.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Lucid-Gravity-Nuro-Uber.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "Nuro starts driverless testing of Lucid Gravity Uber robotaxis in four Bay Area cities, but the public launch has slipped from 2026 to Q1 2027."
   },
   {
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzFsdXI1QXJUcUhsRmRscTRZSHVOS3Q3ZjN6MW5fcFV6UGMtdUZBdl9WaWZMa0RObWxNdjV2bm1udXlISDEyVjJScHRjQkZOcmJSakNIcHZzZ3ZNdk5OaXdTRDJ3bEtpWDZseGtBcHRvVUs4TF9UNDZ3dkxBWFdhRjdac2Q?oc=5",
@@ -310,6 +446,17 @@
     "china",
     "transport"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObFI4LVVEc011aDFObEpaYkNyUHBBTjZRZWZkNVZKb2VLdi1Nd1RZY21xYlhydDJzNVR2dC16d3BvV2FIdXJLLUh3RnZWTDhhbzNtam15SWZDX2JKMlhfamQ0ajRvTE53NzBXay1hTkFjRWdaZG1XaUFzZDJ1TzA0bTUyTVdISFV5NE04d1pHRC1pdTBQejVmemtJS1p6NENXRzRZdl9QOHBJWG9VRC1CQW9fbnVwYXdDbWtXTQ?oc=5",
+   "title": "Germany’s Ailing Carmakers Brace for Labor Showdown",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-24T15:07:46+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.pv-magazine.com/2026/11/24/france-may-tie-5-5-solar-vat-rate-to-rg5-hail-resistance/",
@@ -386,6 +533,21 @@
    "tags": [
     "policy",
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3VhTUtUbXpnYWg5WURUY2RpRzNhdzFXX1N2S0RRNGZXcDd1VnEtM0R3RG9TcnNKQWhBdXpfbjkwNjRQSlEyODU2OGJRNkcxYlNjWHprcURKVWJLZEZVSlpyaC1MQ0pnejBSdUluNldueFVsMURGZ0h6b2pGcmZTdG51V0dIWkt6dnRXckxJbWZQdE9yd21RSzR1b3ZEMlhtbVl1U2VvU2x6VGhOWkRoaQ?oc=5",
+   "title": "EU members lean toward including British EVs in 'Made in Europe' scheme",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T13:50:09+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy",
+    "transport"
    ]
   },
   {
@@ -518,7 +680,7 @@
     "cmblu"
    ],
    "description": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
    "tags": [
     "industry",
@@ -543,7 +705,7 @@
     "oil and gas"
    ],
    "description": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion.",
    "tags": [
     "policy",
@@ -664,7 +826,7 @@
     "trends"
    ],
    "description": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
    "tags": [
     "china",
@@ -770,7 +932,7 @@
     "RTE"
    ],
    "description": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
    "tags": [
     "power"
@@ -872,7 +1034,7 @@
     "manufacturing"
    ],
    "description": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
    "tags": [
     "china",
@@ -912,7 +1074,7 @@
     "co-location"
    ],
    "description": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
    "tags": [
     "power"
@@ -1362,6 +1524,17 @@
    "lede": "Hyundai isn’t just giving its compact SUV a fresh coat of paint. The next Kona is getting a major overhaul,..."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV29PTUhScTJuaEk5YkdhMFNBWklVQVQ1eVVTQWxVZjZuQ0x6WjlZejRRc003UV9xNDc2T1ljZkktRGdfTGtOWUkybG45N2QtU3l4MFUtM3BEcThYZDJyQjF5R2l6VjVtNlNGUGx6ajlEYVRZbTVTb3lHNmsyWGljYVhkVzJVS196ZFdfbmVWWkRmSGY1U0JlUEhtamxCTnU5Q29weGx4UG1IYk0?oc=5",
+   "title": "Mercury spacecraft BepiColombo 'on track' despite glitch, ESA says",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-23T21:03:28+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://electrek.co/2026/11/23/subaru-cuts-ev-prices-dropping-most-distinctive-feature/",
    "title": "Subaru is cutting EV prices by dropping one of its most distinctive features",
    "source": "Electrek",
@@ -1483,7 +1656,7 @@
    "published": "2026-11-23T16:27:12+00:00",
    "seen": "2026-11-24T10:56:55+00:00",
    "description": "The decision followed a promise by the utilities to allow ISO-NE’s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer benefits.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "The decision followed a promise by the utilities to allow ISO-NE’s internal market monitor to investigate proposed plant retirements.",
    "tags": [
     "power"
@@ -1512,7 +1685,7 @@
    "published": "2026-11-23T16:12:00+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "Because lithium-ion batteries can pose a fire hazard, the structure will be heat-insulated to prevent damage should a fire erupt.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Because lithium-ion batteries can pose a fire hazard, the structure will be heat-insulated to prevent damage should a fire erupt.",
    "tags": [
     "industry",
@@ -1659,6 +1832,20 @@
    "tags": [
     "policy",
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yLTFlLVVtSUtGOHN5UVRSYXVWVmNZSFJIUWhPYm1Xd1AtYmVZNGZ1ajQzY1FkZW80WllkUXh2VDcwaGRyMVN0R2pLRWlzZzByZzhDc0hXQXdNcngxYXNLWW5sdEYtNDJxZWc?oc=5",
+   "title": "What the CEO of America’s Second-Richest Fusion Company Wants from the Next Congress",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-23T14:03:39+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -1870,6 +2057,20 @@
    "fetched": true,
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1RTQ0dNM2FaaTJRb3RVLVZQTWgzTGM0WENLZjBxLXc2SE5xcGstcG1nbC1PZ0JNUnVMVklJQjNnMzgzWDducGc1dzRqeTBVWG9PMjNqNVVWNjliRjRYMVczV0hCQUx1aXdrVHNtQjEzM1ZUX29lMGY0YXZFMDRQTENnVE1rYWhJTmlZMjd0ZmlldmpUdDhfUXpwaklEUDQ?oc=5",
+   "title": "Inside the Collapse of the COP31 Climate Summit",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-23T10:58:17+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -2362,6 +2563,31 @@
     "power",
     "transport"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONmhkdVFabFpwZnFQSGtrOTRYcGxaTkhJUjBpbzFDOTQwQlRoVGZxd2UtSFRJdWJLcWV0b1lTSk15SVFhVTFJRk1zQldDdmQ2YkVPdk5Ja3NJcld4bjYwaFZ3ckdUeW9qcjlYR285TVlpRHNiT3lKMmdNSlRSMjlXd1gtY1o?oc=5",
+   "title": "China is winning the car war",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-23T05:00:51+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXBOb2xLa2dvY1FndktNbDVucUtnWmNNc0pjR2FYZUFiQ0RGUHNVRm1fTk5LOFhHWmlkLV9DeVBZdmxtdE5RRGxoMWJOd0RibEZGTGlqZVJxUTJrZ3J3ZUpyOXFPekI3aFgzOUhfdkpUNkk0NGVlZ0RGOGJiQ0tjbVhWR0lya1U2RXpuZVhmYTZ5NXpVSmJmZnhGUU9wOXlDbEJzUmFjWDBnUQ?oc=5",
+   "title": "Watch India’s Appeal Grows as Global Tech Selloff Deepens",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-23T03:13:39+00:00",
+   "seen": "2026-11-25T04:15:17+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnE0aVFEenk4Y19LdXlocTVBSk1qVzNXeEN0bTNEQmxWRk1mdFZlNzB2VkVIQWlKdlR0aE43bm5LM1NKeGNOVGxwUnVYLUp1dHRUTFdmVXpJRkwzemw1M05BWUx5SDdhb3lSQ3JEek1JS3pVYTlVbUFlc1hyeXdUNUJSX1k?oc=5",
@@ -9880,241 +10106,6 @@
    "tags": [
     "power"
    ]
-  },
-  {
-   "url": "https://www.energymonitor.ai/news/africa-europe-green-industry-investment-cop31/",
-   "title": "Africa and Europe press for green industry investment at COP31",
-   "source": "Energy Monitor",
-   "desk": "news",
-   "published": "2026-11-16T09:37:05+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "At COP31, African and European leaders urged investment in clean energy and manufacturing to convert resources into jobs.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/COP31-Green-Industrialization.jpg",
-   "paragraphs": [
-    "African and European leaders used COP31 in Antalya, Türkiye, to press for faster investment in clean energy and manufacturing that could turn Africa’s renewable resources and critical minerals into jobs and industrial growth.",
-    "According to event organisers, the push comes as at least 13 African nations have restricted raw mineral exports since 2023 to force more domestic processing.",
-    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
-    "The roundtable event was attended by policymakers, private sector representatives, development finance institutions, and international organisations.",
-    "It was co-chaired by Damilola Ogunbiyi, CEO and Special Representative of the UN Secretary-General for Sustainable Energy for All, and Mattias Frumerie, Sweden’s Climate Ambassador and UNFCCC Delegation head.",
-    "The session was organised by Sustainable Energy for All (SEforALL), the Africa-Europe Foundation, the United Nations Economic Commission for Africa (UNECA), and Enabel, and supported by the European Commission and African Union Commission.",
-    "It examined how energy access and security, job creation and industrialisation could be aligned to advance socio-economic development and a just energy transition across Africa.",
-    "Participants cited that roughly 655 million people globally remain without electricity, with over 80% located in Africa.",
-    "Addressing this gap, in line with Sustainable Development Goal 7, was recognised as vital, with speakers calling for improvements not only in access but also the reliability and affordability of energy for industry and businesses.",
-    "Central to discussions was the importance of both first-time electrification, connecting those currently without power, and end-use electrification for industry, transport, and buildings."
-   ],
-   "lede": "At COP31, African and European leaders urged investment in clean energy and manufacturing to convert resources into jobs.",
-   "tags": [
-    "industry",
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1phdjB3dnYwcVU1aE5RSnR6SXR0ZnlFMGtHR2RGQWpxSm1jTjFzdXI4VGswUTJvQVhyb2RCS01MeGRXWGVJNmJjMTBZZF8wVUxPSkF3Ulh3NUxMOVk5VjZEdzcxbU9IVW5aR3BtSFdfSGxwNDJKbzM3elp6a2hMWGUwdmktQ3JpX0lYN3l5SFBYRWdBTkZCQg?oc=5",
-   "title": "China Is Reinventing Its Factories for the Low-Carbon Future",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-16T09:00:09+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/the-markets-getting-tough-australia-values-bess-bankability-above-all-says-director-at-wartsila-jv-valo/",
-   "title": "‘The market’s getting tough’: Australia values BESS bankability above all, says director at Wärtsilä JV Valo",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-16T08:38:06+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "Features",
-    "Interviews",
-    "all-energy Australia",
-    "australia",
-    "battery energy storage",
-    "battery storage",
-    "bess",
-    "business"
-   ],
-   "description": "ESN Premium speaks with to Suraj Narayan, managing director, Australia, at Valo, about the company's new ownership.",
-   "ftries": 1,
-   "lede": "ESN Premium speaks with to Suraj Narayan, managing director, Australia, at Valo, about the company's new ownership.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/geothermal/data-center-heat-north-carolina-town",
-   "title": "Could a data center’s waste heat warm a North Carolina town?",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-16T08:30:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "Enfield wants a proposed data center to fund community benefits, including a thermal energy network that would use its excess heat — it’d be a first for…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Facebook-data-center-in-North-Carolina-interior_GettyImages-143134962.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=47cd9a58bb9fb460a5970f58fd57437f",
-   "paragraphs": [
-    "In the Carolinas, Ohio, Texas, and many other states, Democrats routed incumbent Republicans in this month’s elections at least in part because voters fear an onslaught of AI data centers — the massive computer warehouses that threaten to suck up water supplies, increase climate and air pollution, and drive up energy costs.",
-    "Voters didn’t just take their anger out on politicians. In red and blue areas alike, they also approved dozens of ballot measures pausing or restricting data centers, adding to the over 450 moratoriums already in place across the country.",
-    "The backlash has left state and local leaders grappling with how to put guardrails on the facilities and ensure they benefit nearby communities.",
-    "A forthcoming deal between a data center and Enfield, North Carolina — an overwhelmingly poor, majority Black town of 2, 000 — could offer a groundbreaking example of what such development might look like.",
-    "For years, Enfield leaders and their allies have been working toward a clean energy vision that includes a solar farm to supply residents with power, a new substation to help distribute those renewable electrons, and a thermal energy network — a shallow form of geothermal that could replace inefficient water heating, space heating, and cooling. But they’ve faced a dearth of funding and fierce policy headwinds under President Donald Trump.",
-    "Then, this summer, Halifax County, where Enfield sits, announced it was selling property to Wyoming-based Quiet Data Centers, a land development firm, for a 100, 000 square-foot facility. The industrial site is 2 miles outside the town but needs to tap into its wastewater systems.",
-    "For Enfield Mayor Mondale Robinson, that presented a bargaining opportunity. Now, he and top officials from Quiet are negotiating a community benefits agreement, a legally binding document that ties developers to certain benchmarks. Among other commitments, Robinson wants the company to fund the entire $ 16. 2 million clean energy plan.",
-    "What’s more, he wants the data center to join the thermal energy network, which could provide a surge of excess heat to meet the whole town’s needs. If the plans come to fruition, it would be the first time in the U.S. that a data center has connected to such a system.",
-    "Brendan Morris, Quiet’s chief development officer, confirmed to Canary Media that the discussions were ongoing and that all of Enfield’s aims were on the table. ​ “ I think things are possible,” he said. ​ “ We’re new to this community and new to the county. We look around and see how a new business and a new data center coming into the area can make a positive impact.”",
-    "Robinson, a self-proclaimed progressive, acknowledges that the midterms were a rebuke of the tech sector’s buildout. ​ “ Everybody should be against dirty data centers,” he said. But he believes the not-in-my-backyard approach has too often stuck communities like Enfield with polluting projects rejected by wealthier areas. That’s why he wants a data center that’s built sustainably and with community input. ​ “ There’s nothing progressive about saying we are against something, without saying what we are for,” he added."
-   ],
-   "lede": "In the Carolinas, Ohio, Texas, and many other states, Democrats routed incumbent Republicans in this month’s elections at least in part because voters fear an onslaught of AI data centers — the massive computer…",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/heat-pumps/new-england-heat-pump-program-thriving",
-   "title": "A year in, New England heat pump program is thriving",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-16T08:30:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "The five-state New England Heat Pump Accelerator is just getting started, but supporters think it will meet a goal of nearly 580,000 heat pumps installed…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Wall-mounted-air-pump-with-column_GettyImages-2265484591.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=531cd4cd8031bddd0de12a4941aaf5c5",
-   "paragraphs": [
-    "More than 25, 000 homes across New England will be keeping warm this winter with new energy-efficient, low-emission systems paid for, in part, by federal funds. The households are participants in a five-state effort to boost cold-climate heat pump adoption that launched one year ago this month.",
-    "While that is well short of the ultimate goal of nearly 580, 000 heat pumps installed in four years, the growth of the program — the New England Heat Pump Accelerator — in its first months has supporters feeling confident about its chances for success.",
-    "“ We’re very, very optimistic about this goal,” said Ellen Pfeiffer, a fellow with Energy Solutions, a clean energy consultancy that is helping implement the programming, during a webinar last week reviewing the program’s first year. ​ “ We see vastly more participation just with these added incentives.”",
-    "The accelerator — a joint endeavor between Connecticut, Maine, Massachusetts, New Hampshire, and Rhode Island — is backed by $ 450 million from the federal Climate Pollution Reduction Grants program, which was created by the 2022 Inflation Reduction Act. It was, and remains, a rare example of a major Biden-era initiative making headway despite the Trump administration’s relentless efforts to eliminate federal clean energy and environmental funding.",
-    "New England is particularly well poised to take advantage of heat pumps because of its current reliance on fossil fuels. More than half the single-family homes in Connecticut, Maine, and New Hampshire use heating oil, as do large portions of those in Massachusetts and Rhode Island. Propane and natural gas are also in wide use.",
-    "Switching to a heat pump yields substantial monthly bill savings for most oil customers and a significant portion of propane and natural gas users. It also cuts climate-warming pollution: The only emissions associated with heat pumps are those produced by generating the electricity needed to operate the systems.",
-    "“ It’s the closest thing we have to a magic trick in the energy industry,” said Andy Frank, deputy commissioner of energy and technology policy at the Connecticut Department of Energy and Environmental Protection.",
-    "The accelerator program is slated to last four years, but it aims to leave behind a permanently transformed market in which accessible prices, readily available equipment, and a well-trained workforce make heat pumps the default choice for home heating well into the future. The long-term goal is for heat pumps to make up 90 % of heating system sales in the region by 2040.",
-    "“ We are shifting what is bought and sold in the market,” said Dylan Voorhees, managing consultant at nonprofit clean energy advisory VEIC, an implementation partner.",
-    "The centerpiece of the effort is the midstream incentive. Distributors — the plumbing and equipment supply companies that sell to contractors — receive an incentive payment for selling cold-climate heat pumps and heat pump water heaters. They get to keep a small sum, and the rest is passed on to the buyer as a discount: $ 300 incentive for heat-pump water heaters and $ 650 for space-heating heat pumps in four states. Maine has chosen to concentrate its program exclusively on heat-pump water heaters, using the accelerator money to fund its existing incentives."
-   ],
-   "lede": "More than 25, 000 homes across New England will be keeping warm this winter with new energy-efficient, low-emission systems paid for, in part, by federal funds.",
-   "tags": [
-    "industry"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1BGb1hkWUdzZ0phU0lubkdxdnVOY0laR2w2UFFYRHJzZkpnV1FPMDhGakxVTkN5dTZ6M3V3a1F1N19qcXdScGFqSE1vZUQxSmx4bVhmNFZUYm5JYTRQenlkM2xmUEp0Z19qNno3T29kbXgwOU56M1VBbFo1V2hNVEl4ektYTXZOYU5DMU9NYmRwTFQxZnprNXVObVFNSmZHQlV2QUU1QQ?oc=5",
-   "title": "Flood exposure of tanker-handling seaports by region, 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-16T08:00:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDJhandvaXZhOUJKS3lrenR6MkliZlp3YmVLY1NaTVoyTWowRUZxdkptVkFfMUQybi16VFI3T0h1SVdTLWhSOU1Rb3ZXdjBBTGhWSEJQQWg3Ynp0Y1F5MWhtZ2lQekc5bkdIa1Q5enQyVDYwTHEtVVNtZmVKbGJTUnZYT3lwQzMtLTQ4WWhpZWdPUlRsNlhZS2pfY3k3dkliTmlhNzE3UDlKandaN1dpMXhsQnR5Zw?oc=5",
-   "title": "Tropical cyclone exposure of tanker-handling seaports by region, 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-16T08:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYWVHVlYtcW9NYUtfb3ViZ2hMdGRvVVhRTDZNRGk2dThEY0xlQnItWUpJa0xxUFNFVzdySzFuT19zNGJ4X0NYajg2RFROb0JjcFdRbmVnaEd4VG5JV01FdXF3dTZHajRtbTRsTkJfZ0g3am12VjlwanRRanBrczN6MVVFbzlRTVc0b2NCWGRrc3ZnUHhtdk43Tzdrakl3eWFOUDhTZGpfX2pvdEJhQ3B3d254TXAyU2pwSFctMVc2U3JsNlQtWVg1aUlzOU9wR05tS3c?oc=5",
-   "title": "Türkiye rallies more than 50 countries behind Global Geothermal Ambition 2050 at COP31, calling for broader global action",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-16T08:00:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YdmNZQjR2XzE5X0ZhNUNkaHRDc0xuYXlLeEYxTVY5RUFYVVBqNElZajhLMzlwcnROSmc1SU5HQnVHZE9sZDN2X2tEZ1gwMmhYbWZ1MUJ1OUt5YnJZQkg5TkhtN0hfOFRLZHRleldxcw?oc=5",
-   "title": "Harnessing the winds",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-16T08:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOElUdWJ1RThhTHhwSElOT2E3V3ZoY3JWbTFrR2VRZnRqa2lMX0w4dHphWWtxZmtEWE5vV29RTGoxeDJMNFl2SUVKTjJESlNNNTFnT252WXVZTUUtMjlGZ3RpOEp3VXRDNTMwS0dkU0tTazNrR2hEbkxJWTlrS3h3aUhrRXJ2bUNNRExUcU95TDh6clJSbVNBcEhoamk0YUt3dDRCTg?oc=5",
-   "title": "India's Tata Motors PV falls on JLR outlook cut, weak Chinese demand",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-16T03:52:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkZhaWlkUzdTNnhqcWFNaFJzLUh3Mll3QVhSX253ckVJSUdUZXB4dFh5aE9CLURLVjhJQW9DNVlWY0U3ZlBtMjBkOVNvUnFHX1VtYTJTQ21wVWpfWE42WTlLSGdlejhPc3huVUtrdmJJM1ZST09kR1BvWnJWaHBBODNsZ0hTRlU2MDhBSlNzMVl2Vjd1Q0JQbEtRREE0a2JWbnRUWk56Njh5c1RkcW5OZHJTVWY?oc=5",
-   "title": "China’s Fossil Fuel Power Tips Toward Annual Drop on Green Boom",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-16T03:17:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGk3WDUxLU90MnRZdXRqOURZSlJLektvWlhEWXd6SlRRQUFCWGZhU2ZDOGpMM01xWjdEeDdSTEV0ZnBmYmx4NThfMDRNMFlZM2YzbHNVTlVPOF9pakdBbndydWlIeWdZb1dGc2lCdnozTHhwVlMyZjdSRTJuYVpJNXAxektucXlYLVN4RkE3QnBmWjZDbzFiSjB0ZDRpdFVXWlJ5WXBHeE5XT2k5T3B2eg?oc=5",
-   "title": "Canaccord to sell UK wealth unit for $1.55 billion, CEO to take company private",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-16T02:18:00+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJYTFjNnJjWkJJS1NJdzE5Z0V6TE43Q1NzekFzUnd6NDZULWVPenVpbVpwSDJ4LWV3Qy1TbXYzYlg5WTZ4RkQ1Yng5ZEkwd1hkSmpLTTV5UHVXQk56dWc?oc=5",
-   "title": "with Google",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-16T01:51:13+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2ZZdGRPUmY2RWlJQzY0RXB2ZktZZDFTT0EwVm9sSFB2ZnJiaGRLWFhIUHIzMVM0ZVlyeFJscmlFT2ZmRk02ckViT291SkY1NVhvaVdIMDZONG1Za29PM2NaN1NkVVJDS3l2ZVE3ZFh0VzNoTUdQLVlJWGZBMGlsd3p5aG1BSUxIR0F1RjgtcnB0elk0MzQwLVh6Y094YnJqQ1lyWmZPbzcwNDlVRW5KdllBTQ?oc=5",
-   "title": "Peak Energy Eyes Korea Green Projects as War Upends Fuel Flows",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-16T00:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
   }
  ],
  "dropped": []
