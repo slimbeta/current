@@ -1,49 +1,715 @@
 {
- "updated": "2026-11-25T04:15:17+00:00",
+ "updated": "2026-11-25T14:32:31+00:00",
  "briefing": {
-  "headline": "The grid, solar and AI’s power demand",
-  "period": "Nov 18–24",
-  "made": "2026-11-24T10:56:55+00:00",
+  "headline": "Solar, the grid and AI’s power demand",
+  "period": "Nov 19–25",
+  "made": "2026-11-25T14:32:31+00:00",
   "bullets": [
    {
-    "text": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers.",
-    "source": "Utility Dive",
-    "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/",
+    "text": "The reported result corresponds to a power output of around 551 W and represents a 15% relative efficiency increase over UtmoLight’s previous benchmark.",
+    "source": "pv magazine",
+    "url": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module/",
+    "theme": "solar"
+   },
+   {
+    "text": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
+    "source": "Energy-Storage.news",
+    "url": "https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess/",
     "theme": "the grid"
    },
    {
-    "text": "A Bangladeshi power producer and an international infrastructure investor plan to build a 45 MW solar plant in Chittagong district at a cost of about $45 million, with output sold to the state utility.",
-    "source": "pv magazine",
-    "url": "https://www.pv-magazine.com/2026/11/24/bangladesh-developer-plans-45-mw-solar-plant-with-foreign-funding/",
-    "theme": "solar"
+    "text": "A conversation with Long Lam and Natalie Northrup of the Brattle Group.",
+    "source": "Volts",
+    "url": "https://www.volts.wtf/p/the-truth-about-data-centers-and",
+    "theme": "AI’s power demand"
+   },
+   {
+    "text": "Moment Energy’s Nova turns retired EV batteries into 500 kWh storage units that can cut power bills and back up commercial sites.",
+    "source": "Electrek",
+    "url": "https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/",
+    "theme": "battery storage"
+   },
+   {
+    "text": "Grenergy has entered into a 15-year PPA with an investment-grade utility in Peru, set to deliver nearly 900GWh of energy per year.",
+    "source": "Energy Monitor",
+    "url": "https://www.energymonitor.ai/news/grenergy-signs-900gwh-ppa/",
+    "theme": "clean-energy finance"
    },
    {
     "text": "The approval is drawing fresh criticism of Ohio’s permitting process, which has seen renewable energy projects denied or blocked due to local objections.",
     "source": "Canary Media",
     "url": "https://www.canarymedia.com/articles/data-centers/ohio-oks-gas-plant-for-data-centers",
-    "theme": "AI’s power demand"
-   },
-   {
-    "text": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
-    "source": "Energy-Storage.news",
-    "url": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
-    "theme": "battery storage"
-   },
-   {
-    "text": "The Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation.",
-    "source": "Electrek",
-    "url": "https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/",
-    "theme": "clean-energy finance"
-   },
-   {
-    "text": "Gov.-elect Jocelyn Benson and Democratic lawmakers want to tie utility profits to reliability, and pause new data center builds.",
-    "source": "Latitude Media",
-    "url": "https://www.latitudemedia.com/news/michigan-is-a-test-bed-for-democrats-energy-affordability-promises/",
-    "theme": "power prices"
+    "theme": "permitting"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess/",
+   "title": "Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-25T14:13:13+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "News",
+    "battery",
+    "bess",
+    "canada",
+    "contractors",
+    "contracts",
+    "energy storage",
+    "engineering"
+   ],
+   "description": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
+   "ftries": 1,
+   "lede": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.latitudemedia.com/news/hyperscaler-emissions-are-soaring-do-they-need-better-climate-goals/",
+   "title": "Hyperscaler emissions are soaring. Do they need better climate goals?",
+   "source": "Latitude Media",
+   "desk": "news",
+   "published": "2026-11-25T14:00:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Artificial intelligence",
+    "Corporates",
+    "climate",
+    "emissions",
+    "goals",
+    "hyperscaler",
+    "Meta"
+   ],
+   "description": "Meta is re-evaluating long-held 2030 goals, while Amazon is adopting a new metric entirely.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://i0.wp.com/www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-24T162328.006.jpg?fit=1920%2C1280&ssl=1",
+   "paragraphs": [
+    "As their greenhouse gas emissions soar, two of the biggest tech companies in the world are changing how they measure climate and sustainability goals: Meta is re-evaluating long-held 2030 goals, and Amazon is adopting a still-ill-defined “carbon intensity” measure.",
+    "Big tech companies for years maintained ambitious net-zero pledges, championing clean energy power purchase agreements, investing in carbon removal and debating the best approach to carbon accounting. But the AI boom has overwritten all of those priorities, and as a result, emissions have skyrocketed as hyperscalers race to secure power for more compute, much of it generated in dirtier parts of the country’s electric grid or from planned off-grid gas-burning turbines.",
+    "According to Louise Bammel, a corporate accountability researcher at the nonprofit NewClimate Institute, existing climate pledges are out of step with this new world.",
+    "“Both Meta and Amazon are massively expanding new gas power plants, so the question arises if and how realistic it is that their emissions will fall,” Bammel said.",
+    "The latest sustainability report from Meta, released last week, showed a roughly 45% increase in net carbon emissions from the previous year, an increase so substantial that the report’s authors said that they are reassessing climate targets.",
+    "“We remain committed to net zero, but are re-evaluating the 2030 timeline and interim milestone,” Meta told Latitude Media in a statement. “We’ll continue investing in emissions reductions and reporting our progress annually.” A Meta spokesperson added that the company will continue to focus on clean energy procurement and more efficient design to address emissions, and aims to provide an update on its plans within the year.",
+    "Meta reported 21.7 million metric tons of carbon dioxide equivalent last year in its total emissions inventory, and 11.8 million metric tons in net emissions after including other factors that reduce carbon dioxide output.",
+    "Meanwhile, Amazon, which reported a 16% emissions increase in its most recent sustainability report, announced last week a new sustainability target built on a measure of the carbon intensity of its energy use. The company said its new aim is to reduce the carbon dioxide per unit of energy used by 65% by 2030, compared to 2019 levels.",
+    "Chris Roe, director of worldwide carbon at Amazon, told Latitude Media that the company is still committed to reaching net zero by 2040. Amazon also still backs The Climate Pledge, which it co-founded in 2019 and has encouraged more than 700 companies to adopt net-zero goals. But the AI boom has Amazon’s emissions heading in the wrong direction, and fast. Like Meta, the company has embraced fossil fuels, and is poised to become one of the world’s largest users of behind-the-meter gas.",
+    "“We’ve always said that our path to net zero by 2040 will not be linear, and here we are,” Roe said. He laid out an argument for “good growth” that makes carbon intensity a tool to decouple emissions growth from economic growth."
+   ],
+   "lede": "Meta is re-evaluating long-held 2030 goals, while Amazon is adopting a new metric entirely."
+  },
+  {
+   "url": "https://www.volts.wtf/p/the-truth-about-data-centers-and",
+   "title": "The truth about data centers and electricity prices",
+   "source": "Volts",
+   "desk": "analysis",
+   "published": "2026-11-25T13:58:09+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "byline": "David Roberts",
+   "description": "A conversation with Long Lam and Natalie Northrup of the Brattle Group.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://substackcdn.com/image/fetch/$s_!93TT!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F222718244%2F0cd4a2c6-994a-44c5-8350-f9e710a125e2%2Ftranscoded-1795534136.png",
+   "paragraphs": [
+    "Are data centers raising everyone else’s electricity rates? The extremely unsatisfying answer is, it depends. A new report puts numbers on it: depending on circumstances, a large new load can cut other customers’ rates as much as 6 percent or raise them as much as 9 percent. The good news is that most of what makes the difference is under regulators’ control. I talk with authors Long Lam and Natalie Northrup about the tools available, from minimum bills to “bring your own power.”",
+    "According to the polls, Americans are quite angry at data centers for raising their electricity prices. But … are data centers raising their electricity prices? If you’ve paid attention to the ongoing research and analysis around this question, you’re probably aware that the answer is an extremely unsatisfying “it depends.”",
+    "A new report from the Brattle Group and the Energy Systems Integration Group tries to put some meat on the bones of that “it depends.” Its authors modeled one enormous new load hooking up to the grid under dozens of scenarios. Depending on the circumstances, that same load either cut everyone else’s rates by around 6 percent or raised them by roughly 9 percent.",
+    "What determines whether costs go up or down? It’s mostly stuff we have under our control: whether the grid has spare capacity, whether the big customer shows up as promised, and the rules governing what big new loads pay. The report puts rough numbers on each effect, across four very different US power markets. It’s quite clarifying.",
+    "My guests today are the report’s lead author, Long Lam, and his co-author Natalie Northrup, both at The Brattle Group. Long works on load growth, from forecasting to tariffs; Natalie studies how flexible resources make money in power markets.",
+    "Many state governments and the US Congress are arguing over who pays for data centers. It’s a big element in the much-discussed federal permitting bill. So it seems like a good moment to help all you Volts listeners get a somewhat more sophisticated understanding of just when data centers hurt the rest of us ratepayers, and when they help. Let’s get into it.",
+    "PJM Filing - Interim Resource Adequacy Service and Large Load Registry (FERC Docket ER26-3515)",
+    "Indiana Utility Regulatory Commission - Order on NIPSCO and GenCo Data Center Special Contract (Cause No. 46322)",
+    "David Roberts: With no further ado, Long Lam, Natalie Northrup, welcome to Volts. Thank you so much for coming.",
+    "David Roberts: All right. Long, let’s start with you. You have been studying this basic issue for a while now. There was a big Lawrence Berkeley National Lab report around this a couple of years ago that made a big impression. Talk a little bit about your history with this issue and why this report now."
+   ],
+   "lede": "A conversation with Long Lam and Natalie Northrup of the Brattle Group.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module/",
+   "title": "UtmoLight, UNSW achieve 19.6% efficiency for 2.81 m² perovskite solar module",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-25T13:29:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Research & Development",
+    "Cells & modules"
+   ],
+   "description": "The reported result corresponds to a power output of around 551 W and represents a 15% relative efficiency increase over UtmoLight’s previous benchmark. The module was tested at Germany’s Fraunhofer Institute for Solar Energy Systems (Fraunhofer ISE).",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Unbenannt.jpeg",
+   "paragraphs": [
+    "Chinese perovskite solar module manufacturer UtmoLight and researchers from the University of New South Wales (UNSW) in Australia have reportedly achieved a stabilized power conversion efficiency of 19.6% for a single-junction perovskite solar module measuring 2.81 m².",
+    "According to technical documentation seen by pv magazine, the result was obtained through maximum power point tracking (MPPT) tests conducted at Germany’s Fraunhofer Institute for Solar Energy Systems (Fraunhofer ISE).",
+    "The reported full-area efficiency corresponds to a power output of approximately 551 W under standard test conditions.",
+    "The result represents an improvement of 2.56 percentage points over UtmoLight’s previous efficiency benchmark for modules of comparable size, equivalent to a relative efficiency increase of around 15%.",
+    "Maintaining high power conversion efficiencies while increasing module size remains one of the main challenges in the commercialization of perovskite photovoltaics. Large-area module fabrication requires precise control of thin-film uniformity, crystallization, defect passivation, electrical interconnections, and interface quality.",
+    "The collaboration combines UNSW’s expertise in materials science and device engineering with UtmoLight’s large-area processing and industrial manufacturing capabilities.",
+    "Earlier this year, the two partners achieved a certified stabilized efficiency of 23.5% for a 30 cm × 30 cm single-junction perovskite solar submodule with an aperture area of 676 cm².",
+    "The researchers eliminated the conventional nickel oxide layer through a fabrication process that enables the direct formation of a hole-selective contact.",
+    "The UNSW team subsequently announced plans to scale up the technology to a module area of 2.8 m², targeting a power conversion efficiency of between 18% and 19%.",
+    "UtmoLight has been working on the development of commercial-sized perovskite solar modules for several years. In November 2024, the company unveiled a 450 W perovskite solar panel with a power conversion efficiency of 16.1%, an area of 2.8 m², and a dual-glass design."
+   ],
+   "lede": "The reported result corresponds to a power output of around 551 W and represents a 15% relative efficiency increase over UtmoLight’s previous benchmark.",
+   "tags": [
+    "china",
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/25/poweroad-unveils-modular-lfp-battery-system-with-up-to-245-76-kwh-of-storage/",
+   "title": "Poweroad unveils modular LFP battery system with up to 245.76 kWh of storage",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-25T13:22:48+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Technology & Products",
+    "Batteries",
+    "Commercial & industrial",
+    "Energy Storage"
+   ],
+   "description": "Poweroad's new battery storage system is available in high- and low-voltage configurations and features 5.12 kWh lithium iron phosphate (LFP) battery modules based on CATL cells. The high-voltage version can also be equipped with a 20 kW electric vehicle charger.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/IMG_6445-scaled.jpeg",
+   "paragraphs": [
+    "Chinese energy storage specialist Poweroad is showcasing a new modular battery energy storage system at the Genera trade show in Madrid, Spain.",
+    "Dubbed Meta Node, the system is designed for residential and small-scale commercial and industrial (C&I) applications and is available in both high- and low-voltage configurations.",
+    "“Both units are modular and can offer a storage capacity of around 60 kWh by stacking up to 12 battery modules,” Federico Larcher del Río, Poweroad’s country manager for Spain and Portugal, told pv magazine. “The towers can then be connected in parallel to achieve a total capacity of 245 kWh.”",
+    "The high-voltage system has an operating voltage range of 172.8 V to 688.8 V and a storage capacity ranging from 20.48 kWh to 61.44 kWh per tower. It features a maximum operating current of 100 A and a nominal operating current of 50 A.",
+    "The low-voltage version has an operating voltage range of 43.2 V to 57.6 V and a storage capacity ranging from 5.12 kWh to 61.44 kWh per tower. Its maximum operating current is 200 A.",
+    "Both systems utilize the same 5.12 kWh battery module, which relies on LFP cells supplied by Chinese battery manufacturer CATL. The module measures 590 mm x 390 mm x 133 mm and weighs 50 kg.",
+    "The manufacturer claims a lifespan of 8,000 cycles. The modules feature a balancing current of 5 A, IP55-rated protection, natural cooling and an operating temperature range of -20 C to 55 C with heating.",
+    "The high-voltage battery can also be equipped with an optional 20 kW DC electric vehicle (EV) charging module featuring a CCS2 connector and an output voltage range of 200 V to 500 V. The air-cooled device measures 590 mm x 390 mm x 215 mm and comes with a 3-meter charging cable.",
+    "Larcher said the product is being distributed across Europe and that the company is currently expanding its presence in the Spanish market through distributors such as AutoSolar.",
+    "“The system is scalable and very versatile when it comes to adding storage capacity,” he said. “If an installation was initially sized for a smaller storage capacity, it can be expanded in the future.”"
+   ],
+   "lede": "Poweroad's new battery storage system is available in high- and low-voltage configurations and features 5.12 kWh lithium iron phosphate (LFP) battery modules based on CATL cells.",
+   "tags": [
+    "china",
+    "industry",
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/25/uk-small-scale-battery-deployment-set-to-double-annual-record-in-2026/",
+   "title": "UK small-scale battery deployment set to double annual record in 2026",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-25T13:15:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Applications & Installations",
+    "BESS",
+    "Energy Storage"
+   ],
+   "description": "Deployment data from certification body MCS reveals small-scale battery storage installations in 2026 are close to doubling annual record set in 2026. Policy support expected to fuel further growth in 2027.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/B-Craig-Michael-Renewables_clearsign.jpg",
+   "paragraphs": [
+    "UK small-scale battery storage deployment has accelerated in 2026, with the latest data from certification body MCS showing new monthly and annual records.",
+    "MCS recorded 73,115 certified battery storage installations to the end of October 2026, up from 41,460 certified installations in 2025.",
+    "MCS certification applies to battery storage installations with power output up to 50 kW. While not a legal requirement, certification is typically required by UK energy suppliers to gain access to payments for exporting to the grid.",
+    "Monthly certified installations peaked in July 2026 with 9,382 recorded. Nine of the top ten months on record for installations were in 2026, with 4,343 installations in October 2025 the tenth strongest month. Matching the installation rate from 2025 in the final quarter would see 2026 volumes more than double the previous annual deployment record.",
+    "The solar attachment rate for UK small-scale batteries was also high. MCS records show around 82% of certified battery storage systems installed in 2026 were also completed at the same time as solar panels.",
+    "Rising battery storage installations comes as the UK government rolls out further support for energy efficiency upgrades to homeowners. The recently launched Warm Homes Loan Scheme sees the UK government work with lenders to de-risk finance for energy efficient home upgrades, such as battery storage, to lower the interest rate offered to consumers at the point of sale. Means tested grants are also available for qualifying low-income homes.",
+    "More policy support is coming. Battery storage deployment is expected to benefit from new building regulations in England, which begin a phased rollout from March 2027. Under the new Future Homes Standard builders in England will need to meet more stringent energy efficiency standards, which battery storage and solar installations support.",
+    "Lisa Cooke, managing director of MCS, predicted that the new building regulations would support further growth for solar and energy storage deployment in UK homes.",
+    "“These numbers are only set to increase as the industry, particularly the new build market, prepares to deliver the Future Homes Standard. With this increased demand, the need for quality installations is more apparent than ever,” Cooke said, adding that MCS has redeveloped its installer scheme “putting quality at the heart of everything we do.”",
+    "The certification body is also developing a product standard for battery storage. Under the current certification regime, MCS certifies installation businesses and solar products, however it does not yet operate a battery storage product standard."
+   ],
+   "lede": "Deployment data from certification body MCS reveals small-scale battery storage installations in 2026 are close to doubling annual record set in 2026. Policy support expected to fuel further growth in 2027.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/trina-storage-launches-genset-battery-hybrid-solution-targeting-ai-data-centre-power-demand/",
+   "title": "Trina Storage launches genset-battery hybrid solution targeting AI data centre power demand",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-25T13:12:33+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Features",
+    "Interviews",
+    "News",
+    "battery",
+    "bess",
+    "data centre",
+    "data centres",
+    "fire safety"
+   ],
+   "description": "Energy-Storage.news speaks with Trina Storage’s Mike Watson about the company’s genset-BESS solution and its approach to safety.",
+   "ftries": 1,
+   "lede": "Energy-Storage.news speaks with Trina Storage’s Mike Watson about the company’s genset-BESS solution and its approach to safety.",
+   "tags": [
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/25/afore-unveils-all-in-one-propane-heat-pump-for-residential-applications/",
+   "title": "Afore unveils all-in-one propane heat pump for residential applications",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-25T13:09:16+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Technology & Products",
+    "Heat pumps",
+    "Residential"
+   ],
+   "description": "The new air-to-water heat pump series features nominal heating capacities ranging from 8.03 kW to 11.75 kW and coefficients of performance of up to 5.70. The systems can achieve an outlet water temperature of up to 75 C.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/IMG_6449-scaled.jpeg",
+   "paragraphs": [
+    "Chinese inverter and energy storage system manufacturer Afore is expanding its product offering to include residential heating and cooling solutions, with the introduction of a new series of air-to-water heat pumps designed specifically for the European market.",
+    "The new products, which rely on R290 (propane) as the refrigerant, are intended for both standalone applications and integration into residential energy systems combining solar power generation, battery storage, and electric vehicle charging.",
+    "“The heat pump can be sold independently or as part of a complete system,” Afore Vice General Manager Dong Chen told pv magazine.",
+    "Chen explained that, through an external energy management system (EMS) featuring artificial intelligence (AI) capabilities, homeowners can optimize electricity consumption based on fluctuations in electricity prices while maximizing the use of solar power and stored energy.",
+    "The company offers both single-phase and three-phase heat pumps, with the latter primarily targeting the German market, Chen said.",
+    "The new all-in-one system combines an outdoor monobloc heat pump with an indoor hydraulic module integrating a buffer tank, a domestic hot water tank, circulation pumps, valves, expansion vessels, and an intelligent control system.",
+    "The series is available in three versions with nominal heating capacities of 8.03 kW, 9.88 kW, and 11.75 kW. Their maximum heating capacities at an outdoor temperature of 7 C and an outlet water temperature of 35 C are 12 kW, 14 kW, and 16 kW, respectively.",
+    "Under the same temperature conditions, the systems feature coefficients of performance (COPs) ranging from 4.42 to 5.70. At an outlet water temperature of 55 C, their COPs range from 3.08 to 4.06.",
+    "The three models have an energy efficiency rating of A+++ for space heating at 35 C and A++ at 55 C, as well as an A rating for domestic hot water production.",
+    "The heat pumps can operate at ambient temperatures ranging from -25 C to 43 C in heating mode and achieve a maximum outlet water temperature of 75 C."
+   ],
+   "lede": "The new air-to-water heat pump series features nominal heating capacities ranging from 8.03 kW to 11.75 kW and coefficients of performance of up to 5.70. The systems can achieve an outlet water temperature of up to 75 C.",
+   "tags": [
+    "china",
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/25/belgium-forecast-to-reach-28-6-gw-of-solar-by-2035/",
+   "title": "Belgium forecast to reach 28.6 GW of solar by 2035",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-25T13:00:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Research & Development",
+    "Batteries",
+    "Commercial & industrial",
+    "Energy Storage",
+    "Europe",
+    "Highlights",
+    "Residential"
+   ],
+   "description": "GlobalData expects Belgium’s solar capacity to more than double from 2025 levels, with distributed installations leading growth amid rising electricity demand and declining nuclear capacity.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/patrick-robert-doyle-_tddzDnQeko-unsplash.jpg",
+   "paragraphs": [
+    "Belgium is on track to deploy 28.6 GW of solar by 2035, according to analysis by GlobalData.",
+    "Solar is already the largest technology in Belgium’s capacity mix, the UK-based consultancy says, with 12.8 GW of installed capacity in 2025, equivalent to 43.4% of its total.",
+    "Attaurrahman Ojindaram Saibasan, Power Analyst at GlobalData, told pv magazine he expects Belgium’s solar capacity to grow at a compound annual growth rate of around 8% to 2035.",
+    "He explained that as the country’s nuclear fleet contracts, falling to 2.1 GW last year, and with no new reactors committed to, most new supply has to come from renewables.",
+    "“Solar is the fastest and lowest-cost option to deploy at scale [while] electricity demand is set to rise as transport, heating and industry electrify,” he explained. “Electric vehicles, heat pumps and the industrial clusters around Antwerp and Ghent will all increase consumption.”",
+    "He added that regional policy, such as Flanders’ requirement for rooftop solar on large commercial and public buildings with high electricity use, also continues to support deployment.",
+    "Saibasan said the build out of solar will be led by distributed solar systems, which make up most of Belgium’s existing solar fleet, as land for large ground-mounted plants is limited.",
+    "“We expect commercial and industrial rooftops to be the strongest segment. The Flemish building mandate, high retail tariffs and corporate demand for on-site clean power all favour self-consumption,” Saibasan said. He added residential growth will continue but more slowly now that net metering has been withdrawn in the regions of Flanders and Wallonia.",
+    "Saibasan said grid capacity and revenue stand as the biggest obstacles that could prevent Belgium reaching the 28.6 GW projection.",
+    "“Distribution networks were not designed for large volumes of rooftop solar flowing back into the grid, so local congestion and connection delays could slow installations,” he said. “Frequent negative power prices at midday, already a feature of the Belgian market, also reduce the value of uncontrolled solar output and weaken the case for merchant projects.”"
+   ],
+   "lede": "GlobalData expects Belgium’s solar capacity to more than double from 2025 levels, with distributed installations leading growth amid rising electricity demand and declining nuclear capacity.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/italys-second-macse-auction-clears-12-lower-than-first-enel-bw-ess-a2a-and-field-among-winners/",
+   "title": "Italy’s second MACSE auction clears 12% lower than first; Enel, BW ESS/A2A and Field among winners",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-25T12:42:38+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "News",
+    "BatteryManagementEurope",
+    "italy",
+    "macse",
+    "terna"
+   ],
+   "description": "Italy TSO Terna has concluded its second MACSE auction, procuring 16GWh of long-term BESS capacity at a lower clearing price than 2025’s auction.",
+   "ftries": 1,
+   "lede": "Italy TSO Terna has concluded its second MACSE auction, procuring 16GWh of long-term BESS capacity at a lower clearing price than 2025’s auction.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wOG01MTBSVmNGMXFHMklKUzlVa2d2dVRuMjBTWXlkX3o5RmtQd1ctS05ZRTBvU2gzVUowZFBjNXhadnZuZDJJMmRMUUctLUgtV0xBRTdSWFNiX01U?oc=5",
+   "title": "Yet Another Multibillion-Dollar Megadeal in the Permian",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-25T12:30:37+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.energy-storage.news/eight-procurement-considerations-buying-sodium-ion-bess/",
+   "title": "The eight procurement considerations when buying a sodium-ion BESS",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-25T12:21:20+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Analysis",
+    "Features",
+    "due diligence",
+    "factory acceptance test",
+    "sodium-ion",
+    "sodium-ion bess",
+    "technical due diligence"
+   ],
+   "description": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
+   "ftries": 1,
+   "lede": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/25/greenvolt-power-breaks-ground-at-its-biggest-us-solar-and-battery-storage-project-to-date/",
+   "title": "Greenvolt Power breaks ground at its biggest US solar and battery storage project to date",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-25T12:00:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Energy Storage",
+    "Utility-scale"
+   ],
+   "description": "Developer breaks ground at 100 MWac solar, 50 MW/200 MWh battery energy storage system (BESS) project in New Mexico. Commissioning is expected in summer 2028.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Greenvolt-Alamogordo-_web.jpg",
+   "paragraphs": [
+    "Greenvolt Power’s PPA with Tristate Generation and Transmission should also help the cooperative’s rural utility members achieve compliance with long-term state targets for renewable generation. New Mexico’s Energy transition Act (ETA) required rural electric cooperatives reach 80% renewable energy by 5040, and 100% zero-carbon electricity by 2050.",
+    "Greenvolt Power expects to project to be fully completed by the summer 2028. The project it is expected to create 371 temporary jobs during the construction phase, followed by six permanent positions during operations.",
+    "Want to learn more about solar and energy storage co-location? On Dec. 1, 2026 at 3 .p.m CET we will welcome five industry experts who will share their first-hand experience of developing, building and financing hybrid projects in leading European markets.",
+    "Join us at pv magazine Week Europe for four days of dynamic discussion with industry leaders and experts, taking in co-location, quality, cybersecurity and other vital issues for renewable energy in Europe and beyond.",
+    "Weronika Nowak, CEO of Greenvolt Power USA said breaking ground at Alamogordo was the results of a “tremendous collaboration” between partners, contractors and local stakeholders.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Developer breaks ground at 100 MWac solar, 50 MW/200 MWh battery energy storage system (BESS) project in New Mexico. Commissioning is expected in summer 2028.",
+   "tags": [
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/25/german-agrivoltaics-developer-launches-free-tool-for-project-planning/",
+   "title": "German agrivoltaics developer launches free tool for project planning",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-25T11:15:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Agrivoltaics",
+    "Commercial & industrial"
+   ],
+   "description": "Ylektra has introduced an online calculator to help farmers and project developers assess whether category II systems meet key agricultural requirements under DIN SPEC 91434, a German technical specification for agrivoltaics.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/APV-Nachtwey_Gelsdorf2_Agri_PV_SolarInput-scaled-e1784557176204.jpg",
+   "paragraphs": [
+    "German agrivoltaics project developer Ylektra has published a free online calculator to help users assess, at an early planning stage, whether category II agrivoltaic systems meet key agricultural requirements under DIN SPEC 91434.",
+    "The specification defines requirements for maintaining primary agricultural use at agrivoltaic installations. Category II covers low-mounted systems in which farming takes place between the module rows.",
+    "Users can enter the site location and crop type, along with system parameters such as row spacing, module height and orientation, and the working width of their agricultural machinery. The calculator covers systems with single-axis trackers and vertically installed bifacial modules. A traffic-light system assesses factors including land-use loss, cultivation access, light availability and expected agricultural yield.",
+    "Ylektra says the calculations draw on irradiation data from the European Commission’s Photovoltaic Geographical Information System (PVGIS), research findings from the agrivoltaic pilot plant in Heggelbach, near Lake Constance in Germany, and a meta-analysis by the University of Hohenheim covering 58 studies on the effects of shading.",
+    "The calculator does not replace detailed system planning or certification. Other requirements under DIN SPEC 91434, including water distribution, soil protection and decommissioning, must be assessed separately.",
+    "Ylektra recently published a freely accessible atlas of agrivoltaic projects in Germany. The atlas covers 2,697 projects in 109 countries.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Ylektra has introduced an online calculator to help farmers and project developers assess whether category II systems meet key agricultural requirements under DIN SPEC 91434, a German technical specification for agrivoltaics."
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/25/campaign-aims-to-bring-solar-plus-storage-to-50000-indigenous-homes/",
+   "title": "Campaign aims to bring solar-plus-storage to 50,000 Indigenous homes",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-25T11:00:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Batteries",
+    "Energy Storage",
+    "Finance",
+    "Off Grid",
+    "Residential",
+    "US"
+   ],
+   "description": "Indigenized Energy says solar-plus-storage projects have helped families reduce monthly bills by hundreds of dollars as it launches a $2.5 billion fundraising effort to support a further 50,000 Indigenous homes.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-10.44.04.png",
+   "paragraphs": [
+    "Native-led non-profit Indigenized Energy and international advocacy organisation Global Citizen have kicked off a campaign to bring solar and battery storage to 50,000 homes in Indigenous communities across the U.S. and Canada.",
+    "The money raised will go towards developing community-owned solar-plus-storage projects for Indigenous communities that often sit at the end of utility lines, face high costs and power outages that can last for days. It will also go towards developing workforce training and the local capacity required to sustain these systems once operational.",
+    "“That includes solar panels and battery storage, plus, where needed, improvements such as appliance upgrades or other measures to make the home more energy efficient,” Romero said. “Actual costs will vary depending on the home, location, and scope of work.”",
+    "The number of communities to be the support by the initiative is not fixed, Romero added, but the initiative plans to expand Indigenized Energy’s reach into Canada through partnership with other Native organisations.",
+    "Projects are due to commence next year, Romero revealed, with installations in Pine Ridge, South Dakota, and with the Menominee Tribe in Wisconsin already planned.",
+    "“Construction in these locations slows during the winter because of cold weather and frozen ground,” she explained. “We use those months to secure funding, coordinate logistics and prepare with our Tribal partners for installations to resume as conditions allow in the spring.”",
+    "Romero added that the goal is to reach 50,000 homes over the next seven years, with the pace of installations dependent on funding and readiness in participating communities.",
+    "Romero told pv magazine this example is one of several that the organisation hears of once installations are up and running.",
+    "“Homeowners consistently report bills dropping within the first few months and remaining low, sometimes reaching zero, depending on the home’s electricity needs and the size of the system,” she said. “Other homeowners who previously experienced frequent outages tell us they now sometimes do not even realise the surrounding community has lost power because their battery keeps their home running.”",
+    "Romero added that many of the households that benefit from Indigenized Energy’s solar-plus-storage solutions are part of communities that face significant poverty, with many living on fixed incomes."
+   ],
+   "lede": "Indigenized Energy says solar-plus-storage projects have helped families reduce monthly bills by hundreds of dollars as it launches a $2.5 billion fundraising effort to support a further 50,000 Indigenous homes.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ubERpQnNLa05vX2RUYXRobjIzdnNkbWwwZjQ1SG5hN3ZrcWQ1MFV4LXNjV1Y1aXhYemFsa2dmb2lNSU0wd0lIU1V5aHZqZjZ3ZUtIZmNRV3VyZ01WQ0ZrVmdETUpRQQ?oc=5",
+   "title": "Why Earthjustice Is Against the Permitting Reform Bill",
+   "source": "Heatmap",
+   "desk": "news",
+   "published": "2026-11-25T10:10:56+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/25/this-miniature-electric-bentley-is-ridiculously-cool-and-actually-street-legal/",
+   "title": "This miniature electric Bentley is ridiculously cool",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-25T09:57:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "If you’ve ever looked at a classic 1929 Bentley Blower and thought, “That looks great, but could it be smaller,...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/bentley-blower-jnr-head.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "If you’ve ever looked at a classic 1929 Bentley Blower and thought, “That looks great, but could it be smaller,..."
+  },
+  {
+   "url": "https://www.energymonitor.ai/news/peak-energy-expands-series-b/",
+   "title": "Peak Energy expands Series B to $157m for sodium-ion scale-up",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-25T09:40:29+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Peak Energy expands its Series B to $157m to accelerate sodium-ion storage manufacturing amid rising customer demand.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/BESS-EM-25-11-26.jpg",
+   "paragraphs": [
+    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+    "According to Peak Energy, the new investment will support increased production capacity and facilitate commercial deployments planned to commence in 2027.",
+    "The growth in funding follows an initial Series B announcement in October, which was led by General Motors Ventures and included participation from Maverick Silicon, Eclipse, Infinite Capital, Xora Innovation, and LG Technology Ventures.",
+    "The additional capital will enable the company to scale manufacturing and support pilot projects, including a demonstration aimed at showcasing the economic advantages of its technology for data centre applications, Peak Energy stated.",
+    "Peak Energy finance vice president Zack Jacobson said: “We’re grateful to our existing investors for deepening their support as our backlog grows.",
+    "“Adding HSBC gives us flexibility to fund project deliveries without additional dilution and reserve equity for scaling the business. Building a capital stack that fits each need is how we’ll finance Peak’s growth, and HSBC is the right partner to lead that.”",
+    "Peak Energy produces passively cooled ESS that do not require active cooling or scheduled maintenance.",
+    "The company claims that its systems can lower energy storage costs by as much as 20% over conventional alternatives and are designed to operate for up to 30 years without the need for augmentation.",
+    "This approach is aimed at addressing the requirements of sectors such as data centres, where long-term reliability and economic efficiency are key considerations.",
+    "Peak Energy co-founder and CEO Landon Mossburg said: “Customers are telling us they need a lot more energy storage, and they need better options."
+   ],
+   "lede": "Peak Energy expands its Series B to $157m to accelerate sodium-ion storage manufacturing amid rising customer demand.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/data-centre-demand-bess-equipment-supply-eku-energy/",
+   "title": "‘A flow-through effect’: Data centre demand reaches BESS equipment supply, says Eku Energy",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-25T09:19:04+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "Features",
+    "Interviews",
+    "australia",
+    "battery energy storage",
+    "battery storage",
+    "bess",
+    "data centre",
+    "data centres"
+   ],
+   "description": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development.",
+   "ftries": 1,
+   "lede": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdC1LV09jNTg1TExDUjBUUDgyRWhmYk9xNFV6QmdfYUtRZXlERDF0aS1rZlpuLXh0eWpMZTJXMUM5c1dHMGJJZ2k1YlJjOUdaeUNmMmdFTk1Gc3JTUC1zX242dWxGVmV0NDBSR2VsTjhIU013bGZyWFc1Q2xNWWR1cHMtdjJ5bTlwME84S0Z5T0xRQnhKVmlGYUFrYjFaQnZXTWM2R1FqS0dHMi02d0h5UlZnZnlQdzVockxLMg?oc=5",
+   "title": "Aramco, S-Oil inaugurate $7 billion petrochemicals complex in South Korea",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-25T08:42:39+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/heat-pumps/maine-heat-pump-winter-discount",
+   "title": "These Maine heat-pump owners will get discounted power this winter",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-25T08:30:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "description": "A top utility has rekindled a program that could save heat pump owners hundreds of dollars a year — and nudge more residents to ditch pricey heating oil.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Heat-pump-snow-Freeport-Maine_2026-11-24-224936_mnsu_2026-11-24-225029_rkcj.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=43ac8f22f460c943ecf0a15f8f7cc7d3",
+   "paragraphs": [
+    "A discount electricity rate for heat pump owners in Maine seemed dead earlier this year. Now, it’s been revived as regulators look for ways to encourage households to ditch increasingly pricey heating oil and make winter warming more affordable for those already using the electric systems.",
+    "The Maine Public Utilities Commission last week approved the rate structure proposed by the state’s top electric utility, Central Maine Power, which serves more than 670, 000 households across most of the western half of the state. CMP expects the voluntary program, which kicks in Dec. 1, to save participating customers hundreds of dollars annually compared to default rates.",
+    "The heat pump rate eliminates transmission and distribution charges during the winter, leaving customers to pay for their electric supply — 13. 63 cents per kilowatt-hour as of the new year — and a monthly fee of about $ 41 (somewhat higher than the $ 27 monthly fee paid by standard-rate households). Customers who opt into this rate will then see a higher rate during the summer months: 25 cents per kWh, as opposed to the standard rate’s 12 cents per kWh.",
+    "The idea is that the savings from winter operations will be greater than the additional summer costs, giving customers a net financial advantage. A customer who uses 500 kWh per month in the summer and 1, 200 kWh per month in the winter would save $ 211 per year, compared to standard rates, according to CMP’s calculations. Use less in the summer and more in the winter and the savings go up.",
+    "Having these savings available also amplifies the case for switching from oil heat to heat pumps, supporters of the rates say.",
+    "CMP originally launched the heat pump rate as a pilot at the beginning of 2023. It expired on Jan. 31, 2026, and was not extended, following a study that found the offering did not create significant savings for customers or motivate meaningful changes in how much power participants used.",
+    "Now, however, circumstances have changed. The price of heating oil — used by roughly half the homes in Maine — has spiked as a result of the ongoing war in the Middle East, lingering just below $ 6 per gallon in recent weeks. Heat pumps and the accompanying discount rates could offer much-needed savings this winter, regulators reasoned in their decision approving the new pricing structure. Essentially, the heat pump rate is just more likely to drive heat pump adoption at this point than during the pilot, supporters argued during the approval process.",
+    "“ The cost of delivered fuels is incredibly high right now,” said Alex Lopez, senior manager of regulatory policy at electrification nonprofit Rewiring America, which was not directly involved in the Maine decision. ​ “ Heat pumps represent an opportunity to upgrade heating systems with a fuel that is less volatile, more efficient, provides healthier indoor air quality … there’s just so many benefits.”",
+    "Heat pump rates are gaining traction in other cold-winter places as well. Massachusetts requires all three of its major electric utilities to offer a lower seasonal rate for heat pump users, which took effect last winter. In that first season, the rates saved customers more than $ 37 million, an average of more than $ 250 per household. In Minnesota, Xcel Energy offers a program that lowers seasonal rates for homes with electric heat — both heat pumps and resistance. Colorado utilities will be required to consider heat pump discounts in future rate requests, and New York is looking at whether it can alter its current time-of-use rates to create more savings for heat pump users."
+   ],
+   "lede": "A top utility has rekindled a program that could save heat pump owners hundreds of dollars a year — and nudge more residents to ditch pricey heating oil.",
+   "tags": [
+    "industry",
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/electric-vehicles/uber-drivers-flocking-to-evs",
+   "title": "Uber drivers are flocking to EVs amid high gas prices",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-25T08:30:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "description": "The world’s largest ride-hailing app is seeing record EV growth among U.S. drivers, a bright spot for the country’s floundering electric vehicle market.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/Tesla-Ubrer-driver-Toronto_GettyImages-1540973132.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=add3ba14128ca6e4108ddd64ebf853af",
+   "paragraphs": [
+    "U.S. electric vehicle sales fell off a cliff last year after Republicans deleted the federal EV tax credit. But sky-high gasoline prices are causing EV adoption to soar among one of the populations most exposed to fuel costs: Uber drivers.",
+    "The ride-hailing company tracks EV adoption on its platform to measure progress toward a corporate goal to reach 100 % electric by 2030 in the U.S., Canada, and Europe. Uber is not on track to hit that ambitious timeline, but a striking trend has emerged from the latest data: Uber drivers in the U.S. and Canada made a smaller share of rides in EVs in the last quarter of 2025 and the first quarter of this year. But from April through September, U.S. Uber drivers set consecutive monthly records for miles driven electric, said Santosh Rao, the company’s global head of mobility electrification.",
+    "The U.S. and Israel launched their war with Iran at the end of February, prompting Iran to close the Strait of Hormuz in retaliation. The loss of this key energy supply line rippled through the global market. As the blockade continued, even the U.S.’s world-leading oil production couldn’t shield its drivers from price spikes in this globalized commodity. Domestic average gasoline prices broke $ 4 per gallon at the end of March, according to AAA, and have stayed above that for almost all the year since.",
+    "Uber can’t command its drivers to pick a certain vehicle — they are independent contractors, after all. Its EV data reflects the aggregated decisions of millions of individuals making economic choices about their livelihood. As gas prices ticked higher, the people who routinely fill up a tank once or more per day felt it the hardest, and for six months running, more of them chose electric driving than ever before.",
+    "EV advocates and researchers have long argued that the total cost of ownership favors EVs even if they have a higher sticker price than a comparable combustion-engine model. That total cost metric calculates fuel savings over time as well as cheaper maintenance — fewer moving pieces, no oil changes, etc.",
+    "The math works out for many Uber drivers. Rao added that, in addition to lower operating costs, electric cars offer smoother and better rides for Uber customers.",
+    "But not everyone can spend more up front with an expectation to save money in the long run. The haywire fossil fuel markets, however, made the short-term pain of gasoline dependency so acute that it pushed Uber drivers into cleaner vehicles. It’s as if President Donald Trump’s elective military intervention created an unintended carbon tax.",
+    "U.S. Uber drivers chose electric cars for one in 10 miles driven as of September. In Europe, which bought more EVs in September than ever before, EVs traversed one in 5 miles driven on the platform.",
+    "Globally, the quarterly count of zero-emission Uber trips rose 34 % since the first quarter, to 207 million trips. And Uber now hosts 434, 000 EV drivers, up 28 % since the Q 1 report — compare that with the total 10. 8 million active drivers and couriers Uber reported in the third quarter (though the electrification reporting tracks only ride-hail drivers, not couriers). A few cities lead the pack: EV miles driven on Uber are now over 50 % in Amsterdam, over 40 % in London, and over 35 % in Vancouver."
+   ],
+   "lede": "The world’s largest ride-hailing app is seeing record EV growth among U.S. drivers, a bright spot for the country’s floundering electric vehicle market.",
+   "tags": [
+    "policy",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzh2Vk1IRmk4YUpzX0dIWGxna1BHbHZzN3V0N1lkc2RoeEZ2aVZmUDJYQW5sRHNYX28xYWlxcEFJbkVON21EZlpSOHdodkJVWXFCdlE2MUxnSzd6ZXBJU0I1Y1JMWGd0eTRldXlUM1pfZ2ZaRzhQc2p6VzFteGF6YjJKSDB4c1p0RW5HelZPaUJ0R1B0RDBHTkFpN3RKaHlUTEFEWjBSYVloT21YUGNCRnJNYXladEdvSGYwLXlNMWZ1TUE?oc=5",
+   "title": "Governance reforms can accelerate the deployment of Indonesia’s 100 GWp solar target",
+   "source": "Ember",
+   "desk": "analysis",
+   "published": "2026-11-25T08:26:19+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energymonitor.ai/news/grenergy-signs-900gwh-ppa/",
+   "title": "Grenergy signs 900GWh per year renewable PPA in Peru",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-25T07:56:09+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Grenergy has entered into a 15-year PPA with an investment-grade utility in Peru, set to deliver nearly 900GWh of energy per year.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Solar-panel-Power-25-11-26.jpg",
+   "paragraphs": [
+    "Spanish clean energy company Grenergy has entered into a 15-year power purchase agreement (PPA) with an investment-grade utility in Peru, set to deliver nearly 900GWh of energy per year.",
+    "The PPA covers output from the Macarena and Locumba solar projects located in the country’s southern regions of Ica and Tacna, respectively.",
+    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+    "These projects have a combined installed capacity of 450MW, with Macarena accounting for 209MW and Locumba for 241MW.",
+    "The PPA represents close to 80% of this total output, with energy deliveries scheduled to commence in 2029.",
+    "Grenergy, which has operated in the Peruvian market since 2015, has previously developed and subsequently sold the Duna Huambos wind farm in 2021 and the 100MW Matarani solar plant in 2022.",
+    "The company stated that the new agreement consolidates its role in the Andean region, where electricity demand is expected to grow, in part due to increased investment in the mining sector.",
+    "Highlighting the market’s characteristics, Grenergy noted Peru’s current low adoption of solar and storage technologies, identifying this as an area for potential expansion of renewable capacity and hybrid energy systems.",
+    "It also referenced similar development dynamics in northern Chile, where the company has built the Oasis de Atacama facility.",
+    "Grenergy CEO David Ruiz de Andrés said: “Signing Peru’s largest renewable PPA marks another milestone for Grenergy and reinforces our commitment to the Andean region, a market with enormous potential, exceptional solar resources, and significant opportunities for the development of new renewable projects and their hybridisation with storage.”"
+   ],
+   "lede": "Grenergy has entered into a 15-year PPA with an investment-grade utility in Peru, set to deliver nearly 900GWh of energy per year.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWgzY19ReUlrbmFMSlpjbTlLNnk0MjBoY3JxdXZjekY4QXdGY1FwTHhBT3VWd0ZueVlGMFZqZTNhVEtGWGJKSUM2aURVTm9FZVZVUnoxRlF5MmV3RzBlLURQTmgxSnA2X0hZMjJTdk9ST0VfRWJQZVI0RVVNemlQZmNOZ2gzaFR2Tm8xdWpFMkVqWldwT2xVQzFsSTJfbjlBYm5yOEJGS1ZvSkdhQUU4WUdDV0VwQQ?oc=5",
+   "title": "Xiaomi Hints at UK Plans as EV Newcomer Readies For Europe Entry",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-25T06:09:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUm9XbmNDZy1PanZOYXdXN0liZW1IVmJDc1k1Y2xac1phTHFKWU9mdlFCUlFTR21mRkZKS3E2SEZaaTRlWGZ5a1RvZWVNOGM4QTJ5cXZXLUQyeUU5cVRFUkxXdzZjZkhkdmx2aUZlU2RhemFBdEJCOGh4UW43QmJqQXZGN2tLUXJLd0RvLXJETElRdzNvcHZIdTE3c3U2eUV5MkxaZWs2NTlJYU1JUjRZMGtDdnRuQQ?oc=5",
+   "title": "Ukraine Has a Blueprint for Protecting Vulnerable Power Grids",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-25T05:00:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
   {
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVFua000U21ZaUd3cmRhN0tacHNNbWFaODdHNnpMMXduYVNRMWpyRlhLVy1PMDBQMXE1WUloMXA4YURIQmQ2YUtaV283RDNYZ3lLMHEyNG8wM2syM3hBRG9sVlUwX2d5NVl5N0M3M0JDb3hPYURhTEdXTW1ZbkV0LWV2VmZPYm9yZlE?oc=5",
    "title": "Will Democrats Really Take Up Permitting Reform in 2027?",
@@ -56,6 +722,20 @@
    "fetched": true,
    "tags": [
     "policy"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcy1XZVFtNF9ZTHNqeGNUZHBRTkw1SDlWbEMtTGpDS1FJY085WXNtMEFDSC1RT2xZVkhDMVk4cVotY3ZSU21oYlpLcUJRcFluTzBaN05kYThsTThFOFRLcHh0OHNmN3h3djk0M2pabEhybWVndi1OVWVxS2NrRWwxc2kzZjdmbTN0cFVSbnllY3JMTlBWWlNlZHdzdEd4X0VzdEIwU2E2SlJvN0hj?oc=5",
+   "title": "China’s Booming Exports Obscure Economic Strain at Home",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-25T00:00:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
    ]
   },
   {
@@ -214,7 +894,7 @@
    "published": "2026-11-24T17:26:49+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
    "tags": [
     "power"
@@ -319,7 +999,7 @@
    "published": "2026-11-24T16:11:04+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to construct a reactor,” it said.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has “not yet decided whether to…",
    "tags": [
     "policy",
@@ -334,7 +1014,7 @@
    "published": "2026-11-24T16:03:19+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "The Southwest Power Pool is misusing an exemption meant for urgent reliability needs to avoid competition in favor of incumbent utilities, writes Paul Cicio, chairman of the Electricity Transmission Competition Coalition.",
    "tags": [
     "policy",
@@ -385,7 +1065,7 @@
    "published": "2026-11-24T15:54:55+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "“As we've said for some time, load interconnect queues were overstated across the country and especially in ERCOT, driven by speculation from developers,” Vistra CEO James Burke said.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "“As we've said for some time, load interconnect queues were overstated across the country and especially in ERCOT, driven by speculation from developers,” Vistra CEO James Burke said.",
    "tags": [
     "power"
@@ -410,6 +1090,17 @@
     "china",
     "transport"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iQjdlNEJtWUo3WHdFTlJnaHVGY2hJZklfbFJwZVkybTh0TVN5RndURmx4UDdEdVhzR1RwY3dUOVFDZlV0dlcyZk1zNHNtcE80V0ZYRUJpT0NHMklvOXpVNW9xTkk1ZWFzVTRXbw?oc=5",
+   "title": "Energy data analyst",
+   "source": "Ember",
+   "desk": "analysis",
+   "published": "2026-11-24T15:39:27+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://electrek.co/2026/11/24/nuro-lucid-gravity-uber-robotaxi-driverless-testing-bay-area/",
@@ -680,7 +1371,7 @@
     "cmblu"
    ],
    "description": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
    "tags": [
     "industry",
@@ -705,7 +1396,7 @@
     "oil and gas"
    ],
    "description": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion.",
    "tags": [
     "policy",
@@ -826,7 +1517,7 @@
     "trends"
    ],
    "description": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
    "tags": [
     "china",
@@ -913,6 +1604,17 @@
    "tags": [
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDJ5Nlc3QnRqVFBiVUFSS2ZBNXNPZHhseURpdzNYUDBHRGFwZ24zQ1BsNXVseDViYTg0a3JmM2F1a05KNjFLVkgyb2dmWVFpcGZqUVdvQUUwY29UWHh5TloyVF9JaFpVQVA5eVVqc0Nzb25WajRFdmEwd3Jqd0Jjc2VGZlFUbllNSFJ5Q3QxZWJRMEpkVDAzRXAzLUF1Yk0wOHBGRUNfUFRrejVOaV9nazhR?oc=5",
+   "title": "Actuate to Invest $327 million in Spain’s Largest Battery Deal",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-24T10:34:12+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
@@ -1374,6 +2076,32 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDNnNko1ZG5VSkxUeU5odE9tMjlTSU15NkNCNnZncHd5MkpwTGlGNXh1S181dFQ1aFV4WS13ZnVmcDVGeUMzaUpQRGlFbFRDSExiMU43ckJDTHVTOHpjLTRPMjhSMl9kQzFHYmJGSVVqamFFQmw3ZkVoOG5POGIwdk5tVjN2WUllaHpjb2Zzb3J4TXVCVUJOYzdWM1BLdWlRV3U1aXFyQ2pwLWxZbVE?oc=5",
+   "title": "COMMENTARY: Six charts on key global energy trends in 2026",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T06:00:00+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzUydWxmbVV0ZDRYZnVCY2t2Y3RrTUpjYURQY1FtTTMzSUJlTEJkUGI0Rm1uZlZ5VEV4SEhGcXQ5a1VLLVpXeUg5WXZnWEpBYmM3Y3AxaU9BM3JJbkxfQV9BZ0FHdHFCSGZ2Ym5VWTdqVGZHNHlST2RKNDdtWUJjcWExNjhXMGlHMEZDRlg1eVcweVB2eC1PWjRrZzBiWklxZDhFV3pfdk9mM00?oc=5",
+   "title": "Stellantis partner flashes warning for Chinese EVs",
+   "source": "Breakingviews",
+   "desk": "news",
+   "published": "2026-11-24T05:12:49+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmxGdmpXV1NCTXhJejE0UXpFckk2X2VYMXk4RldUa3RwS21SRExfZzRMZ19lMGhuTmF1OVhEN3gxeEloenhKUnV4Y2VTbHF0S1Z4U1d2elllM21OUzdZUEhCQlNIV3lUZDNHbE9ET0Y3OWd0RWt1cnA0TDBNMmZNOWFjN0FHcWZmZnMxcWhvOVBCa3U0NmJCSHhHYnBOU0pxMHFINExqZw?oc=5",
    "title": "Battery EV surge continues to push Europe car sales in October",
    "source": "Reuters",
@@ -1685,7 +2413,7 @@
    "published": "2026-11-23T16:12:00+00:00",
    "seen": "2026-11-24T21:13:28+00:00",
    "description": "Because lithium-ion batteries can pose a fire hazard, the structure will be heat-insulated to prevent damage should a fire erupt.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Because lithium-ion batteries can pose a fire hazard, the structure will be heat-insulated to prevent damage should a fire erupt.",
    "tags": [
     "industry",
@@ -1744,6 +2472,20 @@
    "lede": "Musk says Tesla cars will stay on AI4 while FSD v15 already uses most of the chip. AI4.5 got a RAM cut, and AI5 goes to Optimus first.",
    "tags": [
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUtMTEJCNFh6eVdXak12WWpLSXlJTzF3b3hPMGd4N1BzbWp4UEx4Z0VwZnZsekxrNWhaazlKX1kzWlBmRGM0Nk03Q0Q0T3E1ak45Q0xZVTdrNHVuY0psSFVydWVaS0JIcnNtMDlkT3pXaDJhRndTSFZSMWxManpoeG9KbGJ1NTVaTUgxcUNzbWdOTGk1SF9WZW9nWm5VbFRBSXI3M2hiQVBHQnhId0o0dDI0Vmd2QjVWeEpuYmJoYjVEdmc?oc=5",
+   "title": "Hopes for green hydrogen revive as industry seeks to cut costs",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-23T15:54:30+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
    ]
   },
   {
@@ -2612,6 +3354,17 @@
    "desk": "news",
    "published": "2026-11-23T01:18:19+00:00",
    "seen": "2026-11-23T02:47:16+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxON1Fhd2Utb1M0b240Z2JiMkFRX1hkM2M1LWxrQzh6QWVvZ0x1T3l6ajNrRDdqOGFqMTlCWU93SFRIc29nei1fTFQ2ZnFXREtHc1A1SjFNTmVubEVZNUc2WWtub3pLNHN4c2xiR2lzZURmOEYtdC1pVHh5SU9BWm5OMHVFdm9WUExSZEhnTElSV2liWTVsUnFsVy1Ca3QzNGV3TU9idXV4WDNlWDhoT0ZmQUc2b3hHckFiUWZtU0pqXzk4aDdrcm1VdFZlMkpPbE5QZ2FxUExYVkhKdkYtcE1SdTZWSlZ6TWc2Zk1QN2NaUUJLeUJoLXNFNVd1NXhUeGFFcXVHMXU2bU9EdVRrQTA0MTZNUTJURDRNMGZ0M0lQWDVsUGFaMC1BWjRCanlrN1JKVENzakpoX1JzSWQtUXJQN3F1anRJbGwzUjR1ZDZXV3JPeFBJejB2NXYwNHJhZHp3aDFlelBSVFlVY3Q0ellIS1VfRTI0cTRUcnh4STZFZk1OY05oaDdrcXJJN2VYSFhJbnpXd3NaR2tmeFFNRDBwa1prSFF6NUVlRVNial9JWjV6MFk2NmltYjV1em9lT2tMNW9sQk0yMHJmdmhxUkNkRzBqaGRyMFZUblpIdXRsZkhaaklyWUtvUHMyZzI0V2Z5ZVB1RS03UTZaR09uMW85d1R2cThLVkIxcWc?oc=5",
+   "title": "Search",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-22T22:00:52+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -5129,6 +5882,17 @@
    "desk": "news",
    "published": "2026-11-19T23:53:34+00:00",
    "seen": "2026-11-20T12:55:31+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTklkVF9Hb0NtTjc4Vk9jdE5yRXpIWmhHSzdnX2FTRDlhejR3cFhtUkRUTnJBWElSZy1yUTljekR6M2toZXJ6Ukg1bXJIekFhZ2UtemVWTnV4N09fdWJ5ZVlZODhheThwV1dhLWt2akVjOUpBQm9rWlFLSHRad0NqNDZiRVlINGxoNkxITjl4Z25PcTlNeXBWc21jRFlvNHBfUU9UZDV1endBQTN1WjBaRURzS3ExNzByWnRZSW0yM2ZqSkwyMHVEVUdnNVBWRXYyUGEwMWY0a2Nuand3LUZ1UHN4UllqMFV1YlYyWjQzZ3ZWd3l3VjBxbzN2ajZHUVZZd3hkOGI5UV9kNHY3cEZDR1hacThzWEJBRFpLeEJUWWYxN1l1WEk0SDdrQVZ0dVNxYjEyYWRDSlRiak5DYlVGUUVqMVVwTTQyQTZrSkVINTJoXzkzWHU5bkQ4OUJ5Q2ZGZzdRaU85NDFXSmt4TUNiUC1LN0pkdzRjdWo4ZzMzVFpZZS12TWpn?oc=5",
+   "title": "Search",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-19T22:58:12+00:00",
+   "seen": "2026-11-25T14:32:31+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -9403,708 +10167,6 @@
    "fetched": true,
    "tags": [
     "policy"
-   ]
-  },
-  {
-   "url": "https://www.energymonitor.ai/news/cip-offshore-substation-contract-fengmiao-ii/",
-   "title": "CIP awards offshore substation EPC contract for Fengmiao II in Taiwan",
-   "source": "Energy Monitor",
-   "desk": "news",
-   "published": "2026-11-17T07:45:49+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "CIP has signed an EPC contract for the offshore substation (OSS) of the 600MW Fengmiao II Offshore Wind Farm (OWF) in Taiwan.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/offshore-wind-farm-power-17-11-26.jpg",
-   "paragraphs": [
-    "Copenhagen Infrastructure Partners (CIP) has signed an engineering, procurement and construction (EPC) contract for the offshore substation (OSS) of the 600MW Fengmiao II Offshore Wind Farm (OWF) in Taiwan.",
-    "The agreement involves Semco Maritime, which will oversee the engineering, procurement and installation of the substation’s electrical systems, and PTSC Mechanical & Construction (PTSC M&C) for fabrication of the structures.",
-    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
-    "Semco Maritime and PTSC M&C previously collaborated on the substation for Fengmiao I, the initial phase of the Fengmiao OWF projects.",
-    "According to CIP, this prior partnership has provided both contractors with relevant engineering and construction experience for the development of Fengmiao II.",
-    "CIP stated that procurement processes for other key contracts linked to Fengmiao II are currently underway.",
-    "Fengmiao I and II project CEO Mark Wainwright said: “PTSC M&C and Semco Maritime demonstrated outstanding expertise and execution capabilities in the fabrication and construction of the OSS for Fengmiao I.",
-    "“Our teams have established a strong working relationship and developed valuable engineering experience, providing a solid foundation for the successful delivery of the Fengmiao II OSS.",
-    "“Fengmiao II is now actively progressing the procurement of its key contracts, working toward achieving grid connection in 2030.”",
-    "The Fengmiao II OWF forms part of Taiwan’s wider plan to reach 13.1GW of installed offshore wind capacity by 2030."
-   ],
-   "lede": "CIP has signed an EPC contract for the offshore substation (OSS) of the 600MW Fengmiao II Offshore Wind Farm (OWF) in Taiwan.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
-   "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
-   "source": "Carbon Brief",
-   "desk": "news",
-   "published": "2026-11-17T05:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Uncategorized",
-    "CO2 emissions",
-    "Coal",
-    "coal trade",
-    "Emissions",
-    "emissions inequalities",
-    "Exports",
-    "fossil fuel emissions"
-   ],
-   "description": "Russia, Saudi Arabia and COP31 co-president Australia are the largest exporters of carbon dioxide (CO2) emissions in history, reveals Carbon Brief analysis.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3G186P0.jpg",
-   "paragraphs": [
-    "Since 1850, the three nations – and other major fossil-fuel exporters – have exported hundreds of billions of tonnes of CO2 in the form of gas, oil and coal that has been burned in other countries.",
-    "Carbon Brief’s analysis of extraction-based CO2 emissions is based on figures compiled by Robbie Andrew, a senior researcher at Norwegian climate institute CICERO.",
-    "It shows that Australia is responsible for more than twice as much global warming when including emissions from its fossil-fuel exports, while Saudi Arabia has caused more than four times as much.",
-    "Australia has been under pressure for continuing to expand its fossil-fuel production ahead of the UN climate summit in Antalya, where it is co-president with host nation Turkey.",
-    "In contrast, nations that are heavily reliant on energy imports – such as Japan or Germany – are responsible for far lower shares of planet-warming emissions, if responsibility passes to fossil-fuel producers.",
-    "There are many different ways to assign historical responsibility for current global warming.",
-    "Carbon Brief has previously published analysis based on territorial emissions, the consumption of imported goods, according to colonial rule or based on historical emissions per capita.",
-    "This year is expected to be around 1.5C hotter than pre-industrial temperatures. Next year is forecast to be the hottest on record, at around 1.7C of warming.",
-    "This year-to-year variation is due to natural variability, such as El Niño. However, approximately 100% of global warming to date is the result of human-caused greenhouse gas emissions."
-   ],
-   "lede": "Russia, Saudi Arabia and COP31 co-president Australia are the largest exporters of carbon dioxide (CO2) emissions in history, reveals Carbon Brief analysis.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmJuaHQ3VTFfa3ZvaWJMZkVqMU1FUURZVEdiaTlrdzBKM3dvREFVd3g3WGNhd2ZyZHpSaVFxTmxiSVU5elNESEo1VHo5T0V4bm9KS2FvRktacUotMXNNUTViNWpsLTdpWmpjTkk3YkxOQ2t6TmJ1ZTQ0aEZaU2dJVU5EODJwWktCMUxDTExBUFljeVdEOEd6bm5JLV9MZjBDeWo1TG1lZHhDMkxJWmwyOE9R?oc=5",
-   "title": "CATL Bets on Battery-Swapping to Cement EV Industry Dominance",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-17T04:22:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china",
-    "industry",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRllMbTdPTTlHU0dfTFRhVDlWa1lOWk1CX3VxVW1WMy1JQ2xWTFBtMkJBdlUydTZKdnhiS0kwaTZodFRUT2hjLU9wTTBmeTBSemttUjlsUE5qVjJxRTJRWVc3NjVKNTRSSjhDY2VKaTBaeGRhLUJDU0o5NmFwVE5ib25SUHB1R1d3OHZj?oc=5",
-   "title": "Under Huang, Nvidia Became a Major Electricity Tech Backer",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-17T03:13:35+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/reo-returns-to-challenge-slate-and-fathom-in-a-cheap-truck-showdown/",
-   "title": "REO returns to challenge Slate and Fathom in a cheap truck showdown",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T00:51:43+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News",
-    "electric trucks",
-    "Ford",
-    "offbeat",
-    "slate"
-   ],
-   "description": "On today’s surprisingly affordable edition of Quick Charge, we check out all the new cheap tricks trucks coming for your...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/04/Slack-EV-driving.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "On today’s surprisingly affordable edition of Quick Charge, we check out all the new cheap tricks trucks coming for your...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.latitudemedia.com/news/texas-data-centers-are-staring-down-a-december-limbo/",
-   "title": "Texas data centers are staring down a December limbo",
-   "source": "Latitude Media",
-   "desk": "news",
-   "published": "2026-11-16T22:36:57+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "Data centers",
-    "Policy",
-    "Regulation",
-    "Abbott",
-    "Batch Zero",
-    "SB6",
-    "Texas"
-   ],
-   "description": "The Batch Zero process just got a lot less clear.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-16T173642.204.jpg",
-   "paragraphs": [
-    "It’s going to be a strange winter for Texas data center developers, and for the companies betting on providing them with power. They were already waiting to hear the results of Gov. Greg Abbott’s data center audit, which stopped approving grid connections for new data centers and crypto mines of 75 megawatts or more until regulators have the chance to review them.",
-    "So far, ERCOT has provisionally let some 200 projects totaling 66.4 gigawatts keep their place in line, and has already shut out over 350 projects totaling more than 300 GW. That leaves nearly 170 GW worth of projects still waiting for the Texas green light, according to a Latitude Intelligence analysis of the queue.",
-    "Clarity on the review process, known as “Batch Zero,” has long been expected in December. But then Democrat Gina Hinojosa won the election for governor, ending the GOP’s 30-year run in the governor’s mansion, and raising questions about how and if she’ll maintain Gov. Abbott’s plans.",
-    "The state is the second-largest data center market in the U.S., and in her campaign, Hinojosa blamed Abbott for that explosive growth; Abbott just a year ago declared Texas the “epicenter of AI development,” and offered incentives for qualifying data centers looking to build in the state. Hinojosa said she would block new construction until state lawmakers can pass stronger restrictions, including on water and energy use. She takes office on January 19, 2027.",
-    "Of course, Hinojosa can’t do everything on her own. Passing laws like Senate Bill 6, which rewrote the rules for how large loads connect to and operate on the grid, requires lawmaker cooperation — and after Democrats also took the statehouse this month, 2027 will be the first time in 25 years that there will be a partisan split in the legislature. But her predecessor froze the load queue via letters to the Public Utilities Commission, ERCOT, and the Texas Commission on Environmental Quality, which means that Hinojosa can do the same.",
-    "Analysts for the investment bank Jefferies said in a post-election note that they’re skeptical that the new governor will reverse changes already implemented by Abbott. Instead, they anticipate that “the most plausible policy outcome is a legislative compromise that codifies consumer protections and sets guardrails on large-scale development.”",
-    "“The pause could be long,” they added, though they “expect Texas to build significant data centers in 2028 [and beyond]. Those already underway appear to be accelerating.”",
-    "The reasoning behind the Abbott pause, as well as Hinojosa’s stated plans, includes concerns about whether data centers are driving up costs for ratepayers. But because of the peculiarities of the Texas market, the absence of new data centers could also have a direct impact on prices, both for consumers and for power producers. Wholesale power for future years already trades at prices that assume, according to Jefferies, about six GW of grid-connected data centers each year. If those facilities don’t arrive, those prices fall. That is good for bills, and bad for the companies that own power plants."
-   ],
-   "lede": "The Batch Zero process just got a lot less clear.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet",
-   "title": "Permitting reform is a big, controversial bet for the energy transition",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-16T22:30:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "Clean energy backers say the bill would boost renewables and the power grid more than it would help fossil fuels. Some environmentalists fear they’re dead…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Four-senators-permitting-reform_AP26273693053532.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7fce4c62f250b2b30de126ec234e31d1",
-   "paragraphs": [
-    "The Senate bipartisan permitting bill is essentially an enormous three-part bet by the Democrats and clean energy advocates who support it.",
-    "The first part of the bet is that streamlining federal environmental reviews and permitting processes for all energy infrastructure will lead to more clean than dirty energy getting built, because renewables are cheaper and faster to get up and running.",
-    "The second is that the Trump administration will follow through on commitments to stop blocking clean energy — and that it won’t take advantage of the changes to fast-track a bunch of dirty projects that a future administration would struggle to overturn.",
-    "The third is that there will not be a better opportunity to initiate reforms that must be put in place for the economy to successfully decarbonize.",
-    "Not everyone thinks these bets will pay off for the climate. The Bipartisan American Affordability and Jobs Act, which the Senate is expected to vote on this week, has sown divisions between some historic allies for decarbonization policy.",
-    "Influential climate groups including the Natural Resources Defense Council, the Sierra Club, and the Union of Concerned Scientists have come out against the bill over concerns that it will make it too easy to build new fossil fuel infrastructure. After all, the American Petroleum Institute is one of the bill’s backers, and the Trump administration — as clear a friend to fossil fuels and foe to clean energy as there is — has given its blessing to the current version.",
-    "But many climate policy advocates and analysts contend that the bill is a clear positive for the energy transition. BAAJA was co-written by Democratic Sens. Martin Heinrich of New Mexico and Sheldon Whitehouse of Rhode Island, two of clean energy’s loudest supporters in Congress. It has broad support: Clean energy industry groups, labor unions, and some previously on-the-fence environmental organizations have come out in favor of it.",
-    "“ Let’s make it possible for America to build big things in this country again,” Heinrich said during a press conference with Whitehouse and other supporters last week.",
-    "The core contention of BAAJA backers is that the barriers to clean energy are no longer financial — they’re institutional. Decades of policies designed to protect the public and the environment from harmful infrastructure development, including fossil fuel pipelines and power plants, have become barriers to building the things needed to decarbonize.",
-    "“ Financial incentives only work if the things it makes financial sense to build can get permitted,” said Jesse Jenkins, an associate professor and energy systems engineer at Princeton University. ​ “ If we can’t build clean energy infrastructure at speed and scale, we can’t decarbonize the United States economy.”"
-   ],
-   "lede": "The Senate bipartisan permitting bill is essentially an enormous three-part bet by the Democrats and clean energy advocates who support it.",
-   "tags": [
-    "policy",
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/adding-wind-cuts-solar-battery-storage-power-costs-nearly-20-percent/",
-   "title": "Adding wind cuts solar + battery storage power costs nearly 20%",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T21:42:57+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Wind and solar fill each other’s gaps, making reliable clean power cheaper and reducing the amount of battery storage needed.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/vattenfall-hybrid-germany.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Wind and solar fill each other’s gaps, making reliable clean power cheaper and reducing the amount of battery storage needed.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/",
-   "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T21:41:36+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News",
-    "NHTSA",
-    "Tesla",
-    "Tesla Cybercab",
-    "Tesla Full Self-Driving",
-    "Tesla Robotaxi"
-   ],
-   "description": "Tesla's Cybercab has 8 crashes in NHTSA data. The driverless ones were under 5 mph. With a test driver on board, one hit a car at 53 mph.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Tesla's Cybercab has 8 crashes in NHTSA data. The driverless ones were under 5 mph.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.latitudemedia.com/news/voltus-buys-stem-storage-platform-as-it-doubles-down-on-batteries/",
-   "title": "Voltus buys Stem storage platform as it doubles down on batteries",
-   "source": "Latitude Media",
-   "desk": "news",
-   "published": "2026-11-16T21:10:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "Energy storage",
-    "Mergers and acquisitions",
-    "batteries",
-    "Stem",
-    "storage",
-    "Voltus"
-   ],
-   "description": "Exclusive: The sale comes as the VPP company expands its BYOC offering for data centers — and launches a new BESS coalition.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-16T153055.528.jpg",
-   "paragraphs": [
-    "Virtual power plant provider Voltus is angling to get more energy storage involved in flexible demand management, including via the purchase of a distributed battery optimization and management platform called Athena, built by Stem.",
-    "Larsh Johnson, chief technology officer at Voltus, exclusively told Latitude Media that the platform will allow Voltus to accelerate its strategy to add more battery energy storage to its existing virtual power plant work. “We have to have more batteries under management,” Johnson said. “If we can provide battery flex, we can actually deliver the kind of capacity that our partners really need.”",
-    "Athena is another example of the same. According to the company, Athena weighs a range of factors such as real-time market signals, utility tariffs, weather, and grid constraints “to dispatch batteries automatically, manage peak loads and optimize revenue per megawatt.” Because a battery functions as both a generator and a load, Johnson added, Voltus needs a tailored monitoring and control system to best incorporate them into a VPP.",
-    "“That complements how you take that kind of battery-specific functionality into the market by managing the battery’s energy and being able to optimize it for dispatch under the conditions where a customer is saving money on their utility bill and ensuring that the available energy is used in the best way possible,” he said.",
-    "Voltus was the original pioneer of BYOC, which lets data centers leverage surrounding commercial and industrial power flexibility rather than reducing their own energy use as they would in a standard demand response agreement. The concept is now getting picked up by those in the residential space as well, including Sunrun, Tesla, and Everyday Electric.",
-    "Johnson knows the Athena system well because he worked at Stem when the company developed the platform. He then left Stem to join Brightfield AI before its acquisition by Voltus.",
-    "Johnson said the Athena platform has hosted hundreds of batteries operating around the country, “so we know we’re acquiring a proven platform.”",
-    "Also today, Voltus launched a network of battery energy storage companies that are working together to accelerate the deployment of flexible grid capacity. The nearly 40 member companies include Branch Energy, Scale Microgrids, and Sparkfund. The network will connect commercial and industrial customers with assistance on engineering, permitting, construction, financing, and battery development partners.",
-    "Houston-based Stem has provided energy asset monitoring products for nearly 20 years, and its integrated software suite, PowerTrack, is commonly used in the industry.",
-    "Discover what bring-your-own-capacity offers C&I projects and how new market structures can make distributed batteries bankable"
-   ],
-   "lede": "Exclusive: The sale comes as the VPP company expands its BYOC offering for data centers — and launches a new BESS coalition.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHd0RC1iZmQwWUtkTl9CYjJVMUhGYmtxNEZyQU92Rm5mZS1OZ0Z2bHl6TmJuLUFJYWpQUW5GQ1h2anVqSHR5TDF3aThnaWhDd3lDYl9oY3VqbTVLaUMwMGtSME5IckZnZE5PQVhURTNPQ1BaS2tBejl6OU15X1B1N3VOM0o3dktRbnpLSjc1eWI5WWs4bjZqNnFOOA?oc=5",
-   "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-16T20:52:21+00:00",
-   "seen": "2026-11-21T23:19:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/volkswagens-cheapest-ev-buyers-waiting-nearly-2-years/",
-   "title": "Volkswagen’s cheapest EV already has buyers waiting nearly 2 years",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T20:26:22+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "The most affordable Volkswagen ID. Polo Trend starts at just €24,995, or about $27,500, but you’ll have to wait close...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-cheapest-EV-orders.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "The most affordable Volkswagen ID. Polo Trend starts at just €24,995, or about $27,500, but you’ll have to wait close...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/motorcycles-are-notoriously-dangerous-could-electric-motorcycles-actually-change-that/",
-   "title": "Motorcycles are notoriously dangerous. Could electric motorcycles actually change that?",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T20:16:30+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "There’s no particularly comfortable way to talk about motorcycle safety. Motorcycles are dangerous. All the statistics point to the fact...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/01/ryvid-anthem-motorcycle-header.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "There’s no particularly comfortable way to talk about motorcycle safety. Motorcycles are dangerous."
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
-   "title": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T18:10:05+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "cats": [
-    "News",
-    "NHTSA",
-    "Tesla",
-    "Tesla Autopilot",
-    "Tesla Full Self-Driving",
-    "Tesla Model X"
-   ],
-   "description": "Tesla confirms Autopilot or FSD was engaged when a Model X hit a signal pole and flipped in Naples, killing a passenger. It holds the video and EDR.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Model-X-autopilotfsd-crash-naples.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Tesla confirms Autopilot or FSD was engaged when a Model X hit a signal pole and flipped in Naples, killing a passenger. It holds the video and EDR.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/byd-bringing-10000-great-seagull-ev-overseas/",
-   "title": "BYD is bringing its $10,000 ‘Great’ Seagull overseas, but it won’t replace the Dolphin Surf",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T17:58:05+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "BYD’s new, larger entry-level EV will go on sale in Europe, but it won’t be called the Dolphin Surf as...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Great-Seagull-Europe.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "BYD’s new, larger entry-level EV will go on sale in Europe, but it won’t be called the Dolphin Surf as...",
-   "tags": [
-    "china",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nb0pWcFdDU2hTQUtGZXAtQTFRS0R0dEVHTk5wclM4M2xnNkxjdUI4MElVOXc2Q2t6Y2ZtR21CVlhYZTVjZWl4NzZRbjlFbmlrQWVJUDZuSkVoM00?oc=5",
-   "title": "How Social Media Became a Permitting Reform Battleground",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-16T17:37:08+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/",
-   "title": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T17:22:25+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "Germany",
-    "Giga Berlin",
-    "Tesla",
-    "Tesla Cybercab",
-    "Tesla Robotaxi"
-   ],
-   "description": "Tesla confirms a €3 billion Giga Berlin expansion to build up to 1 million Cybercabs a year from 2029, but EU rules cap driverless cars at 1,500 per model.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2023/08/Tesla-Gigafactory-Berlin-Aug-2023.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Tesla confirms a €3 billion Giga Berlin expansion to build up to 1 million Cybercabs a year from 2029, but EU rules cap driverless cars at 1,500 per model.",
-   "tags": [
-    "industry",
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/trump-again-orders-broken-coal-plant-to-stay-open-even-after-court-said-its-illegal/",
-   "title": "Trump again orders broken coal plant to stay open, even after court said it’s illegal",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T16:48:21+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "A court ruled the DoE's orders illegal in September. So far, it has cost ratepayers $303 million for no benefit.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Johnsonville-TN-coal-plant-demolition.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "A court ruled the DoE's orders illegal in September. So far, it has cost ratepayers $303 million for no benefit.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/hyundai-ioniq-5-caught-new-high-tech-interior-big-display/",
-   "title": "Hyundai IONIQ 5 caught with a new high-tech interior and big display screen",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T16:27:16+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Hyundai appears to be testing a new high-tech setup in the IONIQ 5. A prototype was spotted with the door...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Hyundai-IONIQ-7.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Hyundai appears to be testing a new high-tech setup in the IONIQ 5. A prototype was spotted with the door..."
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-fiery-crash-el-dorado-hills/",
-   "title": "Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T16:00:24+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "NHTSA",
-    "Tesla",
-    "Tesla Autopilot",
-    "Tesla Full Self-Driving",
-    "Tesla Model Y"
-   ],
-   "description": "Tesla says Autopilot or FSD was engaged at 74 mph before a Model Y hit a tree and burned in El Dorado Hills, killing three. The public was never told.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Tesla says Autopilot or FSD was engaged at 74 mph before a Model Y hit a tree and burned in El Dorado Hills, killing three. The public was never told.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnQ1NU1RNjNoTnJwTTVBQ2FIdWZTQVRfY0lBRGdrWV9xRlQwZWVsRU1TVFdXejJhZW1kM1ZrQ2EzNU0xbTR3UEtFR3pKTU9TeFRXU3JnV1hBOFcyRXZkNkd0UTFZZ0hvYjcycXAxT1JlLTJRYldFc0xLQk9uem4xdnlrc0dZZENrR3BZRzl1cGdsa2M3bWl3VnFvNWVJUV9oUmtSVUt4ZUZOSlZsMlJDVXZwY0k0dw?oc=5",
-   "title": "Why the Electrification Push at Global Climate Talks Is Stalling",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-16T15:57:56+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGFmWTF0Z1lCLVhXWG42ekFuNTlpMGhRajAzZTQ3ZGxOYW80WHYtbWZhdFJNRE9XOUFhMUtST2pkTGtLNmhFRnlBbFdFdVRFSG1xa1NIVFBxS0l2X0xIV29WZUtfelluei03V1dXeE5DNVhtM3FXUUktNW1zVkU4SGt1bW5EVXItaW1HQWxvN2RNNmFOcVZRLWstS29pWklaY1NrUmFXN0ZnUTFkRDN6OHQ2OERZZw?oc=5",
-   "title": "EU Carbon Reform Splits Top Parties Before First Parliament Vote",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-16T15:21:42+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-overturned-truck-naples-i75/",
-   "title": "Tesla on Autopilot/FSD hit an overturned truck at 71 mph, killing 3",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T15:13:45+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News",
-    "NHTSA",
-    "Tesla",
-    "Tesla Autopilot",
-    "Tesla Full Self-Driving",
-    "Tesla Model 3"
-   ],
-   "description": "Tesla confirms Autopilot or FSD was engaged at 71 mph when a Model 3 hit an overturned truck on I-75 in Naples, killing three. Nobody told the public.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-autopilot-fsd-crash-naples-florida.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Tesla confirms Autopilot or FSD was engaged at 71 mph when a Model 3 hit an overturned truck on I-75 in Naples, killing three.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/16/volkswagen-prices-new-id-cross-35000-version-comes-later-uk/",
-   "title": "Volkswagen prices its new ID. Cross for the UK, but the $35,000 version comes later",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-16T15:02:03+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Volkswagen revealed how much its new ID. Cross will cost, with prices starting at around $35,000 in the UK. But...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Cross-prices-UK.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Volkswagen revealed how much its new ID. Cross will cost, with prices starting at around $35,000 in the UK."
-  },
-  {
-   "url": "https://www.energy-storage.news/flatiron-energy-breaks-ground-on-1-2gwh-massachusetts-bess/",
-   "title": "Flatiron Energy breaks ground on 1.2GWh Massachusetts BESS",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-16T14:50:50+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "News",
-    "battery",
-    "bess",
-    "construction",
-    "energy storage",
-    "financing",
-    "flatiron",
-    "groundbreaking"
-   ],
-   "description": "US energy storage developer Flatiron Energy has broken ground on its 250MW/1,200MWh Energizar Energy Storage Project in Chelsea, Massachusetts, US.",
-   "ftries": 1,
-   "lede": "US energy storage developer Flatiron Energy has broken ground on its 250MW/1,200MWh Energizar Energy Storage Project in Chelsea, Massachusetts, US.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/neovolta-anchors-us-manufacturing-ramp-up-with-us116-million-bess-agreement-as-quarterly-loss-narrows/",
-   "title": "NeoVolta anchors US manufacturing ramp-up with US$116 million BESS agreement as quarterly loss narrows",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-16T14:46:53+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "News",
-    "battery",
-    "bess",
-    "domestic manufacturing",
-    "financials",
-    "georgia",
-    "manufacturing",
-    "neovolta"
-   ],
-   "description": "US-based BESS manufacturer NeoVolta has signed a US$116 million master purchase agreement with an unnamed “leading energy solutions provider.”",
-   "ftries": 1,
-   "lede": "US-based BESS manufacturer NeoVolta has signed a US$116 million master purchase agreement with an unnamed “leading energy solutions provider.”",
-   "tags": [
-    "industry",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/new-york-launches-second-annual-1gw-bulk-energy-storage-solicitation/",
-   "title": "New York launches second annual 1GW ‘bulk’ energy storage solicitation",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-16T14:40:53+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "News",
-    "competitive solicitation",
-    "incentives",
-    "index storage credits",
-    "market design",
-    "new york",
-    "nyserda",
-    "policy"
-   ],
-   "description": "New York’s second competitive solicitation for large-scale energy storage has launched, seeking a gigawatt (1GW) of grid-connected resources.",
-   "ftries": 1,
-   "lede": "New York’s second competitive solicitation for large-scale energy storage has launched, seeking a gigawatt (1GW) of grid-connected resources.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWJFb0JIcmxpbnc2VG43NldnU0FPemFPMi1GSkhES0l4cEk0VVVwOERoMmp3ODVWMENwSDhudVlDYzUtdHlidmVXTTlUaVY4aWh6aFp0XzFDWmQyMDhaQXBzaVN1MEJpRVc5eTEzZ2ZzbFlVaTRaQl9XTlJoTkt2bGh1UzBpbktnWkRTUUc2UDlTLUJUTDhycHQ2cWVDVVl0TFlyWGMyQ2x6NmxkcmY0WUFHdTdHSDZ6aFMw?oc=5",
-   "title": "COMMENTARY: Crunch time for aluminium as buyers tap metal of last resort",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-16T14:37:00+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zbWpQQ0hOQjFtV1VhbEdobTRsNWEyMWhFblA0Y1Bod1pVQ1JoaG5XSldscEt0ZzhtWlJ2b3ZIVDAxUVVRa3U3R2xiOFZGNXhobkJrXzVxUGlMUQ?oc=5",
-   "title": "Hydropower Is Drying up in the American West",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-16T13:07:44+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52eGlXUEJqdDFQRUp6Wl9IemNKRUw1TnpoY1pEbXd3aHFnOHJtaEZwN2ZuSW1WaUw0am12Q2F0eXlpYnpOd3JBZ1BLWTV5SHczcWwydE13U1lZNkFxNlF2NzNmU2xEa1VYb200?oc=5",
-   "title": "Bedrock Energy Raises $24 Million to Mainstream Small-Scale Geothermal",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-16T13:02:07+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMWZpUWctdHpwTktJZHJmcmN0SkhYZUdqLUlvRDNzVWFybnloZlRwVUdnOEx1TldQeGZUUmpqNVc3N3VlRVdxUDMxeGZad1FwdDQ5Y3V2ai1ZMjl6NmUteE9zMHBNLXY1bFljNnp1azNwTkpRdzdfdmk0UkwtUF93cDc2a19JRExMS3ZIUzZNSWZTWHVSeWJkWU5KZWllSFpqU2FCSzZHMXpOMEtaT1BkX054bzNlc0FNN2RSckgtcllqWjhhVnQxNVZwUVdtZ2FkMlZsSGFhQjdzSUZDbWZaM3ItWXVhcmlQNXVWbGFmc1FPdzEtRzFBVXlYMkRmZF8ycmtnbm1Qb1J1MlhMR1RIenlOcGdvaFF4aFMzOWE1TzJiRTBnb1I3SWxFRE84b1AyWV9xUGVnZG9vajBZbWdhY3haNEdtd0FZME13LUFMcERuQVNscHNSNHNfdnQ1V0k?oc=5",
-   "title": "From People Power to Public Policy: Empowering Communities and Local Action for Inclusive Energy Transitions in Asia-Pacific, co-organised with CEED, CLEAN, and Climate Era Catalyst - Regional Climate Foundations Pavilion",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-16T12:45:00+00:00",
-   "seen": "2026-11-24T10:56:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjalJGT25xMFoyMkZyN3RPemtpMWp3enAwVTRUd2tQa3VyZUM4cEtIZWNOVTBrRjhvTGN1TldfbGNMdTRQckY5VEFjVWR6WS1XdXQ3NmtQQld1NUc0N2dyRkdBRmV5RUt6emN4bVo5NHc2SmdoNkJZcA?oc=5",
-   "title": "Rebuilding Ukraine with Energy Efficiency",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-16T11:04:49+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.volts.wtf/p/community-post-32-your-thanksgiving",
-   "title": "Community Post #32: your Thanksgiving playbook",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-11-16T11:04:27+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "byline": "David Roberts",
-   "description": "Open to all free & paid subscribers.",
-   "image": "https://substackcdn.com/image/fetch/$s_!uKAo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50b82734-3e24-47ed-82ce-1f54ec90c249_3144x2096.jpeg",
-   "ftries": 1,
-   "fetched": true,
-   "paragraphs": [
-    "Check out this Brattle report on how distributed energy can lower costs for consumers. I believe there were recently some midterm elections that centered on lowering costs for consumers. Perhaps the incoming Democratic Congress should put distributed energy high on its agenda!",
-    "I guess everyone’s “climate hushing” these days, but the climate is still out there, getting warmer. According to the UN’s annual Emissions Gap report, we’re going to shoot past the world’s (supposed) target of 1.5 degrees and the US has become an outlier and an impediment to progress.",
-    "I’m still feeling melancholy about leaving Denmark. Read about tryg, the Danish sense of relaxed safety that comes with a high-trust culture. Sure sounds better than the constant low-level sense of threat and anxiety that seems to dominate in the US. (According to Google, “tryg” is the adjective (safe, secure) and “tryghed” is the noun, the feeling. But nobody likes a pedant.)",
-    "Hey y’all, Nate here. I produce Volts, and this is my corner of the thread. This month I spent more time with the federal permitting bill than with my own dog, and Storm has noticed. Questions, episode ideas, or something you made with an episode? Send it to nate@volts.wtf.",
-    "Second, McKinsey’s new look at the world’s trade chokepoints. The Strait of Hormuz is one of four with no way around it, and ship traffic through it fell as much as 95% this year. Half joking, fully serious: nobody can blockade the sun.",
-    "2. ✅ Comment of the month. Two honest takes on David’s four and a half hours of permitting, from readers starting in different places. Word for word.",
-    "Emma Bartlett: listened to the whole pod, twice! I work in clean energy and volunteer for a conservation non-profit, so my world is very split on this issue. After so much research, it’s clear to me this may be the best chance we’ll get for a long while and we absolutely need to take it, but its hard to tell a room full of conservationists that one of the costs is taking away one of their primary tools for protecting old growth ecosystems (NEPA process litigation).",
-    "Jordan: This post has flipped me back to at least neutral on the bill. The baseline permit arguments here are important. The political stuff, at least credible enough to be a draw. I needed to be convinced that this bill doesn’t help datacenters. I’m not sure I’m convinced, but I’m at least back to genuinely unsure. I’m more or less trusting everyone here that this bill won’t lead to a huge spike in FF installation. if it does, well, don’t have to say it. I know we need to build a ton of clean energy, but we also can’t afford another giant surge in locked in FF, because no one in this country has the balls to turn any of that off.",
-    "3. 🦃 Your Thanksgiving playbook. Thanksgiving is ten days out, and David’s notes this month circle two ideas: plenty of people are climate hushing, and the midterms were about lowering costs. So, a practical question. When energy or climate comes up at your table, what actually works?",
-    "ASK DAVID (keep it light): the questions David likes answering. The top few go into his next bonus episode, or get a one-line answer here."
-   ],
-   "lede": "Open to all free & paid subscribers.",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEl4dGlJSi1sYk4ybnNrQU9NWGFkLVhCS0NSUWpLaEdtU3ZQdjdVcGZaS0xzSmpiWWY2bmM5TktvT0tWWEFyT0RiaXNHdTVqZjNwZTMtN1pTb2JhdVBrbm9kWlhvM3VxbU1nMmlxTjBKbmFSdzRIYnk5MXRmNzZKdTBXZDlrdGJSemZRRnpVM216cHJ5WHZPaHUzeDV5YmxVQk1Mc2FVTQ?oc=5",
-   "title": "Accelerating AI and Green Data Centres with Renewable Power",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-16T10:44:33+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
    ]
   }
  ],
