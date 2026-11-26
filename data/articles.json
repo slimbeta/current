@@ -1,39 +1,39 @@
 {
- "updated": "2026-11-26T08:21:35+00:00",
+ "updated": "2026-11-26T19:01:56+00:00",
  "briefing": {
-  "headline": "Solar, the grid and AI’s power demand",
-  "period": "Nov 19–25",
-  "made": "2026-11-25T14:32:31+00:00",
+  "headline": "AI’s power demand, solar and the grid",
+  "period": "Nov 20–26",
+  "made": "2026-11-26T19:01:56+00:00",
   "bullets": [
    {
-    "text": "The reported result corresponds to a power output of around 551 W and represents a 15% relative efficiency increase over UtmoLight’s previous benchmark.",
-    "source": "pv magazine",
-    "url": "https://www.pv-magazine.com/2026/11/25/utmolight-unsw-achieve-19-6-efficiency-for-2-81-m%c2%b2-perovskite-solar-module/",
-    "theme": "solar"
-   },
-   {
-    "text": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
-    "source": "Energy-Storage.news",
-    "url": "https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess/",
-    "theme": "the grid"
-   },
-   {
-    "text": "A conversation with Long Lam and Natalie Northrup of the Brattle Group.",
-    "source": "Volts",
-    "url": "https://www.volts.wtf/p/the-truth-about-data-centers-and",
+    "text": "Google plans to spend $10.8 million on advanced transmission technology, and hopes other tech giants will adopt its model.",
+    "source": "Latitude Media",
+    "url": "https://www.latitudemedia.com/news/googles-grid-deal-in-ohio-tests-a-faster-path-to-data-center-power/",
     "theme": "AI’s power demand"
    },
    {
-    "text": "Moment Energy’s Nova turns retired EV batteries into 500 kWh storage units that can cut power bills and back up commercial sites.",
-    "source": "Electrek",
-    "url": "https://electrek.co/2026/11/20/this-500-kwh-energy-storage-system-runs-on-retired-ev-batteries/",
-    "theme": "battery storage"
+    "text": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project.",
+    "source": "pv magazine",
+    "url": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
+    "theme": "solar"
    },
    {
-    "text": "Grenergy has entered into a 15-year PPA with an investment-grade utility in Peru, set to deliver nearly 900GWh of energy per year.",
-    "source": "Energy Monitor",
-    "url": "https://www.energymonitor.ai/news/grenergy-signs-900gwh-ppa/",
+    "text": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
+    "source": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766/",
+    "theme": "the grid"
+   },
+   {
+    "text": "listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
+    "source": "Energy-Storage.news",
+    "url": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
     "theme": "clean-energy finance"
+   },
+   {
+    "text": "Hyundai’s new IONIQ 3 checks all the boxes as an affordable EV: it offers over 300 miles of range, a practical interior, and Hyundai’s new Pleos infotainment system.",
+    "source": "Electrek",
+    "url": "https://electrek.co/2026/11/25/hyundai-ioniq-3-spotted-us-affordable-ev-update/",
+    "theme": "power prices"
    },
    {
     "text": "The approval is drawing fresh criticism of Ohio’s permitting process, which has seen renewable energy projects denied or blocked due to local objections.",
@@ -44,6 +44,555 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/",
+   "title": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-26T19:00:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "The Amazon Black Friday Sale is still going for a while longer, and we’ve got a mix of new appearances...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/roborock-Yozma-Govee-EGO-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "The Amazon Black Friday Sale is still going for a while longer, and we’ve got a mix of new appearances..."
+  },
+  {
+   "url": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
+   "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-26T17:33:21+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News",
+    "ev charging",
+    "Tesla",
+    "Tesla Supercharger"
+   ],
+   "description": "Tesla deployed 29 mobile Supercharger stalls in California and Arizona for Thanksgiving, after opening 1,027 new US stalls in just 56 days.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-mobile-supercharger-firebaugh.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Tesla deployed 29 mobile Supercharger stalls in California and Arizona for Thanksgiving, after opening 1,027 new US stalls in just 56 days.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw/",
+   "title": "France triples planned renewable energy auction volume to 1.5 GW",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T16:23:59+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Modules",
+    "Utility-scale"
+   ],
+   "description": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference price for calculating payments to generators.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Windpark_Solarpark_GP_Joule-.jpg",
+   "paragraphs": [
+    "The French government plans to increase the volume of its upcoming technology-neutral renewable energy auction to 1.5 GW, up from the 500 MW initially proposed in draft tender rules submitted to the Energy Regulatory Commission (CRE). The auction is expected to launch in the coming days.",
+    "The government announced the increase on Nov. 25 during a press briefing. It follows concerns raised by industry associations, which had called for the mechanism to be open to all renewable energy technologies. The auction will therefore include different technologies for renewable electricity generation.",
+    "The other major change is the introduction of a single baseload reference price, known as M0 baseload, for all technologies. Until now, the reference price was calculated according to each technology’s generation profile. For solar, for example, the solar M0 reflected the average electricity price during the hours when solar installations generate power, mainly around midday, following a characteristic bell-shaped curve.",
+    "Under the M0 baseload approach, the calculation will instead use the national monthly average of wholesale spot electricity prices across all hours of the day, regardless of the generation profile of each technology.",
+    "The change would alter the remuneration conditions for renewable energy producers by exposing them more directly to fluctuations in wholesale electricity prices and reducing the influence of their generation profiles on the reference-price calculation.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference…",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1gzSXlXN2dSWEg1NEdYbl96VVZ4Q1A0RjFybm5Kc2VKSnZfSlN5MGwyUFM0dDVOZklQWXlQMnA4alQxZVRBMnZVRkpSdzZZY0VaS3U5amUtdThwMlVhTDc0aW9MN1d3NWRaTnZqYTByNWJOY3ZyZk5wckJQR0JIVUI5akRGenhxaVNDNmhDT3M3Q3lBd19Nd2x2QmY3R1hrNW1mLTU4akhtbUYxc1RQa2dKVFcwd3l4?oc=5",
+   "title": "Stored solar and wind power could cost up to 49% less than gas power in Italy",
+   "source": "Ember",
+   "desk": "analysis",
+   "published": "2026-11-26T15:17:13+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/zelestra-statkraft-8-year-italy-bess-toll-bilateral-market-develops-parallel-macse/",
+   "title": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-26T15:03:14+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News",
+    "BatteryManagementEurope",
+    "italy",
+    "macse",
+    "statkraft",
+    "toll",
+    "zelestra"
+   ],
+   "description": "IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few days after the country’s second MACSE auction concluded.",
+   "ftries": 1,
+   "lede": "IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few days after the country’s second MACSE auction concluded.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+   "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-26T14:36:17+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News",
+    "autonomous driving",
+    "robotaxi",
+    "Self-driving",
+    "Waymo"
+   ],
+   "description": "A Denver man has egged Waymo robotaxis at least 30 times after boxing them in with traffic cones, and prosecutors say it's a civil matter.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/waymo-ojai-exterior.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "A Denver man has egged Waymo robotaxis at least 30 times after boxing them in with traffic cones, and prosecutors say it's a civil matter."
+  },
+  {
+   "url": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
+   "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-26T14:20:22+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News",
+    "Energy Storage Awards",
+    "ESAwards"
+   ],
+   "description": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
+   "ftries": 1,
+   "lede": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
+   "title": "Gambia signs four solar PPAs totalling 232 MW",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T14:15:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Africa",
+    "Batteries",
+    "Commercial & industrial",
+    "Energy Storage",
+    "Utility-scale"
+   ],
+   "description": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-14.20.53.png",
+   "paragraphs": [
+    "The Gambia’s state-owned National Water and Electricity Company (NAWEC) has entered into four solar power purchase agreements (PPAs) within the last month, with battery storage included in each project.",
+    "The largest agreement, signed in late October, covers a planned 148.44 MW solar project with a 50 MW/200 MWh battery energy storage system (BESS). The project will be built in Soma, in the country’s Lower River Region.",
+    "Under the 25-year PPA, NAWEC will act as the sole offtaker. The project is being developed by Gambian-based renewable energy company Solaris Africa Ltd.",
+    "NAWEC signed a second PPA last week with the AEE-HGR consortium, a clean-energy partnership between pan-African contractor AEE Power and independent power producer HGR Energy. The agreement covers a 52 MW solar power plant, also in Soma, alongside 40.9 MWh of battery storage.",
+    "A separate government implementation agreement was signed during the ceremony. The project will connect to the 225 kV regional transmission infrastructure near Soma, allowing electricity to be fed directly into the national grid.",
+    "Last Friday, NAWEC signed a PPA with Türkiye-based developer Agata Energy for a 21.33 MW solar plant paired with 20 MWh of battery storage, according to details published by local media. The duration of the agreement has not yet been disclosed.",
+    "The project is planned for Farafenni, in the Gambia’s North Bank Region, where it is expected to strengthen electricity supply and grid stability.",
+    "The most recent agreement is between NAWEC and Gambian solar energy company SolarTech, covering a 10.4 MW solar project with 4 MWh of battery storage in Gunjur, in the country’s West Coast Region. The developer says the PPA has a 25-year term.",
+    "Together, these four agreements cover 232.17 MW of proposed solar capacity and 264.9 MWh of battery storage. Further project details, including indicative construction and commissioning timeframes, have yet to be released.",
+    "Once operational, the projects will considerably increase The Gambia’s installed solar capacity. According to the Africa Solar Industry Association’s (AFSIA) project database, the country’s largest operational solar project is the 23 MW Jambur solar plant, tied to 20 MW/8 MWh of battery storage. The plant was commissioned in March 2024."
+   ],
+   "lede": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/norwegian-ipp-shifts-south-african-solar-project-to-corporate-buyers/",
+   "title": "Norwegian IPP shifts South African solar project to corporate buyers",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T13:45:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Finance",
+    "Utility-scale"
+   ],
+   "description": "Norwegian independent power producer (IPP) Scatec said it plans to withdraw a 288 MW solar project from South Africa’s public renewables procurement program and sell it into the country’s growing corporate power market instead.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/08/Scatec-generic-batteries-Scatec-LinkedIn-page.jpg",
+   "paragraphs": [
+    "Scatec said on Nov. 26 that it has decided to withdraw its 288 MW Mercury solar project from South Africa’s Renewable Energy Independent Power Producer Procurement Programme (REIPPPP) and sell it to Lyra Energy, its joint venture supplying commercial and industrial customers under multi-year power purchase agreements (PPAs).",
+    "The Norwegian company cited “growing demand for corporate offtake agreements at attractive returns.” Lyra expects to start construction on Mercury in the first half of 2027. Scatec did not disclose the sale price.",
+    "South Africa’s Department of Electricity and Energy listed Mercury Solar PV 2, developed by Scatec Solar Africa, as a preferred bidder in REIPPPP Bid Window 7, with a contracted capacity of 240 MW at a tariff of ZAR 486.86/MWh in Free State province. Scatec did not explain the difference between that figure and the 288 MW cited in its announcement, and it did not say whether the withdrawal has been finalized with the government.",
+    "Lyra, now owned 50/50 by Scatec and STANLIB Infrastructure Investments, buys Scatec-developed projects and moves them to construction once it has secured enough corporate offtake. It has 381 MW under construction across Noko and the 255 MW Thakadu project, which reached financial close in March, plus Mercury in its backlog.",
+    "Scatec CEO Terje Pilskog said Noko is “the second project being realized through the Lyra platform,” adding that Scatec is “creating value in a highly capital efficient way through our integrated business model in this deregulating market.”",
+    "South Africa’s private power market has expanded alongside public procurement. In February, SOLA Group closed financing on Naos-1, described as the country’s largest private utility-scale solar and battery project, which pairs 300 MW of PV with 660 MWh of storage to wheel power to industrial customers across the national grid. On the public side, solar approved under Bid Window 7, including three additional allocations, stood close to 5 GW as of July, and the country’s cumulative solar capacity exceeds 10 GW.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Norwegian independent power producer (IPP) Scatec said it plans to withdraw a 288 MW solar project from South Africa’s public renewables procurement program and sell it into the country’s growing corporate power market instead.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/26/these-are-the-e-bike-sales-you-should-really-care-about-this-black-friday/",
+   "title": "These are the e-bike sales you should really care about this Black Friday",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-26T13:31:29+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "It’s that time of year again; Black Friday approaches! And while the e-bike sales have been pretty good all month,...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/lectric-xp4-special-edition-header-e-bike.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "It’s that time of year again; Black Friday approaches! And while the e-bike sales have been pretty good all month,...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage/",
+   "title": "Rare periods of low PV generation can be managed with storage",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T13:15:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "Research & Development",
+    "BESS",
+    "Energy Storage"
+   ],
+   "description": "The German Institute for Economic Research (DIW Berlin) says that batteries could help manage shortfalls in solar and wind generation, while underground storage of green hydrogen could provide backup during prolonged periods of low renewable output.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/analogicus-fog-4666170-1.jpg",
+   "paragraphs": [
+    "DIW Berlin researchers have examined how often periods of very low wind and solar generation have occurred and how electricity systems based entirely on renewable energy could manage them.",
+    "Claudia Kemfert, head of DIW Berlin’s Energy, Transport and Environment department, said at the opening of the Forum Solar Plus event in Berlin that the study proposes a definition of prolonged periods of low renewable generation for the first time. She added that such periods could last longer than previously assumed.",
+    "Kemfert also said Germany would need sustainable biomass to help cover these periods, alongside a significantly faster expansion of solar and wind power.",
+    "The DIW analysis shows that short periods of low renewable generation occur relatively frequently. An assessment of conditions between 1982 and 2019 found that combined solar, onshore wind and offshore wind generation in Germany fell to half of installed capacity an average of 112 times per year for 12-hour periods and 24 times per year for 24-hour periods. Batteries can help manage these shorter periods.",
+    "The DIW researchers consider prolonged periods of low renewable generation more challenging, although they occur very rarely. Complementary generation from solar and wind installations ensures that some renewable capacity remains available. The geographic distribution of generation also helps mitigate the effects, as fluctuations in renewable power output can partly offset one another across larger areas and national borders. Electricity trading with neighboring countries can therefore help manage periods of low generation, provided sufficient cross-border transmission capacity is available.",
+    "However, long-duration electricity storage is also needed to cover extreme periods of low renewable generation. The DIW researchers propose building storage facilities for green hydrogen that can be converted back into electricity when needed. Such facilities could store large quantities of energy over extended periods and shift renewable electricity generated in summer to winter.",
+    "Germany currently has initial small-scale demonstration and research facilities for underground hydrogen storage in salt caverns, with capacities in the gigawatt-hour range, either operating or under construction. Other European countries, particularly the United Kingdom and Austria, are further advanced. Across the countries examined by DIW Berlin, planned underground storage facilities have a combined capacity of almost 90 TWh.",
+    "That would not be sufficient, however. In a medium scenario that accounts for planned expansion of Europe’s electricity and hydrogen networks, the analysis estimates that 170 TWh of storage capacity would be needed across the countries studied. Under an extreme weather scenario comparable to the 55-day period of low renewable generation in the winter of 1996–1997, the most severe such event since 1982, the requirement would rise to 350 TWh.",
+    "The DIW researchers consider hydrogen storage infrastructure on this scale technically and practically feasible. They point out that Europe already stores a comparable volume of natural gas underground."
+   ],
+   "lede": "The German Institute for Economic Research (DIW Berlin) says that batteries could help manage shortfalls in solar and wind generation, while underground storage of green hydrogen could provide backup during prolonged…",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
+   "title": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-26T13:03:53+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News",
+    "ai",
+    "backlog",
+    "battery",
+    "bess",
+    "data centre",
+    "data centres",
+    "energy vault"
+   ],
+   "description": "NYSE-listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
+   "ftries": 1,
+   "lede": "listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/spain-could-reach-10-gw-of-batteries-by-2030-but-bankability-remains-the-major-challenge/",
+   "title": "Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T13:00:59+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Batteries",
+    "Energy Storage",
+    "Spain"
+   ],
+   "description": "The hybridization of solar PV plants, the evolution of arbitrage and ancillary services revenues, the future capacity market, and the financing of energy storage projects were the focus of a roundtable organized by pv magazine at Genera 2026. Experts anticipate strong growth in the Spanish market, though they warn of administrative hurdles, the lack of a revenue track record, and the complexity of managing these new assets.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/pv-magazine-spain-genera-roundtable-2026.jpg",
+   "paragraphs": [
+    "Spain could have between 6 GW and 10 GW of battery energy storage by the end of 2030, according to estimates presented during the roundtable “How can Spain make its batteries bankable?” organized by pv magazine on Nov. 25 at the Genera 2026 trade fair at IFEMA Madrid.",
+    "Participants included Luis Marquina, president of the Spanish Energy Storage Business Association (AEPIBAL); Carlos Jerez, head of structured finance at BNZ; Iker Labiano, head of energy storage systems (ESS) for Spain and Portugal at Sungrow; and Javier Revuelta, vice president of power and renewables consulting at Wood Mackenzie.",
+    "“We estimate between 6 and 8 GW, and we lean more toward 8 than 6,” Marquina said of the installation outlook through the end of the decade.",
+    "For his part, Jerez said of the projects Sungrow has under development in Spain, all of them hybridization projects, will be installed within that timeframe.",
+    "Labiano noted that in 2027 alone, storage equipment with a capacity exceeding 10 GWh could arrive in Spain, noting that another six to eight months can pass between battery delivery and grid connection.",
+    "Revuelta raised the forecast to 10 GW by 2030, equivalent to slightly under 40 GWh, given that not all projects will have a four-hour duration.",
+    "“I think nobody in Spain builds a PV plant without hybridizing it, or at least without trying,” said the consultant, who believes the combination of hybridizations of existing installations, new solar plants, and standalone storage projects will make it possible to reach that figure.",
+    "The evolution of electricity demand, data center deployment, the future of nuclear power plants, gas prices, and self-consumption will be among the variables determining the sector’s pace of growth, alongside reductions in the levelized cost of storage (LCOS).",
+    "Revuelta highlighted in particular the potential for extending battery lifespans, which could increase from roughly 8,000 cycles today to 15,000 in the coming years. “At the same CAPEX, 15,000 cycles is practically half the LCOS,” he explained.",
+    "The entry of new storage capacity will create a scenario of growing competition for specific revenue streams."
+   ],
+   "lede": "The hybridization of solar PV plants, the evolution of arbitrage and ancillary services revenues, the future capacity market, and the financing of energy storage projects were the focus of a roundtable organized by pv…",
+   "tags": [
+    "policy",
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/india-adds-11-2-gw-of-rooftop-solar-capacity-in-first-nine-months-of-2026/",
+   "title": "India adds 11.2 GW of rooftop PV capacity in first nine months of 2026",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T12:49:04+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Highlights",
+    "Residential"
+   ],
+   "description": "Q3 rooftop solar installations reached 4.7 GW, marking a 124% year-on-year increase. Residential installations accounted for 95.2% of quarterly additions.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2025/09/1747286173971.jpeg",
+   "paragraphs": [
+    "India installed 4.7 GW of rooftop solar capacity in the third quarter of 2026, up 124% from 2.1 GW a year earlier, according to Mercom India’s newly released “Q3 and 9M 2026 India Rooftop Solar Market Report.” Rooftop solar accounted for more than 42% of the country’s total solar capacity additions during the quarter.",
+    "Residential installations continued to drive rooftop solar growth, accounting for 95.2% of quarterly additions. Industrial, commercial, and government installations accounted for 2.5%, 1.7%, and 0.6%, respectively.",
+    "The capital expenditure (capex) model accounted for 92% of rooftop solar installations in the third quarter, while the operational expenditure (opex)/renewable energy service company (RESCO) model accounted for 8%.",
+    "Uttar Pradesh led quarterly installations with a 17% share, followed by Maharashtra (15%) and Gujarat (13%).",
+    "India added 11.2 GW of rooftop solar capacity in the first nine months of 2026, up 129% from 4.9 GW in the corresponding period of 2025. Residential installations accounted for approximately 9.9 GW, followed by industrial and commercial installations at 800 MW and 500 MW, respectively.",
+    "The country’s cumulative installed rooftop solar capacity reached 32 GW at the end of September 2026.",
+    "The government’s PM Surya Ghar program continues to drive rooftop solar growth, with nearly 5.95 million households installing rooftop PV systems by the end of September. Another 3.7 million applications were pending, representing an estimated residential rooftop solar pipeline of 10.96 GW, based on an average system size of 3 kW.",
+    "According to the report, domestic content requirements (DCR) and the Approved List of Models and Manufacturers (ALMM) are increasingly influencing procurement and project decisions. Limited availability of DCR-compliant modules, higher prices, advance booking requirements, and longer delivery times are affecting project completion.",
+    "“PM Surya Ghar has changed the scale of India’s residential rooftop solar market and is the driving force behind record growth. With the current program scheduled to end in March 2027 and millions of applications still pending, the focus has to be on converting that demand into installations through faster financing, smoother DISCOM processes, better equipment availability, and a larger pool of qualified installers. There is also the need for early policy direction on PM Surya Ghar 2.0 so the market does not lose momentum and consumers, installers, and manufacturers can plan beyond the current program,” said Raj Prabhu, CEO of Mercom Capital Group.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Q3 rooftop solar installations reached 4.7 GW, marking a 124% year-on-year increase. Residential installations accounted for 95.2% of quarterly additions.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/estonian-hybrid-park-energized-with-55-mw-250-mwh-battery/",
+   "title": "Estonian solar park energized with 55 MW/250 MWh battery",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T12:30:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Markets & Policy",
+    "Batteries",
+    "Energy Storage",
+    "Europe",
+    "Utility-scale"
+   ],
+   "description": "Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/20261111_0004-2-scaled.jpg",
+   "paragraphs": [
+    "Estonian energy company Evecon and French investment manager Mirova have added a 55 MW/250 MWh battery energy storage system (BESS) to an operational 77.5 MW solar park.",
+    "The two companies say the project, located near the town of Lihula in western Estonia, features the largest capacity battery storage system in the Baltics and currently stands as the most powerful hybrid park in the region.",
+    "Construction of the BESS started in January this year, with Tallinn-headquartered construction company WiSo Engineering acting as the main contractor. The company took responsibility for both building the infrastructure and integrating the storage system, having previously completed the Kirikmäe solar plant.",
+    "Want to learn more about solar and energy storage co-location? On Dec. 1, 2026 at 3 .p.m CET we will welcome five industry experts who will share their first-hand experience of developing, building and financing hybrid projects in leading European markets.",
+    "Join us at pv magazine Week Europe for four days of dynamic discussion with industry leaders and experts, taking in co-location, quality, cybersecurity and other vital issues for renewable energy in Europe and beyond.",
+    "WiSo Engineering Chief Executive Risto Virveste confirmed the battery storage system is technically complete, with the final grid and market tests now being finalized.",
+    "BREP entered into a ten-year flexibility and power purchase agreement (FPPA) with German energy company Pure Energy, covering the output of the hybrid system, as well BREP’s 15.5 MW Imavere and 12.8 MW Lohu Mets solar power plants. The agreement, first announced in February, is described as the first FPPA in the Baltics.",
+    "At the time, BREP also announced the completion of an €85 million long-term financing package from Swedish banking group Swedbank, that went towards the refinancing of its existing solar portfolio and the construction of the Kirikmäe BESS.",
+    "Evecon CEO Karl-Joonatan Kvell called the completed hybrid project “an important step towards increased Estonian energy security and an electricity system that relies more on local renewable energy”.",
+    "Estonia, alongside its Baltic neighbours Latvia and Lithuania, have managed grid frequency independently since desynchronizing from the Russian grid and synchronizing with continental Europe in February 2025."
+   ],
+   "lede": "Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTTdSNk1YbTFBQmp1dGRBMmxQS2VRWGlCVE84Q3hvZkUxWW1PN3lOYUxnaTZ1aVh3eFI0dy0wSmhrN2JodFpHR3RXZ2xza1l0YXZKcWlvbnNTWVllc044Y0k1anVsU3g5OHNWZlljelFPVGEzajA3QXBBc25fNXFMaUVSM2lLLTBtR3lVODBQaHdKM1k?oc=5",
+   "title": "Energy storage can help cut Italy’s power prices",
+   "source": "Ember",
+   "desk": "analysis",
+   "published": "2026-11-26T12:28:57+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe/",
+   "title": "Huawei launches Luterra S2 in Europe",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T11:45:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "Technology & Products",
+    "Energy Storage",
+    "Sponsored"
+   ],
+   "description": "The Luterra S2 uses 5 and 7 kWh battery modules featuring LFP technology and calls rated at 318 Ah. The 7 kWh module weighs 57 kg and provides 6.9 kWh of usable energy, while the 5 kWh module weighs 46 kg and provides 4.9 kWh. The system occupies 0.15 m2 of floor space and 0.69 m2 of wall space.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Huawei-Luterra-featured-image-e1795681855256.jpeg",
+   "paragraphs": [
+    "On November 9, Huawei launched LUTERRA S2, its new all-in-one residential energy storage solution, in Palma de Mallorca, Spain. It integrates a hybrid inverter, storage, and AI-powered energy management in one stackable unit. Designed for easy deployment, LUTERRA S2 can be installed and commissioned in minutes. Available in single-phase (3-10 kW) and three-phase (5- 20 kW) configurations, LUTERRA S2 is the industry’s first all-in-one residential energy system built on Huawei’s proprietary full-SiC (silicon carbide) architecture, delivering exceptional efficiency, power density, and reliability.",
+    "Steve Zhang, President of Huawei Distributed PV & BESS Business, officially introduced LUTERRA S2. During his presentation, he reviewed the evolution of residential systems, from split to integrated architectures and from AC coupling to DC coupling.",
+    "LUTERRA S2 combines a hybrid inverter and a modular energy storage system in a single residential solution. Huawei presented it as the industry’s first all-in-one residential system based on a Full-SiC MOS architecture. The company has brought SiC MOS technology, widely used in the automotive industry, to solar and energy storage applications, combining it with intelligent algorithms to improve efficiency while reducing the system’s size and weight.",
+    "Jules Parmentier, Director of Industrial Design Strategy and Innovation at Huawei, introduced LUTERRA S2’s industrial design. Inspired by the purity of Arctic landscapes and the beauty of sunlight, the all-in-one system combines a timeless monolithic design with an iconic, dynamic charge and discharge indicator.",
+    "To achieve a cleaner and more integrated appearance, Huawei relocated the heat dissipation structure to the rear of the unit and eliminated the plastic side covers of the modules. Ergonomics have also been improved through newly designed quick-release handles, facilitating the handling and installation of the battery modules. The entirely passive cooling system ensures quiet operation, with noise levels below 29 dB.",
+    "Simon Ekstrand, Huawei’s Chief User-Centered Design (UCD) Expert, presented the design philosophy behind the LUTERRA S2 app. The interface uses dynamic visual elements to represent energy flows, illustrating exchanges between photovoltaic panels, the grid, the battery, the home and the electric vehicle.",
+    "The visualization adapts to the day-night cycle and weather conditions, making charging and discharging processes easier to understand. The app also provides natural-language explanations of how the system operates and how energy management decisions are made.",
+    "Among the new features is Cevia, an intelligent assistant that enables users to make complex queries using natural language and a visual interface based on dynamic cards. These features are integrated into FusionSolar app, allowing users to manage and monitor the system and access information about their installation’s energy performance.",
+    "The event program included a presentation by Diego Becerro, a representative of TÜV Rheinland, focusing on safety validation. Huawei highlighted that its residential energy storage system had achieved the highest level of TÜV Rheinland’s Safety Mark certification."
+   ],
+   "lede": "The Luterra S2 uses 5 and 7 kWh battery modules featuring LFP technology and calls rated at 318 Ah. The 7 kWh module weighs 57 kg and provides 6.9 kWh of usable energy, while the 5 kWh module weighs 46 kg and provides 4.9 kWh.",
+   "tags": [
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain/",
+   "title": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-26T11:42:32+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News",
+    "EnergyStorageEurope",
+    "new products",
+    "spain",
+    "sungrow",
+    "supply deal"
+   ],
+   "description": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
+   "ftries": 1,
+   "lede": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/26/if-i-could-only-use-one-bike-lock-itd-be-this-foldylock-elite-110-review/",
+   "title": "If I could only use one bike lock, it’d be this: FoldyLock Elite 110 review",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-26T10:22:56+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "I ride e-bikes professionally, regularly testing new bikes and biking gear. I don’t even own a car – I get...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/foldylock-elite-head-1.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "I ride e-bikes professionally, regularly testing new bikes and biking gear. I don’t even own a car – I get...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWh3T0tnUUxnMml0T2l1SG9JNGw0Mmk0dGhiVlRCZUlMdDBIdGp4Q2ZHV1lPM3B6SnRTck9tek9PQjBhOFZJSmNhaVg1aFRIN0JNbWotQ2hjeHJON3VBaUNyVnh3cVZWblVudFhycm5tTHg1WXZoM2tpbU9ELU54ZkllSGpTYU9CRnFzbVg2NlN2VnN3Mmt2S0pQZXdDYTA5VlNJck0zRmpNcFo1YWN5Q0t6NUhLdlk?oc=5",
+   "title": "Spain’s Far-Right Vox Floats Massive Spending Cuts After Vote",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T10:18:17+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.energymonitor.ai/news/barmar-wood-hydrogen-pipeline/",
+   "title": "BarMar consortium selects Wood for hydrogen pipeline",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-26T09:48:57+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Wood has secured a front-end engineering design (FEED) contract for approximately 380km subsea hydrogen pipeline that would connect Spain and France.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/EM-26Nov-shutterstock_2433860035.jpg",
+   "paragraphs": [
+    "The contract was awarded by the BarMar consortium, which comprises Spanish and French transmission system operators Enagás, NaTran and Teréga.",
+    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+    "The offshore pipeline would run between Barcelona and Marseille and is designed specifically to carry green hydrogen.",
+    "BarMar is intended to form the offshore portion of H2med, an EU Project of Common Interest that aims to link hydrogen production in the Iberian Peninsula and Central Europe demand centres.",
+    "Upon completion, the pipeline could transport up to two million tonnes of green hydrogen per year, supporting efforts to decarbonise sectors that are difficult to electrify.",
+    "Under the FEED contract, Wood will carry out design work for the offshore pipeline and associated compression facilities, both engineered entirely for hydrogen service. The scope draws on the company’s experience in subsea pipeline design, route engineering, microtunnelling and hydrogen infrastructure.",
+    "Teams based in Spain and the UK will lead the work, supported by specialists from Wood’s wider engineering network. Around 50 of the company’s employees are expected to contribute to the project, which is due to run until April 2028.",
+    "The BarMar pipeline is positioned as Europe’s first major cross-border subsea corridor purpose-built for transporting green hydrogen.",
+    "Wood UK & Europe regional president Ellis Renforth said: “BarMar is a pioneering project that requires specialist engineering to safely transport green hydrogen at scale beneath the Mediterranean."
+   ],
+   "lede": "Wood has secured a front-end engineering design (FEED) contract for approximately 380km subsea hydrogen pipeline that would connect Spain and France.",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/european-energy-88mwh-battery-storage-australia/",
+   "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-26T09:30:59+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "cats": [
+    "News",
+    "australia",
+    "battery energy storage",
+    "battery storage",
+    "bess",
+    "co-location",
+    "energy storage",
+    "energystorageaus"
+   ],
+   "description": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
+   "ftries": 1,
+   "lede": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
+   "tags": [
+    "power"
+   ]
+  },
   {
    "url": "https://www.pv-magazine.com/2026/11/26/spanish-researchers-build-photovoltaic-thermal-prototype-with-graphite-paraffin-heat-storage/",
    "title": "Spanish researchers build photovoltaic-thermal prototype with graphite-paraffin heat storage",
@@ -138,6 +687,21 @@
     "The analysis showed that electrical efficiency decreased as the cooling water inlet temperature increased. Electrical efficiency also increased with the water flow rate up to 0.2 m³/h, before declining at higher flow rates. Thermal efficiency showed only marginal improvements beyond this threshold."
    ],
    "lede": "UK and Chinese researchers have developed a photovoltaic-thermal module that uses a microchannel heat pipe to cool solar cells and recover waste heat.",
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTMwdFFNR3ZkUzJ5LUcxWkFpRDQ2UHllRWY5RW9Jam5nWVh4bGVsQTJTNk5EZWc2eEJaMnlRaE4yYUx6VWNVeVNFNjROSjEyM3FVYmNDNmtsUENLN1hDWTZadjBPTVo2SGtWLXJBYjFGU3FFVHEwZ1FNOUExb25JMHFhdlV0emNGZDNyektsOVR0eDVfenJRVGlRUTJsc1lnQ1VQOFlGX2RHUEVsN0ZEWTNB?oc=5",
+   "title": "Kenya Emerges as Top Destination for Chinese Solar Components",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T07:18:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
    "tags": [
     "china",
     "power"
@@ -274,6 +838,46 @@
    "lede": "Perovskite tandem manufacturers are moving past laboratory efficiency records to prioritize long-term field durability, bankability, and gigawatt-scale commercial production.",
    "tags": [
     "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVlRN2V2QW5PbFJLQmQtYXMwczlVUWtmWGQ4M3RNZTJsZldXMFJBUUluQ0ltNzMtSUxkazFSMkZwVXVCbHREUUpXRVE5S3RydG96b0pzcm9GWVJGN3JvLThJM21oaEdBNDFZNGlNTWNxMEtHSndDZUV3SnBydW52dnJWekVmUFBJUlUyaWpjSzBZRVNLRlV4bmlReVd1V0J2bDhzX3M3WUdiU05x?oc=5",
+   "title": "Chinese Carmakers Double Sales in Europe on Hybrid Demand",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T06:15:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTJ4c0t5ejRlU2QzdGl6MTA2TDBHUkR3M0FCaWE1MGRwem1YbEl0M2xRcHNkbGZvZWlhMzgyMTN5UDBNdHpyM1NPeWJGc2pKaV9ubjJYei01TEdERVU1bHkwOFFrWDlqeEZjcXNfVEp6QW1udUNPOGhENm9TcnI4THdWZ0RFeThtdGdtWHVzS01mR0lpT3dvYzlUdXRVZFhVNVpVcWVVMkZDTVpmci00cmJ3?oc=5",
+   "title": "Stocks and Bonds to Watch as Spain’s Voters Head to the Polls",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T06:00:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRENja0JkWDdhN1IxV05MWGpJc1laZGVDQ09BMjl4MjBJVEVFTmNUeEE2V2FGWWhQazBaN2F1cy1jTzUxOHIxaHNJTmQ1bUtyZWhsRlVZMVlXWkFCbG1rRDJkaU1mUHhkNlJwdGxCSnBCbFpUbkNEeGZta2lhLVJPbW9vVl9vS0RVMG1Ha3I5Uk1PTndYVzRUcmdBZV94bkUzaGVTYjNBa08?oc=5",
+   "title": "Why the Global Solar Buildout Is Starting to Slow Down",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T05:00:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
     "power"
    ]
   },
@@ -542,7 +1146,7 @@
    "published": "2026-11-25T16:12:22+00:00",
    "seen": "2026-11-25T23:38:10+00:00",
    "description": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
    "tags": [
     "power",
@@ -748,7 +1352,7 @@
    "published": "2026-11-25T15:00:39+00:00",
    "seen": "2026-11-25T23:38:10+00:00",
    "description": "Cheyenne Light — with a 439-MW peak load record — is working on a 3-GW near-term data center pipeline, with an additional 2.5 GW in emerging opportunities, per company officials.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Cheyenne Light — with a 439-MW peak load record — is working on a 3-GW near-term data center pipeline, with an additional 2.5 GW in emerging opportunities, per company officials.",
    "tags": [
     "power"
@@ -806,7 +1410,7 @@
     "manufacturing"
    ],
    "description": "Fluence’s interim management team has provided details of the battery storage integrator’s transformation plan, following recent challenges and setbacks.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Fluence’s interim management team has provided details of the battery storage integrator’s transformation plan, following recent challenges and setbacks.",
    "tags": [
     "industry",
@@ -821,7 +1425,7 @@
    "published": "2026-11-25T14:22:42+00:00",
    "seen": "2026-11-25T23:38:10+00:00",
    "description": "Executives went from touting data center pipelines to emphasizing the diversity of sources driving load growth, their shared concern over energy affordability and good relations with incoming officials.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Executives went from touting data center pipelines to emphasizing the diversity of sources driving load growth, their shared concern over energy affordability and good relations with incoming officials.",
    "tags": [
     "power"
@@ -1187,6 +1791,20 @@
    "lede": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
    "tags": [
     "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMXVDMm81bG9kMzF1SkFYdkEtb19iRFc0amRwRlRPYU40dUpQSFNtT3l3Qkg5WWhiS1BfYlgzbjJoUlg5TFZuQXMtUFFUV0ppS2doOU9iMUgxY3h5c1JPaHhQNm5VWTlsZDFxd0prMHlXQnVEM1F1bDBGQ09zb2gyMXNiZ29vTWxVdTd1NG16NEhVZ1V2QUhWMENHNmREdEF1OUNGMGFmTXdjQmNpclA5Y2ZyZmJtLWktMVE?oc=5",
+   "title": "Lithuania could return to building nuclear power, energy minister says",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-25T12:03:42+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
     "power"
    ]
   },
@@ -1611,6 +2229,17 @@
    "tags": [
     "policy"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkRFQ0F0ejVodF9oT3lza1hBQnZVdENUWjdmelRSaDY0Tl9CMzRnOU4tOXB6dE9HbEZRR0xFQlJ0V0tSa2ppMkVkTXlhcUY5WkRiYzY4RTZJcWx5ZkR2czhvOURmenN4YmNTZVNyb0JjSURiMmlQbkxCU0o1TkwzS0NaZkJLU2ZfNWNoLW9VYm9oUVVFbHlsUkJQZXVGZzlEeGlsY3NCSS1xaHJSNjZSbTg3amJsemNzM2tXeDdKenAxaGs?oc=5",
+   "title": "Brazilian digital lender Inter lays off over 200 people, union says",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T22:45:00+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://electrek.co/2026/11/24/cadillacs-3-row-ev-more-expensive-now-starting-at-80k/",
@@ -2921,6 +3550,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOalR4Y25wZlZnaGMwRFpUcnF3Mmx4NGMtZU5WTEFOTWVjYWVLYWFNdlVKSEdqa1liQlhDRm5UM01mYnJqRE1mdHZvdm1jWjJnWDhqYjg3Z3ZIcVZUako0elIzdkZLQUx0Y0JmUTd2RDVyUUkzdkVDMWpMMVQ0R2RuTGhhZWMwOWhjVHIxZnBnb2lMUnFXaTg2MGx2VnBxLVJKczdHRmxMMVQxNVNkb0dEeFRJT3N4OThEc19OWGF2OXpyZ1ltckJTU24wN0VrODkzcHJ0QVhWTm1kUXN2OGVOckpGc3E3eHBobmVYZlgxdzcxUmNKakJiZE9WYnZvZk96YUpqRnluUVpQWnpNSVJwMG1JRkI5bzU2bE5UTlZEbWpfakdSd1EtZFlB?oc=5",
+   "title": "Search",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-24T07:12:43+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.pv-magazine.com/2026/11/24/tongwei-unveils-oversized-solar-plus-storage-solution-to-boost-pv-capacity-credit/",
    "title": "Tongwei unveils oversized solar-plus-storage solution to boost PV capacity credit",
    "source": "pv magazine",
@@ -3199,6 +3839,17 @@
    "tags": [
     "industry"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5",
+   "title": "Anthropic launches Claude Ship to help developers ship code faster",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-23T20:05:43+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://electrek.co/2026/11/23/subaru-cuts-ev-prices-dropping-most-distinctive-feature/",
@@ -4654,6 +5305,20 @@
    "lede": "America is full of rural communities that are miles away from major cities, and EVs offer rural drivers even more benefits!",
    "tags": [
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQci1XVUdQMjBJajZoTnRZempzbXoxeXZyMmF6NFpBemt2ZVdDSHhzMzV1bzFWTlhFSGhnUXliU0hya3EzQm5xWEtnSXBJV0VFTTlaNDkzUlZmNkNoMGYzbnlURlZUbExiMTJWZGgxX1Z0eVMzMzBXUWVna1NwSnRQS1hvMXZVdlJacVh2Y1o5MVhyWW9LQ2lHMVAySmVYc2Y4UXFRSzlfbjRjcHl4TC1IaFFmcHI5UG1pMGYwTjhxTTg?oc=5",
+   "title": "Unlocking the potential of regional interconnections: Pathways to Regional Integration",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-21T21:30:40+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
    ]
   },
   {
@@ -8668,6 +9333,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3ZfOVhwLTF3b2hPdTZkdTU2WnhtUFl5aGo0cHR3b0pZaHc4OGFXYU1heTNrS3J1dnVJWjkyTlFZWDVYRUk1LWFfbFpERENWTWo1T2xyV2xQTkxwbkcyMnI5YmNHcFFnUnpLRkFFS0VlaVVVS3hyODhKUHliOXllU3JqQmpfdGdST3lPRGRmZHNBRno1RzhyRWd3UTV4VVk4cWpSS2lFNA?oc=5",
+   "title": "Implications for energy security and affordability",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-19T05:30:02+00:00",
+   "seen": "2026-11-26T19:01:56+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlVLekJsV1lXTGsxOWFDNkJLTDZhV3JSeFRQWS1zNXlobWJ6cDB0dXdhUE5IZ2VBY3N1THJOdVFtNmhEcnVTcUpWS2x4cVJRV1BscHJ2cVRmbGxtUEJLd0xvRUhkYlpUZU1PcnZpUzJ5cWx5R3ZnWFN5VXdiWmkwczJpci1yQkpVWWtMNV9yY3JHc3NfNzc0V2R2ZWlkSDVaa3V1MUhJVUNoSV9MQl91ckE5c2J4c1c2VFlPSHBIYzAxX2RZYXpZ?oc=5",
    "title": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says",
    "source": "Reuters",
@@ -9775,567 +10451,6 @@
    "desk": "news",
    "published": "2026-11-18T10:00:07+00:00",
    "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5",
-   "title": "Five military officers injured in Jordan's helicopter crash, army says",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T09:40:16+00:00",
-   "seen": "2026-11-22T15:19:53+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.energymonitor.ai/news/google-signs-ppa-50mw-quaise-energy/",
-   "title": "Google signs PPA to buy 50MW geothermal power from Quaise Energy",
-   "source": "Energy Monitor",
-   "desk": "news",
-   "published": "2026-11-18T09:27:59+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Google has entered into a PPA to acquire 50MW of geothermal energy from Quaise Energy’s Project Obsidian in Central Oregon, US.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Project-Obsidian.jpg",
-   "paragraphs": [
-    "Google has entered into a power purchase agreement (PPA) to acquire 50MW of geothermal energy from Quaise Energy’s Project Obsidian in Central Oregon, US.",
-    "The agreement is scheduled to begin as early as 2030 and will deliver round-the-clock, carbon-free electricity to Google’s data centre in The Dalles, Oregon, as well as benefiting the wider community.",
-    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
-    "Initial development at Project Obsidian will employ conventional drilling techniques to generate superhot geothermal energy at commercial scale.",
-    "According to Quaise, this form of geothermal energy can produce up to ten times more electricity per well than standard geothermal systems, as it harnesses much higher temperatures deep underground.",
-    "A second phase aims to implement millimetre wave drilling technology, which Quaise says could access superhot geothermal resources in new locations globally.",
-    "Quaise Energy CEO and president Carlos Araque said: “We started Quaise to make the Earth’s most abundant energy source universally accessible — and this agreement marks a critical next step, not just for Quaise but for the entire clean energy sector.",
-    "“Together with Google, we are building the commercial foundation for superhot geothermal and cementing the US as the global leader in geothermal power.”",
-    "From 2010 to 2025, the company signed over 240 deals to buy nearly 35GW of new clean energy, with more than 29GW secured in North America across 148 projects.",
-    "Google advanced energy technologies head Lucia Tian said: “Google data centres are long-term investments in the communities we call home."
-   ],
-   "lede": "Google has entered into a PPA to acquire 50MW of geothermal energy from Quaise Energy’s Project Obsidian in Central Oregon, US.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
-   "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-18T08:59:58+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "agl",
-    "agl energy",
-    "australia",
-    "battery energy storage",
-    "battery storage",
-    "bess",
-    "energystorageaus"
-   ],
-   "description": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
-   "ftries": 3,
-   "lede": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/virtual-power-plants/new-net-zero-community-michigan-vpp",
-   "title": "New net-zero community will become Michigan’s first virtual power plant",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-18T08:30:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "The development in Ann Arbor will share its solar and battery power with the grid, as part of a pilot that aims to lower energy costs and provide…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Veridian-at-County-Farm-development-Michigans-first-virtual-power-plant.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=6aff263db0cbb36a63779252a6b6d7ee",
-   "paragraphs": [
-    "Mitch Hall and his wife, Lori, live in one of the most sustainable communities in the U.S. Their town house is among a few dozen residences constructed so far at Veridian at County Farm, a fossil-fuel-free, net-zero-energy development in Ann Arbor, Michigan. Homes here make about as much solar energy as they consume, with the help of batteries that save solar power for use in the evenings.",
-    "Now, the couple is eager to share the benefits of their clean energy infrastructure with the wider grid.",
-    "In the coming weeks, Veridian households can enroll in Michigan’s first residential pilot of a virtual power plant; Detroit-based utility DTE Energy will then be able to remotely control the network of residents’ home batteries to inject their stored solar power onto the grid when operators need it most.",
-    "“ This pilot is an opportunity to test an approach that could ultimately provide a lower-cost way to meet growing energy needs and strengthen reliability,” Joi Harris, president and chief executive officer of DTE Energy, said in a statement. VPPs can smooth out demand peaks, reducing the utility’s need to invest in grid-infrastructure upgrades and generate kilowatt-hours with expensive fossil-fuel peaker plants, both of which would pile costs on consumers.",
-    "The initiative ​ “ should work well for the residents, too,” Hall said. ​ “ DTE will pay us a little bit to be part of this project.” Because the utility will pull battery power automatically when the grid is strained and electricity prices are likely to be highest, ​ “ a neat part about the virtual power plant is you don’t have to spend a lot of time learning and trying to optimize,” he noted. ​ “ DTE will manage that battery for you.” ( DTE did not respond to Canary Media’s request for exact figures on how much it would compensate customers in time for publication.)",
-    "VPPs have existed for years but have been slow to gain widespread traction because of a host of factors. Utilities often haven’t been incentivized to embrace the approach, while home solar and batteries remain too expensive for many households in the U.S. But as electrification and the data center rush spur unprecedented demand, VPPs are taking off as a fast way to get power on the grid. Earlier this month, the Brattle Group estimated that 524 gigawatts of distributed energy resources harnessed in VPPs could save households on average $ 122 per year by 2050.",
-    "Currently, ​ “ there’s immense untapped capacity,” said Kevin Brehm, manager in the carbon-free electricity practice at clean energy think tank RMI.",
-    "Matt Grocoff, the founder of Thrive Collaborative, started to consider a VPP pilot at Veridian in 2019. He wanted the neighborhood to mimic an ecosystem — a resilient web of relationships in which individual organisms do more than just extract resources. For example, a tree in a forest turns sunlight into nutrients and shares them symbiotically with a vast, interconnected underground web of fungi.",
-    "Likewise, with a VPP, each Veridian home ​ “ can be producing energy that it needs and mutually beneficially sharing it across a network of energy rather than a linear grid that flows in only one direction,” Grocoff said."
-   ],
-   "lede": "Mitch Hall and his wife, Lori, live in one of the most sustainable communities in the U.S. Their town house is among a few dozen residences constructed so far at Veridian at County Farm, a fossil-fuel-free…",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkxaakh2anliTjNvS19xSUF0aWlEbnNqdEFwNV90N3lSQWFnYXVsNHlMZWVhdEYtSkhPNEJHR1BhYmozOWUwa3hneGJXRnlqTDFDWERyaVlLZDI5azd1eVdvTUxiRXUyTkI4SlRmejl6bzRidDNSd1FUS1FObDlJU016ZnRwZXZDNjZFYWJhTnBJaHBxWXcyOWN4MFhfR2ZkUi1NNlUzTExxYk5IbVJfS3U1V2hIRFJNRWE3dGU4Wi1CM2oxVDhiNWdaOUdHMHl6Z2ZHNw?oc=5",
-   "title": "Consultative Workshop on Greening Industries through Renewables and Energy Conservation in Indonesia",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-18T08:00:00+00:00",
-   "seen": "2026-11-21T23:19:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWFHanFIMHMxUnNuZWo1LUdtVVhsS3dsUU5aQWstLWVKQ1NDYm1wR3lWLUwwZUZsUExhRUVYUTB2eS02STJNQnBST01HeGtSUWtVTlBTZmswSEJYSTBBMzlOMlZEVnFvUHpTQjJOVG1iMzg3Z0VsUlNrUWpCSUlha1J6TlVmVWhpakRLRXR0Z1FUaDd3WmQ5cg?oc=5",
-   "title": "2026 Energy Crisis Policy Response Tracker",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-18T08:00:00+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ1FrdS1MUjN5cWdWbEl4aXQydmFBMnVPbGRLSXNhZkl3cVZ4TWZDaEtqdHAxLXNqaTJyb0JvbGVweEJZcFU5Wi1tQ1FFNVR3OGJpWnNDUW04c0s4TnpKeHJ5M2VHQk1Bc05PQzU1MjBQTGhLcHA4cUNNR1ZGVl8xdHUzd0F6am53M1hfazlrZmU0eEtzLWwwNjZ3NA?oc=5",
-   "title": "Extreme Weather Risks to International Oil and Natural Gas Shipping",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-18T07:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/elderly-florida-man-leads-police-on-wild-16-mph-e-bike-chase-thank-goodness-they-caught-him/",
-   "title": "Elderly Florida man leads police on wild 16 mph e-bike chase. Thank goodness they caught him",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T06:51:50+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Residents of New Smyrna Beach, Florida, can finally breathe a sigh of relief. A dangerous menace to society has been...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/coptruckvolusiasheriff.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Residents of New Smyrna Beach, Florida, can finally breathe a sigh of relief. A dangerous menace to society has been...",
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1Nzd2FpREVRNThTQzhIdDNObDJJN0FiNFRzdUdiNzFmckJUbEItSGdldEJrOEVNSGJramk4dThrZGxIeVVnbnlSSDFTOXhBYklpbGZXZkFxRC1zZm85ZXNGcFY5OW1oeGpWY2cyX0NKWmtBZlFsNHNVQ1ZoQkpVSDkzRzE?oc=5",
-   "title": "The good and the bad of climate policy",
-   "source": "Financial Times",
-   "desk": "news",
-   "published": "2026-11-18T05:02:25+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU1GYUNEX0tIOUhHR2IxTnZMMS1SSVhJeTZCdzJ1aGVYQnVsSmtyQm55c0c5VnhKb0JnQmItYk54ZWhsQndMWG5nTUdHVGRELXd4SXNOWFN0d29xNjFGSC1PMGtxQV8xaTBKWl9nMExZZldjOGxSRmNCUnNFdXpGOUg5SkJmZW9sX3hELVByU0pmby0wYVdTQzZjWXRibDdQTTNzb0U4NUVOS0QwOTJJOThlNA?oc=5",
-   "title": "Magnitude 6 earthquake strikes Papua New Guinea, GFZ says",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T03:57:00+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1VzUmE4VkZSMHJ3WkZFUlFQaWxBM0lnSUtDSm9JVTJsbGFscVBybUJuQXFlbmpQSTRCbnhlbnNIS2VHN0ozdWMydGMxUWF5SldZcUxnT0pfZGctbUFRLXNISnY2M3NhNGZ1RnVxV3ltMkhkNzVhTGJoSEZTd01DX1Q4ck5LMkFOaGlnQzdYSUJBbnlYX2ZGb3JCR3V2RkNLOGRPb1JnYzM5MzJGNGdvaE9CS2FXRmNCLUN3?oc=5",
-   "title": "EU reaches provisional deal to speed permits for renewable energy projects",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T02:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/e-quipment-highlight-110-hp-greenworks-optimus-electric-utv-video/",
-   "title": "E-quipment highlight: 110 hp Greenworks OPTIMUS electric UTV [video]",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T01:28:03+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "News",
-    "agriculture",
-    "greenworks",
-    "utv"
-   ],
-   "description": "Electric power tool brand Greenworks is expanding its battery-forward lineup in a huge way with the launch of OPTIMUS, an...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/greenworks_UTV.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Electric power tool brand Greenworks is expanding its battery-forward lineup in a huge way with the launch of OPTIMUS, an..."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTNMSGhQUlBrTjBmcXFHZ2dsS1E3TGJLQ0w5T0c3eDlDYmtNSkQ1RUtTeGhsV0xKMlVnb09OWGZabzQ5cnFhZkFzYnU5ODNfa2ZOTGw4THF1Z21aNlE3cjNUNjhFNkVFYkJGeDcwNm5ja3ZkR1JSUTFtNVdwS0VOZjZUanVEVHlkOWp5bjFDUVo4TjlONW9hZUZod2pTUlNpSnoyT21EQVdBeFVCODVWcjFxQnhQdmJi?oc=5",
-   "title": "Man arrested on charges of threatening to blow up Illinois biofuels plant",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T01:20:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPZkRWRjlkcVA5UXV4cXNhS1J0RFFHbFYwZWg0dkhFWXM4TU9nTHJudVhRYTcxOXg2dHFWMjZuOU5VbWk3Y29qcW9fUG1SS3Bidlg2dXR1Y0RMTWh1MlpfZGZXelFLSEFxOS1qWHdZX3k4RGlQREh1YmVwZFBZOGJ1eU9yaWNOa2pQbGxzTDhaRC1YLVdUVnJzSUxwMTZoQW5nNXpueE9ZaXgxLWh6Tm9GVXZNa2habVJYQTJBcnQ3d3NaOHczUTBoc1h3RmFFNk8xR3doSk5tNzZ4NFBNdGJMd1hmc1hYYk9HSXFXODhjYWFySjZKdHNUalU3Y2dTUmpNc0RhWVhJUnhsTlQtSlFvN3AySlpmQ0s3a3FVRmxabkFYcGFlcVpUeUpZVE5hdjFFWlBzcEJXRURWSThLemZ6TE5SMVlNdFlaWVY0a3RXekR4QXRjdDNMMmFjMTE1RHpoM3pWSHk0b3lmRVhnaUZDVUxEb0J3ZmFoSmtuTjU5eVRMcXRDR2tweTNreG5fbld5WmxRd2JYcmxhZE8zOHRKNURnZW5iTUNXNDdsQ2F5bFoyLTdxNnZQYVZR?oc=5",
-   "title": "Events",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-18T01:16:09+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3p6MHo0c2dTQkhmV0N0dlRRWGROWXp4NFpXVU96bkVYc1ZxRHRWeUZyTXdNeE9NQTZ1S3c0clBDNHk4TzZ6R0ZpV19LaGNfcVhFNkpJV21FUnJacWJ5ZEd3S21tQXJxdFFWNzY5WFlnUFBxTHFhZEdXbWNqa0Z6WFcyNzRyR1dJRWIzbl8yT3ZpQlg1UGpxZDJ3?oc=5",
-   "title": "Amazon's Bezos says he helped pick Pattinson as Bond",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T00:56:00+00:00",
-   "seen": "2026-11-24T00:53:18+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOcjRPdW9NQVdhMFc2UFEtOU5rZ0I1Y3V1bmFkTkJobld0QjgxWEdOMHVhOXdRaEl4ZU5JSHh1aWM1Rzk4Qm1fX3pfMDd3QnlQd2MxTy04VF9sdDRoSWZzUFU2WDB4N0Nlbk5walZ4UFRxNFNlT3lXRG5laVMxdVNMZjZXLVdGVmZFQlZ2bUw5RlhXWFFsQ2licnVud1R6RjAtWVR0Sk1fUkVHc25iQUNMS2hmQTV0MXRoNG96ekJFcnpIUllpaG5HSDhuTm4weS1MWkZTbGRUVkxPQ2VmNUx0ZmVHc3dIR1VhTmdTeW1wMUQ1Q29aNGVVSXpwZ2ZYV25vRmNVR1dlZ05uTnN5SWpuWlNmTWRrYTYwdThObHdSak5ncUFpY29ETm9IRi0wVTR0TldqXzZuLTFvSFBTQ1hkLXZoRE1fTTNqWWR3QndfUC02LUtiWkQ1cnM0X04zemZpTmpSQ3BDS1Zvb2hjZTRQUTdidVJkVE5zSm0wQ1NWdi1UcUtYa2R4NzdMbGgxOUZ6aDZJeDFjdXQtZE95OXFOOFBXcUM2a2t3VEdKZmNsSWVQa29POThzUTRoWk84bHg5Vnp2bnlNdnFSNGs?oc=5",
-   "title": "Search",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-17T23:31:23+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/solarcycle-pedalpoint-recycling-merge-to-feed-a-7-4b-us-metals-refinery/",
-   "title": "Solarcycle, PedalPoint Recycling merge to feed a $7.4B US metals refinery",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T23:04:02+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Jupiter will recycle retired solar panels and data center gear, with recovered metals headed to Korea Zinc’s refineries worldwide.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/6af78a9c378bf7a00bd7f7c8_jupiter-announcement.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Jupiter will recycle retired solar panels and data center gear, with recovered metals headed to Korea Zinc’s refineries worldwide.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/",
-   "title": "Iceland’s first wind farm comes with a water-saving bonus",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T22:12:53+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Iceland’s first wind farm taps winter winds to generate electricity while helping hydropower reservoirs save water for later.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Vadolduver-construction-2026.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Iceland’s first wind farm taps winter winds to generate electricity while helping hydropower reservoirs save water for later.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/hyundai-reveals-new-7-seat-neira-electric-suv/",
-   "title": "Hyundai reveals new 7-seat Neira electric SUV",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T22:01:42+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Hyundai revealed the production-ready Neira EV for the first time, a three-row, seven-seat electric SUV set to launch in Indonesia...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-Neira-electric-SUV.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Hyundai revealed the production-ready Neira EV for the first time, a three-row, seven-seat electric SUV set to launch in Indonesia...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/waymo-halts-highway-operation-nationwide-after-ca-dmv-pause/",
-   "title": "Waymo halts highway operation nationwide after CA DMV pause",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T21:26:19+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Waymo has pulled its vehicles from highways nationwide after the California Department of Motor Vehicles ordered the company to pause...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/11/Waymo-cities-freeway.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Waymo has pulled its vehicles from highways nationwide after the California Department of Motor Vehicles ordered the company to pause..."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0SUt5RzNxcXI1cjNZTnc2Z2NnM0YxNkRTVVNqVHVwVDMxa1RnMTAyN1dtb0JTSHdocDRIWjgxTWxwOUVtUkJMY3A0UW4wV01CdlV3RE9IenEtelBRc09J?oc=5",
-   "title": "How Tribal Rights Became Central to the Permitting Debate",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-17T21:23:11+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.latitudemedia.com/news/michigan-is-a-test-bed-for-democrats-energy-affordability-promises/",
-   "title": "Michigan is a test bed for Democrats’ energy affordability promises",
-   "source": "Latitude Media",
-   "desk": "news",
-   "published": "2026-11-17T21:21:47+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Data centers",
-    "Policy",
-    "data centers",
-    "Democrats",
-    "Jocelyn Benson",
-    "Michigan",
-    "midterms"
-   ],
-   "description": "Gov.-elect Jocelyn Benson and Democratic lawmakers want to tie utility profits to reliability, and pause new data center builds.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-17T161027.132.jpg",
-   "paragraphs": [
-    "Michigan voters handed Democrats a trifecta of state government control after campaigning on promises like cracking down on both utilities and data centers. Now, Gov.-elect Jocelyn Benson is tasked with turning those promises into actual relief for customers once she takes office in January.",
-    "Early next year, lawmakers are expected to release a package of bills aimed at tying utility profits to more reliable and affordable service, as well as scaling up distributed energy resources like community solar and home batteries, clean energy and ratepayer groups told Latitude Media. Some have been introduced before, while others are new.",
-    "Meanwhile, given Benson’s campaign promises, they also anticipate the governor-elect will issue a moratorium on new data center construction until the state puts in place guardrails around costs, land and water use, and public disclosures. This would mirror what Gov. Greg Abbott did earlier this year in Texas with executive authority alone, though in Michigan siting is largely decided locally and a construction pause may require the legislature’s buy-in.",
-    "Michigan in 2027 will be among nearly two dozen states where Democrats control all three branches of government. But Benson’s agenda specifically will be a key test of whether the party’s energy affordability platform can actually deliver. Michigan is simultaneously trying to achieve 100% clean energy by 2040, upgrade an aging grid, and absorb a wave of new data center demand from hyperscalers including Oracle, Google, and Microsoft — all while limiting rate hikes for customers.",
-    "Benson was one of the most aggressive gubernatorial candidates in the country on issues like taking on utilities and data centers, according to Bob Allison, deputy director of the Michigan League of Conservation Voters. “We think she’ll follow through on that and more, especially with the backing of a legislature that ran on these issues,” he told Latitude Media.",
-    "A spokeswoman for Benson’s transition team didn’t return requests for comment about how the incoming administration plans to implement its agenda.",
-    "Benson pledged to increase bill credits for residents who experience power outages, fund a home energy efficiency program to help lower utility bills, institute performance-based utility profit standards, and ensure residential ratepayers don’t subsidize data centers.",
-    "Most of those actions will likely require legislation, said Laura Sherman, president of the Michigan Energy Innovation Business Council. The Michigan Public Service Commission does have an open docket on potential incentives and penalties for utilities aimed at reducing outages and integrating virtual power plants, among other flexible grid resources. However, state law currently limits what the commission can do on its own.",
-    "“[MPSC] has also required a number of things related to data centers to ensure costs aren’t passed on to other customers,” Sherman said. “But in terms of clean energy, we haven’t seen the commission require that in certain cases. That is something we’re working on legislatively.”"
-   ],
-   "lede": "Gov.-elect Jocelyn Benson and Democratic lawmakers want to tie utility profits to reliability, and pause new data center builds.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/scout-motors-validation-builds-south-carolina-deliveries-2028/",
-   "title": "Scout Motors starts validation builds at $2B SC plant, deliveries in 2028",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T21:15:34+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "cats": [
-    "News",
-    "EREV",
-    "volkswagen"
-   ],
-   "description": "Scout Motors is building its first validation vehicles at its $2 billion South Carolina plant, but Traveler and Terra deliveries won't start until 2028.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/scout-motors-blythewood-production-center-aerial.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Scout Motors is building its first validation vehicles at its $2 billion South Carolina plant, but Traveler and Terra deliveries won't start until 2028."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSF9VanNvZEtldmpHbllkTGFBN0N1T0FVS3JhcU1XZV8xOGc2eWh6ajExTVFtRjVtdFFqYUxwZnFCd21RVXdRcEktc1ZYV3cyTkJ1TjBPLTJWdFVIOFJRTW9xN1F0M3pyczNqRnZSWHZXMUhIRzFCaE92MElrMTA1RHpQblFnVnZSc2hHenJSMUdJVGd1VlBxNWJHb0NZVkREM2RyOHBaM3NrNkUyUFhZYnp1WTFMdll1U1E?oc=5",
-   "title": "China Uses Exports as a Weapon. A Buyers' Club Could Blunt It",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-17T21:02:46+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/toyota-adds-1000-off-0-apr-to-bigger-electric-suv/",
-   "title": "Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T20:19:21+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "The Woodland version is bigger and more powerful than the standard Toyota bZ, and it may be a better deal...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-bZ-Woodland-offers.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "The Woodland version is bigger and more powerful than the standard Toyota bZ, and it may be a better deal..."
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/fossil-fuels/us-power-sector-emissions-fall-coal",
-   "title": "Power sector emissions set to fall in US amid lower coal use",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-17T20:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "Despite record electricity demand and the Trump administration’s efforts to prop up coal, the electricity sector is on track to emit less CO 2 this year…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Coal-stacks-behind-coal-pile-Castle-Dale_GettyImages-1150837934.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e0b5f05206c8584bb29477d049f350b5",
-   "paragraphs": [
-    "The U.S. electricity sector is set to emit less planet-warming carbon dioxide this year despite record-high demand and the Trump administration’s efforts to prop up uncompetitive coal-fired power plants.",
-    "Power plants burned 10 % less coal through July of this year, according to a new analysis of federal data from think tank Energy Innovation. That drop in coal consumption caused power sector emissions to decline in the first half of 2026 — and puts the U.S. on track for a 2 % reduction in overall energy-related emissions across this entire year.",
-    "It’s a reversal from 2025, when coal generation shot up 13 % and caused economy-wide emissions to jump 2. 4 %. Analysts attributed that to a surge in electricity demand coupled with unusually high natural gas prices, which made coal more economically attractive.",
-    "This year, though, coal plants are just not running as often. Through August 2026, coal plants ran an average of 46. 7 % of the time, compared with 49. 7 % over the same period last year.",
-    "The data suggests that coal’s resurgence last year was a blip rather than the start of a boom, even as electricity demand has continued to soar this year.",
-    "Coal’s decline is particularly notable because the White House has employed aggressive and at times extralegal means to boost the fuel, which pollutes the air and water with mercury and other toxins while also emitting more carbon dioxide than other power sources.",
-    "The Department of Energy has been ordering coal plants to stay open past their planned retirement dates on the grounds of an alleged energy crisis. These orders have burdened consumers with hundreds of millions of dollars in costs, despite some of the plants being too run-down to produce any power. The DOE also announced hundreds of millions of dollars in funding coal plants, while the Environmental Protection Agency has rolled back regulations on pollution from the facilities.",
-    "Around 48 gigawatts of coal capacity shuttered in Trump’s first term, far more than in either of President Barack Obama’s terms in the White House. Last year saw a far smaller amount of coal retirements, and so this year, the fleet has shrunk by only 1. 6 %. It now stands at about 167. 5 GW, said report author Robbie Orvis, Energy Innovation’s senior director of modeling and analysis.",
-    "But just because old coal plants are sticking around, it doesn’t mean that they’re contributing more to the energy system.",
-    "What else is picking up the slack? Not combined-cycle gas turbines, the large-format workhorses of the electricity sector. Through August, they ran at a slightly lower rate than they did last year. Overall gas consumption at power plants did tick up 3. 8 %, however, indicating greater production from different types of gas facilities, like peaker plants, for example."
-   ],
-   "lede": "The U.S. electricity sector is set to emit less planet-warming carbon dioxide this year despite record-high demand and the Trump administration’s efforts to prop up uncompetitive coal-fired power plants.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/juiced-scrambler-mini-launched-as-a-cooler-and-safer-e-bike-option-for-teens-and-parents/",
-   "title": "Juiced Scrambler Mini launched as a cooler (and safer) e-bike option for teens and parents",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T19:20:09+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Finding an electric bike for a teenager can be surprisingly tricky. Parents generally want something safe, manageable, and from a...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/juiced-scrambler-mini-header-1.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Finding an electric bike for a teenager can be surprisingly tricky. Parents generally want something safe, manageable, and from a...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/geothermal/google-superhot-geothermal-oregon-data-centers",
-   "title": "Google bets on superhot geothermal to power Oregon data centers",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-17T19:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "The tech giant inked a $500M-plus deal to secure clean power from Quaise Energy, a geothermal startup developing rock-melting beams for its first…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Project-Obsidian-2026-Quaise-Energy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8a5457986b6ec21136ce73d15d324f56",
-   "paragraphs": [
-    "The geothermal startup Quaise Energy has landed a major first customer for its novel, superhot project in central Oregon.",
-    "On Tuesday, the Houston-based firm announced that Google has agreed to buy 50 megawatts of carbon-free power from Quaise’s first commercial project, called Project Obsidian, near the Newberry Volcano. Quaise will deploy advanced drilling techniques and unique rock-melting technology to access significantly hotter geothermal resources than traditional plants can.",
-    "Google said it plans to use the energy to help run its existing data center operations in northwest Oregon as early as 2030.",
-    "The deal is valued at more than $ 500 million, Quaise confirmed. The startup is working to find offtakers for an additional 200 MW in future capacity at the Oregon site.",
-    "“ We started Quaise to make the Earth’s most abundant energy source universally accessible — and this agreement marks a critical next step, not just for Quaise but for the entire clean energy sector,” Carlos Araque, Quaise’s CEO and president, said in a Tuesday statement.",
-    "Quaise is one of at least four U.S. geothermal companies to land agreements with tech giants to pursue next-generation plants. Fervo Energy, the startup that’s furthest along in project development, recently inked a landmark deal to supply Google with nearly 400 MW of clean electricity from the Cape Station facility in southwest Utah. Sage Geosystems and XGS Energy are both partnering with Meta to develop facilities in Nevada and New Mexico, respectively.",
-    "Tech firms are seeking to secure sources of clean, around-the-clock power for their vast buildout of data centers. For geothermal startups, winning customer contracts like these is an essential step toward raising the financing they need to build first-of-a-kind facilities. Their technologies, while promising, have yet to be deployed widely at commercial scales — and questions remain about how effectively they’ll be able to operate over long periods of time.",
-    "Google is investing in other nascent technologies, too, including long-duration energy storage and advanced nuclear power. ​ “ The scale of power that we’re looking for and also the scale of impact we’re trying to have on the grid requires us to foster that ecosystem,” Lucia Tian, who leads Google’s advanced energy technologies team, told the Wall Street Journal.",
-    "Quaise said its Oregon project will cost about $ 350 million to build. The company raised $ 180 million in equity financing in August, which included investment from the oil-and-gas drilling firm Nabors Industries. (Another startup, Mazama Energy, recently nabbed $ 135 million to accelerate its own superhot geothermal project near the Newberry Volcano.)",
-    "At the Project Obsidian site, Quaise will initially use oil-and-gas drilling technologies to develop an enhanced geothermal system. The emerging approach involves fracturing rocks and pumping them full of water to create artificial reservoirs. Surrounding rocks heat the water, which is used to drive turbines on the surface to produce power."
-   ],
-   "lede": "The geothermal startup Quaise Energy has landed a major first customer for its novel, superhot project in central Oregon.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFIzX0xvWmc0SUx4Mk5YdHRRMUxuekEzX3NGSWxjc2FJNTBtcjRrNHBWWUdhVVpQcDVWZGl1bjdXZnlFdlFyWkZxOEdIS3FJdEFJRVdUbjdZYmdWWE54b3gtU1QzUEt6YjVvWFpVaWFIUXlZZW12N1g1aEtfODRzZ1pOT1J4V1EzY1JHU1R4SzBlRTBoS0pHOW0tQjdoNGx1cWFzcUstemIwc3h0YmZNLWJ3SVIxQQ?oc=5",
-   "title": "Trump Administration Reevaluates Permit for New Jersey Wind Farm",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-17T18:26:29+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/bmws-first-us-built-ev-delivers-435-miles-range-fast-charging/",
-   "title": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T18:23:03+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "The iX5 is BMW’s first fully electric vehicle built in the US, promising an estimated up to 456 miles of...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BMW-iX5-first-US-EV-1.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "The iX5 is BMW’s first fully electric vehicle built in the US, promising an estimated up to 456 miles of...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.utilitydive.com/news/data-center-slowdown-raises-risks-for-utility-investments/874924/",
-   "title": "Data center slowdown would raise risks for utility investments",
-   "source": "Utility Dive",
-   "desk": "news",
-   "published": "2026-11-17T18:10:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "An estimated 191 GW of planned data center capacity faces new risk after the midterm elections, with exposure concentrated in Texas, Ohio and Georgia, according to a report from energy analytics firm Orennia.",
-   "ftries": 3,
-   "lede": "An estimated 191 GW of planned data center capacity faces new risk after the midterm elections, with exposure concentrated in Texas, Ohio and Georgia, according to a report from energy analytics firm Orennia.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaM2Z2UUotZm4zN25pb2lBeFdMWlZLLVYtOU1sd3ppMWNrRVNlU1NON0N6NE14eFdFMEJQbjdoRkFHZmJYRnVCN0piakNzcE5oSWJRZFVIU2ljVks5?oc=5",
-   "title": "There Are Suddenly a Lot of Climate Movies",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-17T17:03:11+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
