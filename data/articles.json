@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:38:10+00:00",
+ "updated": "2026-11-26T08:21:35+00:00",
  "briefing": {
   "headline": "Solar, the grid and AI’s power demand",
   "period": "Nov 19–25",
@@ -44,6 +44,239 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/spanish-researchers-build-photovoltaic-thermal-prototype-with-graphite-paraffin-heat-storage/",
+   "title": "Spanish researchers build photovoltaic-thermal prototype with graphite-paraffin heat storage",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T08:00:00+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "cats": [
+    "Research & Development",
+    "Cells & modules",
+    "Module"
+   ],
+   "description": "The prototype uses expanded graphite to increase paraffin’s thermal conductivity 33.5-fold, enabling more uniform heat distribution. Outdoor tests showed a maximum gross daily overall efficiency of 48.7%, combining thermal and electrical output.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Exploded-photovoltaic-thermal-prototype.png",
+   "paragraphs": [
+    "Researchers at Spain’s University of Burgos have developed and tested a full-size photovoltaic-thermal (PVT) collector featuring a heat-storage layer embedded behind the solar module. The layer combines paraffin, which stores heat as it melts, with expanded graphite (EG), which increases the paraffin’s thermal conductivity more than 30-fold.",
+    "“Previous experimental and numerical studies have demonstrated the potential of PCM and EG–PCM composites for thermal management and energy storage in PVT systems,” the researchers said. “However, the behavior of the present collector architecture – where EG–PCM tiles are placed directly between the PV module and the thermal absorber – has not been established.”",
+    "The researchers built the prototype using a commercial 200 W monocrystalline PERC module measuring 1,500 mm × 676 mm. They impregnated 18 expanded graphite tiles with Rubitherm RT44HC paraffin and arranged them in three columns and six rows across the rear of the module. The 20 mm-thick tiles weighed a total of 15.7 kg and contained 9% expanded graphite by mass.",
+    "The tiles were positioned directly between the module and a copper sheet-and-tube absorber. Neoprene strips applied pressure to maintain contact between the layers as the composite expanded and contracted, while extruded polystyrene provided rear insulation. For the glazed tests, the researchers added a 4 mm low-emissivity glass cover separated from the module by a 10 mm air gap.",
+    "The team tested the collector outdoors at the University of Burgos over four clear days in August and September 2025. In both glazed and unglazed configurations, they compared continuous fluid circulation with delayed circulation, which started when the composite reached a mean temperature of 44 C. The glazed tests used a higher flow rate and a chiller. A standalone PV module served as a reference throughout the experiments, while a conventional PVT collector was tested alongside the prototype during the glazed continuous-circulation test.",
+    "“The addition of expanded graphite increased the effective thermal conductivity of the PCM from 0.2 to 6.7 W m−1 K−1, a 33.5-fold enhancement, while retaining an estimated heat-storage capacity of 209 kJ kg−1,” the researchers said. “It promoted a uniform temperature distribution within the storage layer and modified the temporal profile of heat recovery.”",
+    "The PVT–PCM collector achieved a maximum gross daily overall efficiency of 48.7%, comprising 37.3% thermal efficiency and 11.4% electrical efficiency.",
+    "“The prototype demonstrates short-term outdoor feasibility, but the measurements do not quantify latent-heat utilization or isolate individual operating effects,” the researchers concluded.",
+    "Their findings are presented in “ Experimental assessment of a photovoltaic-thermal collector with expanded graphite phase change material (EG–PCM) under real operating conditions ,” published in Results in Engineering.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "The prototype uses expanded graphite to increase paraffin’s thermal conductivity 33.5-fold, enabling more uniform heat distribution.",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/unite-secures-e20-million-for-22-mw-of-solar-aviaries-in-france/",
+   "title": "Unite secures €20 million for 22 MW of solar aviaries in France",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T07:38:10+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Utility-scale"
+   ],
+   "description": "The two agrivoltaic facilities will accommodate pheasant and partridge farming in France’s Loiret department. Both projects are expected to become operational in the summer of 2027.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Photomontage-illustratif-type-Faisanderie-c-UNITe-1536x1013-1.jpg",
+   "paragraphs": [
+    "The financing will support the construction and operation of two agrivoltaic facilities designed to accommodate pheasant and partridge farming in Lorris, in the Loiret department of central France.",
+    "The two installations will have a combined installed capacity of approximately 22 MW and are expected to be commissioned in the summer of 2027.",
+    "Photovoltaic aviaries combine solar power generation with poultry and game bird farming by integrating solar panels into the roofs of large, enclosed breeding areas.",
+    "The modules provide shade and shelter for the birds while generating renewable electricity, enabling the dual use of agricultural land. The structures are typically designed to maintain sufficient natural light and ventilation while protecting birds from predators and adverse weather conditions.",
+    "Unite, which has been backed by French investment firm Ardian since 2024, continues to expand its solar portfolio, with around 15 photovoltaic aviaries already built or operational.",
+    "Since the beginning of 2026, the company has commissioned three additional photovoltaic aviaries with a combined capacity of 33.7 MW in France’s Centre-Val de Loire region.",
+    "The projects include an 11 MW facility in Beauchêne, commissioned in July, an 8 MW installation in Chauvigny-du-Perche, commissioned in August, and a 14.7 MW plant in Sennely, commissioned in September.",
+    "Across all business segments, Unite has a portfolio of operational renewable energy assets and projects under development totaling nearly 3 GW.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "The two agrivoltaic facilities will accommodate pheasant and partridge farming in France’s Loiret department. Both projects are expected to become operational in the summer of 2027.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/microchannel-heat-pipe-cuts-solar-panel-temperature-by-15-5-c/",
+   "title": "Microchannel heat pipe cuts solar panel temperature by 15.5 C",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T07:21:02+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "cats": [
+    "Research & Development",
+    "Cells & modules",
+    "Modules"
+   ],
+   "description": "UK and Chinese researchers have developed a photovoltaic-thermal module that uses a microchannel heat pipe to cool solar cells and recover waste heat. The system achieved a weighted overall energy efficiency of 78.94% under optimized operating conditions.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/1-s2.0-S135943112604055X-gr1_lrg.jpg",
+   "paragraphs": [
+    "Scientists from the United Kingdom’s University of Nottingham and China’s Shandong Jianzhu University have developed a photovoltaic-thermal (PVT) module that uses a microchannel heat pipe (MCHP) to cool a solar panel and transfer waste heat to water.",
+    "The research team also developed a quasi-two-dimensional mathematical model to investigate the impact of key design parameters on the performance of the PVT-MCHP module.",
+    "“The optimal MCHP length ratio and cooling water flow rate are identified to provide practical design guidelines for balancing thermal efficiency against pumping power consumption,” the group explained. “Pumping power consumption is considered in electrical efficiency calculation to present a realistic assessment of net electrical energy output.”",
+    "The researchers initially developed the model in MATLAB to simulate heat transfer through the PV module, microchannel heat pipe, and water manifold. The model simulated refrigerant evaporation, condensation, and capillary return, while accounting for pumping power consumption in the calculation of net electrical efficiency.",
+    "The academics then built a prototype by bonding a commercial 210 W polycrystalline silicon solar panel to the evaporator section of a flat heat pipe via thermally conductive silicone. The heat pipe featured parallel channels with internal cross sections of 9 mm × 9 mm and axial grooves measuring 0.75 mm × 0.75 mm.",
+    "The scientists used R141b as the refrigerant and attached a dual-passage water manifold to the condenser section of the heat pipe. A pump circulated water through the manifold and a storage tank.",
+    "The team placed the prototype and a conventional PV panel side by side under an indoor solar simulator, with irradiance levels ranging from 200 W/m² to 940 W/m². The ambient temperature and water inlet temperature were kept constant at 37 C and 35.5 C, respectively, while the water flow rate was set at 0.138 m³/h.",
+    "After temperatures and electrical output stabilized at each irradiance level, the researchers measured electrical performance with a PV current-voltage analyzer.",
+    "“The MCHP maintains the PV temperature at 67.66 C, and the module reaches an electrical efficiency of 11.15% under the ambient temperature of 37 C and solar irradiance of 940 W/m2, whereas the conventional PV temperature goes up to 83.13 C and electrical efficiency is only 10.18% under the same test condition,” the scientists said. “The PV/T-MCHP module achieves average electrical, thermal, and weighted overall efficiencies of 11.87%, 47.10%, and 73.71%, respectively, in the solar irradiance range of 200 to 940 W/m2.”",
+    "The analysis showed that electrical efficiency decreased as the cooling water inlet temperature increased. Electrical efficiency also increased with the water flow rate up to 0.2 m³/h, before declining at higher flow rates. Thermal efficiency showed only marginal improvements beyond this threshold."
+   ],
+   "lede": "UK and Chinese researchers have developed a photovoltaic-thermal module that uses a microchannel heat pipe to cool solar cells and recover waste heat.",
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/more-than-4-1-gw-of-large-scale-solar-projects-advance-across-mexico-since-september/",
+   "title": "More than 4.1 GW of large-scale solar projects advance across Mexico since September",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T07:12:56+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Highlights",
+    "Utility-scale"
+   ],
+   "description": "New environmental approvals, generation permits, construction milestones and power purchase agreements highlight the continued expansion of Mexico’s utility-scale solar pipeline, with battery energy storage featuring prominently across the latest developments.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2022/09/14.png",
+   "paragraphs": [
+    "Mexico’s utility-scale solar project pipeline continues to expand, with developments advancing across 15 states since September 10, according to a review of projects reported by pv magazine México.",
+    "Developers have submitted new environmental impact assessments to Mexico’s Ministry of Environment and Natural Resources (Semarnat), while other projects have secured environmental approvals, generation permits, equipment supply agreements or long-term electricity supply contracts.",
+    "Among the largest developments are a 621.17 MW solar plant in Veracruz, a 400 MW project in Jalisco and a 269 MW solar-plus-storage facility backed by a corporate power purchase agreement (PPA) in Coahuila.",
+    "In Veracruz, Semarnat has granted conditional environmental authorization to the 621.17 MW Cerro Colorado Solar project, promoted by Desarrollos y Soluciones Energéticas Eirene in the municipalities of Sayula de Alemán and Texistepec. The facility will feature 941,166 solar modules rated at 660 W and 1,803 Huawei inverters. The project covers approximately 1,063 hectares and includes battery energy storage, although its capacity has not been disclosed. Construction is expected to take two years. pv magazine México",
+    "In San Luis Potosí, Transformaes Creación Sostenible has submitted the 190.94 MW Parque Solar Peñasco project for environmental assessment. The development will have a nominal capacity of 150 MW and a 60.19 MW/240.77 MWh battery energy storage system (BESS). It will incorporate 289,296 Longi bifacial modules, Nextracker single-axis trackers and Power Electronics inverters, alongside Fluence Smartstack battery containers. Construction is expected to take 18 months.",
+    "In Campeche, Global Solar América 3 has obtained conditional environmental approval for its Planta Fotovoltaica Campeche project. The facility will be developed in two phases, increasing its installed capacity from 130.026 MWp to 180.08 MWp. The development will include 253,634 bifacial modules, battery storage and a 26.92 km transmission line. The project was previously selected under the mixed-investment scheme organized by Mexico’s Federal Electricity Commission (CFE).",
+    "In Coahuila, Atlas Renewable Energy and Mexican mining group Industrias Peñoles have signed a 20-year PPA supporting the development of a 269 MW solar-plus-storage project. The facility is expected to supply 550 GWh of electricity annually, with deliveries scheduled to begin in the first half of 2029. The project’s official name and battery storage capacity have not been disclosed.",
+    "In Jalisco, Mexico’s National Energy Commission (CNE) has granted a generation permit to the 120.71 MWac FV Cuquío project, developed by Green Park Energy, part of Spanish energy group Cox. The facility will incorporate 31.09 MW/96.23 MWh of battery storage and is expected to generate approximately 298.7 GWh annually. Construction is scheduled to begin in June 2027, with commercial operation targeted for December 2028.",
+    "Green Park Energy has also secured generation permits for its 145.31 MWac FV Villa Juárez project in Aguascalientes, incorporating 118.94 MWh of battery storage, and its 156.78 MWac FV San Diego de la Unión development in Guanajuato, featuring 137.22 MWh of storage."
+   ],
+   "lede": "New environmental approvals, generation permits, construction milestones and power purchase agreements highlight the continued expansion of Mexico’s utility-scale solar pipeline, with battery energy storage featuring…",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/1-gw-solar-capacity-reaches-fid-in-q3-2026-a-confident-cer-boosts-2027-projection/",
+   "title": "Australia sees 1 GW of solar capacity reach FID in Q3",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T06:52:16+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Markets & Policy",
+    "Batteries",
+    "Modules",
+    "Utility-scale"
+   ],
+   "description": "Following a record 5 GW of large-scale renewable energy investment to the end of Q3 2026, the Clean Energy Regulator has raised the lower bound of its 2026-2027 FID projection from 6 GW-8 GW, up to 8 GW-16 GW.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Ganymirra-and-Majors-Creek-Solar-Power-Station-Artist-Impression-scaled-1.jpeg",
+   "paragraphs": [
+    "Following a record 5 GW of large-scale renewable energy investment to the end of Q3 2026, up from 4.9 GW in 2025, the Clean Energy Regulator (CER) has raised the lower bound of its 2026-2027 final investment decision (FID) projection from 6 GW-8 GW, to 8 GW-16 GW.",
+    "“In the Q4 2025 Quarterly Carbon Market Report (QCMR), we projected that between 6 and 16 GW of large-scale renewable generation capacity would reach FID over 2026 and 2027. The record level of investment activity observed during 2026 has significantly reduced downside risks to this outlook,” the Q3 2026 QCMR report says.",
+    "Of the nine projects to reach FID in Q3 2026 totalling 2.1 GW, five received support under the Capacity Investment Scheme (CIS) including two solar projects in Queensland, the 150 MW Ganymirra Solar Power Station and 150 MW Majors Creek Solar Farm.",
+    "It was the fourth-strongest quarter for solar with 1 GW of capacity reaching FID. By mid-November 2026 all investments moved year-to-date FID to 5.5 GW.",
+    "“Solar accounted for 3.5 GW of FID in 2026 to date,” the report says. “Australian Renewable Energy Agency’s (ARENA) update to their Ultra Low-cost Solar white paper identified a range of opportunities to reduce the cost of deploying utility-scale solar in Australia, which could continue to strengthen the investment case for both standalone solar and hybrid solar-and-storage projects.”",
+    "The report also says the ARENA paper highlights improved cell and module efficiency, innovation in construction and deployment models, including automation, prefabrication, modular delivery, and digital and data-driven operational and maintenance optimisation as potential pathways to lower project costs.",
+    "The CER’s new large-scale battery pipeline tracker recorded 3.4 GW and 13.8 GWh of storage capacity reaching FID in Q3, taking the 2026 total to date to 5.1 GW and 20 GWh, where average capacity more than doubled from 265 MWh in 2025 to 621 MWh in the year so far.",
+    "Projects to reach FID included the 2,200 MWh Richmond Valley Solar Farm BESS in New South Wales (NSW), and the 1,860 MWh Baranduda Electrical Energy Reserve and 1,200 MWh Moorabool Battery, both in Victoria.",
+    "In Queensland, the 1,215 MWh Stage 3 South Pine Supernode BESS and 800 MWh Koolunga BESS, supported by the CIS, in South Australia (SA).",
+    "The QCMR cites the Australian Electricity Market Operator (AEMO) as reporting that average large-scale battery discharge also more than tripled year-on-year and that large-scale batteries set prices in a record 48% of National Electricity Market (NEM) dispatch intervals."
+   ],
+   "lede": "Following a record 5 GW of large-scale renewable energy investment to the end of Q3 2026, the Clean Energy Regulator has raised the lower bound of its 2026-2027 FID projection from 6 GW-8 GW, up to 8 GW-16 GW.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/indian-utilitys-300-mw-round-the-clock-renewables-tender-yields-tariffs-from-0-048-kwh/",
+   "title": "Indian utility’s 300 MW round-the-clock renewables tender yields tariffs from $0.048/kWh",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T06:47:30+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "cats": [
+    "Markets & Policy",
+    "India",
+    "Utility-scale"
+   ],
+   "description": "Noida Power Co. Ltd. has awarded 85 MW to ReNew and 215 MW to Purvah Green Power. The selected developers will supply renewable energy from projects integrated with storage under 25-year power purchase agreements.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/10/Jasper_County_Indiana-scaled.jpg",
+   "paragraphs": [
+    "NPCL launched the tender to procure 300 MW of RTC power from interstate transmission system (ISTS)-connected renewable energy projects integrated with energy storage systems through tariff-based competitive bidding.",
+    "The selected developers will implement the projects on a build-own-operate (BOO) basis. NPCL will sign 25-year power purchase agreements (PPAs) with the winning bidders for the contracted capacity.",
+    "Under the tender terms, developers must supply at least 50% of the contracted capacity in each time block outside peak hours throughout the PPA period. During peak hours, they must supply at least 90% of the contracted capacity in each time block.",
+    "To optimize renewable energy generation, developers may sell surplus electricity to third parties or through power exchanges without obtaining a no-objection certificate from NPCL.",
+    "NPCL has previously participated in renewable energy procurement exercises in Uttar Pradesh. In October 2018, the New and Renewable Energy Development Agency of Uttar Pradesh (UPNEDA) launched a 550 MW solar tender, earmarking 50 MW for NPCL under a 25-year PPA. The tender set a tariff ceiling of INR 3.10/kWh.",
+    "In August 2026, the Solar Energy Corp. of India (SECI) concluded its 1 GW RTC renewable energy tender at tariffs ranging from INR 5.25/kWh to INR 5.26/kWh. In November 2025, Railway Energy Management Co. Ltd. (REMCL) awarded 1 GW of RTC renewable energy capacity at INR 4.35/kWh, with ReNew and Purvah Green Power securing 200 MW and 180 MW, respectively.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Noida Power Co. Ltd. has awarded 85 MW to ReNew and 215 MW to Purvah Green Power. The selected developers will supply renewable energy from projects integrated with storage under 25-year power purchase agreements.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/beyond-silicons-ceiling-the-acceleration-of-perovskite-solar/",
+   "title": "Beyond silicon’s ceiling: The acceleration of perovskite solar",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T06:35:29+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "cats": [
+    "Technology & Products",
+    "Manufacturing",
+    "Solar Manufacturing USA"
+   ],
+   "description": "Perovskite tandem manufacturers are moving past laboratory efficiency records to prioritize long-term field durability, bankability, and gigawatt-scale commercial production.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2025/11/Swift-Solar-Tandem-1536x1152-1.jpeg",
+   "paragraphs": [
+    "Beyond standard single-junction silicon solar technologies, which are rapidly approaching their theoretical efficiency ceilings, the solar industry is turning to perovskite tandem architectures to unlock the next wave of energy yield and cost reductions.",
+    "At a panel session during Solar Manufacturing USA 2026, hosted by pv magazine USA, industry executives and researchers outlined how leading developers are taking perovskite-on-silicon tandems out of the laboratory and into commercial deployment.",
+    "Ralf Preu, director of photovoltaics at Fraunhofer Institute for Solar Energy Systems ISE, put the technology shift into historical perspective, reflecting on how far solar manufacturing has progressed.",
+    "“My journey is more than 30 years in PV,” Preu noted, recalling an early visit to a 10 MW plant in Camarillo, California, which was once one of the three largest production sites in the world. “It’s great to see that with all the production sites, what was manufactured there in a year, we have it now in a few hours.”",
+    "Preu highlighted the absolute physical necessity of moving past single-junction silicon, pointing out that industrial cell efficiencies have drawn dangerously close to theoretical boundaries.",
+    "“The efficiency limit for silicon single junction is 29.4%. That’s the maximum you can get out of a solar cell, and we are now – with the announcement of Longi – we are so close to that with 28.1%. And even if we look at the module, we are at 26.4% efficiency. Obviously, there is not much to squeeze out of that theoretical efficiency limit anymore.”",
+    "To break through this wall, multijunction architectures are essential. “The main objective, how to get beyond that, is to go for tandems, and if you look at the potential of a perovskite-silicon tandem two-junction cell, this is at 43.2%, so 14% absolute more,” Preu explained, adding that triple junctions can eventually push theoretical efficiencies beyond 50%.",
+    "While early-stage perovskite research focused heavily on efficiency records, current efforts prioritize bankability, long-term outdoor stability, and scalable manufacturing. Presentations from Oxford PV, Caelux, Swift Solar, Tandem PV, and CubicPV highlighted distinct approaches to bridging the gap between gigawatt-scale production and commercial reliability.",
+    "The industry milestone of sending commercial perovskite products to field installations is no longer a distant projection. Dr. Laura Miranda, chief strategy officer at Oxford PV, detailed the company’s transition from early R&D to active manufacturing at its pilot line in Brandenburg an der Havel, Germany.",
+    "Oxford PV’s product strategy centers on its Centauri and Pegaso series modules, targeting mainstream utility installations alongside lightweight specialty applications."
+   ],
+   "lede": "Perovskite tandem manufacturers are moving past laboratory efficiency records to prioritize long-term field durability, bankability, and gigawatt-scale commercial production.",
+   "tags": [
+    "industry",
+    "power"
+   ]
+  },
   {
    "url": "https://electrek.co/2026/11/25/chargepoint-and-pistenbully-have-a-charging-plan-for-ski-resorts/",
    "title": "ChargePoint and PistenBully have a charging plan for ski resorts",
@@ -309,7 +542,7 @@
    "published": "2026-11-25T16:12:22+00:00",
    "seen": "2026-11-25T23:38:10+00:00",
    "description": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
    "tags": [
     "power",
@@ -411,6 +644,34 @@
    ]
   },
   {
+   "url": "https://electrek.co/2026/11/25/vws-affordable-electric-suv-sporty-upgrade-gti-dna/",
+   "title": "Volkswagen’s new affordable electric SUV gets a sporty upgrade with GTI DNA",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-25T15:44:05+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Volkswagen gave its entry-level electric SUV a sporty makeover with GTI-inspired performance. The new ID. Cross R-Line tops the range...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-ID-Cross-R-Line.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Volkswagen gave its entry-level electric SUV a sporty makeover with GTI-inspired performance. The new ID. Cross R-Line tops the range with added power and style, but there’s more to it than meets the eye.",
+    "While VW’s R-Line is typically just a style and equipment upgrade rather than a true performance upgrade, the range-topping ID. Cross version borrows its electric motor, battery, and chassis from the ID. Polo GTI.",
+    "The flagship ID. Cross R-Line model, which will go on sale in March 2027, will use the same 222 hp (166 kW) front-mounted electric motor with up to 290 Nm of torque, which VW said enables it to sprint from 0 to 62 mph (0 to 100 km/h) in 6.9 seconds.",
+    "It will also use the same 52 kWh nickel-manganese-cobalt (NMC) battery, providing a WLTP range of up to 266 miles (428 km).",
+    "The range-topping version comes with VW’s custom chassis technology, also used in the ID. Polo GTI, which includes an electronically controlled front differential lock, DCC adaptive chassis control, and progressive steering.",
+    "As such, the flagship R-Line model is 15 mm lower than the standard ID. Cross. The lower ride height and front differential lock help to improve traction, driving stability, and control, while DCC automatically adjusts to road conditions.",
+    "The 222 hp (166 kW) version debuts with an exclusive new Traction profile with different drive modes, including Eco, Comfort, Sport, and Individual.",
+    "The entry-level version uses a 132 hp (99 kW) electric motor and a 37 kWh battery, providing a WLTP range of up to 195 miles (314 km).",
+    "The entry-level version gains “extensive” R-Line standard equipment, including R-Line style bumpers, vertical daytime headlights, and 19″ alloy wheels.",
+    "Other standard features include Volkswagen’s interactive ID. Light with LED matrix headlights, Keyless Access, Adaptive Cruise Control (ACC), and a rear-view camera."
+   ],
+   "lede": "Volkswagen gave its entry-level electric SUV a sporty makeover with GTI-inspired performance. Cross R-Line tops the range with added power and style, but there’s more to it than meets the eye."
+  },
+  {
    "url": "https://www.pv-magazine.com/2026/11/25/ress-6-provisional-results-solar-pv-ireland/",
    "title": "Ireland approves 1,367 MW of solar in sixth renewables auction",
    "source": "pv magazine",
@@ -487,10 +748,44 @@
    "published": "2026-11-25T15:00:39+00:00",
    "seen": "2026-11-25T23:38:10+00:00",
    "description": "Cheyenne Light — with a 439-MW peak load record — is working on a 3-GW near-term data center pipeline, with an additional 2.5 GW in emerging opportunities, per company officials.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Cheyenne Light — with a 439-MW peak load record — is working on a 3-GW near-term data center pipeline, with an additional 2.5 GW in emerging opportunities, per company officials.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/25/nio-10000-battery-swap-stations-52-billion-batteries-2030/",
+   "title": "NIO targets 10,000 battery swap stations and $52B in batteries by 2030",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-25T14:43:33+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "cats": [
+    "News",
+    "battery swap",
+    "china",
+    "nio"
+   ],
+   "description": "NIO plans over 10,000 battery swap stations and $52 billion in battery assets by 2030, more than double its network. Here's what it will take.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/nio-record.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "That’s more than double the swap network NIO runs in China today. And it comes from a company that already missed its last big swap station target.",
+    "NIO shared the targets today at NIO IN 2026, its annual technology event, held in Guangzhou to mark the company’s 12th anniversary. NIO Power also expects to deliver over 10 billion kWh of energy per year through charging and battery swapping by the end of the decade.",
+    "As of November 11, NIO had 4,252 battery swap stations in China, alongside 5,584 charging stations, according to the company’s latest network count.",
+    "Getting to 10,000 by 2030 means adding roughly 1,400 swap stations per year for four straight years. NIO added 679 in 2024 and 681 in 2025. So the new plan needs about double the company’s recent pace.",
+    "Even this year’s goal of “at least 1,000” new stations looks tight. NIO had 3,729 swap stations in February when it celebrated its 100 millionth swap, which means it has added just over 500 since then.",
+    "There’s also some history here. At its 2021 Power Day, NIO committed to more than 4,000 battery swap stations worldwide by the end of 2025, with about 1,000 of them outside China. By February 2026, it had about 3,700, almost all of them in China.",
+    "The energy target is just as aggressive. NIO’s swap network had delivered 5.28 billion kWh in total by February, after roughly eight years of operation. The 2030 goal is nearly twice that every year, although it also counts NIO’s charging stations.",
+    "NIO has been moving the heavy capital off its own books. Under deals like its agreement with Zhongan Energy to build 500 swap stations within a year, partners own the stations while NIO handles the technology and operations. NIO Power says it has now co-built more than 900 swap stations with partners.",
+    "The hardware is also getting better. NIO opened its first fifth-generation swap stations in August, and they’re the first to serve all three of its brands. That includes the compact firefly, which couldn’t use older stations because of its shorter wheelbase.",
+    "NIO CFO Stanley Qu, who also heads NIO Power, presented the unit as NIO’s showcase for running a business with AI agents, using them to manage battery value, station operations, and energy efficiency."
+   ],
+   "lede": "NIO plans over 10,000 battery swap stations and $52 billion in battery assets by 2030, more than double its network.",
+   "tags": [
+    "china"
    ]
   },
   {
@@ -511,7 +806,7 @@
     "manufacturing"
    ],
    "description": "Fluence’s interim management team has provided details of the battery storage integrator’s transformation plan, following recent challenges and setbacks.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Fluence’s interim management team has provided details of the battery storage integrator’s transformation plan, following recent challenges and setbacks.",
    "tags": [
     "industry",
@@ -526,7 +821,7 @@
    "published": "2026-11-25T14:22:42+00:00",
    "seen": "2026-11-25T23:38:10+00:00",
    "description": "Executives went from touting data center pipelines to emphasizing the diversity of sources driving load growth, their shared concern over energy affordability and good relations with incoming officials.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Executives went from touting data center pipelines to emphasizing the diversity of sources driving load growth, their shared concern over energy affordability and good relations with incoming officials.",
    "tags": [
     "power"
@@ -550,7 +845,7 @@
     "engineering"
    ],
    "description": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
    "tags": [
     "power"
@@ -692,6 +987,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+   "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-25T13:15:00+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
    "url": "https://www.pv-magazine.com/2026/11/25/uk-small-scale-battery-deployment-set-to-double-annual-record-in-2026/",
    "title": "UK small-scale battery deployment set to double annual record in 2026",
    "source": "pv magazine",
@@ -743,7 +1052,7 @@
     "fire safety"
    ],
    "description": "Energy-Storage.news speaks with Trina Storage’s Mike Watson about the company’s genset-BESS solution and its approach to safety.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Energy-Storage.news speaks with Trina Storage’s Mike Watson about the company’s genset-BESS solution and its approach to safety.",
    "tags": [
     "power",
@@ -839,7 +1148,7 @@
     "terna"
    ],
    "description": "Italy TSO Terna has concluded its second MACSE auction, procuring 16GWh of long-term BESS capacity at a lower clearing price than 2025’s auction.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Italy TSO Terna has concluded its second MACSE auction, procuring 16GWh of long-term BESS capacity at a lower clearing price than 2025’s auction.",
    "tags": [
     "policy",
@@ -874,7 +1183,7 @@
     "technical due diligence"
    ],
    "description": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
    "tags": [
     "industry",
@@ -976,6 +1285,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHhmdF9nVVlvY3o1dVZXWHJaREFGWU9nV0RDMTNSRG0wNkZoaHN3aFZNT2hEbzV5YlVSR0dfY09aemFjUXh4T1d2ODZPZmFlaTlsN0VLZVpyQk9sRDV2STBTTUVMYVRUbGZNQTh6V3VqZ1RxN2N0Zy1BOFQ2VWVTaUxLbENmU0dkVnR3WjB5U1pjS1FDVFBpMGFkcEdJczVIUGVSWTI3TVVlcEhQM0E?oc=5",
+   "title": "UAE Plans More Power, Water Projects Away From Persian Gulf",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-25T10:51:37+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ubERpQnNLa05vX2RUYXRobjIzdnNkbWwwZjQ1SG5hN3ZrcWQ1MFV4LXNjV1Y1aXhYemFsa2dmb2lNSU0wd0lIU1V5aHZqZjZ3ZUtIZmNRV3VyZ01WQ0ZrVmdETUpRQQ?oc=5",
    "title": "Why Earthjustice Is Against the Permitting Reform Bill",
    "source": "Heatmap",
@@ -1054,7 +1374,7 @@
     "data centres"
    ],
    "description": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development.",
    "tags": [
     "power"
@@ -1199,6 +1519,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TazY0cnRKTUNtMUhfV1lKSTAtU3JvcTYwODBMUlNMem50cDJGN0Rzel9Hd0dzWVFiODQzMTlkbVpJZ082d0Z0bkN2Y1dpal9yZWtSSFFIVHl1ZFZBcENZdEw5M0pOWGZkSUczRVN6R0M?oc=5",
+   "title": "Creativity at work thrives with a sprinkling of friction",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-25T05:00:03+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUm9XbmNDZy1PanZOYXdXN0liZW1IVmJDc1k1Y2xac1phTHFKWU9mdlFCUlFTR21mRkZKS3E2SEZaaTRlWGZ5a1RvZWVNOGM4QTJ5cXZXLUQyeUU5cVRFUkxXdzZjZkhkdmx2aUZlU2RhemFBdEJCOGh4UW43QmJqQXZGN2tLUXJLd0RvLXJETElRdzNvcHZIdTE3c3U2eUV5MkxaZWs2NTlJYU1JUjRZMGtDdnRuQQ?oc=5",
    "title": "Ukraine Has a Blueprint for Protecting Vulnerable Power Grids",
    "source": "Bloomberg",
@@ -1208,6 +1539,21 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNek5NRm9USUJkdXdqRDJyTlpGSzZtd0gzTC10ZjFFb0xVWjJLb0pFdFRkSV9YaHdJUzZhM3RVWmllSlRRYzNjOVVudFQyT1BMdFRWMi00QUNvR3pKQ1ZjUmw4LXF6anlvNW1uenFNeVBteFE1ZWo5Y2NaM3hTR3FReGtPMzl3dWJ4YTE1anBwZTRSY05tanlydnBmbFN3RG55cUVyUTFIOTRiaWVlaGxDVDRqdF9uUQ?oc=5",
+   "title": "China Maintains Monthly Solar Momentum Despite Weak 2026 Outlook",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-25T04:44:00+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "power"
+   ]
   },
   {
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVJPbmFFdHNoOWFvak9na2g4QjVyODdxSk9MTDFGYUtzWUhOVi1qOF9VaERvcUdqZ2tlRVNTU2Q4MEFlZ2padWVCOWF1NUNsbjV3V3ZIdjB3enA3Q29mTXMybGVnNUpIYzhYS2l1ZGJmQlJwLUNaNFQzWVM2dmpqdU1YTTN0bDdBVm9zNTVJUjBrZnpQcUZjWGQxNEtaOEphNVdFWk1VZlpfRmwzU3psM2NHVFhoMDZ4bFVXa3hRSEJWTVljWkdHZA?oc=5",
@@ -1678,6 +2024,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0Z5NXh2NENUMGVKc3RYekpSLTJxU09CT3M2VWNXM1BQUHN2WjR4TmdqUlltZ3cxX0lOb2ZtNnZHMS1OS2V4MEN0RzBITFpEa0ZPckhLT29YZDV4YnpqMmxqZC1QVVhCR1JveDdzYTRPTjZDZU51Z2hIYXlIYnJ0LWh5UUVnSmF6TlFtaFNOXzg2R3pkS3RDRjYtT0tIYUpjYzFoQkQ3Z1duTm1QZ0tKQXdrMVh1dw?oc=5",
+   "title": "Macy’s Thanksgiving Day Balloons Threatened by Winds in New York",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-24T14:42:58+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.pv-magazine.com/2026/11/24/france-may-tie-5-5-solar-vat-rate-to-rg5-hail-resistance/",
    "title": "France may tie 5.5% solar VAT rate to RG5 hail resistance",
    "source": "pv magazine",
@@ -1806,6 +2163,20 @@
    "tags": [
     "policy",
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGR4WnNuNlo3MU9Tb0VzV1laQ2t4MTNubWYtZHB2amE5eTB2bEFNQnlCbkhDeFItZmowWWxEN0hIQlBmY3ZBWnl6OFJpUXZuMklPbEU0RHNnalZIbHpTODFvU3RRUDdYR01OVlo4eEhxbW9SQkNaMlRIMWZpd21mUldJSWJ5OUpTOUx0R0puNzdNT0ltRFQxSUNfZ1E5OW9tZ000VTNmZ0txdw?oc=5",
+   "title": "Equinor CEO Says Carbon Capture Deals Impeded by Cost, Shortage",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-24T13:33:24+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
    ]
   },
   {
@@ -2791,6 +3162,20 @@
    "lede": "Hyundai isn’t just giving its compact SUV a fresh coat of paint. The next Kona is getting a major overhaul,..."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWJpM0M3T0RjLTBTV1k4eEJIWGxyN1BWb000U2o5d3A2ZE1fR3JLRzMtZ3lJdS1jb01VZXBTbk5IM09oeWxZbERESmthVzNZZ1hUWkliOU9CWTU2MGNOS2Zid0lFMXhpazFBSFpHbEdGdGN4bnhPZlk0cURPVGJyN3FjVUtPakZwdk1PSHpsNk5YQjRsRmRKdXREaDU1Y09YeFJ0V3RXTUs0QXlaTzRFN0w0dkY?oc=5",
+   "title": "Ex-Volkswagen Engineer Admits to Insider Trading on Rivian Deal",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-23T21:17:09+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV29PTUhScTJuaEk5YkdhMFNBWklVQVQ1eVVTQWxVZjZuQ0x6WjlZejRRc003UV9xNDc2T1ljZkktRGdfTGtOWUkybG45N2QtU3l4MFUtM3BEcThYZDJyQjF5R2l6VjVtNlNGUGx6ajlEYVRZbTVTb3lHNmsyWGljYVhkVzJVS196ZFdfbmVWWkRmSGY1U0JlUEhtamxCTnU5Q29weGx4UG1IYk0?oc=5",
    "title": "Mercury spacecraft BepiColombo 'on track' despite glitch, ESA says",
    "source": "Reuters",
@@ -2800,6 +3185,20 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQThBSHJNdzBZWmM2MmFqVEc2QXB2YUhwOW55TXR5akVDeHJPYWl1dUFtVUhYOXpsdUNLLThfWTkwWW41ZFBZNGVxZzVZbjZWd00zNkVTVlBpWVN4MmdCLVpJZEQ2dDhkaVU4X2t2YnRRLVg5VHFrRGFxeGFoVGxfYjh0ZFdWcS1lcGtDMFRDeEtzMFhNX1JQRGRwOUViLWNGNGZadDBFQU9GZjlncGtNYWJsT0E?oc=5",
+   "title": "Brazil Mining Agency Shortfalls Threaten Critical Minerals Push",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-23T20:11:19+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
+   ]
   },
   {
    "url": "https://electrek.co/2026/11/23/subaru-cuts-ev-prices-dropping-most-distinctive-feature/",
@@ -8211,6 +8610,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kM2I4am5ENUJuQ0phbTNkMEp4Q0xFbi1wNnNEMENUSG5UV1pUWVJJdjY5MGlTNlRiWUlRNFFxTTlSMWMxVlV2amdZaGtzUUJSZDlDOGJJYkNwcUlHU3ViY3RJM2VMcTgxbFpCOFp1VHBaTWMtRWxwaTJJZw?oc=5",
+   "title": "Regional insights",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-19T05:36:47+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOHRlZ2ItemZBYzd1ck0wRDFSZlZlX1llcXR6aGM3aWphbVhVd2R6UzdRSW9lbG51TV90NFo1Sk10X2lqVmpkbUtlbHJUZU51S2o3Zm1fLXUtWldMZDAwUHdfa1NDaTZlY3UwRW9qVWg5M3JtNzdBczdDZ3owQ3JQQWp5TF9mZGtsRDBXWk9KVmZEQQ?oc=5",
    "title": "The outlook for energy transitions",
    "source": "IEA",
@@ -8242,6 +8652,17 @@
    "desk": "analysis",
    "published": "2026-11-19T05:31:40+00:00",
    "seen": "2026-11-19T13:23:54+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlF4Zl8wY1R6VTM4OTl1WUZha09BbVBMUURhQzBJOFlYZDA2T29KYmg4S2t3LUtIeUVfR2NrZXU2QXBGeDRGMWgzWEN4THJiUTllc29McnFaeGZEZ3hCLTJWNGlVa3ljX2NMY25NY1U0aFhsd0FnbzFkMnF5blJiWFJQQXU3WjA1dnJLMQ?oc=5",
+   "title": "Potential additional responses - World Energy Outlook 2026",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-19T05:30:17+00:00",
+   "seen": "2026-11-26T08:21:35+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -9918,312 +10339,6 @@
    "via_google": true,
    "ftries": 1,
    "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/",
-   "title": "11-term rep who mocked a kid’s letter about EVs currently losing her seat (Upd.)",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T16:48:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "An 83 year old republican Congresswoman who mocked a child for supporting electric cars is losing her seat by 362 votes, ahead of a recount.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/20200211-OSEC-LSC-0188_49523463572-e1778741712185.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "An 83 year old republican Congresswoman who mocked a child for supporting electric cars is losing her seat by 362 votes, ahead of a recount.",
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.utilitydive.com/news/most-states-fail-community-power-test-advocacy-group-says/874915/",
-   "title": "Most states fail ‘community power’ test, advocacy group says",
-   "source": "Utility Dive",
-   "desk": "news",
-   "published": "2026-11-17T16:43:41+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "The Institute for Local Self-Reliance issued letter grades based on the presence or absence of policies it sees as supportive of virtual power plants and local control over energy systems.",
-   "ftries": 3,
-   "lede": "The Institute for Local Self-Reliance issued letter grades based on the presence or absence of policies it sees as supportive of virtual power plants and local control over energy systems.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oVFBTSVRYeXRJMnh1MV9YYVg4VDNxeVVTTlB6Nkc4OU5JcGh4TWxnMmcyNXRhM1didVRLVXlGZ3NEbkw5SmxCYkw5dkpjTmZzcFgyWUs5RHhhVkEzOFBDclREZUtVMnhVN0VyR0RRYnlTQQ?oc=5",
-   "title": "Transcript: Whac-a-Mole",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-17T16:37:46+00:00",
-   "seen": "2026-11-22T15:19:53+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
-   "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T16:35:25+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "cats": [
-    "News",
-    "Drew Baglino",
-    "Heron Power",
-    "Tesla",
-    "Tesla Energy",
-    "Tesla Megapack"
-   ],
-   "description": "Tesla unveiled Powercore, a 7.4 MW solid-state transformer launching in 2027, putting it head-to-head with ex-Tesla exec Drew Baglino's Heron Link.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Powercore.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Tesla unveiled Powercore, a 7.4 MW solid-state transformer launching in 2027, putting it head-to-head with ex-Tesla exec Drew Baglino's Heron Link.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlZNUWM5SXhOeXkzTnYzQ2tXVmRhYnVqTEJFdXFhbjRKUHpqaVdxUU9heUdzdFFsemRJVmllcFNmZWkyRUZwTkJtWFpPS3I2ajdGNFZRNUhGYmxVSnliLTFOMzEzOE44U3JUZHNzSVU5M09xb1I0MGllSTFzY19EZi1mQlh1RDRubmJ2S25wVFMwWHd1b0hxRlYzV09JeUpQbmlHUUtyTVZDQUgwZmFN?oc=5",
-   "title": "Private Equity Pours Money Into Power Storage: ESG Investing",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-17T16:35:07+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/gm-easier-ev-drivers-charge-electrify-america/",
-   "title": "GM just made it way easier for EV drivers to charge at Electrify America stations",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T16:27:53+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Chevrolet, Cadillac, and GMC EV drivers enrolled in GM’s Energy Pass can now simply plug in to an Electrify America...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/GM-EV-Charging-Electrify-America.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Chevrolet, Cadillac, and GMC EV drivers enrolled in GM’s Energy Pass can now simply plug in to an Electrify America...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODNEMkVzTlg0VUR2S0hmSTRXOXZVV0pZRy0yTk9xMkZkVzN2a1dBdEV6SGlYeVhSWHQ3V1VNZW9RNXJkWmViaXBmY0pUSlpMLXc1M2xrLVh0QVdPdkJ3Zno0RUs4THVkek90WHdsclBPS2FTckVBYUo5RE9oYk1iSDcxVnNZb0l4ZUtBWlV0Sk9JNG5ITm1DbFJlUGRzMVZkekdtdnZEVTd1dXBRRFYw?oc=5",
-   "title": "Can COP31's proposed 'age of electricity' slow global warming?",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-17T16:16:09+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtM010OWZTZUV4cENmLVZtclFLWWhwODRBd0QwMkR1UGNtejZEWEYwamFEeGNSb3B4eTBEajM3UUFJYll4TmVHSWEwOVRGWThWSGlLLVc4VU1jRXlQWkxqQnphSEs5NmljOXc?oc=5",
-   "title": "Introducing Load Bearing with Allison Clements",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-17T15:58:11+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlF0VGEwNkwyNXpITHVnR1pROEVQdnMtNXZoU2JyczE2TzE3QkI1MGVfcEJ5R2tKWnc5b0RpSTJEbnVXM3NfUEM5d3RaTkNwOVA4WnZIOXQzWkNUanJ1VXU4aWZnSDlSS3pGSlBrUU9PVEIzYlFNQlFpWkdabFhaUDVTWkw5b1o4ZWlRaDNYLUNES2hIZXJCVWJRNnR1Z09pTjNrQlp3NldiSkQ2?oc=5",
-   "title": "Disney tops earnings estimates on theme park, NFL strength; to boost content spend",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-17T15:48:32+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS0UyLVpaaDN6VWhzREJKV1dQLTJEcnRaZ2stNFVianJxVXpjVWZFckRLS0d3dHR1aEUzbGxmdmlrSm95U2p2UnlONkFSTl9lMFpBNVB5dHp1dWlqRmFvdTdyZk5Iam9weDVSY1FWcWhrQVY1RWZUNmVHZndIOTZVQkQwWEdqdTAwUEozdG9Yajgxelp3Z01Eam9pN1p5Vl9aZERHcHYwSU5UNjNtUEhiWC02d1c0dw?oc=5",
-   "title": "Vestas boss calls for tougher EU rules on Chinese software in wind sector",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-17T15:48:09+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china",
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
-   "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
-   "source": "Utility Dive",
-   "desk": "news",
-   "published": "2026-11-17T15:44:48+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv’s Brian Fellon.",
-   "ftries": 3,
-   "lede": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv’s Brian Fellon.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.utilitydive.com/news/nyserda-bulk-energy-storage-solicitation/874888/",
-   "title": "New York eyes 2030 storage goal with second bulk procurement",
-   "source": "Utility Dive",
-   "desk": "news",
-   "published": "2026-11-17T15:32:15+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "The solicitation seeks up to 1 GW of energy storage, with a preference for longer-duration resources able to alleviate grid congestion and displace peaker-plant emissions in downstate New York.",
-   "ftries": 3,
-   "lede": "The solicitation seeks up to 1 GW of energy storage, with a preference for longer-duration resources able to alleviate grid congestion and displace peaker-plant emissions in downstate New York.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOcWVxSWFwdndudXAtWGRSenJJdWQ4QmRwTU03MTAxWUpTRVlCdnhJb0RhMTE4SHh0bk91QTI3QktaQXV2OEU5UVRtUzZkNFk1c2VQZVpzOEotN2o2VnBabWpSenVwaXhuZ2FtVDNpWmwza0VOaE9BX1F5YkJpY2kxZ3E4blJNZnJSb283bTdXM1lyZWtPeEJOU05rV09rUlBlN1d3MVZEMDRFV05Hc094ZklzbV9ORU10WFA5bGkzUEZ0eE9WMWlISzBOR0llekZEYmE4LTdmRi1lZ0FEbVA0ZjhUdFQ4MjZITlJxa3BQdXpZaDJfTWMzcXhyb2cxcHJhR0FIQWV6Q0NqTU9QejExblVEdkpZYW1EWUF1S0NkX0pJQVNHcVBVd1lSb3NtREFtSFptN1VEaF83RGFPOHFvV0N6OUozTzNMVjItVGpiVnViY1VoT0QwaFRlVGkyc1drd2kxajNyLVBBOTBEQVZtSnI4bTUtRlNnYV85NDZHaVZpWVJkZVQwNmhpZzk0NkxEZDF1UU1yYThJdk81NFEyNmNqVVV1ZEJYVURMRjBHUXpzTVJUMEMzWWtRX0hteWdmdVc4ZWc5UlNTZzRDY2lTcE9hZThtdk96?oc=5",
-   "title": "Search",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-17T15:29:46+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.energy-storage.news/us-solars-new-makers-batteries-for-data-centres-and-electrostates-vs-petrostates-pv-tech-power-46-out-now/",
-   "title": "US solar’s new makers, batteries for data centres and electrostates vs petrostates: PV Tech Power 46 out now!",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-17T15:20:37+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "aidc",
-    "bankability",
-    "downstream",
-    "energy transition",
-    "manufacturing",
-    "optimisation",
-    "publications"
-   ],
-   "description": "The latest edition of PV Tech Power is available to download, full of exclusive content for the downstream solar PV and BESS industries.",
-   "ftries": 3,
-   "lede": "The latest edition of PV Tech Power is available to download, full of exclusive content for the downstream solar PV and BESS industries.",
-   "tags": [
-    "industry",
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/volkswagen-cooking-up-spicy-new-electric-hot-hatch/",
-   "title": "Volkswagen is cooking up a ‘spicy’ new electric hot hatch",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T15:01:34+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Volkswagen will reveal the new GTI hot hatch on Friday, promising it will be “something really spicy.” Volkswagen is launching...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-spicy-electric-hot-hatch-image.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Volkswagen will reveal the new GTI hot hatch on Friday, promising it will be “something really spicy.” Volkswagen is launching..."
-  },
-  {
-   "url": "https://www.energy-storage.news/be-hands-on-dont-micromanage-optimiser-owner-operators/",
-   "title": "‘Be hands-on, but don’t micromanage your optimiser,’ BESS owner-operators say",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-17T14:40:19+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "cats": [
-    "Analysis",
-    "Features",
-    "adaptogen capital",
-    "batterymanagement",
-    "batterymanagementuk",
-    "optimisation",
-    "tagenergy",
-    "trading"
-   ],
-   "description": "There is limited benefit to questioning every decision made, but operators should be hands on with their optimiser, industry sources said at the Battery Asset Management Summit UK & Ireland 2026 last month.",
-   "ftries": 2,
-   "lede": "There is limited benefit to questioning every decision made, but operators should be hands on with their optimiser, industry sources said at the Battery Asset Management Summit UK & Ireland 2026 last month.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.utilitydive.com/news/pjm-rto-large-load-interconnection-ferc-show-cause/874872/",
-   "title": "Grid operators file closely watched large load interconnection reforms at FERC",
-   "source": "Utility Dive",
-   "desk": "news",
-   "published": "2026-11-17T14:28:30+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "The PJM Interconnection proposed revamping its interconnection process by studying large load and generation interconnection requests in a single, one-year review. Others focused on load flexibility, bring-your-own-capacity rules and cost transparency.",
-   "ftries": 3,
-   "lede": "The PJM Interconnection proposed revamping its interconnection process by studying large load and generation interconnection requests in a single, one-year review.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oZXRxaWdGUElYa2kzbzlnZWZNZmZuSFB2WFpqU3FKVXdxYXhqY0VOLV9yNUY3Y3VBcHhCa1N3LVFCLVlTeTFJQXNjUnRDamhQektUTE00eXR2TGFqYkctLUthUGo2cHVSN2xTSjVGOHpicjhuLXNQRFNGU3g?oc=5",
-   "title": "with Facebook",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-17T14:25:21+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/",
-   "title": "Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-17T14:19:41+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "cats": [
-    "News",
-    "ev charging",
-    "Tesla",
-    "Tesla Cybercab",
-    "Tesla Robotaxi",
-    "wireless charging"
-   ],
-   "description": "Tesla's $29,990 Cybercab has no onboard charger, so owners can't plug in at home. Tesla needs its wireless pad or a home DC charger before deliveries.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-wireless-charging-rate.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Tesla's $29,990 Cybercab has no onboard charger, so owners can't plug in at home. Tesla needs its wireless pad or a home DC charger before deliveries.",
-   "tags": [
-    "transport"
-   ]
   }
  ],
  "dropped": []
