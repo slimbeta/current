@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:01:56+00:00",
+ "updated": "2026-11-27T02:12:27+00:00",
  "briefing": {
   "headline": "AI’s power demand, solar and the grid",
   "period": "Nov 20–26",
@@ -45,6 +45,41 @@
  },
  "articles": [
   {
+   "url": "https://www.pv-magazine.com/2026/11/26/ireland-could-allow-plug-in-solar-by-mid-2027/",
+   "title": "Ireland could allow plug-in solar by mid-2027",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T21:30:00+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Modules",
+    "Plug in solar"
+   ],
+   "description": "Plug-in solar systems could be allowed in Ireland from June or July 2027 according to a proposal by a government-commissioned working group asked to look into safety, regulatory, and product standards for 800 W (AC) plug-in solar systems. This would mean Ireland follows other markets like the UK and Germany which also have similar frameworks.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-174315.png",
+   "paragraphs": [
+    "Ireland is making progress on plans to introduce plug-in solar to the market, and householders could start having legal access to these systems by the summer of 2027, provided that safety, product and regulatory reviews needed for implementation go to plan.",
+    "The Irish distribution operator, ESB Networks, has given its support to “the safe and proportionate deployment of compliant plug-in solar systems” as long as network visibility is maintained via a customer registration process.",
+    "This comes from the pages of a report by a working group set up to identify and assess the technical, standards, safety, regulatory and implementation considerations associated with facilitating plug-in solar technologies of up to 800 W (AC).",
+    "The report’s publication was welcomed by Minister for Energy, Climate and the Environment Darragh O’Brien, who commissioned it. Its authors include representatives from the utilities regulator, the national standards authority, ESB Networks and O’Brien’s own department.",
+    "The group recommends that plug-and-play solar systems should be supported by an Ireland-specific safety assessment and the establishment of appropriate product requirements, customer guidance, registration requirements and supporting safeguards.",
+    "It warned that product compliance and network compliance are two separate but complementary requirements. Its report considered several different installation approaches, but ultimately plug-and-play emerged as the preferred choice, with the authors noting its similarity to the UK and other European markets.",
+    "As well as plug-in solar, the group considered plug-in batteries. But it concluded that the international safety, regulatory and product standards around these are less developed than those for plug-in solar. The group recommended that the initial rollout program focus mainly on plug-in solar.",
+    "Remuneration for the export of electricity from plug-in solar systems is being developed alongside the rest of the rollout plan. O’Brien said the government is committed to enabling plug-in solar in a way that protects consumers and supports a safe, efficient and reliable electricity system.",
+    "“Plug-in solar has the potential to offer real benefits for Irish households, particularly those unable to install traditional rooftop solar. By lowering barriers to participation, this technology can help more people reduce their electricity bills and play an active role in Ireland’s energy transition,” he said.",
+    "The working group’s rollout plan shows plug-in solar could be ready for the market by mid-2027."
+   ],
+   "lede": "Plug-in solar systems could be allowed in Ireland from June or July 2027 according to a proposal by a government-commissioned working group asked to look into safety, regulatory, and product standards for 800 W (AC)…",
+   "tags": [
+    "policy",
+    "power",
+    "transport"
+   ]
+  },
+  {
    "url": "https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/",
    "title": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more",
    "source": "Electrek",
@@ -80,6 +115,20 @@
    "lede": "Tesla deployed 29 mobile Supercharger stalls in California and Arizona for Thanksgiving, after opening 1,027 new US stalls in just 56 days.",
    "tags": [
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTTJEY0Z4a0lZRlEyVVhxSVhIeElySkdGYlEwWTUyRkpBaTRILTRGN2JxdGdGR1pmOVUwRWVVTXBIRmx5SXR6ekxGQlFzR3BkeElFaTBBcUNWLWRMUVZ5S2NHUDNtdWRrZFp2aDQ1b1hVcUZXOWw1cHV2SlF0aEg1dmFFNF9LSFpNbmozODJmUE1sci1wMkk3S0Rrc3VhZTRDQ0JpYjZDRk12WXFYMlVoVGxJbmhybzhFMW1ycDF3cVFzSlhWZW4ydnV1X005eTQ?oc=5",
+   "title": "As COP31 stalls, countries and companies rally around electrification",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-26T16:29:33+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
    ]
   },
   {
@@ -143,7 +192,7 @@
     "zelestra"
    ],
    "description": "IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few days after the country’s second MACSE auction concluded.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few days after the country’s second MACSE auction concluded.",
    "tags": [
     "policy",
@@ -183,7 +232,7 @@
     "ESAwards"
    ],
    "description": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
    "tags": [
     "power"
@@ -327,7 +376,7 @@
     "energy vault"
    ],
    "description": "NYSE-listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
    "tags": [
     "power"
@@ -502,9 +551,41 @@
     "supply deal"
    ],
    "description": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
    "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/26/switzerland-raises-incentives-for-solar-below-100-kw/",
+   "title": "Switzerland raises incentives for solar below 100 kW",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-26T10:55:00+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Markets & Policy",
+    "Commercial & industrial",
+    "Residential"
+   ],
+   "description": "Switzerland has increased one-time payments for PV systems below 100 kW by CHF 40 ($47.99)/kW and raised the rate for installations below 150 kW that do not consume their own electricity.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Installation_Photovoltaik-Anlagen_Schweiz_cSwissolar-e1687524232702.jpg",
+   "paragraphs": [
+    "Switzerland has increased its incentives for solar installations. The Federal Council has amended the Energy Promotion Ordinance (EnFV), raising one-time payments for PV systems in the below-30 kW and 30 kW to below-100 kW categories by CHF 40/kW. The power-based contribution is capped at 30% of the investment costs of reference systems. Building-integrated PV systems qualify for an additional payment of about 10%.",
+    "The Federal Council has also increased the rate for the high one-time payment (HEIV) for systems below 150 kW that do not consume their own electricity. The rate is now CHF 550/kW, with the power-based contribution capped at 60% of the investment costs of reference systems. Building-integrated systems do not qualify for an additional payment under this scheme. Industry association Swissolar says the increase will provide further incentives for solar deployment on apartment buildings, commercial properties and agricultural buildings, which have so far been underutilized.",
+    "Swissolar welcomed some aspects of the Federal Council’s decisions but criticized the omission of other measures it considers important for the solar industry. These include substantially simplifying price regulation for collective self-consumption schemes (ZEV) while maintaining tenant protections, fully using the statutory scope for reductions in grid charges for local electricity communities (LEG), and requiring default electricity suppliers to offer dynamic energy and grid tariffs as optional rates.",
+    "Swissolar also said that metering charges still lack upper limits and vary considerably between network operators. The association criticized the Federal Council for not increasing the cap on support for strengthening grid connection lines from CHF 50/kW to CHF 100/kW. It considers the current amount insufficient, particularly for agricultural installations.",
+    "The Federal Council has also revised several other energy-related ordinances. Amendments to the Energy Ordinance (EnV) establish the required financial security for electricity storage projects under the Electricity Supply Act when the corresponding compensatory measure cannot be ordered at the same time as the construction project. The security must amount to at least 1.5 times the estimated cost of the compensatory measures.",
+    "The government has also abolished individually calculated fees for establishing collective self-consumption schemes (ZEV) and local electricity communities (LEG). The change standardizes the rules across Switzerland and is intended to simplify implementation of these models, which are important for solar deployment.",
+    "Through revisions to the Ordinance on the Planning Approval Procedure for Electrical Installations (VPeA), the Federal Council is also implementing a previously approved amendment to the Electricity Act (EleG). The planning process for transmission lines (SÜL) will be simplified. The Federal Council will no longer designate a planning area, but will instead directly determine the planning corridor and transmission technology, either overhead lines or underground cables. The changes are intended to simplify procedures and accelerate grid expansion."
+   ],
+   "lede": "Switzerland has increased one-time payments for PV systems below 100 kW by CHF 40 ($47.99)/kW and raised the rate for installations below 150 kW that do not consume their own electricity.",
+   "tags": [
+    "policy",
     "power"
    ]
   },
@@ -587,10 +668,24 @@
     "energystorageaus"
    ],
    "description": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3VwN1hCZ1RiSmNGdDBhY01SdDdVYnVQRkVFMS1TbUgxb2s4c2E1QjZWZmY1T2NxMEd0ekpqdFRUWHNRMTJWVHNrLUZmSjFVMm5DRlE0aHB4WXV5OVZxYmRJQ1VQRThRQkF4U0RqX19ZdzFJUVY4NjhBYWpOVnBxMi1GRDFNOFdXUmNGbkxsSnFna3paeVB4LTRkdDgtSWNxdENJck9NdWtXbjdTX2VxNE1KcXVhdw?oc=5",
+   "title": "Italy asks Germany to intervene over Henkel factory closure",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-26T09:05:43+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
    ]
   },
   {
@@ -656,6 +751,20 @@
    "lede": "The two agrivoltaic facilities will accommodate pheasant and partridge farming in France’s Loiret department. Both projects are expected to become operational in the summer of 2027.",
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM3lPSk9rZ0lOYUdCZVdBdUFob2dKYlJOUFJlaXluSFBuMGlyR3RVVXNOTldPUmhpbDQ5R2hhNlc3cFBDX2xDWGJuTjNTeExMVjMxTGJETXdEdVMzS1AzVWlyNnNUNF93RVU5bnhPdEE5Rzg5TFJ5bzN3bkVMVkc4Vkp6bU0tTnlrZ0ZZRXJKTkNoNE53VXZzeThOZ1l0d0VPamFna3RKUmFPc3c?oc=5",
+   "title": "A rights-based energy transition: Impacts, opportunities and challenges",
+   "source": "IRENA",
+   "desk": "analysis",
+   "published": "2026-11-26T07:36:14+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
    ]
   },
   {
@@ -1456,6 +1565,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTRMbWY1UXFycTFRMXBld3JTVWQ3Qm9taksya2U5d3UyaEVkSWNtME92TzFfRmp3bWM3WUlhMGhXRFBSVzNiNTFjaFNYVEtRNXlIdnhsYmI0djhfQXc4VERTNVEybk50NzZsbUFaMXZYU1JkZzhQSmhwQmJJeDJQY2pJNjd4VUVTbHU3ZXVBUDZNRDB5MTd4LWtNbDlCZFh2Vnlub2xTN195djVKRVdLcFVPcjVLUXpm?oc=5",
+   "title": "US core capital goods orders beat expectations in October",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-25T14:04:09+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.latitudemedia.com/news/hyperscaler-emissions-are-soaring-do-they-need-better-climate-goals/",
    "title": "Hyperscaler emissions are soaring. Do they need better climate goals?",
    "source": "Latitude Media",
@@ -2123,6 +2243,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXlMNC1CVG5odWZIVDg2X0VES2pxMExPZ240QW52RXVhWFE0ZGN4X2dKcG5Mb3ZaZHc0OUVadWR6Ty1uYWF4b0lpWUFBTEpKWUVPWnRSanRRSkdENkJyNWtqZVkzUTBwTTFfdUU1N01TNVdvN3FPb2t4Y1gtNmk1akVBWElfamx2R1dxV3dmZVhvSU5nb1NlN2x4RlRxUGFNYjZMdkFYQzZ2am5oRjl1ME5yNA?oc=5",
+   "title": "Spain’s Far Right Party Poised for Breakthrough in Key Election",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-25T07:15:00+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWgzY19ReUlrbmFMSlpjbTlLNnk0MjBoY3JxdXZjekY4QXdGY1FwTHhBT3VWd0ZueVlGMFZqZTNhVEtGWGJKSUM2aURVTm9FZVZVUnoxRlF5MmV3RzBlLURQTmgxSnA2X0hZMjJTdk9ST0VfRWJQZVI0RVVNemlQZmNOZ2gzaFR2Tm8xdWpFMkVqWldwT2xVQzFsSTJfbjlBYm5yOEJGS1ZvSkdhQUU4WUdDV0VwQQ?oc=5",
    "title": "Xiaomi Hints at UK Plans as EV Newcomer Readies For Europe Entry",
    "source": "Bloomberg",
@@ -2374,6 +2505,17 @@
     "policy",
     "transport"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkQwaktwRGJsZEEzdGtVT1VtQWswZUY0bWhPX1U2U202enU1M21lclpiSDMzb0FvQ1l4b2FnSVBBT3ZtdjRsSTVLbDM3Nzh4cGxzNUtmQTlCSHNLMEM5dk5CSm91NS16TFRQV0JZSzVET2R2cW1JY0RMM19OTDRiYm1GYU5WUHpwQy01cFh2T2I1dW5KVUx3b2FxcHd0MklYdnB4cGREYVRZWVpITXdDZlpmdDhrYWk5R3UxeDBqTnQ3dkRCcENENA?oc=5",
+   "title": "Mexico reports 12 active measles cases, 90% of population vaccinated",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-24T17:47:03+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/",
@@ -2795,6 +2937,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTVOVzBpcTh3VWNhSkU1cDRNMkU2al9XM2d2MS1kNF93V3M0N2p6TER0ZUg0a2sxc3hldko3alEyVklSY2p0T2dSZVNYYmFFU05jbERKdnJWVGFhUDVESzNud3dwRDRPZHR5bkxfdmJoRXR0ampWTUZSQnp0bXRFSGkxa2xIaDF4WGtseVluVTZNdWRkZWY3QUNsQWtld2hWYmJvdFFMT2NQSFhmRWw0S0ZybFRLbjVtUF9raklOTVJ5Z2lMOVNzdg?oc=5",
+   "title": "Share of global population with access to electricity and COP-aligned pathway, 2030",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-24T13:37:15+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGR4WnNuNlo3MU9Tb0VzV1laQ2t4MTNubWYtZHB2amE5eTB2bEFNQnlCbkhDeFItZmowWWxEN0hIQlBmY3ZBWnl6OFJpUXZuMklPbEU0RHNnalZIbHpTODFvU3RRUDdYR01OVlo4eEhxbW9SQkNaMlRIMWZpd21mUldJSWJ5OUpTOUx0R0puNzdNT0ltRFQxSUNfZ1E5OW9tZ000VTNmZ0txdw?oc=5",
    "title": "Equinor CEO Says Carbon Capture Deals Impeded by Cost, Shortage",
    "source": "Bloomberg",
@@ -3051,6 +3204,17 @@
     "china",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUk5RWtPeThxNTd4UjRsQ21MRXhUTWRLTV84NUl4SnFXbVBDWE10aml5cjBYV0p3ZVVpSFlFdjB6akZrVXZNUmYycFk0YVN5cElLWTFOVXgtUFd0OVNPTlk0Nm9MSUFsbHNTN0x6LV9DcUNzcUhZMHFsdThVOE1HSjBncWw4VW1VcFNoTlVaSjZEY2V2RzkxVkF1ZWZKd0tkOHNhRXpFSmVkekFORGQ2dTlaNUFYNE12S3lZTDJTWQ?oc=5",
+   "title": "Spain’s Angry Generation Feels Left Behind in a Booming Economy",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-24T11:30:03+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.pv-magazine.com/2026/11/24/cyprus-plans-to-deploy-over-300-mw-of-battery-storage/",
@@ -5110,6 +5274,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb1lZVWE5R0ZWWm8zemV1M1lTemZUTXhoVzFINzVZeGN2LVpCLWcxbWJ1YkNwMDVtQy1QcTdFRVp1RDA2SHhNc1FLZ0F0N0JuREl3ZnNya3Ric2VkMkVxU0c5YWxaZGI3ZE1zR2lWWEVpUDJHdmdyN1NfWWxFWnVuQXBNX0tKelF5NHJqU3V4WWhCUEYyVlVjQVhXMzFSaGtkM2RyRWQ1cjJrOW5ucHlZZ2NFem9OTkRUZUhST2VRcG1hMy1ETFBnb2VFeWtZcVgw?oc=5",
+   "title": "Thailand plans to block exports of chemicals used in Myanmar rare earth mining",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-22T13:43:43+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
+   ]
+  },
+  {
    "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/",
    "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
    "source": "Electrek",
@@ -6441,6 +6619,17 @@
    "tags": [
     "policy"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlJYaFZRblZyWm10Y1p1N3Z6b0laTDRyM3J3YlV3OE5GeVdDQXZlUE52cEFsenFJMGxfSkRqOV9HODNyWE13d3NBZTkyMGVjVHhkR01aWWl0d2FweGNmbkJJbnFwR0tQbEl4Y01RLUFLTm43enIxaklMSXRaZkxlckFReUJIVFNIbnllcUhuOU1vM2w5aTNzRXlZQkpobW5uS2thcHNzQkoxT3RWS3pZRUJrbGlJNE1HTzcyeXpQSTZpTmVsN2pfSjNKMXJINTNNbkE?oc=5",
+   "title": "EXCLUSIVE: Italy seeks security safeguards in Finnish bid for rocket maker Avio, sources say",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-20T14:56:49+00:00",
+   "seen": "2026-11-27T02:12:27+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.pv-magazine.com/2026/11/20/china-grid-connects-worlds-first-artificial-cavern-caes-plant/",
@@ -10262,198 +10451,6 @@
    "tags": [
     "transport"
    ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEM0SnVsRlVBM1NPV0ljYk1RMVdBcjJHYWNKMGZaZEJTaDJ3U3pmdnRQVkFIVjUtSm5kenBUQUJkNkdwSVVEaWJWN3docUJ1Q2VVa3NQRm1Gd0xsVjdpdmE1T0lDX3htTTVkb0ctMnpfaFhZb2dlWHJHWFk5c2dsSm9VdHNiamwxWTZmN1A2UEZTSWc0SGJxZWdsS2hIN0ZyVzdTYmdISHRFMk52dEoxU0djcFR2anRhQnRiNnJQZzlNRmdRdng1U2NyS3JvTVY1NVkxN3Q5Y1V6UFVFLXBxaE1zSWN3aDQ?oc=5",
-   "title": "Can Europe scale flagship carbon capture projects into viable solution for cleaning up industry?",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T12:10:00+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "industry"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/using-every-ounce-of-value-from-the-assets-lg-energy-solution-vertech-cpo-talks-data-centres-bess-and-software-integration-at-re-2026/",
-   "title": "‘Using every ounce of value from the assets’: LG Energy Solution Vertech CPO talks data centres, BESS and software integration at RE+ 2026",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-18T12:06:14+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "Interviews",
-    "battery",
-    "bess",
-    "energy storage",
-    "ev batteries",
-    "feoc",
-    "lg es",
-    "lg es vertech"
-   ],
-   "description": "Energy-Storage.news speaks with LG Energy Solution Vertech chief product officer Tristan Doherty at RE+ 2026.",
-   "ftries": 3,
-   "lede": "Energy-Storage.news speaks with LG Energy Solution Vertech chief product officer Tristan Doherty at RE+ 2026.",
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/esvolta-fluence-ercot-texas-bess-financing-linxon-epc-partnership/",
-   "title": "ERCOT: EsVolta finances 290MW, Fluence wins project via Linxon EPC partnership",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-18T11:58:27+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "battery storage",
-    "bess",
-    "charge power",
-    "epc",
-    "esvolta",
-    "fluence",
-    "linxon"
-   ],
-   "description": "EsVolta has completed over US$180 million in financing for BESS projects in Texas, while Fluence has won a 200MWh project there.",
-   "ftries": 3,
-   "lede": "EsVolta has completed over US$180 million in financing for BESS projects in Texas, while Fluence has won a 200MWh project there.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/ess-inc-files-for-chapter-7-bankruptcy-stem-inc-flags-going-concern-doubts-amidst-athena-optimisation-platform-sale/",
-   "title": "ESS Inc files for Chapter 7 bankruptcy; Stem Inc flags ‘going concern’ doubts amidst Athena optimisation platform sale",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-18T11:50:23+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "bankruptcy",
-    "chapter 7",
-    "ess inc",
-    "iron flow battery",
-    "ldes",
-    "stem inc",
-    "system integrator"
-   ],
-   "description": "US-headquartered energy storage technology firm ESS Inc has ceased operations and filed for Chapter 7 bankruptcy, while system integrator Stem Inc doubts its near-term ‘ability to continue as a going concern’ and just sold its core software platform Athena.",
-   "ftries": 3,
-   "lede": "US-headquartered energy storage technology firm ESS Inc has ceased operations and filed for Chapter 7 bankruptcy, while system integrator Stem Inc doubts its near-term ‘ability to continue as a going concern’ and just…",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0FXVGQ0UkVNVlg4a2VVTlg1dGVRVHEtNmczVlZvbmNwUGFvcWF1MjZKZXd0bGozaEhVaGZJSFczRXR6VVZpdmJsVlFhZC1YSzA2M1NxZUN1d3Z3RXRRUFdTX1FHMVJyVm8wQk5pN3I5Nmt1bmQ4a3FCdk02NlhodFNJRHhDbzkxY1BWek1BbHRwalpzV213N0N6TndhMXdvUUd0OEg5eEc0S0JjTm54OHpYUHR4Wks1LTVhdWFObm1JSlh2dEJOVU5DYWdKZw?oc=5",
-   "title": "France's Engie chief rejects nationalisation call by presidential hopeful Melenchon",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T11:16:14+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlExaFNuSk5sZFRMTEJRTzIxanN4bjAxOHNZY0hROHE5V2lzUm0taTdkUGNNOHFmQW9WQUhsY3MzbHpwUi1vQ0pDTVEwZVBmR1VCYzhodEpKOEZRaG01OUhQUHA3cmVySDdEQ2d0TXRwNEFXUnhOVWVDMTRtRUt1QmJMT29HZ2YycDg5YkNrdmY4aUxYc2pEU0VJTGpDcWZ0Q3BvX1BSNGQ3MU5YTmZnZ05VbC1lOGJLV2Qw?oc=5",
-   "title": "What to know about the energy permitting overhaul bill before US Congress",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T11:13:10+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/sungrow-utility-scale-success-residential-ci-segments/",
-   "title": "Sungrow aims to replicate utility-scale success in residential and C&I segments",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-18T11:08:17+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "Analysis",
-    "Features",
-    "china",
-    "commercial & industrial",
-    "home batteries",
-    "inverters",
-    "residential",
-    "sungrow"
-   ],
-   "description": "Earlier this month in Hefei, China, Sungrow held its inaugural Global Energy Pioneer Summit, bringing together installers and distributors from around the globe.",
-   "ftries": 3,
-   "lede": "Earlier this month in Hefei, China, Sungrow held its inaugural Global Energy Pioneer Summit, bringing together installers and distributors from around the globe.",
-   "tags": [
-    "china",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTdIQnRVNGFVaUNhZTZBX19qZ1VPTGVETnJmOWt6cFZvUE41MmdTekdKclhKeHA4Q2FrYi14MnpoZE95bXc3ZnU3WkJ0RjZBWjN2TmJFMFc0YUx6WTFRdVVmM1BDNDdIcUZiSGJqa254OWZZdmExZ1Q4ZUljZjZtcU41OURDM094TmZKNDFWOGVUTm9LanlxaGtKU0hUb2JIRXUyQkFJWnM3dTRyeG8tZnlCTWFaRUxtUmFEQg?oc=5",
-   "title": "Low-Profile India Is Still a Behind-the-Scenes Force at Climate Talks",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-18T10:57:36+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEOXZsaHdMdE0tTjR2T0g4Zm9xNE5hbHJmSHAtRFBnSlh1MDhFbXVlWk8yYUNFTjFDa2xrc0wyVkdiRnVjOHZuR1o5b0NLWkU?oc=5",
-   "title": "- Ember Energy",
-   "source": "Ember",
-   "desk": "analysis",
-   "published": "2026-11-18T10:51:22+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0NIRTVmUDNhSTRaUFJtS1lzdWNlRGt4QVpJRVQ0aWZpcmNtaGFDSWdwNW1SWS02RTlMZUU2Sl9TWHBpWDRjS3FfMWJjeURoNUFKWWN6NkFXUVBjSktETTIzU09SWjZTd051Q293NEo5VzRKRG0xem5vdXhDU2FiODltd1FySHhvV1Q5emxvUUZWQWkxOWZQcl9EcE1LX2ppZE91OG5ZRElDVGduX0NOdHRVcVdXdw?oc=5",
-   "title": "India’s Richest State Aims Clean Power to Meet Half its 2030 Use",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-18T10:47:30+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZElsVDJXZEEtTmRRNDZYN1hiZUt0SndSYXpKSlNLWlhZWjFOT1l3N2hLMU4ydWh4U2lsbjBSazB0ak9pcV9fUVZVS3dkaVVEUUxUM0o0bHNGSmFGbXJLZExkczk0WWMtMjF1Ti1mWFFJaWF0dWk1UmtBVVZqdHdoMDRUNnBhRmJsX3hMYTdqa1RuMl9mVEo1ZTZUWFNKX2hPandoa255bW1OUQ?oc=5",
-   "title": "NASA Voyager 1 probe believed to have reached 'light-day' milestone",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T10:21:49+00:00",
-   "seen": "2026-11-21T23:19:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXNhQUdiZjZ4TzA5WGVhWVVkTGFEb19wUFd0OXA3ZEVzTlBCdUFGSzhsWExNemZ3eFJ2YmtBMlVNUnBIMkNjZlMwcmlaQlgzV21qSkw0T1NGdGNTQ3RTQTcwVkFKUzg1Qko2WnlwWXBIQW9CVzU4OTNXVDVWbUhWTEZpVEs?oc=5",
-   "title": "Space could be the first frontier for European defence mergers",
-   "source": "Financial Times",
-   "desk": "news",
-   "published": "2026-11-18T10:00:07+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
   }
  ],
  "dropped": []
