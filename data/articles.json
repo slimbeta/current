@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-27T02:12:27+00:00",
+ "updated": "2026-11-27T10:54:12+00:00",
  "briefing": {
-  "headline": "AI’s power demand, solar and the grid",
-  "period": "Nov 20–26",
-  "made": "2026-11-26T19:01:56+00:00",
+  "headline": "The grid, AI’s power demand and solar",
+  "period": "Nov 21–27",
+  "made": "2026-11-27T10:54:12+00:00",
   "bullets": [
+   {
+    "text": "Coal is still China’s top source of electricity by a long shot, but solar is climbing the ranks and is poised to leapfrog hydropower this year.",
+    "source": "Canary Media",
+    "url": "https://www.canarymedia.com/articles/solar/solar-no-2-china-grid",
+    "theme": "the grid"
+   },
    {
     "text": "Google plans to spend $10.8 million on advanced transmission technology, and hopes other tech giants will adopt its model.",
     "source": "Latitude Media",
@@ -12,16 +18,10 @@
     "theme": "AI’s power demand"
    },
    {
-    "text": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project.",
+    "text": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run.",
     "source": "pv magazine",
-    "url": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
+    "url": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted/",
     "theme": "solar"
-   },
-   {
-    "text": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
-    "source": "Utility Dive",
-    "url": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766/",
-    "theme": "the grid"
    },
    {
     "text": "listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
@@ -36,14 +36,526 @@
     "theme": "power prices"
    },
    {
-    "text": "The approval is drawing fresh criticism of Ohio’s permitting process, which has seen renewable energy projects denied or blocked due to local objections.",
-    "source": "Canary Media",
-    "url": "https://www.canarymedia.com/articles/data-centers/ohio-oks-gas-plant-for-data-centers",
-    "theme": "permitting"
+    "text": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
+    "source": "Utility Dive",
+    "url": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766/",
+    "theme": "EVs"
    }
   ]
  },
  "articles": [
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted/",
+   "title": "New record for UK rooftop solar, more growth predicted",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T10:45:36+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Commercial & industrial",
+    "Highlights",
+    "Residential",
+    "UK"
+   ],
+   "description": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/MCS-A-Solar-PV-Craig-Michael-Renewables-X-Stephen-Trotter-7-scaled-1-768x512-1.jpg",
+   "paragraphs": [
+    "UK solar installers broke the 2025 record for small-scale installations with six weeks of 2026 left to run, backed by growing demand from existing and new build properties.",
+    "Certification body MCS recorded 269,195 UK solar installations below 50 kWp capacity in 2025, the strongest calendar year on record. Monthly data shows 260,131 solar installations were recorded in the 10 months to the end of October 2026, with mid-November figures putting deployment ahead of the 2025 annual record.",
+    "MCS certification is not a legal requirement for small-scale installations in the United Kingdom, however it is typically required to gain access to utility export tariffs meaning the measure is a strong indicator of residential and small-scale commercial rooftop deployment.",
+    "Retrofit installations continue to lead in volume terms, while installations on new build properties accounted for 31% of the total installations in 2026. While this proportion was down on the 37% recorded for 2025, new build properties accounted for approximately 81,000 installations in both years to the end of October.",
+    "MCS described the new build market as a key driver of solar growth and noted that new building regulations for homes in England should support even greater deployment. The upcoming Future Homes Standard will mean almost all new homes in England will have solar panels by default from 2028, to comply with more stringent energy efficiency regulations.",
+    "By region, southern local authorities Cornwall and Somerset led the way on installation volumes, with North Yorkshire rounding off the top three.",
+    "MCS also reported record numbers of people investing in more than one technology for their home. The trend is borne out by small-scale battery deployment that is on course to more than double the annual record set in 2025, with an attachment rate of 82%. MCS recorded 73,115 certified battery storage installations to the end of October 2026, up from 41,460 certified installations in 2025.",
+    "Lisa Cooke, managing director of MCS described the 2026 installation figures as “incredible”.",
+    "“This shows just how quickly the small-scale renewables industry is growing and leading the UK’s transition to home-grown energy, as more people than ever invest in low-carbon technologies to power their homes,” he said.",
+    "Chris Hewett, chief executive of Solar Energy UK also noted that government finance support available through the Warm Homes Loan Scheme should support further deployment growth. The program sees the UK government work with private sector finance partners to de-risk finance for solar and battery storage at the point of sale, giving consumers access to lower interest rates."
+   ],
+   "lede": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for residential solar.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/strong-el-nino-coincides-with-uneven-october-solar-resource-across-south-america/",
+   "title": "Strong El Niño coincides with uneven October solar resource across South America",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T10:45:00+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Utility-scale"
+   ],
+   "description": "In a new weekly update for pv magazine, Solcast, a DNV company, reports that solar irradiance was above average across much of the northern part of South America last month, while areas in the south-east recorded substantial deficits.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Anomaly-GHI-South-America-October-2026-2-scaled-e1795775780145.png",
+   "paragraphs": [
+    "Irradiance was above average across most of South America north of 10°S in October 2026, while parts of the south-east recorded substantial deficits, according to analysis using the Solcast API. Global Horizontal Irradiance (GHI) was 4% above the 2007–25 average north of 10°S, but 14% below average in Paraguay, 10% below in Uruguay and 19% below in Argentina’s Pampas. Brazil’s largest distributed-solar states also recorded below average irradiance, while Chile saw below-average GHI in the centre and above-average conditions in the north and Patagonia.",
+    "El Niño typically brings drier conditions to the Amazon and northern South America and wetter conditions to the south-east. NOAA’s Oceanic Niño Index reached +2.46°C for August–October 2026, above the +2.02°C recorded in the same period in 2015 and close to the +2.59°C later peak of the 2015–16 event. October reflected this broad contrast. North of 10°S, rainfall was 11% below average and 84% of the area was sunnier than usual. GHI was 9% above average in Pernambuco, 5% above in Ceará and 4% above in Bahia.",
+    "Farther south, lower irradiance overlapped with Brazil’s largest distributed-solar markets. GHI was 19% below average in Paraná, 16% below in São Paulo, 7% below in Rio Grande do Sul and 5% below in Minas Gerais, Brazil’s four largest states for distributed solar capacity. Neighbouring countries showed a similar irradiance pattern. Paraguay was 12% wetter than average and GHI was 14% below average, while GHI was 10% below average in Uruguay and 19% below in the Argentine Pampas, despite rainfall there being below or near normal.",
+    "Wildfire smoke substantially reduced clear-sky irradiance around Manaus. Aerosol optical depth averaged 0.67, more than double the 2007–25 October average of 0.32, reducing clear-sky GHI by 7.5%. On October 18, the smokiest day, the reduction reached about onethird. However, drier conditions and reduced cloud cover largely offset the aerosol impact, leaving actual monthly GHI close to average in Manaus (+0.2%) and Porto Velho (+0.7%). Without the smoke, both cities would have experienced an unusually sunny October.",
+    "Elsewhere, drought did not necessarily bring sunnier skies. Santa Cruz, Bolivia, recorded GHI 21% below average despite drought conditions in the region. Central Chile was also cloudier, with GHI 11% below average. Santiago received 74 mm of rain in the first week of October alone, almost three times its average October total of about 26 mm. ERA5 data put rainfall for the whole month at about 174 mm, more than six times average, while GHI finished 28% below average. In contrast, GHI was 14% above average in northern Chile and 12% above in Chilean Patagonia, where weaker westerly winds and about half the usual rainfall meant fewer cloud-bearing fronts reached the Chilean side.",
+    "Solcast produces these figures by tracking clouds and aerosols at 1-2km resolution globally, using satellite data and proprietary AI/ML algorithms. This data is used to drive irradiance models, enabling Solcast to calculate irradiance at high resolution, with typical bias of less than 2%, and also cloud-tracking forecasts. This data is used by more than 350 companies managing over 350 GW of solar assets globally."
+   ],
+   "lede": "In a new weekly update for pv magazine, Solcast, a DNV company, reports that solar irradiance was above average across much of the northern part of South America last month, while areas in the south-east recorded…",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/germany-is-now-experiencing-what-other-european-markets-have-already-been-through/",
+   "title": "‘Germany is now experiencing what other European markets have already been through’",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T10:42:40+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Energy Storage",
+    "Germany",
+    "Utility-scale"
+   ],
+   "description": "Germany is undergoing a regulatory transformation that other European solar markets have already experienced, but the changes are happening too quickly, says Amós Guillén Duarte, managing director of FRV in Germany. He explains why solar project pipelines are losing value.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/frv_Amos-Guillen-Duarte.jpg",
+   "paragraphs": [
+    "Project developers in Germany face at least two difficult years ahead, according to Amós Guillén Duarte, managing director of international project developer FRV in Germany. This is not only due to declining solar revenues and negative electricity prices, but also to a fundamental shift in market conditions.",
+    "“The German federal government expects renewable energy deployment to continue with a significantly weaker support scheme,” Duarte told pv magazine. In his view, the transition from predictable profitability to lower and less predictable returns is happening too quickly.",
+    "Other European markets have already experienced similar changes. In Spain and elsewhere, support schemes have been modified or abolished, resulting in insolvencies and substantial losses. “We are therefore not necessarily wiser, but we have become more cautious,” Duarte said.",
+    "Financing is also likely to play an increasingly important role. Portfolio and corporate financing are gaining relevance, particularly for battery storage projects. Bundling projects can facilitate both financing and offtake agreements.",
+    "FRV was fully acquired in April 2015 by Abdul Latif Jameel Energy and Environmental Services, a subsidiary of Saudi Arabian family-owned business group Abdul Latif Jameel. FRV is now part of Jameel Energy.",
+    "Do you see yourselves primarily as a project developer or as an independent power producer (IPP)?",
+    "Amós Guillén Duarte, managing director of FRV in Germany: We see ourselves primarily as an international project developer. After 20 years, however, we have developed the technical and financial capabilities to also become an IPP.",
+    "We do not develop projects simply to sell them, although that is part of our business. We select the projects we want to build and operate ourselves. I would therefore describe us as a developer that also sells electricity, rather than a pure IPP.",
+    "Our greatest value lies in our own development capabilities and project pipeline. We have managed to evolve from a pure project developer into a company that also operates as an IPP.",
+    "However, most IPPs also develop their own projects, and larger developers often retain assets in their portfolios. Where do you draw the line?"
+   ],
+   "lede": "Germany is undergoing a regulatory transformation that other European solar markets have already experienced, but the changes are happening too quickly, says Amós Guillén Duarte, managing director of FRV in Germany.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/tongwei-signs-846-mw-module-deal-for-romanias-dama-solar-project/",
+   "title": "Tongwei signs 846 MW module deal for Romania’s Dama Solar project",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T10:00:00+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Technology & Products",
+    "Modules",
+    "Sponsored",
+    "Utility-scale"
+   ],
+   "description": "The agreement brings Tongwei’s TNC 3.0 modules to Romania’s 1.36 GWp Dama Solar development, which is expected to generate around 1,800 GWh of electricity annually.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/TONGWEI-PVIO-2-Picture-1-scaled-e1795687646298.jpg",
+   "paragraphs": [
+    "Tongwei and Rezolv Energy recently signed an agreement to supply 846 MW of Tongwei TNC 3.0 modules for Dama Solar in Romania, set to become one of Europe’s largest single-site solar plants.",
+    "The project will have an installed capacity of 1.36 GWp and is expected to generate around 1,800 GWh of electricity a year once operational, making it a major addition to Romania’s renewable power supply.",
+    "The agreement was signed during a visit to Tongwei by senior representatives from Actis and Rezolv Energy, including Rezolv Energy CEO Alastair Hammond. Liu Shuqi, Chairwoman and CEO of Tongwei Co., Ltd., welcomed the delegation. Discussions covered the project’s strategic planning and developments in Europe’s renewable energy market.",
+    "Tongwei is a global leader in high-purity polysilicon and solar cells, with an integrated photovoltaic business spanning silicon production, cell and module manufacturing, and solar power plant development. The project partner, Rezolv Energy, is an independent renewable energy producer established by Actis in 2022, focusing on project development and long-term operation across Central and Southeastern Europe.",
+    "Located in Arad County in western Romania, Dama Solar’s scale and long operating life place higher demands on module efficiency, environmental adaptability, and long-term reliability.",
+    "To meet these requirements, the project will use Tongwei’s TNC 3.0 modules. Combining advanced solar cell technology with a quarter-cut cell design, the modules deliver high power output while supporting operational reliability and stable electricity generation over the long term.",
+    "Alongside module technology, Tongwei’s vertically integrated manufacturing system supports quality management throughout production. The company is organizing production and coordinating supply in line with Dama Solar’s requirements. “We will draw on our integrated manufacturing system to strengthen coordination with our partners across technology, supply and project execution, supporting Europe’s energy transition with high-efficiency, reliable products, and professional services,” said Liu Shuqi, Chairwoman and CEO of Tongwei Co., Ltd.",
+    "The first truckload of modules for Dama Solar has departed Tongwei’s Nantong manufacturing facility, marking the start of deliveries under the agreement.",
+    "Dama Solar adds to Tongwei’s utility-scale solar business in Europe and its work with international infrastructure investors and renewable energy developers. The project combines the partners’ expertise in renewable energy development, manufacturing, and supply.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "The agreement brings Tongwei’s TNC 3.0 modules to Romania’s 1.36 GWp Dama Solar development, which is expected to generate around 1,800 GWh of electricity annually.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/hong-kong-researchers-build-27-04-efficient-perovskite-solar-cell-via-trans-interface-engineering/",
+   "title": "Hong Kong researchers build 27.04%-efficient perovskite solar cell via trans-interface engineering",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T09:57:52+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Research & Development",
+    "Cells & modules"
+   ],
+   "description": "Researchers in Hong Kong have developed vertically aligned nanolinks that penetrate both the perovskite absorber and the charge transport layer, improving charge transfer and interfacial mechanical reliability. Around 92% of the tested devices retained at least 80% of their initial efficiency after 1,400 h of operation under one-sun illumination.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-105018.png",
+   "paragraphs": [
+    "Scientists at the Hong Kong University of Science and Technology (HKUST) have developed a perovskite solar cell with a novel interface engineering technique aimed at simultaneously improving power conversion efficiency, operational stability and device-to-device reproducibility.",
+    "Dubbed trans-interface engineering (TIE), the proposed approach addresses mechanical failure at the interface between the perovskite absorber and the charge transport layer, which remains a major obstacle to the industrialization of perovskite PV technology.",
+    "Conventional interface engineering strategies rely on planar interlayers to passivate defects and improve mechanical interlocking between adjacent layers. These approaches, however, often involve a trade-off between efficient charge transport and interfacial stability.",
+    "To overcome this limitation, the researchers developed vertically aligned, mechanically robust nanolinks that penetrate both the perovskite absorber and the charge transport layer, rather than forming a discrete interlayer between them.",
+    "As a proof of concept, the research team incorporated trifunctional and monofunctional organic linkers into the perovskite and charge transport layers, respectively. It then used cyanoisopropyl radicals derived from azobisisobutyronitrile (AIBN) to initiate polymerization of the organic linkers within their respective layers.",
+    "This radical-mediated process also enables the linkers to form vertical bonds across the heterointerface, creating a covalently interconnected structure that reportedly facilitates charge transfer while improving resistance to mechanically induced degradation.",
+    "The resulting interface exhibited superior mechanical reliability compared with previously reported interface engineering approaches. The researchers attributed this improvement largely to the suppression of interfacial mechanical failure during device operation.",
+    "The best-performing solar cell fabricated with the proposed technique achieved a power conversion efficiency of 27.04%, with a certified value of 26.67%. The name of the certification body was not disclosed.",
+    "Under maximum power point (MPP) tracking and one-sun illumination, 92% of the tested devices achieved T80 lifetimes of at least 1,400 h. The T80 metric indicates the time required for a solar cell’s efficiency to decline to 80% of its initial value.",
+    "The scientists emphasized that the high proportion of devices reaching the reported T80 lifetime demonstrates not only improved operational stability but also higher reproducibility across individual devices, a key requirement for industrial-scale manufacturing."
+   ],
+   "lede": "Researchers in Hong Kong have developed vertically aligned nanolinks that penetrate both the perovskite absorber and the charge transport layer, improving charge transfer and interfacial mechanical reliability.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/27/review-2028-volvos-xc60-90-phevs-get-80-miles-of-ev-range-changing-the-game/",
+   "title": "2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T09:57:17+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_657793.png",
+   "lede": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/kenya-records-576-million-in-chinese-solar-cell-imports-from-january-october/",
+   "title": "Kenya records $576 million in Chinese solar cell imports from January-October",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T09:48:35+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Africa",
+    "Cells",
+    "Highlights",
+    "Manufacturing"
+   ],
+   "description": "A sharp rise in Chinese solar cell shipments coincides with growing Kenyan exports of assembled and unassembled solar cells to international markets including the US, Egypt and Indonesia.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/aboodi-vesakaran-4oiCd8XckK8-unsplash-scaled-e1795772282344.jpg",
+   "paragraphs": [
+    "Kenya is becoming a leading destination for Chinese solar cells, as well as an export hub for solar parts bound for markets including the US and Indonesia, trade data indicate.",
+    "The figure traces back to China-Kenya Trade 2026 statistics available through online platform ChinaData, sourced from the China General Administration of Customs. The platform records an 11,214.5% increase in the value of solar cells exports from China to Kenya over the first ten months of this year when compared to the same period in 2025.",
+    "Kenya applies a 0% customs import duty to photovoltaic cells, including unassembled cells, according to the East African Community Common External Tariff, a unified import duty schedule that came into effect in July 2022.",
+    "Kenya’s national statistics agency, the Kenya National Bureau of Statistics (KNBS), has also noted rising exports of photovoltaic products to markets including the US, Egypt and Indonesia.",
+    "In a report published in September covering the second quarter of 2026, KNBS said Kenyan exports to the US had increased substantially, with the growth largely driven by domestic exports of assembled and unassembled solar cells, alongside coffee and maize oil.",
+    "The report also noted an increase in domestic exports of unassembled solar cells to Egypt and Indonesia.",
+    "Kenya’s growing role in the solar supply chain comes as solar deployment accelerates across Africa. A report published by energy think tank Ember in September forecast that Africa would install a record 17 GW of solar capacity in 2026, equivalent to around 100,000 solar panels per day.",
+    "The report also projected that Africa’s solar module manufacturing capacity would quadruple this year. Egypt and Tanzania lead the continent in operational manufacturing capacity, while a further six African countries – Morocco, South Africa, Algeria, Tunisia, Nigeria and Kenya – are expected to add a further 1 GW combined.",
+    "The Africa Solar Industry Association (AFISA) has tracked 2,593 MW of operational solar in Kenya, according to figures available in its project database, 1,971 MW of which is listed as C&I projects.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "A sharp rise in Chinese solar cell shipments coincides with growing Kenyan exports of assembled and unassembled solar cells to international markets including the US, Egypt and Indonesia.",
+   "tags": [
+    "china",
+    "industry",
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss/",
+   "title": "BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-27T09:44:08+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Analysis",
+    "Features",
+    "ancillary services",
+    "baaja",
+    "BESS Industry Buzz",
+    "europe",
+    "fire safety",
+    "lsft"
+   ],
+   "description": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
+   "ftries": 1,
+   "lede": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/china-polysilicon-spot-trading-thins-amid-steep-futures-discounts/",
+   "title": "China polysilicon spot trading thins amid steep futures discounts",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T09:41:27+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Cells",
+    "Modules",
+    "Opinion",
+    "Silicon"
+   ],
+   "description": "In a new weekly update for pv magazine, OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/OPIS-PVMag_20261127_Graph-scaled.png",
+   "paragraphs": [
+    "According to market participants, there has been little change in supplier offers and trading conditions in the Chinese polysilicon market, with an increasingly limited number of spot transactions being concluded. A trader said that buyers, having taken delivery of lower-priced orders agreed earlier, were reluctant to resume purchases at manufacturers’ higher asking prices.",
+    "Meanwhile, the price spread between the spot and futures markets has remained wide and, in some cases, continued to widen, prompting buyers to shift their procurement towards the futures market.",
+    "According to Guangzhou Futures Exchange data for Nov. 23, settlement prices for polysilicon contracts maturing between December 2026 and November 2027 ranged from CNY 30.150/kg to CNY 33.340/kg, with even the highest settlement price across the 12 delivery months standing 16.86% below OPIS’ assessed spot price this week.",
+    "Explaining the widening spread, one industry participant said that while manufacturers involved in the industry’s self-discipline agreement on pricing and sales appeared to remain committed to its terms, growing difficulties in selling their output had left them with little choice but to offer more polysilicon into the futures market.",
+    "Against this backdrop, market rumors have recently circulated that a trading company may be planning to purchase polysilicon inventories held by manufacturers in a coordinated buying arrangement. Although no official confirmation has emerged, accounts suggest that the trading company would acquire manufacturers’ inventories at prices in the CNY 30s/kg range and subsequently resell the material once prices recover to the CNY 40s/kg range.",
+    "An industry participant cautioned that, as with previous attempts to support the industry during periods of prolonged weakness, the success of such an initiative would depend on how acquisition costs and profits from subsequent sales were allocated among the parties involved. Polysilicon manufacturers would have little incentive to support the arrangement if the trading company were to retain all the profits, the source added.",
+    "Several industry participants said that a meaningful recovery in the polysilicon market is unlikely in the near term, particularly given the lack of substantial improvement in the supply-demand balance and end-user demand.",
+    "One market participant identified persistently high inventory levels and the lack of significant capacity exits as major obstacles to market recovery, noting that there was little indication of any major supplier exiting the market in the short to medium term. Some manufacturers continue to maintain relatively stable cash flows, while others draw financial support from their diversified business operations, with larger producers potentially benefiting from government support, the source added.",
+    "As the year draws to a close, one industry source identified the development of U.S. domestic manufacturing capacity as a key factor that could shape the global polysilicon market in the coming year. The source noted that substantial U.S. solar cell manufacturing capacity is expected to come online progressively in the second quarter of 2027."
+   ],
+   "lede": "In a new weekly update for pv magazine, OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry.",
+   "tags": [
+    "china",
+    "industry",
+    "policy"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/rooftop-pv-could-offset-37-3-of-vertical-farm-electricity-use/",
+   "title": "Rooftop PV could offset 37.3% of vertical farm electricity use",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T09:31:56+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Research & Development",
+    "Cells & modules",
+    "Modules",
+    "Rooftop"
+   ],
+   "description": "Researchers grew 10,500 Hippeastrum plants in a yearlong trial comparing three- and four-layer growing units equipped with rooftop solar. Modeled PV generation matched 37.3% of measured annual electricity use, with LED lighting accounting for 73.6% of demand.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Two-Cutaway-Research-Units-in-Courtyard.png",
+   "paragraphs": [
+    "Researchers from China’s Zhejiang Normal University have investigated the potential of integrating rooftop photovoltaics with vertical farming to improve land productivity, reduce reliance on grid electricity, and ensure economic viability. Their study combines a year-long experiment using flowering plants with simulations across 40 Chinese counties to assess the trade-offs between land use, energy performance, and profitability.",
+    "“Vertical farming saves land but multiplies the energy needed for lighting and climate control,” the team explained. “Photovoltaics can supply that energy, but only by taking up land that vertical farming was meant to free. Whether the trade is worthwhile then comes down to what the crop is worth and whether a market exists for it.”",
+    "The scientists conducted a 12-month rooftop vertical farming trial in Jinhua, eastern China, from August 2023 to July 2024. They grew 10,500 Hippeastrum Lemon Sherbet plants in two insulated units, each occupying 17.4 m² and equipped with four 670 W monocrystalline solar modules, for a total installed PV capacity of 2.68 kW per unit.",
+    "One unit featured a three-layer configuration with 4,500 plants, while the other featured a four-layer configuration with 6,000 plants. In both units, LEDs provided a 12-hour photoperiod at three daily light integral (DLI) levels of 1.73 mol/m²/day, 2.89 mol/m²/day, and 3.54 mol/m²/day. The temperature was set at 22 C, with a target relative humidity of 60% to 70%. Light intensity was fixed for each shelf.",
+    "At harvest, the team measured each bulb at its widest point and compared the results with a greenhouse cultivation benchmark derived from the scientific literature. The researchers also monitored electricity consumption for lighting, climate control, and auxiliary equipment and used the Photovoltaic Geographical Information System (PVGIS) to estimate annual rooftop solar power generation.",
+    "They combined the experimental data with modeled energy demand for six combinations of lighting intensity and planting configuration to assess land productivity, annual PV coverage, and financial performance over a 20-year period. They then extended the model to 40 Chinese counties, keeping crop yields constant to assess how local climatic conditions and solar resources would affect energy performance.",
+    "“Under real operating conditions, the PV-integrated vertical farm remained energy-intensive while delivering high land productivity and, in five of the six simulated scenarios, a positive net present value,” the researchers said. “Measured consumption reached 691.3 kWh m⁻² yr⁻¹, of which LED lighting accounted for 73.6%, and the estimated hybrid measured-simulated annual energy contribution index (ECI) was 37.3%. Crop selling price and yield drove economic viability far more than electricity price or capital cost in the sensitivity analysis.”",
+    "Across all three DLI levels, the four-layer configurations achieved higher land equivalent ratios (LERs) and net present values (NPVs) than their three-layer counterparts. However, they also exhibited higher simulated energy consumption and lower PV coverage. The researchers noted that the lack of randomization in the allocation of lighting treatments across shelves made it difficult to isolate the effects of light intensity from those of shelf position."
+   ],
+   "lede": "Researchers grew 10,500 Hippeastrum plants in a yearlong trial comparing three- and four-layer growing units equipped with rooftop solar.",
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEpmMmwySUNyVnNxRENMVE9XQzdhRXV5bjVHWXFJdWk0RUpqek9RUnFDLXVDSm1INFktZDBvSWVpWm5zNG1HWlBDUFlzVFhBY1RCZXBqN05YSmRJQUY3YnZWd19DdlptVXpRTVJOUTdNOFlRaGR3eGt2VEtCb2Z3Rl9iZUpzc1hqZ1V2YWxfcmgtU0UzNFE2X3BjcXQwYjJkVXM5a2NBVlUtY0k0MWVsbURJMTdQdw?oc=5",
+   "title": "Tata Steel-Apollo Deal Tests Power of India’s Minority Investors",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-27T09:13:54+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/alpiq-1-2gwh-bess-switzerland-niedergosgen/",
+   "title": "‘Among the most powerful’: Alpiq seeks approval for 1.2GWh BESS in Switzerland",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-27T09:13:02+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "News",
+    "alpiq",
+    "battery energy storage",
+    "battery storage",
+    "bess",
+    "energystorageeu",
+    "EnergyStorageEurope",
+    "europe"
+   ],
+   "description": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland.",
+   "ftries": 1,
+   "lede": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar/",
+   "title": "‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-27T09:10:31+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "News",
+    "battery energy storage",
+    "battery storage",
+    "bess",
+    "Blue Elephant Energy",
+    "co-location",
+    "energystorageeu",
+    "EnergyStorageEurope"
+   ],
+   "description": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
+   "ftries": 1,
+   "lede": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.volts.wtf/p/whats-up-with-agrivoltaics",
+   "title": "What’s up with agrivoltaics?",
+   "source": "Volts",
+   "desk": "analysis",
+   "published": "2026-11-27T09:02:33+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "byline": "David Roberts",
+   "description": "A conversation with Jordan Macknick of the National Laboratory of the Rockies.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://substackcdn.com/image/fetch/$s_!3f8Y!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F222993776%2Fe58a39b9-fe8c-40c1-a2ab-a70b15452bfa%2Ftranscoded-1795724139.png",
+   "paragraphs": [
+    "One of solar's biggest political problems is land: more and more rural counties are banning it to protect farmland. Agrivoltaics — growing crops or grazing animals under the panels — promises a way out. But how much of it is there, does it work, and what is it really for? Jordan Macknick, who leads agrivoltaics research at the National Laboratory of the Rockies, explains why the reality is mostly sheep, why costs are falling, and why shade can be insurance against hot, dry summers.",
+    "Like seemingly everyone else, I love the idea of agrivoltaics — putting solar panels and agriculture on the same land. If nothing else, the idea of panels coexisting peacefully with crops and farm animals is good PR for solar, in an age when “paving over prime agricultural land” is one of the central charges levied against it.",
+    "But to be honest, I’ve always been a little skeptical as well. It’s one of those things that sounds a little too good to be true, a little too targeted at my priors. There are real and difficult tradeoffs between industrial solar and other uses of land, and agrivoltaics — like “solar over parking lots” — feels a little bit like permission to pretend those tradeoffs don’t exist.",
+    "Anyway, I’ve been meaning to dig into it and figure out how much there is there. As it happens, I have the perfect guest for the job. Jordan Macknick has led agrivoltaics research at the National Laboratory of the Rockies (formerly the National Renewable Energy Laboratory) for about a decade. His team tracks US agrivoltaic projects, runs its own field research, and catalogues studies from around the world. He also co-chairs the International Energy Agency’s agrivoltaics group. Few people know the field better.",
+    "With more and more counties banning solar, is this a way around the land-use conflicts? Can solar and farmland be friends? Let’s get into it.",
+    "Solar panels go up at Grand Junction vineyard, Colorado’s newest agriculture and energy project",
+    "David Roberts: All right. With no further ado, Jordan Macknick, welcome to Volts. Thank you so much for coming.",
+    "David Roberts: Really excited to dig into this. I wanna start with some very basics, though. So I wanna first ask about what kinds of agrivoltaics are. What do we mean when we talk agrivoltaics? And then after that, how much of each exists? So let’s start. I think your project, the InSPIRE project that you run on this, breaks the kinds of agrivoltaics down into four categories. Can you just run through those real quickly?",
+    "Jordan Macknick: Absolutely. Yeah, and I will say we use a big umbrella approach when thinking about agrivoltaics, and that’s why we have our four categories. The first category is crop production, so growing vegetables or grain crops, all sorts of crops in the ground.",
+    "David Roberts: This is what I think springs to mind when people hear the word agrivoltaics. I think this is what they imagine."
+   ],
+   "lede": "A conversation with Jordan Macknick of the National Laboratory of the Rockies.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.canarymedia.com/articles/solar/solar-no-2-china-grid",
+   "title": "Solar is coming for the No. 2 spot on China’s grid",
+   "source": "Canary Media",
+   "desk": "news",
+   "published": "2026-11-27T08:30:00+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "description": "Coal is still China’s top source of electricity by a long shot, but solar is climbing the ranks and is poised to leapfrog hydropower this year.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://img.canarymedia.com/content/uploads/COTW-china-solar-1.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=071bb0a4d89329918f3e0caa9cfa707c",
+   "paragraphs": [
+    "Solar energy is poised to become the No. 2 source of electricity in China, capping off a remarkable ascent over the last decade.",
+    "Hydropower has historically been the runner-up on China’s grid — a distant second to coal, which provides more than half the nation’s electricity and is the key reason that China emits more carbon dioxide than any other country.",
+    "But solar energy, which China has been building at a remarkable pace, has climbed from less than 1 % of the nation’s electricity generation a decade ago to more than 13 % through this October. Hydro has provided just under 13 % of China’s electricity in 2026.",
+    "The rise of solar — and wind — has helped China avoid burning even more coal in its power plants as energy demand rises. Coal power declined in the country last year, contributing to a slight drop in its overall emissions.",
+    "For China’s emissions to fall in line with what scientists say is necessary to avert the worst of climate change, it will need to bring a lot more solar online. The country’s solar installations are actually slowing this year compared to last, thanks to policy changes. But the overall trend is clear: Solar is on the upswing in China, and that’s not changing anytime soon.",
+    "Do you enjoy Canary Media’s Chart of the Week? Please make a tax-deductible donation to help us continue our reporting on the clean energy transition. Thank you!",
+    "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+   ],
+   "lede": "Coal is still China’s top source of electricity by a long shot, but solar is climbing the ranks and is poised to leapfrog hydropower this year.",
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUlKaTN3N3RlcEp2OHYtb2h6c1dVZkNFaDlHdGRRS3VDeVc3NDU5eXphVWdhU21WZkhRVkRwMUpLQmxIdzNCTHduRVJwdzVDMTZfWHdHdXJKYkR3VXptTVZXVmt2dTduNWdmQkFhYk1KZ1RKd2JBWEVNMjgweTZMdEZUQWFEMHd4enBNNzZNU3lvVUNWMDZ4Vng5X20zV3oyWGRlUTVweW8wR1M1MWtTaHpwc3N5YktiajhaeXBkdHRPa0J2em5R?oc=5",
+   "title": "How Sánchez’s Election Gamble Is an Opening for Spain’s Far Right",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-27T06:15:00+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFlVWEhsU1BRSl85NE9zaDNMMWtkS2VKX0lqRVNva1MycWZRRnBQTDM1LXh1QURBdjc2MnlBWW00bWlzX3Bmb3l6bmE3SUJuZ2pNbmZNekgzTm5EeG9uV2JCazNUSGRSa2w2RE9FeUhaSnd3eHBsdm8zTjdla1pfQU5MeWU?oc=5",
+   "title": "Rest of the world plays catch-up with China’s solar power dominance",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T05:01:14+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbXZ4dGNteDlTeFBMOWU3SnpWWmNESF80eXVFa2VqZmtlZDM2NXpIdWcyTG5ha0Ixam5kNnNUbklpalFMRFBNbkxXYXZLXzFDZnE1Rkc3V2ZDTHBxSWdGWVBhSWs3SGoxX3QzWmxKOER0dzlqUlZBTjZ4SUlxUEM0Qm1CV2g?oc=5",
+   "title": "Big Oil looks to diversify with move into electricity generation",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T05:00:04+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ09TY3VlcnkzOGNWZ0p5WV9vZmQyZVNsQ3hYTk9lT1VPRVpDdE9NUHBTOWdNZHBRY3lxZU02dHFFNnQtaTg1anBuYkgtcktBQU9YdlBoVHFmOHlMOHB4YVExYTN2NUNNcFBieTBuTlNqNTdwd1NabTFzMEVGWFJHa2JWZ0o?oc=5",
+   "title": "China’s wind turbine makers look abroad as pressures grow at home",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T05:00:04+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnNhZHdWc2NIZ1VoWDI1ZldteXdBYlNxLWNjMVVENnZPNVVza2x4c3h6cUhfVVNqQm5SY1Z4UVdnWWZxeDJrZXIyR2NQTm5XeFY5SHo3alF3ME9BNGxYZlhzdG9ob3h5TVJpV2NYQ2JPeTNhemlEMXNXTTh4RUNxalRNa243YjZRSnJheURncU1jdHBiZDc5VE91cTY4Si1fdU5jemkxU1VaV2pDdGFV?oc=5",
+   "title": "Data Centers to Double Malaysian Electricity Demand by 2050",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-27T03:24:00+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTZzY0FvX2k2OUlaaDlVR090QW96TUJ3d2VYblo2WlpRUmRHZmpXVEg1TEhCTktUT3Vnc1R3eTVwejJEaVRaWDhzWEhrYnpYTHlyQXJkQ1N6bTdWTTRoVUxXd3QwcXJoblo2Z3RyQ1p1cHpRV05sUUgzUk5oa1RqSjM3Y2M?oc=5",
+   "title": "India’s electricity demand to rise fivefold in 25 years, says Suzlon’s Girish Tanti",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T01:30:47+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
   {
    "url": "https://www.pv-magazine.com/2026/11/26/ireland-could-allow-plug-in-solar-by-mid-2027/",
    "title": "Ireland could allow plug-in solar by mid-2027",
@@ -192,7 +704,7 @@
     "zelestra"
    ],
    "description": "IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few days after the country’s second MACSE auction concluded.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few days after the country’s second MACSE auction concluded.",
    "tags": [
     "policy",
@@ -232,7 +744,7 @@
     "ESAwards"
    ],
    "description": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
    "tags": [
     "power"
@@ -376,7 +888,7 @@
     "energy vault"
    ],
    "description": "NYSE-listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
    "tags": [
     "power"
@@ -551,7 +1063,7 @@
     "supply deal"
    ],
    "description": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
    "tags": [
     "power"
@@ -668,7 +1180,7 @@
     "energystorageaus"
    ],
    "description": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
    "tags": [
     "power"
@@ -989,6 +1501,17 @@
    "tags": [
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb09ZVVB3eEJlREZXRUxKVC1GaEtlemkzbmhhQUp0NVR2S1lySVY2Q0h5YzRLd3ZCRkpQbFpzYzBCbXVQT3YtTFdyVnk5NEQyQU1XRUxOaXVRa1Nrc1FuTWlDYjd5cVpXbTRSTkVXSld0eVBMSDFKTkxKZ3d3U09Hekpwb2E5OFZuN3VSdHRJSkFUZWQ3SW5TX3p2QnNfYWhUbERWVFVhaXJLYXI2MkdfbFB3?oc=5",
+   "title": "Japan Gets First Malaysia Bio-LNG Shipment in Green Fuel Push",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T03:24:00+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://electrek.co/2026/11/25/chargepoint-and-pistenbully-have-a-charging-plan-for-ski-resorts/",
@@ -4736,6 +5259,30 @@
    ]
   },
   {
+   "url": "https://www.energymonitor.ai/analyst-comment/hydrogen-energy-market-shifts-focus/",
+   "title": "Hydrogen energy market shifts focus to grid stability and load balancing",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-23T09:47:43+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "cats": [
+    "Analyst Comment"
+   ],
+   "description": "The role of hydrogen power narrows to selective, policy-backed projects focused on blending, storage, and industrial demand.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/shutterstock_2742123337.jpg",
+   "paragraphs": [
+    "Experience unmatched clarity with a single platform that combines unique data, AI, and human expertise."
+   ],
+   "lede": "The role of hydrogen power narrows to selective, policy-backed projects focused on blending, storage, and industrial demand.",
+   "tags": [
+    "industry",
+    "policy",
+    "power"
+   ]
+  },
+  {
    "url": "https://www.pv-magazine.com/2026/11/23/hydrogen-shifts-summer-solar-to-winter-in-japanese-apartment-building/",
    "title": "Hydrogen shifts summer solar to winter in Japanese apartment building",
    "source": "pv magazine",
@@ -7995,6 +8542,17 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZjlwY0hxVkx6M0dGZ3Fkb0kycVZEWWFTNHMyNDhxYlRNQnFJZTduaW1GMmhWZFBvbHFPYW80SU01bGtBcVNjWjh4ZXliZWlHb1JaYk5FWjJIZjNKVUVIdkN4MURTRndfY0RXTElhZlJ3UFY5Y1BUbVdZTjc2elNDbGNlRFZvYmVwamZJbmxRZUgyUk0?oc=5",
+   "title": "World Energy Outlook 2026",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-19T17:24:45+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
    "title": "Grid operators need data center ride-through rules that protect reliability",
    "source": "Utility Dive",
@@ -9356,6 +9914,20 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFRPMUE3bk5obmhFcHo4Z2FLc2tlVGJoUzZEb1JtVWhyS3p2WEVwRXg3bHdHYVJyZThZR05yaGtZZXVUbkd5b3ZVUTc0ZzRNN21GLWVBY2NqV3pWSG0zclZwT3NyNEw1d2djVVh2Tk92WlNRU08tVDdzZlczM3dhM2g5dUMwNlg4NmZv?oc=5",
+   "title": "The Current Policies Scenario",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-19T08:23:29+00:00",
+   "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "policy"
+   ]
+  },
+  {
    "url": "https://www.energymonitor.ai/news/searenergy-poland-support-baltyk-2-and-3/",
    "title": "Searenergy Poland to support Bałtyk 2 and 3 offshore wind farm projects",
    "source": "Energy Monitor",
@@ -9953,502 +10525,6 @@
    "lede": "Tesla is adding earlier warnings, instant strikes and a hands-on rule above 130 km/h to FSD in Europe, while loosening driver monitoring in the US.",
    "tags": [
     "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.latitudemedia.com/news/anthropic-debuts-in-an-uneasy-energy-week/",
-   "title": "Anthropic debuts in an uneasy energy week",
-   "source": "Latitude Media",
-   "desk": "news",
-   "published": "2026-11-18T18:33:31+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Artificial intelligence",
-    "Corporates",
-    "Anthropic",
-    "IPO",
-    "Nvidia"
-   ],
-   "description": "The AI lab is going public just a day after a much-watched Nvidia earnings call.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-18T133312.469.jpg",
-   "paragraphs": [
-    "Nvidia ousted CEO Jensen Huang over his multiple affairs, including one with a Chinese spy; the blue wave midterm election involved a significant data center backlash; there are signs of a slowdown in data center construction. And all come just as investors have grown concerned about AI’s promise and enormous expenditures.",
-    "But if the AI bubble appeared to be losing some air, Anthropic’s market debut and a strong showing in Nvidia’s earnings yesterday might pump things up again, according to Morningstar senior equity analyst Travis Miller. And that’s good news for the many energy companies that have served the boom; Miller monitors electric utilities, which he said have had a “rough” couple of weeks.",
-    "“Utilities and investors are watching the landscape very closely because data center growth is a key part of the investment story for utilities in the coming years,” Miller said. “Can utilities continue to live up to investor expectations of growth if the bubble is deflating?”",
-    "Anthropic’s updated financial report to the Securities and Exchange Commission walks through the infrastructure buildout that the company sees ahead (a lot) and how the company is thinking about energy (also a lot).",
-    "As an AI lab, of course, Anthropic doesn’t develop data centers itself. But it contracts a huge, and swiftly growing, number of them. They rely heavily on fossil fuels, according to a recent analysis, and Anthropic’s prospectus includes little encouragement for clean energy suppliers. The company makes just one brief mention of clean energy sources such as solar, wind, battery storage, nuclear, and geothermal power, warning that those “may not be available in the quantities or on the timelines we require, or may be available only at higher cost.”",
-    "Discover what bring-your-own-capacity offers C&I projects and how new market structures can make distributed batteries bankable",
-    "Energy concerns are clearly front of mind. The company dedicated much of its assessment of risks to a discussion of the variability and uncertainties of power supplies and regulations.",
-    "“Electric grid infrastructure in the United States and other countries was not designed to accommodate the rapid increase in demand associated with AI development,” the AI lab wrote.",
-    "An analysis of Anthropic’s energy use by the nonprofit Better Data Center Project reveals just how fossil-bound the company is. The researcher’s case study found that Anthropic has made no direct commitments to renewable energy in the U.S.",
-    "The company’s data centers are mostly sited in areas where the grid relies heavily on coal and gas, and “currently contracted data centers in the U.S. will be overwhelmingly powered by fossil fuels in the near term.” Lacking commitments to clean energy, the additional demand on the grid post-IPO will likely mean more fossil infrastructure. When the company uses behind-the-meter sources, the researchers said, the gas-burning turbines are often less efficient and more polluting."
-   ],
-   "lede": "The AI lab is going public just a day after a much-watched Nvidia earnings call.",
-   "tags": [
-    "china",
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/rivians-also-pauses-high-tech-e-bike-deliveries-over-software-issues-that-we-saw-coming/",
-   "title": "Rivian’s ALSO pauses high-tech e-bike deliveries over ‘software issues’ that we saw coming",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T17:23:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Rivian’s new electric bike spinoff, ALSO, has hit another speed bump. The company has announced that it is temporarily halting...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/also-e-bike-rivian-tm-b-header.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Rivian’s new electric bike spinoff, ALSO, has hit another speed bump. The company has announced that it is temporarily halting...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/west-coast-customs-tesla-model-3-1955-chevy-bel-air-ev/",
-   "title": "West Coast Customs turns a Tesla Model 3 into a 1955 Chevy Bel Air",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T17:13:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "chevrolet",
-    "EV conversion",
-    "Tesla",
-    "Tesla Model 3"
-   ],
-   "description": "West Coast Customs cut the body off a Tesla Model 3 and dropped a 1955 Chevy Bel Air on the skateboard. It keeps the Tesla cabin and Supercharger access.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Belair-Tesla-Model-3-mod.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "West Coast Customs cut the body off a Tesla Model 3 and dropped a 1955 Chevy Bel Air on the skateboard. It keeps the Tesla cabin and Supercharger access.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkExdndlaTNZYjlHQ1lkakt4WDh5dEIyWTZCS01zelotQmJ4VUdZSGg3SDFpZHFjUVRkU25pMGFlX2JmSTg0SG8zYlNLMjV2bkIxbXNTYlA4RmRHLUJjdUl6Mks0RjliQVV6Si1hbTYzNnpDOGFZR1p2QUtpN19TMVRiM3VkVW1tTFptdmtTd0FINnZsTUpWZGh5NTctLWFKZ1BiSFNUVnlfZ0MzX0JRalFaMDJ6ZGlYX0E?oc=5",
-   "title": "Canada talked to Mexico about joining global defence bank, Anand says",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T17:08:11+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBMV1ZFVURFMmhJNEl1SXNETWpmMnNadDQyWEo1UGZRNXZjWE5yR2JQb2VyeDJoZEItQ0Fjd2RRNnA5aHBtNUtnbXVPUm40SW8tSjJHTkJsaTcyNk5uYlMyd3pMM2V5VHdIYVVFZHBSSHhjYTNKYkdReERNS095Nnp2OFdKNGtqNndnOWRZblltN3AwaDcwSy1aSGhhN0dhd0xsRXVaZTJ5c1BGM2M1cTZaUmNHUlZGQVE?oc=5",
-   "title": "Ford ships first battery cells using CATL technology",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T17:08:10+00:00",
-   "seen": "2026-11-21T23:19:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/fords-first-lfp-batteries-en-route-30k-fathom-ev-pickup/",
-   "title": "Ford’s first LFP batteries are en route, and the $30,000 Fathom EV pickup will get them first",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T17:00:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Ford has entered the battery business. The first LFP battery cells are now rolling off the assembly line at Ford’s...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Ford-Fathom-EV-closer-look.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Ford has entered the battery business. The first LFP battery cells are now rolling off the assembly line at Ford’s...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVdPaG1kS3lqUzRwUmJXQlB5RTdqQXN3SXdJVURTTnRFUDdOc2R6S3lHcGptU1Z3ZURPamtScnpFak1KT3QyZEFidEZqUGRKQkxxLW0zOXRPNVZCVExfQ2VfTlViZ1lSczlJUURDeElQbWdIOXdobHVUSmVrNWIzWUxOWUNfTVBDQXJCUktwdjk5cEYzeVlqZW9BMmd2N1NRSWJsaGRlV3RibklRNEZKb3lB?oc=5",
-   "title": "How Ugandan Women Are Turning Biogas into Clean Cooking Opportunity",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-18T16:49:38+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.volts.wtf/p/repowering-worn-out-solar-fields",
-   "title": "“Repowering” worn out solar fields could create gigawatts of new grid capacity, quickly",
-   "source": "Volts",
-   "desk": "analysis",
-   "published": "2026-11-18T16:02:59+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "byline": "David Roberts",
-   "description": "A conversation with Lisa Hansmann of Foundry-Logic.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://substackcdn.com/image/fetch/$s_!JO8H!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F221735644%2F48a5b669-68c5-4d76-9bdc-748632f3e0a7%2Ftranscoded-1794927335.png",
-   "paragraphs": [
-    "America’s first big wave of solar power installations, built between 15 and 20 years ago, is hitting middle age. With failing inverters and expiring contracts, they are underperforming just as the grid needs more capacity. Lisa Hansmann of Foundry-Logic argues that some of the fastest, cheapest new capacity is hiding in solar and battery plants we’ve already built. Rebuild them with better panels and batteries and existing grid connections can deliver much more.",
-    "The first big wave of American solar farms went up between 2010 and 2016. Those installations, now 15+ years old, are getting creaky. Their inverters are failing, their panels’ output is declining, and their power contracts are running out.",
-    "The thing is, with interconnection queues so clogged and slow, the most valuable parts of an old solar array are often its land and its connection to the grid, not its panels. If you replace old panels with new, more efficient ones, and add batteries, you can squeeze a lot more useful power through existing, underutilized grid connections — relatively quickly, in months rather than years.",
-    "That's the idea behind repowering, as described in a new report from Crux, a clean energy finance firm, and Foundry-Logic, a company that Biden advisor and previous Volts guest Brian Deese co-founded to operate, maintain, and upgrade energy equipment that's already installed. The report estimates repowering could unlock the equivalent of up to 67 gigawatts of solar and 92 gigawatts of batteries by 2040. Those are ceilings, though, and the question is how close we can get to them in practice.",
-    "To talk through it with us, I’ve got one of the report’s authors, Lisa Hansmann, a director at Foundry-Logic. She worked in the Biden White House implementing the IRA and infrastructure laws; she and Deese have argued that the quickest new capacity is hiding in the existing grid. We’re going to get into what repowering costs, how much it involves inverters and batteries rather than panels, and what kinds of solar sites Foundry plans to go after first. Let’s jump in.",
-    "Crux and Foundry-Logic - Recharged: Repowering America’s Solar Fleet with Storage for a New Era of Demand",
-    "David Roberts: All right, let’s jump in. With no further ado, Lisa Hansmann, welcome to Volts. Thank you so much for coming.",
-    "David Roberts: Excited to talk about this. But before we get into the specifics, before we get into the repowering stuff, I want to talk a little bit about the Foreign Affairs piece that you and Brian Deese wrote. So you and Brian both worked in the White House, and then you worked with him at MIT for a while on his research team. What did you see and learn together that led you to this central argument you make in the Foreign Affairs piece? So maybe just tell us the central argument, and then tell us what brought you to it.",
-    "Lisa Hansmann: Yeah. So the central argument is that against the backdrop of a truly historic supply-demand imbalance in electricity markets, the fastest source of capacity is from optimizing the grid and the assets that we already have. And to take you through the long and winding path of how we got here, I got thrown into energy policy when I worked on the Biden administration after Russia’s invasion of Ukraine. I joined the administration as a generalist economic policy advisor at the National Economic Council, where I worked with Brian. And after Russia invaded Ukraine, all of a sudden it seemed like we were facing what now in retrospect seems to be a relatively quaint disruption in conventional energy."
-   ],
-   "lede": "A conversation with Lisa Hansmann of Foundry-Logic.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.utilitydive.com/news/the-grid-will-fall-short-of-ais-power-needs-6-resources-close-the-gap/874125/",
-   "title": "The grid will fall short of AI’s power needs. These 6 resources can close the gap.",
-   "source": "Utility Dive",
-   "desk": "news",
-   "published": "2026-11-18T15:57:17+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "No single option is fast, firm and large enough on its own, writes Simon Irish, CEO of Terrestrial Energy. Some investments — flexibility, uprates and transmission — remain valuable across demand scenarios, he says.",
-   "ftries": 3,
-   "lede": "No single option is fast, firm and large enough on its own, writes Simon Irish, CEO of Terrestrial Energy. Some investments — flexibility, uprates and transmission — remain valuable across demand scenarios, he says.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/amflow-launches-its-first-city-e-bikes-packing-huge-torque-and-serious-smart-tech/",
-   "title": "Amflow launches its first city e-bikes, packing huge torque and serious smart tech",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T15:55:42+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Amflow has made a name for itself in the electric mountain bike world with its high-performance Avinox-powered machines, but now...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/avinox-ue-carbon-e-bike-header.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Amflow has made a name for itself in the electric mountain bike world with its high-performance Avinox-powered machines, but now...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
-   "title": "NextEra-Dominion merger hearings kick off with focus on scope",
-   "source": "Utility Dive",
-   "desk": "news",
-   "published": "2026-11-18T15:50:14+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "The case is “simply not the one to litigate the cost of service [or] who's paying their fair share ... including the data centers,” said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
-   "ftries": 3,
-   "lede": "The case is “simply not the one to litigate the cost of service [or] who's paying their fair share ... including the data centers,” said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to…",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas/",
-   "title": "Tesla’s Semi Megacharger network hits 7 sites, far short of 37 goal",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T15:43:18+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "electric truck",
-    "Megacharger",
-    "Tesla",
-    "Tesla Semi",
-    "texas"
-   ],
-   "description": "Tesla opened its first Texas Megacharger in Mesquite. The Semi's public network now has 7 sites and 44 stalls, far short of the 37 sites planned for 2026.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Megacharger-texas.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Tesla opened its first Texas Megacharger in Mesquite. The Semi's public network now has 7 sites and 44 stalls, far short of the 37 sites planned for 2026.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHS05oZTRXYlVZRlZHZGRRSzZsVWJaOS1OVDJTTWNWeDdmLU9sU3NhYlJSQUN0OXc1aF81U210ODRLd3YyWXoxa1gwLTc4bHVYaXhLOG9rZWk1Qk1Td1E?oc=5",
-   "title": "Energy Efficiency 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-18T15:41:42+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/volvo-ewr150-electric-wheeled-excavator-gets-to-work-in-luxembourg/",
-   "title": "Volvo EWR150 Electric wheeled excavator gets to work in Luxembourg",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T15:34:06+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "construction",
-    "heavy equipment",
-    "volvo"
-   ],
-   "description": "As no-drip, low-noise job sites become more the global rule rather than the exception, Volvo’s incredibly versatile EWR150 Electric wheeled...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/volvo_ewr150_Electric.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "As no-drip, low-noise job sites become more the global rule rather than the exception, Volvo’s incredibly versatile EWR150 Electric wheeled..."
-  },
-  {
-   "url": "https://www.utilitydive.com/news/national-grid-eversource-vpp-demand-response/875039/",
-   "title": "How National Grid, Eversource are using VPPs to solve local-level constraints",
-   "source": "Utility Dive",
-   "desk": "news",
-   "published": "2026-11-18T15:31:06+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "The Northeast’s virtual power plant foundations are far stronger today than a decade ago, but utilities still need more visibility into distribution-system loads and energy resources, executives said.",
-   "ftries": 3,
-   "lede": "The Northeast’s virtual power plant foundations are far stronger today than a decade ago, but utilities still need more visibility into distribution-system loads and energy resources, executives said.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/byds-luxury-suv-pulls-400000-lb-jumbo-jet-on-two-wheels-video/",
-   "title": "BYD’s luxury SUV pulled a nearly 400,000-pound jumbo jet on just two wheels [Video]",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T15:15:48+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Most SUVs are lucky to tow a small trailer without breaking a sweat. BYD’s new luxury SUV had a slightly...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-SUV-jumbo-jet-two-wheels.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Most SUVs are lucky to tow a small trailer without breaking a sweat. BYD’s new luxury SUV had a slightly...",
-   "tags": [
-    "china",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/us-roundup-samsung-sdi-eqt-canadian-solar-deals-re-plus/",
-   "title": "US ROUNDUP: Samsung SDI, EQT and Canadian Solar announce deals as RE+ takes place",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-18T14:53:34+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "australia",
-    "domestic content",
-    "energystorageusa",
-    "lfp",
-    "LTSA",
-    "private equity",
-    "samsung sdi"
-   ],
-   "description": "Deals and acquisitions were announced this week as RE+, the biggest clean energy trade show in the US, takes place in Las Vegas, Nevada.",
-   "ftries": 3,
-   "lede": "Deals and acquisitions were announced this week as RE+, the biggest clean energy trade show in the US, takes place in Las Vegas, Nevada.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHp2TzJ2Y05ya3ZTTlItZFoxczJaalNkTGJtUXU3d2VEZG8yQlJIUEl1RDdiN0hxRlE3WXAxVzdFRGRpeXRMTHJkVEE5Z09uMW1wR2VXUVZDdHBPbXdIMWk0SXdjeFZiZ3htVUF3RkxibzQ0VU9BYTdZTkYxSU8tUHFvRkNyWTVxUlFrQ0JBR0hINU9mYXA4ZEpIZ2swLWpOS2hwOGRVbzBjamE5dHFfZ3pzd1NFOHc4?oc=5",
-   "title": "Europe EV sales jump in October as high oil prices, subsidies fuel demand",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T14:45:43+00:00",
-   "seen": "2026-11-21T17:58:29+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
-   "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
-   "source": "Utility Dive",
-   "desk": "news",
-   "published": "2026-11-18T14:23:48+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "description": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming, an area rich in wind resources and slated for major grid expansion projects.",
-   "ftries": 3,
-   "lede": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming, an area rich in wind resources and slated for major grid expansion projects.",
-   "tags": [
-    "industry",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.latitudemedia.com/news/why-utilities-should-design-vpps-around-households-not-devices/",
-   "title": "Why utilities should design VPPs around households, not devices",
-   "source": "Latitude Media",
-   "desk": "news",
-   "published": "2026-11-18T14:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Grid edge",
-    "EV charging",
-    "utilities",
-    "VPPs"
-   ],
-   "description": "Single-device programs treat household change as churn. A portfolio built around households turns it into durable grid capacity.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-17T174350.883.jpg?fit=1920%2C1280&ssl=1",
-   "paragraphs": [
-    "This is partner content, brought to you by ev.energy. Nate Kinsey is the company’s director of policy.",
-    "Residential virtual power plants aren’t a new pitch. Utilities and regulators have heard for more than a decade that thermostats, home batteries, heat pumps, and EVs could be coordinated by the thousands to act like a power plant. What’s new is the urgency. Load is growing for the first time in two decades; bills are rising; and the poles, wires, and power plants needed to keep up take years to build.",
-    "This year, states started acting. Hawaii opened a VPP docket in April, Virginia approved a ratepayer-funded VPP pilot in August, and last week New Jersey regulators approved a two-year statewide VPP program, PowerUp NJ, set to launch by October 1, 2027. Virginia’s and New Jersey’s programs start where VPPs always have: cutting system peak demand. That’s the right first step, but it isn’t where the opportunity ends.",
-    "Distribution spending is now among the fastest-growing parts of utility budgets, and New Jersey’s own program envisions VPPs moving from peak-shaving to deferring or avoiding traditional infrastructure upgrades. Getting there means moving VPPs down the grid, from the system peak to the feeder and substation, and moving dispatch events from the peak to everyday grid operations.",
-    "That’s where utilities remain skeptical. At Latitude Media’s Flex Summit in October, Eversource’s director of distributed energy solutions put it plainly: “What happens if they’re not there in 10 years?” A substation takes a decade to build. There is no plan B.",
-    "The skepticism is fair. The honest answer is that the same devices won’t be there. The question for regulators is whether the capacity will be, and that depends on how we design the programs.",
-    "Across the country, single-DER VPPs are already relieving local grid constraints. In a randomized, controlled pilot with a U.S. utility, ev.energy layered feeder-level dispatch onto an existing managed charging program, and evening dispatch succeeded in every event tested, with no rebound. The technology isn’t the limit; the program design is.",
-    "Consider one household across the decade a planner is asked to bank on. In 2027, the household enrolls in the utility’s thermostat program and a leased EV in a managed charging program. In 2029, the lease ends and the new car is a brand the program doesn’t support. In 2031, the family adds a battery and enrolls it in a third program. In 2033, a heat pump and new thermostat replace the furnace. In 2035, a new family moves in with an EV of its own.",
-    "The household’s flexibility grew every year. The utility’s programs recorded it as churn, because they were designed around devices, not households, and the devices that remained enrolled were dispatched in silos, not as one VPP resource. As my colleague Nick Woolley has written, operators should plan for about 30% of devices turning over every year. A program built around a fixed roster of siloed devices can relieve this year’s feeder. It can’t promise the same kilowatts in 2035."
-   ],
-   "lede": "Single-device programs treat household change as churn. A portfolio built around households turns it into durable grid capacity.",
-   "tags": [
-    "policy",
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
-   "title": "U.S. natural gas inventories end injection season above normal levels",
-   "source": "EIA Today in Energy",
-   "desk": "analysis",
-   "published": "2026-11-18T14:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.eia.gov/todayinenergy/images/2026.11.18/main.png?1795094636",
-   "paragraphs": [
-    "Data source: U.S. Energy Information Administration, Weekly Natural Gas Storage Report and Natural Gas Monthly Note: Five-year average=2021–2025 Working natural gas in storage in the Lower 48 states ended the natural gas injection season at 3,810 billion cubic feet (Bcf), exceeding the five-year average by almost 2%, according to estimates based on data from our Weekly Natural Gas Storage Report released on November 12. Injection season runs April 1–October 31, the months of typically lower natural gas demand.",
-    "While net injections were 2 Bcf less than the five-year average this injection season, working gas stocks are higher than usual because they started the 2026 season 3% (63 Bcf) above the five-year average at 1,878 Bcf.",
-    "Higher than average inventories at the start of the summer injection season allowed storage operators to reach their end-of-season targets with smaller incremental natural gas injections. Although total dry natural gas production during the 2026 refill season was 3% higher than the same period in 2025, according to S&P Global Energy, most of the increased production during this period was used to meet rising demand from liquefied natural gas export terminals.",
-    "Mild spring temperatures during the first several weeks of the refill season mitigated seasonal residential and commercial natural gas demand, allowing the surplus to the five-year average to grow, peaking at 198 Bcf (7%) for the week ending August 7, before declining for the next 10 consecutive weeks, as warmer-than-normal temperatures during the summer months increased power generation demand for natural gas. Mild temperatures returned during the final weeks of the injection season, which led to above-normal injections. Weekly injections ranged from 108 Bcf in early June to 15 Bcf in late August.",
-    "In our November Short-Term Energy Outlook, we forecast natural gas withdrawals during the 2026–2027 heating season (November 1–March 31) will total 1,900 Bcf and that inventories will be 4% above the five-year (2022–2026) average at the end of March 2027 because of a relatively mild winter and increases in natural gas production.",
-    "Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.",
-    "Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions.",
-    "Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.",
-    "Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports.",
-    "Tools to customize searches, view specific data sets, study detailed documentation, and access time-series data."
-   ],
-   "lede": "Data source: U.S. Energy Information Administration, Weekly Natural Gas Storage Report and Natural Gas Monthly Note: Five-year average=2021–2025 Working natural gas in storage in the Lower 48 states ended the natural…",
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNREU4eDBxTmYzNXBJOVQ0dkxTOEgxcUJTMDExaVhmV2FUbjlxck5xUVFXb1JlVWQyV2Y3U3YxZlRxR29KelNDbVpLYVV3MWwyWjlZb1k5YnVXeUxkUHlpLUdrU0JKZ1lJUE8zNDRxZUtUa0puSVBzUnJ2VFlXMl9Va2FrT0pkSnRnRm1VVHd4YVQ2b1lraVA1VDdIMG9JVFlUdWlqMWRqU0ptSi1UdDRXcA?oc=5",
-   "title": "UK at Odds With EU on International Trade and Youth Mobility",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-18T13:43:29+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzEyaDRXMTFMbnlVbjRuODlwSndsb01TWWRZV2F3b0ZzeWZrejlqYThKZjdBNUVNcURXdk1RV0xiNlRMbUxVbHhsN2RicmhEYzFnTWFkS3NyalY4UTlUU1QyS1k1OUNXNmlTX1FOdEFvX191X0pQOUxQVGlJclFmM295VVAwWWNGZG9sbWNIbnFWYjdTMFF6VFJncWJwWFh6MktUZW16X0ZMaU9hOEs1Ymp3S3Y1TXlIS2E2cA?oc=5",
-   "title": "Extreme weather poses growing risks to global oil and natural gas shipping, new IEA report finds",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-18T13:35:54+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.latitudemedia.com/news/green-blueprint-solving-the-ai-data-center-power-bottleneck-with-superconductors/",
-   "title": "Solving the AI data center power bottleneck with superconductors",
-   "source": "Latitude Media",
-   "desk": "news",
-   "published": "2026-11-18T13:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Data centers",
-    "Grid edge",
-    "artificial intelligence",
-    "data centers",
-    "grid edge",
-    "superconductors",
-    "transmission"
-   ],
-   "description": "VEIR's Tim Heidel on pivoting from transmission to data centers, cooling cables with liquid nitrogen, and raising a Series C.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://i0.wp.com/www.latitudemedia.com/wp-content/uploads/2026/11/Latitude-1920px-32-Image-2026-11-02T110339.560.jpg?fit=1920%2C1280&ssl=1",
-   "paragraphs": [
-    "Decarbonizing the global economy requires a massive expansion of electrical transmission capacity. But building conventional high-voltage lines often takes over a decade due to local opposition and complex permitting. Tim Heidel, CEO and co-founder of VEIR, initially launched his company to solve this grid problem. His team developed a new generation of high-temperature superconducting cables cooled by liquid nitrogen that have the ability to fit more power into the same physical footprint as traditional copper lines.",
-    "Tim’s team also created a system to help meet growing server rack power demands from data centers by condensing dozens of copper wires into a single compact pipe. In addition to saving valuable physical space, the system reduces installation labor by up to eighty percent compared to conventional copper line installation.",
-    "Credits: Hosted by Lara Pierpoint. Produced and edited by Ross Kenyon, Anne Bailey, and Stephen Lacey. Sean Marquand is our technical director. Stephen Lacey is our executive editor."
-   ],
-   "lede": "VEIR's Tim Heidel on pivoting from transmission to data centers, cooling cables with liquid nitrogen, and raising a Series C.",
-   "tags": [
-    "industry",
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/current-classics-lord-mayor-of-londons-limo-latest-to-go-electric/",
-   "title": "Current classics: Lord mayor of London’s limo latest to go electric",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T12:31:45+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "cats": [
-    "News",
-    "current classics",
-    "ev conversions",
-    "rolls-royce",
-    "uk"
-   ],
-   "description": "If you wake up tomorrow as the esteemed Lord Mayor of London, you’ll want to make a properly dignified entrance. To...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/001-Electrogenic-London-City-Rolls-Royce-EV.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "If you wake up tomorrow as the esteemed Lord Mayor of London, you’ll want to make a properly dignified entrance.",
-   "tags": [
     "transport"
    ]
   }
