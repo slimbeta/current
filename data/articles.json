@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:54:12+00:00",
+ "updated": "2026-11-27T19:58:38+00:00",
  "briefing": {
   "headline": "The grid, AI’s power demand and solar",
   "period": "Nov 21–27",
@@ -44,6 +44,566 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://electrek.co/2026/11/27/worlds-largest-electric-bulk-cargo-shop-packs-massive-23-5-mwh-battery/",
+   "title": "World’s largest electric bulk cargo shop packs MASSIVE 23.5 MWh battery",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T19:22:01+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News",
+    "electric boats",
+    "logistics",
+    "ports"
+   ],
+   "description": "Moving millions of tons of coal, sugar, and other bulk cargo is serious business, and decarbonizing that business presents a...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/brf-froan-rotores-MAIN.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Moving millions of tons of coal, sugar, and other bulk cargo is serious business, and decarbonizing that business presents a..."
+  },
+  {
+   "url": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050",
+   "title": "‘Sinking’ African megacities will expose seven million people to flooding by 2050",
+   "source": "Carbon Brief",
+   "desk": "news",
+   "published": "2026-11-27T19:00:00+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "Uncategorized",
+    "Africa",
+    "chart",
+    "Coastal flooding",
+    "coasts",
+    "Flooding",
+    "Sea level rise",
+    "sea levels"
+   ],
+   "description": "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by…",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.carbonbrief.org/wp-content/uploads/2026/11/3DT7NER.jpg",
+   "paragraphs": [
+    "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by the middle of the century, according to new research.",
+    "The analysis, published in Science Advances, combines satellite data with projections of sea level rise to assess the risk of flooding in 20 of Africa’s most populous coastal cities.",
+    "Lagos, the capital of Nigeria, and Alexandria in Egypt are the most vulnerable cities in the analysis.",
+    "Human activity, such as pumping groundwater or drilling for fossil fuels, can cause the ground to sink, in a process called “ subsidence ”.",
+    "Seismic or volcanic activity can also drive changes in the height of the land, causing it to either rise or fall. This “vertical land movement” can either alleviate or exacerbate the effects of sea level rise.",
+    "The researchers combined more than 4,000 satellite images of Africa’s coastline to determine how quickly different regions are rising or sinking.",
+    "They identified Lagos and Alexandria as “subsidence hotspots”, finding that the two cities are sinking at rates of 5.2mm and 6.3mm per year, respectively.",
+    "This is “comparable to rates reported for south-east Asian megacities such as Jakarta, Manila and Ho Chi Minh City”, which have recorded “some of the highest subsidence rates yet observed”, according to the study.",
+    "The authors combined these estimates with sea level rise projections from the Intergovernmental Panel on Climate Change’s sixth assessment report under three different emissions scenarios, to assess the regional sea level rise across the African coastline.",
+    "They used 2020 population data, building footprints and GDP per capita to estimate how much of each city would be exposed to these flooding events over the 21st century, if the city itself stays the same."
+   ],
+   "lede": "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by the middle of the century, according to new research."
+  },
+  {
+   "url": "https://electrek.co/2026/11/27/byd-whale-flagship-electric-minivan-debuts-559-miles-range/",
+   "title": "BYD’s flagship electric minivan debuts with a new style and 559 miles of range",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T18:40:39+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "BYD’s new flagship MPV is not your average minivan. The Whale can drive over 559 miles (900 km) on a...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Whale-electric-minivan-side.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "BYD’s new flagship MPV is not your average minivan. The Whale can drive over 559 miles (900 km) on a...",
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/27/prevost-h3-45-electric-coach-540-kwh-mcs/",
+   "title": "Prevost unveils Electric coach bus: 600 hp, 540 kWh, 250-mile range",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T17:23:17+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News",
+    "electric buses",
+    "Prevost",
+    "volvo"
+   ],
+   "description": "Prevost unveiled the H3-45 Electric, its first electric motorcoach, with a 540 kWh Volvo battery, 450 kW dual motors, and CCS1 and MCS charging.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/prevost-h3-45-electric-terminal.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Prevost unveiled the H3-45 Electric, its first electric motorcoach, with a 540 kWh Volvo battery, 450 kW dual motors, and CCS1 and MCS charging.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/27/toyota-confirms-highlander-9x-first-erev-top-tier-tech/",
+   "title": "Toyota confirms the Highlander 9X will launch as its first EREV with top-tier tech in early 2027",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T17:18:59+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "The Toyota Highlander 9X will go on sale in early 2027 as the brand’s first extended-range electric vehicle with advanced...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-Highlander-9X-EREV.jpeg?quality=82&strip=all&resize=1200,628",
+   "lede": "The Toyota Highlander 9X will go on sale in early 2027 as the brand’s first extended-range electric vehicle with advanced...",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/27/used-cybertruck-prices-jump-after-tesla-kills-it/",
+   "title": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T17:06:53+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News",
+    "Tesla",
+    "Tesla Cybertruck"
+   ],
+   "description": "Used Cybertruck prices are up 10-15% since Tesla announced the end of production, and one dealer now wants $150,790 for a used Cyberbeast.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/used-cybertruck-cyberbeast-150790-listing.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Used Cybertruck prices are up 10-15% since Tesla announced the end of production, and one dealer now wants $150,790 for a used Cyberbeast.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/27/ego-power-nexus-1400w-portable-inverter-generator-matter-outdoor-smart-plug-more/",
+   "title": "EGO Power+ Nexus 1,400W portable inverter + generator hits new $579 low, Matter Outdoor Smart Plug new $22 low, more",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T16:16:03+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "There’s still time to score major deals during Amazon’s Black Friday Sale and countless other sales across all kinds of...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/EGO-Greenworks-Worx-Linkind-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Head below for other New Green Deals we’ve found today and, of course, Electrek’s best EV buying and leasing deals. Also, check out the new Electrek Tesla Shop for the best deals on Tesla accessories.",
+    "Only on the market for a little over two months, this Linkind outdoor smart plug has become quite popular, mostly due to its Matter inclusion for streamlining the in-app smart controls across the most popular ecosystems. Turning one outlet into two, you can use it to automate holiday displays and other everyday power needs, allowing you to remotely turn things on/off, set schedules to do so, and more."
+   ],
+   "lede": "Head below for other New Green Deals we’ve found today and, of course, Electrek’s best EV buying and leasing deals. Also, check out the new Electrek Tesla Shop for the best deals on Tesla accessories.",
+   "tags": [
+    "transport"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/27/hyundai-reveals-new-mercury-ev-concept-launch-as-ioniq-m-images/",
+   "title": "Hyundai’s new Mercury EV Concept will launch as the IONIQ M in 2027 [Images]",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T15:11:33+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Hyundai unveiled the Mercury Concept, a preview of its upcoming entry-level electric SUV set to launch as the IONIQ M...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-Mercury-EV-Concept-1.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Following the IONIQ V, which went on sale in September, Hyundai offered a look at its upcoming IONIQ lineup for China at the Guangzhou Auto Show on November 27.",
+    "Hyundai’s Mercury Concept stole the spotlight. The concept previews its upcoming “B-segment premium smart SUV,” set to launch in China in 2027.",
+    "According to Hyundai, the IONIQ M will be “the most accessible entry-level model in the IONIQ universe.” Unfortunately, it’s designed specifically for China.",
+    "Like the IONIQ V, the electric SUV was developed by Hyundai Motor’s Chinese design and engineering team. As such, it features a unique style and advanced tech you won’t find in Hyundai’s vehicles sold in the US, Europe, or other overseas markets.",
+    "The SUV’s futuristic low-slung design is inspired by Mercury’s orbit around the sun. Up front, the shark-nose design and slim, edgy lights form Hyundai’s “H” badge, while an integrated rear spoiler adds to the compact, sporty look.",
+    "Hyundai said the production version will feature Zhuoyu L2++ ADAS and a high-tech cabin powered by ByteDance’s Doubao AI model.",
+    "A battery-swap version is also set to launch through Hyundai’s partnership with China’s CATL following the production IONIQ M.",
+    "The Mercury follows the Venus, now on sale as the IONIQ V, and the larger Earth SUV, as Hyundai’s third IONIQ Planet name designed for China. It will go on sale in 2027 as the IONIQ M, alongside the IONIQ V EREV.",
+    "In 2028, Hyundai will launch the production version of the Earth SUV, while two new energy vehicles will join the lineup in 2029."
+   ],
+   "lede": "Following the IONIQ V, which went on sale in September, Hyundai offered a look at its upcoming IONIQ lineup for China at the Guangzhou Auto Show on November 27.",
+   "tags": [
+    "china",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGpuMDhYREJ3NEZGYUNJUE5YVURwUnZpSkFkeFdvQkoyUzJtX2k4V20tOUtLRkVqNkh1RmVEZm10UGZpYy1XME9rRjRmaHYzU01VZWJJR1RlTnNnTnp2TlJ2aEppQk0tRzFpVFNmTGl4TTMzQjNMemNjemRMVXd2TjVMSmtqUUE5OXdlR3l6SThnTHA5VFNtR1dSWmRlclVaYmFYVGtZdHNhdw?oc=5",
+   "title": "UK Grid Issues Another Warning for Tight Power Supplies",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-27T14:48:28+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+   "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T14:48:15+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News",
+    "AI5",
+    "Tesla",
+    "Tesla FSD",
+    "tesla optimus",
+    "TSMC"
+   ],
+   "description": "Musk says Tesla's AI5 chip goes to Optimus because cars don't need it. A Taiwan report says limited TSMC 3nm supply keeps it out of cars until 2028.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-AI5-chip-hero.jpeg?quality=82&strip=all&resize=1200,628",
+   "paragraphs": [
+    "Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply chain gives a more practical reason: Tesla won’t have enough AI5 chips for its cars until 2028.",
+    "According to Commercial Times, Tesla’s chip design partner Global Unichip (GUC) is giving its limited TSMC 3nm capacity for 2027 to Google and Microsoft data center chips first. That leaves Tesla with a relatively small AI5 allocation.",
+    "Last Sunday, a Tesla owner asked Musk when AI5 would be in new cars. His answer: “It’s going to Optimus. Cars will remain at AI4. That’s enough to solve superhuman driving.”",
+    "As we reported this week, FSD v15 is basically AI4’s last shot. Tesla engineers are already squeezing the last few percent of utilization out of the chip, and the AI4.5 refresh is mostly a move to LPDDR5X memory. Musk said Tesla cut AI4.5 from 32GB to 24GB of RAM because “RAM is super expensive,” and that AI4 itself now costs twice as much due to memory and storage price hikes.",
+    "It’s quite a change in plans. In June 2024, Musk said AI5 would be in vehicles in the second half of 2025. Tesla only taped out AI5 in April, and Musk had already started describing its focus as Optimus and Tesla’s supercomputer clusters.",
+    "The Commercial Times report, published today, describes GUC as the custom ASIC design partner on Tesla’s AI5 project. GUC is the design services house whose largest shareholder is TSMC, and it works mostly on data center silicon.",
+    "Industry sources told the paper that GUC’s 2027 allocation of TSMC’s N3 capacity is much larger than this year’s. But with AI compute demand exploding, it still can’t serve every big customer at once.",
+    "So GUC is prioritizing North American cloud projects, including Google’s Axion 2 and Axion 3 server processors and Microsoft’s in-house chips. Those orders carry high margins and good visibility. Tesla’s robot and car chip doesn’t make the front of the line.",
+    "The result, according to the report, is that Tesla’s initial 2027 wafer quota can’t support annual shipments for a fleet of millions of cars. The supply chain expects that limited AI5 volume to go first to Optimus, which needs a lot of compute but ships in small numbers, and only expects large-scale adoption in cars after N3 capacity expands further in 2028.",
+    "TSMC is adding 3nm capacity, but not fast. Its new 3nm fab in Tainan is scheduled for volume production in the first half of 2027, and its second Arizona fab, which Musk has said will produce AI5, in the second half of 2027."
+   ],
+   "lede": "Musk says Tesla's AI5 chip goes to Optimus because cars don't need it. A Taiwan report says limited TSMC 3nm supply keeps it out of cars until 2028.",
+   "tags": [
+    "industry",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/japans-30th-solar-auction-allocates-27-7-mw-of-pv-capacity/",
+   "title": "Japan’s 30th solar auction allocates 27.7 MW of PV capacity",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T14:24:01+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Highlights",
+    "Japan",
+    "Utility-scale"
+   ],
+   "description": "Japan has selected seven PV projects ranging in size from 500 kW to 20 MW in its latest procurement exercise. The lowest bid came in at JPY 5.00 ($0.031)/kWh, while the weighted average final price reached JPY 9.13/kWh.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/CQnZ3erg43BRHZJljRNBm3YKN9VVmtxzKqiWi9jsry9_eo9e31LnoB0rUUa88FxiljHWDa0-SX_OCjsknuQ-xp6AJLIAvnKFNb3kseZRM_hwcpGEE4NtHKxssZOXsb_O8BpQNFYfVGiEg3VwMlN_4CJwUnIzBqjBRAIfLUYasj6rDGIVA0MIHvLufJWLL0Tq.jpg",
+   "paragraphs": [
+    "Japan’s Organization for Cross-regional Coordination of Transmission Operators (OCCTO) has announced the results of the country’s 30th auction for utility-scale solar projects.",
+    "The procurement exercise allocated 27.7 MW of PV capacity against a target of 91 MW. It was open to solar projects with a generation capacity of at least 250 kW under Japan’s feed-in premium (FIP) scheme.",
+    "Eight projects totaling 41.4 MW qualified to participate in the auction. However, only seven projects totaling 27.7 MW submitted bids, with all seven securing support.",
+    "The highest bid of JPY 9.60/kWh, corresponding to the auction’s ceiling price, was submitted by two developers – Machiokoshi Energy and Solar Field 13 – for projects with capacities of approximately 20 MW and 1.3 MW, respectively.",
+    "Solar Field 13 also secured support for two 1.99 MW solar projects at JPY 7.50/kWh each. The remaining two projects, with capacities of 888.8 kW and 1 MW, were awarded at JPY 6.99/kWh and JPY 9.50/kWh, respectively.",
+    "The auction was the third procurement exercise conducted in Japan’s 2026 fiscal year. It follows the 29th solar auction, which allocated 38.2 MW at an average price of JPY 8.89/kWh, and the 28th auction, which awarded 89.2 MW at an average price of JPY 6.74/kWh.",
+    "In the 27th auction, the Japanese authorities allocated 79 MW of PV capacity at an average price of JPY 4.61/kWh.",
+    "The latest results mark the second consecutive decline in awarded capacity and the second consecutive increase in weighted average prices during the current fiscal year.",
+    "Japan’s Ministry of Economy, Trade and Industry (METI) confirmed in March that it would discontinue auction-based support for large-scale solar after fiscal 2026, while maintaining incentives for smaller PV installations and rooftop solar.",
+    "In October, the Japanese authorities proposed four categories of commercial solar projects that could continue to benefit from priority government support, including solar installations on publicly owned land and solar carports."
+   ],
+   "lede": "Japan has selected seven PV projects ranging in size from 500 kW to 20 MW in its latest procurement exercise. The lowest bid came in at JPY 5.00 ($0.031)/kWh, while the weighted average final price reached JPY 9.13/kWh.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.eia.gov/todayinenergy/detail.php?id=68525",
+   "title": "Global electricity generation more than doubled from 2000 to 2025",
+   "source": "EIA Today in Energy",
+   "desk": "analysis",
+   "published": "2026-11-27T14:00:00+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "description": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.eia.gov/todayinenergy/images/2026.11.27/main.png?1795809540",
+   "paragraphs": [
+    "Data source: U.S. Energy Information Administration, International Energy Statistics Note: Renewables includes electricity generation from hydroelectricity, geothermal, solar, wind, tide and wave, and biomass and waste. Solar generation includes solar photovoltaic and solar thermal generation, and distributed solar generation where available. U.S. biomass and waste generation includes wood and waste generation from the MER Table 7.2, and other generation from the Electric Power Annual table 3.1A. Other includes generation from oil, other gases, and hydroelectric pumped storage. The world generated 31.8 trillion kilowatthours (kWh) of electricity in 2025, more than double the 15.1 trillion kWh generated in 2000, according to our recently updated International Energy Statistics data. This growth in global electricity generation is driven by increasing electricity demand from global population and economic growth, and an increase in global median household income.",
+    "Coal was the largest global source of electricity generation from 2000 to 2024, increasing 83% from 5.8 trillion kWh to 10.5 trillion kWh. However, the share of the world’s total generation from coal decreased from its peak of 41% in 2007 to 33% in 2025. Generation from renewable energy saw the largest growth between 2000 and 2025, increasing from 2.9 trillion kWh to 10.6 trillion kWh. Renewables made up 19% of the world’s generation mix in 2000 and increased to 34% in 2025, surpassing coal as the largest source of the world’s electricity generation in 2025.",
+    "China, the United States, and India have been the three largest electricity generators in the world since 2013. Together these three countries generated 17.3 trillion kWh in 2025, more electricity than the rest of the world combined.",
+    "China has a large population and has experienced rapid economic growth since 2000, leading to increasing electricity generation. Between 2000 and 2025, China’s electricity generation grew at an average annual rate of 9%, increasing from 1.4 trillion kWh in 2000 to 10.7 trillion kWh in 2025. China’s generation in 2025 accounted for more than one-third of the world’s total electricity generation and more than any other country based on our preliminary estimates. More than half of China’s generation in 2025 came from coal and more than one-third from renewables.",
+    "The United States was the second-largest generator of electricity in 2025, producing 4.5 trillion kWh (including small-scale solar photovoltaic generation and other generation). In 2025, natural gas accounted for 40% of electricity in the United States, renewables for 26%, and nuclear energy for 17%. Electricity generation growth in the United States averaged less than 1% annually from 2000 to 2020. The relatively slow growth in electricity generation correlates with the United States' shift from a manufacturing economy to a service economy. Between 2020 and 2025, however, electricity generation growth averaged 2% annually; much of that growth is because of increasing demand in the commercial sector, including data centers."
+   ],
+   "lede": "Data source: U.S. Energy Information Administration, International Energy Statistics Note: Renewables includes electricity generation from hydroelectricity, geothermal, solar, wind, tide and wave, and biomass and waste.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/greenhushing-pv-prices-battery-prices-and-the-shifting-bottleneck/",
+   "title": "Greenhushing, PV prices, battery prices and the shifting bottleneck",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T13:45:00+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Opinion"
+   ],
+   "description": "Greenhushing reflects a shift towards prioritising environmental performance over public sustainability commitments, as declining solar PV and battery costs strengthen the economic case for corporate decarbonisation. The solar industry’s next phase of growth will depend less on equipment affordability and more on grid access, system flexibility, integration and long-term operational value.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/07/commercial-solar-bernd-dittrich-unsplash-scaled.jpg",
+   "paragraphs": [
+    "Greenhushing refers to the deliberate practice by companies of downplaying, concealing, or remaining silent about their environmental goals, climate commitments, and sustainability initiatives. It contrasts with greenwashing, whereby companies exaggerate or misrepresent their environmental credentials. This trend is becoming increasingly prevalent among U.S. companies as businesses grow more cautious about the political, legal, and financial risks associated with publicly communicating their environmental commitments.",
+    "This growing reluctance to disclose sustainability initiatives does not necessarily reflect a reduction in corporate environmental action. Rather, many companies are shifting toward a more restrained communication strategy, prioritising the implementation of sustainability measures over their public promotion. This distinction is particularly relevant in the context of the declining costs of solar photovoltaics and lithium-ion batteries, which have made renewable energy generation and energy storage increasingly economically attractive. As these technologies become more cost-competitive, companies may have stronger financial incentives to adopt them as part of their operations, even as they become less willing to publicise their climate-related investments and commitments.",
+    "Recent academic research examining U.S. publicly listed companies finds that investors may place greater value on demonstrated environmental performance than on extensive sustainability communication. Evidence indicates that higher levels of corporate greenhushing – the gap between environmental performance and public communication – are associated with higher subsequent abnormal stock returns, suggesting that investors may place greater value on demonstrable environmental performance than on promotional communication. A 2025 survey by The Conference Board found that 80% of surveyed sustainability executives were adjusting their ESG strategies in response to the new U.S. administration.",
+    "Solar energy has already won the debate over economic viability. Now, it must demonstrate its ability to create value for the grid, consumers and investors. The solar energy sector worldwide no longer needs to convince any market that it is competitive. PV modules cost only 5% of what they used to cost 15 years ago, and battery prices are only 9% of what they were in 2010. Solar power is already present in utility-scale generation, rooftop installations, businesses, agribusiness and the broader vision of a cleaner economy. The conversation has evolved.",
+    "The next phase of growth will not be defined solely by the number of MW of PV installed or the MWh of batteries deployed. It will depend on the ability to deliver energy predictably, in the right location and at the time the power system needs it most. This represents a shift from scale to intelligence: moving away from simply installing PV systems and feeding electricity into the grid toward generating, storing, managing and delivering value. The solar industry has entered a new phase in which the most important question is no longer, “How much does the equipment cost?” Instead, it is, “What problem does this asset solve, and how can it generate value over time?” Answering that question requires a broader perspective involving grid infrastructure, contracts, operations, capital and regulatory confidence."
+   ],
+   "lede": "Greenhushing reflects a shift towards prioritising environmental performance over public sustainability commitments, as declining solar PV and battery costs strengthen the economic case for corporate decarbonisation.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant/",
+   "title": "The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T13:38:42+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Energy Storage",
+    "Hydrogen",
+    "Utility-scale"
+   ],
+   "description": "In other news, Australia and Germany are exploring hydrogen-based aviation, while Envision Energy and Greensteel Australia are considering a 400 MW green hydrogen system for low-carbon steelmaking.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-at-14.15.07.png",
+   "paragraphs": [
+    "BP and Iberdrola have started operations at their 25 MW green hydrogen plant at BP’s Castellón refinery, which supplies fuels to customers in Spain and across Europe. The facility, currently Spain’s largest operational green hydrogen plant, is expected to produce around 2,800 metric tons of green hydrogen per year. Iberdrola supplies the plant with 170 GWh of renewable electricity per year from its Spanish wind and solar farms under a power purchase agreement (PPA). The facility features five 5 MW proton exchange membrane (PEM) electrolyzers supplied by Plug Power.",
+    "Australia and Germany have expanded their hydrogen cooperation to jointly develop value and supply chains for hydrogen-based aviation. Research institutes from the two countries are working with industry partners under the Sustainable Aviation Hub with Australia (SAvHAus) initiative. The project focuses on sustainable aviation fuel (SAF) production from synthesis gas and ethanol, efficient hydrogen supply, and fuel cell systems. “The project has a funding volume of 9.5 million euros and will run until the end of August 2030,” said the Fraunhofer Institute for Solar Energy Systems (Fraunhofer ISE), which coordinates the project.",
+    "Envision Energy has announced a strategic partnership with Greensteel Australia to explore the deployment of an initial 400 MW green hydrogen system and an integrated renewable energy supply for low-carbon iron and steelmaking in New South Wales. Greensteel Australia is developing what it describes as the country’s first new steel mill in more than 30 years. Envision said the next stage would focus on extending the value chain upstream through green hydrogen-based direct reduced iron (DRI) production and electric arc furnace (EAF) steelmaking. The two stages would explore synergies in green iron and semi-finished steel supply, processing, and logistics, subject to technical and commercial assessments and regulatory approvals.",
+    "Spain has approved a €17.14 billion electricity transmission network development plan through 2030, allocating 12.4 GW of additional grid capacity to electricity demand from renewable hydrogen production and its derivatives. The plan aims to accommodate 47.4 GW of new electricity demand across industry, hydrogen production, data centers, housing, and transport. The investment program includes 6,707 km of new transmission lines, upgrades to 8,164 km of existing lines, and 193 new substation sites.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "In other news, Australia and Germany are exploring hydrogen-based aviation, while Envision Energy and Greensteel Australia are considering a 400 MW green hydrogen system for low-carbon steelmaking.",
+   "tags": [
+    "industry",
+    "policy",
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/bangladesh-makes-solar-equipment-recycling-mandatory/",
+   "title": "Bangladesh makes solar equipment recycling mandatory",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T12:31:25+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Asia-Pacific",
+    "Highlights",
+    "Modules"
+   ],
+   "description": "Bangladesh’s new Special Solar Power Installation Act requires manufacturers, suppliers and service providers to implement take-back schemes for end-of-life solar equipment, marking a step toward sustainable PV waste management.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/photovoltaic-module-ecoprogetti-recycling-line-e1794224153882-1.jpg",
+   "paragraphs": [
+    "The government of Bangladesh has made the recycling and disposal of waste generated by solar installations mandatory for manufacturers, suppliers and service providers under its Special Solar Power Installation Act, 2026.",
+    "The country’s parliament recently passed the legislation, with a gazette notification issued on Nov. 22.",
+    "Under the act, manufacturers, suppliers and service providers of solar panels and related equipment will be responsible for recycling equipment that reaches the end of its operational life or is damaged in accidents or natural disasters.",
+    "“A ‘Take-back Scheme’ will be implemented by the concerned manufacturer, supplier, or service provider to take back and manage machinery and equipment of the special solar power system when they become expired or unfit for use,” the act says.",
+    "The legislation also stipulates that a tripartite agreement will be signed between the consumer, the service provider and the relevant authority.",
+    "Bangladesh currently has no standalone policy governing the management of solar panel and related equipment waste. In its Renewable Energy Policy 2025, the Power Division said provisions for the sustainable disposal and recycling of batteries and PV panels would be incorporated into e-waste regulations by the Ministry of Environment.",
+    "Alamgir Hussain, a garment factory owner in Dhaka, welcomed the government’s initiative, warning that improperly managed solar waste could pose significant risks in the coming years.",
+    "“Many factories and private building owners are installing solar systems in the rooftops as the government declared incentives for the same. The wastes need proper disposal to avoid hazard,” he said.",
+    "Imran Chowdhury, deputy director (PIM) for Bangladesh at ib vogt APAC, said the rapid expansion of the global solar industry is shifting the discussion beyond capacity additions and cost competitiveness toward lifecycle sustainability and responsible solar asset management.",
+    "“In this context, it is encouraging to see Bangladesh addressing solar e-waste management through its new Special Solar Power Installation Act, 2026,” he told pv magazine."
+   ],
+   "lede": "Bangladesh’s new Special Solar Power Installation Act requires manufacturers, suppliers and service providers to implement take-back schemes for end-of-life solar equipment, marking a step toward sustainable PV waste management.",
+   "tags": [
+    "industry",
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/elco-launches-propane-air-to-water-heat-pumps-for-commercial-applications/",
+   "title": "Elco launches propane air-to-water heat pumps for commercial applications",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T12:09:35+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "Technology & Products",
+    "Commercial & industrial",
+    "Heat pumps"
+   ],
+   "description": "The new heat pump series is available in seven versions with heating capacities ranging from 40.1 kW to 84.4 kW and seasonal coefficients of performance of up to 4.70. The systems can deliver flow temperatures of up to 75 C and be cascaded to reach a combined capacity of 1.35 MW.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-125606.v1.jpg",
+   "paragraphs": [
+    "Elco, a unit of Italy-based heating system manufacturer Ariston, has introduced a new series of air-to-water heat pumps for space heating, cooling and domestic hot water production in commercial buildings.",
+    "“Designed for commercial heating applications, the new air-to-water R290 heat pump combines high efficiency with a modular design, offering outputs from 40 kW to 84 kW and up to 1,344 kW in cascade,” the company said in a statement.",
+    "Dubbed Aerotop Evo P, the new product line uses propane (R290) as the refrigerant, with a global warming potential (GWP) of 0.02, and features inverter-driven compressors that adjust their output to match heating and cooling demand.",
+    "The heat pumps are available in seven sizes with nominal heating capacities of 40.1 kW, 46.8 kW, 50.4 kW, 55.8 kW, 61.0 kW, 70.2 kW and 84.4 kW.",
+    "Their coefficient of performance (COP) ranges from 3.71 to 3.92 at an outdoor temperature of 7 C and a water temperature of 35 C. At the same outdoor temperature and a water temperature of 55 C, the COP ranges from 2.55 to 2.74.",
+    "The seasonal coefficient of performance (SCOP) ranges from 4.22 to 4.70 at 35 C and from 3.41 to 3.63 at 55 C. The systems achieve energy efficiency ratings of A++ or A+++ at 35 C and A++ at 55 C.",
+    "In cooling mode, the heat pumps deliver capacities ranging from 34.9 kW to 72.7 kW at an outdoor temperature of 35 C and a water temperature of 7 C. Their seasonal energy efficiency ratio (SEER) ranges from 4.36 to 5.47.",
+    "The systems can operate at outdoor temperatures as low as -20 C and achieve a maximum flow temperature of 75 C at an ambient temperature of -5 C under partial-load conditions.",
+    "The five smaller models measure 2,384 mm x 2,240 mm x 1,094 mm and have operating weights ranging from 714 kg to 760 kg. The two largest versions measure 3,402 mm x 2,240 mm x 1,094 mm and weigh 1,021 kg each.",
+    "The smaller units use a single compressor and contain between 4.5 kg and 4.9 kg of propane, while the two largest models feature two compressors and a total refrigerant charge of 10 kg."
+   ],
+   "lede": "The new heat pump series is available in seven versions with heating capacities ranging from 40.1 kW to 84.4 kW and seasonal coefficients of performance of up to 4.70.",
+   "tags": [
+    "industry"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ycmZuNzB4LVhoYm5hY1NLd1dQbXpZdmd1WWpPc0xYbUZ5R05pLUhxdTFRX3RZckpOWEhSRHpUMTQ0MXNPRElVNzkwbGFpS1JudGhzektoVnpXekc5dUwxS2ZuNE9tWWdja3ZJNkhCVzE?oc=5",
+   "title": "Shutdowns: the expensive limitations of the renewables surge",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T11:47:36+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://www.energy-storage.news/continued-operating-losses-for-narada-power-as-battery-oem-falls-to-lowest-bankability-rating/",
+   "title": "Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating",
+   "source": "Energy-Storage.news",
+   "desk": "news",
+   "published": "2026-11-27T11:20:23+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News",
+    "bankability",
+    "china",
+    "financial health",
+    "narada power"
+   ],
+   "description": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
+   "ftries": 1,
+   "lede": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
+   "tags": [
+    "china",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/eu-restrictions-on-inverters-could-cut-european-solar-deployment-by-up-to-6-says-wood-mackenzie/",
+   "title": "EU restrictions on inverters could cut European solar deployment by up to 6%, says Wood Mackenzie",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T11:18:46+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Europe",
+    "Highlights",
+    "Inverters"
+   ],
+   "description": "Wood Mackenzie expects EU funding restrictions on projects using inverters from high-risk suppliers to reduce cumulative solar and energy storage installations across the bloc by 3% between 2027 and 2030. Limited local product availability, rising costs, and supply chain constraints are among the main challenges.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/rooftop-inverters-1536x1152-1.png",
+   "paragraphs": [
+    "Wood Mackenzie expects EU restrictions on inverters from high-risk suppliers to reduce cumulative solar and energy storage installations across the European Union by 3% between 2027 and 2030. Utility-scale solar and energy storage projects receiving EU funding account for most of the affected capacity.",
+    "In April 2026, the European Commission introduced restrictions on the use of inverters from high-risk suppliers in solar and energy storage projects receiving EU funding. The measures were implemented through internal guidelines for European financial institutions in response to concerns over cybersecurity and the security of energy infrastructure.",
+    "Utility-scale solar and energy storage projects receiving EU funding account for most of the affected capacity. Around 14% of European solar projects and 10% of energy storage projects rely on EU-backed loans or funds.",
+    "Wood Mackenzie said exposure is particularly high in Central and Eastern Europe due to the region’s greater reliance on EU funding and the strong presence of Chinese manufacturers. All China-based inverter manufacturers are affected by the country’s designation as a high-risk jurisdiction. Chinese suppliers accounted for more than 80% of European inverter shipments in 2025, with higher market shares in price-sensitive markets that rely more heavily on EU funding.",
+    "The research firm assessed the impact of the restrictions through interviews and surveys involving more than 30 industry stakeholders, including manufacturers, suppliers, distributors, solar and storage developers, and national solar associations. The study examines product availability, price increases, and contract renegotiations resulting from supplier changes.",
+    "Under its base-case scenario, Wood Mackenzie expects PV installations in key Central and Eastern European markets between 2027 and 2030 to be 6% lower than previously forecast. Energy storage installations are expected to be 5% lower on average. Romania, the Czech Republic, and Bulgaria are expected to be the hardest-hit markets due to their high exposure to EU funding restrictions.",
+    "The impact is expected to be less pronounced across the European Union as a whole. Wood Mackenzie forecasts a 3% reduction in cumulative solar and storage installations between 2027 and 2030. Western European markets are better positioned to absorb cost increases and have more established commercial relationships with inverter manufacturers not classified as high-risk suppliers. The impact is expected to peak in 2027, when Western supply chains will still have limited capacity to respond to the restrictions.",
+    "Wood Mackenzie estimates that inverter manufacturing capacity from suppliers not classified as high risk and available to the European market will exceed 150 GW by the end of 2027. This would be sufficient to meet European demand for solar and storage inverters, although actual availability will depend on distribution networks, logistics, after-sales services, and manufacturers’ ability to fulfill orders in individual markets."
+   ],
+   "lede": "Wood Mackenzie expects EU funding restrictions on projects using inverters from high-risk suppliers to reduce cumulative solar and energy storage installations across the bloc by 3% between 2027 and 2030.",
+   "tags": [
+    "industry",
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/japan-battery-financing-adapts-to-inflation-linked-capacity-contracts/",
+   "title": "Japan battery financing adapts to inflation-linked capacity contracts",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T11:15:00+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "Applications & Installations",
+    "Markets & Policy",
+    "Energy Storage",
+    "Utility-scale"
+   ],
+   "description": "A Japanese battery storage developer has drawn its first loans for two projects totaling 90 MW after addressing what it says were financing requirements without domestic precedent, tied to price adjustments in the country's long-term capacity auction contracts.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/PressreleaseChubu2.jpeg",
+   "paragraphs": [
+    "HEXA Energy Services said this week that MUFG Bank has made initial loan disbursements under project finance agreements for two grid-scale battery energy storage projects in northern and southern Japan, with combined grid connection capacity of 90 MW.",
+    "The projects – located in Bibai, Hokkaido, and Kumamoto, Kumamoto prefecture – won capacity contracts in Japan’s fiscal 2023 long-term decarbonization power auction. HEXA Energy Services said it “addressed financing requirements without domestic precedent,” including financing terms that reflect contract price adjustments linked to changes in inflation and interest rates.",
+    "MUFG Bank said it worked with HEXA Energy Services and other parties “to address the financing considerations specific to the two projects, including those arising from the newly introduced contract price adjustment mechanism under the long-term decarbonization power auction.”",
+    "Yoichiro Mizuta, chief executive officer of HEXA Energy Services, said in an online statement that the “financing presented new and significant challenges different from those of our previous projects.” He noted that the initial loan disbursements were completed within about two months.",
+    "The company did not disclose the loan amount, tenor, or storage capacity in megawatt-hours of the two projects.",
+    "The financing is HEXA’s third round of project debt for auction-backed batteries. The Tokyo-based company concluded a project finance agreement with MUFG Bank and Société Générale’s Tokyo branch in March 2025 for its 30 MW/130 MWh Tagawa project in Fukuoka prefecture, with funds disbursed at the end of June 2025. Financing for four projects in Hokkaido and Mie prefecture was disbursed in March 2026, according to the company.",
+    "HEXA Energy Services also plans to arrange project finance in its 2026 fiscal year for a battery project in Oyabe, Toyama prefecture. In addition, the company picked up two battery projects in the fiscal 2025 round of the auction.",
+    "Other Japanese battery projects have recently secured debt. In September, Nozomi Energy reached financial close on its 50 MW/196 MWh Nozu battery with non-recourse financing from Aozora Bank, backed by a 20-year CPI-linked capacity payment from the fiscal 2023 auction.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "A Japanese battery storage developer has drawn its first loans for two projects totaling 90 MW after addressing what it says were financing requirements without domestic precedent, tied to price adjustments in the…",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/27/chinese-pv-industry-brief-china-hits-1-33-tw-of-cumulative-solar-capacity/",
+   "title": "Chinese PV Industry Brief: China hits 1.33 TW of cumulative solar capacity",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-27T11:06:15+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Cells",
+    "China",
+    "Modules",
+    "Silicon"
+   ],
+   "description": "In other news, Jiangsu province has unveiled its 2027 renewable energy auction framework, Trina Solar plans to increase its stake in Trina Storage, and China Huaneng has started construction of a 400 MW offshore solar project, while TrendForce has reported further declines in wafer and cell prices.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2024/07/China-Three-Gorges.jpg",
+   "paragraphs": [
+    "China’s National Energy Administration (NEA) said the country’s cumulative installed solar capacity reached approximately 1.33 TW at the end of October 2026, up 16.3% year on year. China added 12.86 GW of new solar capacity in October, down 5.7% month on month, bringing total installations in the first 10 months of the year to approximately 123.69 GW.",
+    "China Huaneng has installed the first foundation pile for its 400 MW offshore solar project in Guanyun county, Jiangsu province. Construction began on Nov. 21. The project will occupy the same maritime area as an operational offshore wind farm, using fixed-pile foundations and shared grid-connection infrastructure for wind and solar generation. It is Jiangsu’s first large-scale co-located offshore wind and solar demonstration project to enter construction.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "In other news, Jiangsu province has unveiled its 2027 renewable energy auction framework, Trina Solar plans to increase its stake in Trina Storage, and China Huaneng has started construction of a 400 MW offshore solar…",
+   "tags": [
+    "china",
+    "policy",
+    "power"
+   ]
+  },
   {
    "url": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted/",
    "title": "New record for UK rooftop solar, more growth predicted",
@@ -140,6 +700,37 @@
    "lede": "Germany is undergoing a regulatory transformation that other European solar markets have already experienced, but the changes are happening too quickly, says Amós Guillén Duarte, managing director of FRV in Germany.",
    "tags": [
     "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.energymonitor.ai/news/rezolv-energy-selects-vestas-romanian-wind/",
+   "title": "Rezolv Energy selects Vestas for 292.5MW Romanian wind project",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-27T10:13:33+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Rezolv Energy has signed an agreement with Vestas to supply 45 turbines for the 292.5MW Dunarea East wind farm.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Vestas-Turbine.jpg",
+   "paragraphs": [
+    "Rezolv Energy has signed an agreement with Vestas to supply 45 turbines for the 292.5MW Dunarea East wind farm in Constanța County, southeastern Romania.",
+    "Under the terms of the agreement, Vestas will supply its EnVentus V162 model turbines, each with a capacity of 6.5MW, for a total installed capacity of 292.5MW.",
+    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+    "Vestas will also be responsible for installation, commissioning, and a 15-year service contract to support the long-term operation of the turbines.",
+    "Construction on the Dunarea East project is set to begin before the end of November 2026, with commercial operations expected to start in early 2029.",
+    "CJR Renewables will undertake balance of plant works, including roads, foundations, and electrical infrastructure, under a separate contract.",
+    "The lenders include Société Générale, Raiffeisen Bank International, Erste Group Bank, and Raiffeisen Bank, Mizuho Bank Europe, and Raiffeisenlandesbank Niederösterreich-Wien.",
+    "The group also includes the European Bank for Reconstruction and Development (EBRD), with support from Denmark’s Export and Investment Fund. The EBRD’s participation is backed by an InvestEU guarantee.",
+    "Revenue for Dunarea East is supported by a Contract for Difference (CfD) awarded in Romania’s second CfD auction in 2025, covering 211MW of capacity, along with a 10-year virtual power purchase agreement (VPPA) with international food retailer Ahold Delhaize.",
+    "Rezolv Energy is also developing the adjacent Dunarea West project as part of its broader Dunarea East & West initiative, which together will add over 470MW of renewable energy to Romania’s electricity grid."
+   ],
+   "lede": "Rezolv Energy has signed an agreement with Vestas to supply 45 turbines for the 292.5MW Dunarea East wind farm.",
+   "tags": [
     "power"
    ]
   },
@@ -284,7 +875,7 @@
     "lsft"
    ],
    "description": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
    "tags": [
     "power"
@@ -391,7 +982,7 @@
     "europe"
    ],
    "description": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland.",
    "tags": [
     "power"
@@ -415,7 +1006,7 @@
     "EnergyStorageEurope"
    ],
    "description": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
    "tags": [
     "power"
@@ -475,6 +1066,71 @@
     "china",
     "power"
    ]
+  },
+  {
+   "url": "https://www.energymonitor.ai/news/iberdrola-final-approval-caruna-acquisition/",
+   "title": "Iberdrola receives final EC approval for $5.4bn Caruna acquisition",
+   "source": "Energy Monitor",
+   "desk": "news",
+   "published": "2026-11-27T08:22:04+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "Iberdrola has obtained the final regulatory approval from the European Commission (EC) to acquire Caruna for $5.4bn.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Caruna.jpg",
+   "paragraphs": [
+    "The review under the Foreign Subsidies Regulation (FSR) represents the last outstanding authorisation for the transaction, allowing the Spanish utility to proceed with the purchase.",
+    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
+    "Iberdrola had already received competition approval from the EC as well as foreign direct investment clearance from Finland’s Ministry of Economic Affairs and Employment.",
+    "The deal value includes financial debt, and involves Iberdrola purchasing an 80% stake, while Nordic pension funds AMF and Elo will retain their collective 20% holding.",
+    "Caruna supplies electricity to around 1.5 million people in Finland, covering over 20% of the country’s population.",
+    "The company manages close to 89,000km of electricity networks, with 67% of its infrastructure situated underground.",
+    "Caruna operates under two distribution concessions, one serving regions around central Helsinki and Joensuu, and others in various parts of western and north-eastern Finland.",
+    "These areas have experienced increased demand for electricity, driven by the expansion of data centres, residential developments, and industrial activities.",
+    "The acquisition gives Iberdrola its first operation in Finland and aligns with the group’s strategy to focus investment on electricity networks in markets seen as stable and with favourable regulation.",
+    "According to the company, Caruna anticipates annual investments of €200m to €300m to support upgrades, digitalisation, and growth of its network infrastructure."
+   ],
+   "lede": "Iberdrola has obtained the final regulatory approval from the European Commission (EC) to acquire Caruna for $5.4bn.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUl9XaERjZ1Z6MmVhQUhoYWdyUjNfN2RsdGRGbFVXX0dpOUxnM1lwb3pLQmFlSExtLVE4SVFQSnlTclV6Nm5rNEpLWS1tdGp1eHM5cVBUbGw2dm5MM1hrS3FoTTZjMFU0RDlnTi05dHFtWDFkbldHRXFKVUVUWi1MSW9ZN2pJV3JtaWhHeHBlV3p2dmh1b3ZaMmVXaDl2czEwOThlbENIOUVFR19qMFlVZXlNVU1YUQ?oc=5",
+   "title": "Indonesia Arrests Three Over Trades in Stock Scrutinized by MSCI",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-27T06:59:00+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFV1cGt3OWFKdHV5WE5TcWhBRHJyU3NKTXZDUy0wbXV1ak4zU3pNV0xpdFc1d2lYVVBESWkwRXZ4cXBkQkx3MUx3WWx5MlY2OGU4NFBCT2dieUJxcjBQNDJjai1yTjFzUzRYNVZSWFFIRFROTVFJd2x5WFBaZnh3enVNcmRXYlVtSUxjNTlhbm93emVTWkZ1ZWJTbG1fQmtkQmdfdHlpRGtWUU9nUzlBYQ?oc=5",
+   "title": "India urges states to sign 41 GW of pending clean power contracts",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-27T06:43:00+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkNuVUVMdW5rNGc4WUUzdFAtc0J4TnpmSl90Vm5IeU0zaUlkOW5jakFHSzk5Tzk1OWpQMVV3ekEtUnlzVWFMVW9RUk1abzA2dXFtNTg1aVRFWU9KSzRDVTNQTEpCYWF5TFVSREdPVURicTVoMUFZVF9RclpFUDB1OGlIdF8?oc=5",
+   "title": "Business of Energy",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T06:36:07+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUlKaTN3N3RlcEp2OHYtb2h6c1dVZkNFaDlHdGRRS3VDeVc3NDU5eXphVWdhU21WZkhRVkRwMUpLQmxIdzNCTHduRVJwdzVDMTZfWHdHdXJKYkR3VXptTVZXVmt2dTduNWdmQkFhYk1KZ1RKd2JBWEVNMjgweTZMdEZUQWFEMHd4enBNNzZNU3lvVUNWMDZ4Vng5X20zV3oyWGRlUTVweW8wR1M1MWtTaHpwc3N5YktiajhaeXBkdHRPa0J2em5R?oc=5",
@@ -555,6 +1211,28 @@
    "tags": [
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkxXd0tjNkk0aWxXMDM3cWItWEMxb1R4a2xfMHJzSXY5U0RJTGU4M0F2dkNrdzF0UXdqUFBfZFJGa3h4VjFScEVtbGxQWUgwaWh0VTQxMG82eXpLWTRrMnprelozcnUyRDBmX0N6Y0JPdDdlTGVVSTdicEFsVjJOUHc4OHhJOEd0M05relhsVDAyMTBYTGxNWEIza1RJWTgtQndncXVXZWVoQjVhNUtGdS13Z2RhQQ?oc=5",
+   "title": "Sanchez Warns Spain of Massive Cuts and Recession With Far Right",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T23:29:10+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFI5d0x5d3BQUVZadkxYN3hqRVlzeERYWWFqaElWWDVYaXBGOVFwQTdHaWhNYmlfakJ0R0x5eWZpRDhuc3NIYWtCVmZBaE9XR1FiRFJIM2VyNlZ6TVpkUklrdno2ZlJQTXpXY3EwZTVxRWxsX3VmenFZaTV1RnBJS2xaRmx6dHNfbC1taVp4LXFvc24zeWZkUTNOenBOajRrRDZHWklzY0E5ME5ZN1hIbDh4R24?oc=5",
+   "title": "Thanksgiving Storm Hits East Coast, Disrupting Holiday Plans",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T22:54:35+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.pv-magazine.com/2026/11/26/ireland-could-allow-plug-in-solar-by-mid-2027/",
@@ -1198,6 +1876,20 @@
    "fetched": true,
    "tags": [
     "industry"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelJ3YmtXX00yVWlBSXNiWFZSSzhuTU5ldllBYXVFYkYyVzh3QUZzaVUyV0g3RDhTRW1kNmlnaGlqTU40Q2dMamc3OUxCeE1QR05RR1pzdExTb1h0N1g1czB2elQ3Y0tlelEyR0p5MEt3Q1p6dEo2X2dLWDBxblI4RFpSdjVTMlE5Y3VFNElsZXpxOUU1Y1pXT1huajF2QzVaR3I4UXpQTDJ0OW42cHl5UnlR?oc=5",
+   "title": "China Courts Global South With Energy Security and Clean Tech",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T08:22:17+00:00",
+   "seen": "2026-11-27T19:58:38+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
    ]
   },
   {
@@ -10057,474 +10749,6 @@
    "ftries": 1,
    "fetched": true,
    "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52T1BVMFdMWC1FSWVvSThNcXZuVGJQNHJsV2pBakZ4aV9qbWFaazQ3OGJxd0trRVVkRWs3U2lqYXJwbmZ4VXY0RWNnWTBMZFNkSWxERHBxaVhwTXp4UzVhNEhtZGdLbnhCMGF6T2dyS2JNRTA5ZGd2NmFMRQ?oc=5",
-   "title": "Setting the scene",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T05:33:11+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83dzR3Z1piODFrZl91c1FoQkh3S1RkS1NRSUhOUmNGdGs5M0tNZ3J6MGVUcnBWZUJmXy1fN2VuTWp2U2pFQ3FRSWF0cWFhdEdHbVVqU0FZX2wzVTFFUnptMm80bjVmOURCVG9fN3pJX24xUkxlNkFueEN5WQ?oc=5",
-   "title": "Executive summary - World Energy Outlook 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T05:31:40+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlF4Zl8wY1R6VTM4OTl1WUZha09BbVBMUURhQzBJOFlYZDA2T29KYmg4S2t3LUtIeUVfR2NrZXU2QXBGeDRGMWgzWEN4THJiUTllc29McnFaeGZEZ3hCLTJWNGlVa3ljX2NMY25NY1U0aFhsd0FnbzFkMnF5blJiWFJQQXU3WjA1dnJLMQ?oc=5",
-   "title": "Potential additional responses - World Energy Outlook 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T05:30:17+00:00",
-   "seen": "2026-11-26T08:21:35+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3ZfOVhwLTF3b2hPdTZkdTU2WnhtUFl5aGo0cHR3b0pZaHc4OGFXYU1heTNrS3J1dnVJWjkyTlFZWDVYRUk1LWFfbFpERENWTWo1T2xyV2xQTkxwbkcyMnI5YmNHcFFnUnpLRkFFS0VlaVVVS3hyODhKUHliOXllU3JqQmpfdGdST3lPRGRmZHNBRno1RzhyRWd3UTV4VVk4cWpSS2lFNA?oc=5",
-   "title": "Implications for energy security and affordability",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T05:30:02+00:00",
-   "seen": "2026-11-26T19:01:56+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlVLekJsV1lXTGsxOWFDNkJLTDZhV3JSeFRQWS1zNXlobWJ6cDB0dXdhUE5IZ2VBY3N1THJOdVFtNmhEcnVTcUpWS2x4cVJRV1BscHJ2cVRmbGxtUEJLd0xvRUhkYlpUZU1PcnZpUzJ5cWx5R3ZnWFN5VXdiWmkwczJpci1yQkpVWWtMNV9yY3JHc3NfNzc0V2R2ZWlkSDVaa3V1MUhJVUNoSV9MQl91ckE5c2J4c1c2VFlPSHBIYzAxX2RZYXpZ?oc=5",
-   "title": "Energy-security response to Iran war could cut oil demand by 4% by 2035, IEA says",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-19T05:05:00+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJsbWhjMXppNTZQWTdqM0RrUU1qaWF4dzhKTXBsNlN0a3o5aGM2R09TeXdfOHhGa0ZiaVRkdGU2a0ptaXlsRHUzMzBvSVFmdk9nYmtROVV2aXctLVB2aTRQS2EtNHNLTG1yM3BEWUtJNXJ0cUhQSGtFRlJkeUxhYmJ2OWlwQWM4OTF5d19IcWR4WWRRQm9yVVRESXlYWDdVcWtJcUpxUQ?oc=5",
-   "title": "Watch Inside Google's AI Race with Ruth Porat",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-19T05:02:30+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclpkNktKMTQyVEd2elBKSFpFaHVBM0FXTEdaLVRIcVVUbEpNZk5nLXZWR0FiZ0FtUTVNcjh3aXNkYXBzOE91NFFfOTJtQjlMWFFIenprVF83QUk1ZDlpYmlSTW9qRFZZLXk4ZlhSMEJnZ3Z6clJ2T3BJOXkxNENzTThUOU8?oc=5",
-   "title": "Energy markets can ‘manage without’ the Strait of Hormuz, says IEA",
-   "source": "Financial Times",
-   "desk": "news",
-   "published": "2026-11-19T05:01:36+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVJuM3RYZmFyRG8xUmR4SEh0V19uZ2VpSlctRlNBcnhJSGFkZmt5Zk1qVEswTmdEVEpxVmZpd0FscUVQdGtJS3hTaEJUaFljSXFhTHFYSzFOeEY2cU5LZmNtU1VMbkk3RUFWSlhBR3B4WEttZm9yTDI1V2hDSEQwU0JRNnU?oc=5",
-   "title": "Adani: the billionaire at the heart of Modi’s India",
-   "source": "Financial Times",
-   "desk": "news",
-   "published": "2026-11-19T05:01:23+00:00",
-   "seen": "2026-11-20T12:55:31+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUR1eFNhaGJfM09pUUg3eVhiVVZOLUVOdkEtRXEtcTM3aDVIY2gxY0VtdmEzQ09vSEhjUmJzQVEzVlJnQ2p3M0t3Q1JPQVY0VWl4aTZOeHNXLWNOdklGUzRmLVhZSWtqMXJvblVGZWdZc05fMmJLaExxb3JfTXBLbEJjMmJIbFBXcWNlSGJYa2FGYzlJSmFrcEJ4c2ZkQkpuSm83NjB3UDlNbnhGWXBiblFKMjA?oc=5",
-   "title": "Developing Countries Are Leading Global Electrification Efforts",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-19T05:01:00+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQV85QXRiODZsOHFsYTRLUHFRMF9BRUtCSml6bTJYVnpuMHJxdkhMdWRWRER0ZFdEeTFickZ3SzB6M1kxME9DMmY2M1dvOWFlYndPNVJ0OUpKSVo5OHNpYnA1Nm82NnRKLUNPTWVHc2l4dWlFOGpOLThES3V0TExNVFNBUHk?oc=5",
-   "title": "China uses climate talks to complain about tariffs on EVs and green energy products",
-   "source": "Financial Times",
-   "desk": "news",
-   "published": "2026-11-19T05:00:17+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china",
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/the-worlds-biggest-oil-shock-could-give-evs-and-solar-a-boost/",
-   "title": "The world’s biggest oil shock could give EVs and solar a boost",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-19T05:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "The IEA says the Strait of Hormuz crisis could speed up the shift to EVs and solar as countries seek to cut their reliance on oil.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV7-electric-SUV.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "The IEA says the Strait of Hormuz crisis could speed up the shift to EVs and solar as countries seek to cut their reliance on oil.",
-   "tags": [
-    "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYk1Nbk91b25zX0pyZEk1WVBuM3JCZmw4VmZKaS1vQXdnX096MFc3Skl3UVN2ekNNMnRmdnhjOGoyVnFnQ05FZy04VzNnX2ZaemljQnlfUHF6NUttUU0xa0pMdDhiUzdta0lCMWhZc0Z0Q0JCSFdSWWZzcEgtY3RLU3hsekwtX1V4YndYX2ZKZlc4Tkp6NnNlb2FnN0xKUVc0QlZ4QnpOQXdPWVVjSUQ2ek1vN3pfWUNKS1lHOUJ2UVo3cktvRFpz?oc=5",
-   "title": "As an unprecedented shock reshapes the energy world, its duration will determine the scale of the change",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T05:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jbGVDcGZ1Nkx3Yk0xbEVTeVlXWmZYWlQ1UUR1Vk1Nam5RMG9TZTNTT1NoUTRrYjBlNkhMTnp6MElQQzM5b2hVVTJFdGpwdGNYTjI0MnBzVEcyUGZrSzA0ODVPZw?oc=5",
-   "title": "World Energy Outlook 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T05:00:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPeTdxZE9sNDhid2RlOTZvYVBKWVAwblhhbFdjZkdVM19JNjU3b1JBSzNPS0owelU3TlFTUF9uV0pqeTV2cThUNm9tUk9lYV9odm14ZFAxbU81dnJzaWM5QUtLVmRyWDhMcDZyZTA3V0JIb0s0TEV3NGxvWmNJZzRranlFX2Nxejc2YmpkOFFfMlQwVmxNdnlxQU9DMkNVRnBnLUNXYmFQZWUwei1XR2lIRFBsX19EQXU4M0pRUHJ0OTVHb2RaMHRoNUZ0YzFYOERCLVByMVFsaWluWV9RcDBOSGRWR1VhYS15bFl6QXBFR1VHTF95NnlRWnIzQ1VHbmxlNjcxSlpyRFNNSmgyZVYyQ1R1SGctNTBHMUw1bGctN19YZHFFWGk1VHBBUlJYak5NZ25MNEE0Uml5ZHZtWjdCNXRqSnQ3Y0pZempHc1V0cWp4UlU5ZHozb1pWdndVMnVjc1JXTUtwRXRtZ05yRkcyb0ZnNF9vQkNkQTRlQjcxd0ItLWFNUUxWNFNiLWp6SEV1d3dCbWtR?oc=5",
-   "title": "Search",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-19T02:20:58+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/",
-   "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-19T01:50:06+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News",
-    "autonomous",
-    "ev charging",
-    "ionna",
-    "Tesla"
-   ],
-   "description": "On today’s high-impact episode of Quick Charge, we’ve got a flurry of fatal Tesla crashes allegedly involving Autopilot and FSD...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/do-not-do-this_1.png?resize=1200,628",
-   "lede": "On today’s high-impact episode of Quick Charge, we’ve got a flurry of fatal Tesla crashes allegedly involving Autopilot and FSD...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0NZZ2RwbVF5eHNTMXR1aFRBaVlnS01MTkxDeWU3VFVVX3daM2VlS1IzeGFCbFl2czhXRDROYW5TMjloS0NKaWFCRk9ONmZRR3pPZm5WODRZWFh3RWdDVm1QMGx2MnBoM25neGdna0lBLXVEWWN6dGtWTlUycktpUlB3SkdJM3hlZVNvd3R4NFN0VkROdWRRX1h4cXFCQlJlZ3phUmtnN1VxVUZYQUdocDRuWkE4QQ?oc=5",
-   "title": "CATL CEO Pitches Plan to Power Data Centers as New Growth Engine",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-18T23:00:01+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china",
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/",
-   "title": "US battery storage just topped 200 GWh",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T22:36:48+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "US battery storage topped 200 GWh as installations rose 20% through September. Texas led the country in added grid-scale capacity.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Green-River-Energy-Center-Utah.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "US battery storage topped 200 GWh as installations rose 20% through September. Texas led the country in added grid-scale capacity.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/toyota-expands-c-hr-ev-recall-to-19000-globally/",
-   "title": "Toyota expands C-HR EV recall to 19,000 globally",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T21:53:43+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Toyota is recalling 19,000 electric C-HR SUVs globally, with about 10,000 affected in the US. Toyota C-HR EV recall expands...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Toyota-C-HR-EV-recall-global.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "Toyota is recalling 19,000 electric C-HR SUVs globally, with about 10,000 affected in the US. Toyota C-HR EV recall expands...",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.latitudemedia.com/news/outage-fears-rise-but-batteries-and-gas-are-buffering-the-grid/",
-   "title": "Outage fears rise, but batteries — and gas",
-   "source": "Latitude Media",
-   "desk": "news",
-   "published": "2026-11-18T21:50:10+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Grid edge",
-    "Resilience",
-    "NERC",
-    "US power grid",
-    "Will the power grid fail",
-    "winter blackout risk"
-   ],
-   "description": "NERC found that just three areas are at “elevated” blackout risk this winter.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/shutterstock_2415689325-scaled.jpg",
-   "paragraphs": [
-    "The North American power grid is less at risk of blackouts this winter than it was this time last year, according to a reliability watchdog.",
-    "The North American Electric Reliability Corp. found that just three areas are at “elevated” risk during cold snaps — meaning there wouldn’t be enough reserved capacity to meet peak demand — down from seven a year ago.",
-    "NERC attributed the improvement to the addition of more than 26 gigawatts of winter peak capacity, driven by about nine gigawatts of both battery storage and gas generation. California and Texas led the pack in terms of deploying storage, while Texas, northern Mexico, and the Mountain West accounted for the largest gas expansions.",
-    "The Department of Energy’s emergency orders allowing grid operators to order data centers and other large facilities to shift to backup generators during peak demand — even if it involves breaching air pollution limits — is also helping shore up the grid, NERC found. So are DOE orders keeping six fossil fuel plants online past their scheduled retirement dates, even as they raise costs for customers and greenhouse gas emissions.",
-    "In the U.S., just North and South Carolina remain in the “elevated” risk category amid rapid growth in residential electric heating and the arrival of large data centers and industrial loads. That growth has steadily eroded reserve margins, NERC said, particularly during early morning hours before solar generation ramps up. Canadian provinces including Quebec and Nova Scotia are also at elevated risk, mainly because gas pipelines are constrained.",
-    "NERC’s assessment comes as Americans grow increasingly concerned about the reliability of the U.S. power grid. Outages are getting longer, mainly due to more extreme weather as global temperatures rise from burning fossil fuels. Utilities and grid operators are struggling to modernize and expand their systems fast enough to keep up with demand from data centers, reshored manufacturing, and a more electrified economy.",
-    "And in recent days, fears of nationwide blackout spread across TikTok and other social media platforms due to a false, manipulated clip of President Donald Trump from an account pushing cryptocurrency, Politifact reported. Further fueling the anxiety have been a series of technology failures impacting air travel, banks, Microsoft, and Apple.",
-    "Beyond reliability, NERC also oversees cybersecurity threats to the bulk power system, including by enforcing mandatory standards for utilities and grid operators aimed at preventing cyber and physical attacks on electric, natural gas, and transmission infrastructure. NERC is also the primary hub for companies to share sensitive cyber incident data, indicators of attacks, and vulnerability alerts.",
-    "In January, NERC said that these mandatory security controls remain critical, but they aren’t being updated fast enough to keep up with changing threats. That report said a major vulnerability can be addressed by requiring employees or third-party vendors connecting remotely to smaller energy sites to use two-step login verifications. That includes solar, wind, and battery projects, as well as substations and fossil fuel plants. This is already required of the largest power plants, transmission hubs, and regional control centers."
-   ],
-   "lede": "NERC found that just three areas are at “elevated” blackout risk this winter.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjlYQ3B5anNPanBLQkQzTXBacy1ObkFLY0xPTkRaUXV0dlhpS3E5N0JfVDNsMW9vN2Uycm9wcmMwemdlU3JmNWlZYm4zcnE5X0JQaWM1VlVYN2k3LVFhSFQ1cUZ1NkRidi1ra0JWMEszMUYyM0xPb3lsd0lVQkE3Wk5abkNvWG1PcU5oUEw2N2NNUVdzd3lTcmZFU1g5ZzRkb3h2My1tYnAzcUtkZGsyNEdyX0pCNkR4UmVDcFFfV0M?oc=5",
-   "title": "Tesla Scores Legal Win Against Manitoba in EV Rebate Case",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-18T21:46:27+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03QWxQMUdjN2dudF83LUg0WGI3NDJoaXhWWEc1SlQxS2VSRGRpQWdrTkZ2XzFDMll0R1prUWhxWXRVeGJjWS1mVUJUVDg4QmZwQ0Z0enBta2Q?oc=5",
-   "title": "Exclusive: Nuclear Recycling Startup Project Omega to File for License",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-18T21:08:12+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2TWswa0ttS08zY1UwWmlIY3FmTTd0Zkx4MENLOG1RdnRteUtWeEY1UnlNc0ZSRVAyZ0otRXpWZENoLUFjd25Ibk9GQ1NFV3J1?oc=5",
-   "title": "Nvidia Earnings Double, Signaling Healthy AI Demand",
-   "source": "Heatmap",
-   "desk": "news",
-   "published": "2026-11-18T20:41:58+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/byd-spotted-testing-another-boxy-midsize-suv/",
-   "title": "BYD spotted testing another boxy midsize SUV",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T20:24:20+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "BYD is preparing to launch a new midsize SUV under its personalized, off-road-focused sub-brand. The new SUV was spotted testing,...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Ti-6-boxy-SUV.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "BYD is preparing to launch a new midsize SUV under its personalized, off-road-focused sub-brand. The new SUV was spotted testing,...",
-   "tags": [
-    "china",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb1FtX25paV9WSXNwNmp2b3p5WGg4MW5kTmhUZUo5UVlwaUh1NWd4WDlWTGQ0M1VRSm5zSTdjY1ktVW56dGhqR0NQSGZmWVR1TkRubldxRHoyVnUxRlNaVWRlTUwwdDRFTXBoeGdsZUJRLXVQYXRmdnZtdmdSak9EZkdBMzZoZ1VFdHh2b1c1SnBwTmVEMDFBcWpoWkxRWHlkaVh4TTZvMG03YjNUelY3bldHUl9DT0VTbnc?oc=5",
-   "title": "Nissan uses Mexico to prep for potential China challenge in US",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T20:06:08+00:00",
-   "seen": "2026-11-21T02:17:55+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1dqbjcxS1NvVGZBUEJYTDd1alo4YWNzRG9aMVZoVUE2b1ZibW95VlhQWDQ5dWNZTTFkbXBnbHVob1JMT21UMElBbnlQb01wT2Q4NXdHRi1GWGFfQ040NGRCRFlzcFNUTjJJMGRPT1FEWF9sTUJUZVV2MU90dUZOXzAzbmlnZWxwOG5YOVFNcUJOdGF1aEl6dERxSEhJMDA?oc=5",
-   "title": "Britain, EU drop 'trusted partnership' term from summit draft",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-18T20:02:37+00:00",
-   "seen": "2026-11-22T15:19:53+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/ionna-enables-plug-charge-for-tesla-opens-22-bay-site-in-westminster-ca/",
-   "title": "IONNA enables Plug & Charge for Tesla, opens 22 bay site in Westminster, CA",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T19:34:52+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "We went to IONNA's new 22-bay 400kW EV charger opening, its largest one yet. It's also enabling Plug & Charge for Tesla and Stellantis EVs.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/P1240182.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "We went to IONNA's new 22-bay 400kW EV charger opening, its largest one yet. It's also enabling Plug & Charge for Tesla and Stellantis EVs.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.latitudemedia.com/news/utilities-want-ferc-to-lock-data-centers-into-paying-for-grid-upgrades/",
-   "title": "Utilities want FERC to lock data centers into paying for grid upgrades",
-   "source": "Latitude Media",
-   "desk": "news",
-   "published": "2026-11-18T19:23:20+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Data centers",
-    "Regulation",
-    "California",
-    "data centers",
-    "FERC",
-    "PG&E",
-    "PJM",
-    "utilities"
-   ],
-   "description": "Their FERC filings would require data centers to cover costs for 10 to 20 years, longer than some states require.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.latitudemedia.com/wp-content/uploads/2026/11/shutterstock_1289178181-scaled.jpg",
-   "paragraphs": [
-    "A year ago, Energy Secretary Chris Wright directed federal regulators to speed up how data centers and other large power users get connected to the grid. Then in June, the Federal Energy Regulatory Commission’s initial view was that the existing rules fell short; it ordered the six grid operators it oversees to show how they would fix them.",
-    "By Nov. 16, five had answered. The sixth, the Southwest Power Pool, is due to file by Nov. 20.",
-    "The operators’ plans are, unsurprisingly, mostly about speed. The plans focus on shorter timelines and earlier connections for data centers. PJM would study new load and new generation together in a single 12-month process, for example. New York and California took similar approaches, both proposing to let data centers connect faster to the grid if they agree to curtail during periods of congestion.",
-    "But the operators weren’t the only ones to file this week. The utilities that own the transmission lines also sent in their own proposals, grouped by region. Their responses tackle a different question: not how to get loads connected faster, but rather who pays for the associated grid upgrades and for how long?",
-    "And while each takes a different approach to answering that question, together they are asking FERC to endorse an approach where data centers sign a long-term contract with the utility that owns the relevant lines before the upgrades it needs can get built.",
-    "For the utilities in PJM’s region, a data center would commit to paying for at least 80% of the transmission service it requests for a minimum of 10 years, backed by collateral. In California and New York, the term would be 15 years. The Midwest is proposing a more unusual set-up, as its main grid operator, MISO, pitched the contract itself: a three-way agreement with the utility and the data center that would run up to 20 years.",
-    "If those commitments look familiar, it’s because they are. Many of the same utilities already require similar terms for data center customers under tariffs their state regulators approved. Now, though, they’re using the show-cause order as an opportunity to ask FERC to approve something similar — though crucially, not exactly the same. The federal proposals ask data centers for longer commitments in some places, and shorter ones in others.",
-    "A data center’s power bill is regulated in two places. The state utility commission approves the utility’s tariff, which sets what the customer pays for local lines, power plants, and, in some states, transmission. Then FERC regulates the high-voltage grid, which is where the new contracts would sit.",
-    "These new contracts cover only transmission and don’t replace the state tariff, so a data center could end up signing two parallel, but not identical, sets of terms.",
-    "For utilities in PJM, the federal half would be a cost recovery agreement that the data center signs directly with the transmission owner, requiring the data center to pay at least 80% of its expected transmission charges. The data center would also have to put up a financial guarantee starting at 25% of what it would owe, and increasing to the full amount by the time service begins. A data center that leaves early would owe the transmission owner the rest."
-   ],
-   "lede": "Their FERC filings would require data centers to cover costs for 10 to 20 years, longer than some states require.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/kia-one-quirky-ev-40-years-ago-to-entire-ev-lineup/",
-   "title": "Kia went from this one quirky EV 40 years ago to an entire electric lineup",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T18:34:27+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "The Kia Besta EV hit the roads in 1986 as the brand’s first fully electric vehicle. 40 years later, Kia...",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-first-EV-Besta.jpeg?quality=82&strip=all&resize=1200,628",
-   "lede": "The Kia Besta EV hit the roads in 1986 as the brand’s first fully electric vehicle.",
-   "tags": [
-    "transport"
-   ]
-  },
-  {
-   "url": "https://electrek.co/2026/11/18/tesla-fsd-driver-monitoring-europe-stricter-than-us/",
-   "title": "Tesla toughens FSD driver monitoring in Europe while loosening it in the US",
-   "source": "Electrek",
-   "desk": "news",
-   "published": "2026-11-18T18:33:41+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "eu",
-    "europe",
-    "Tesla",
-    "Tesla Autopilot",
-    "Tesla Full Self-Driving"
-   ],
-   "description": "Tesla is adding earlier warnings, instant strikes and a hands-on rule above 130 km/h to FSD in Europe, while loosening driver monitoring in the US.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/04/Tesla-Driver-monitoring-e1617877138806.jpg?quality=82&strip=all&resize=1200,628",
-   "lede": "Tesla is adding earlier warnings, instant strikes and a hands-on rule above 130 km/h to FSD in Europe, while loosening driver monitoring in the US.",
-   "tags": [
-    "policy",
     "transport"
    ]
   }
