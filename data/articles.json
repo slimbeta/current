@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-28T02:43:12+00:00",
+ "updated": "2026-11-28T11:49:19+00:00",
  "briefing": {
-  "headline": "The grid, AI’s power demand and solar",
-  "period": "Nov 21–27",
-  "made": "2026-11-27T10:54:12+00:00",
+  "headline": "AI’s power demand, solar and the grid",
+  "period": "Nov 22–28",
+  "made": "2026-11-28T11:49:19+00:00",
   "bullets": [
+   {
+    "text": "This week, Women in Solar+ Europe (WiSEu) and Solar+ Leaders reflect on two workshops held in Madrid during Genera that examined how bias shapes everyday leadership decisions in the energy transition.",
+    "source": "pv magazine",
+    "url": "https://www.pv-magazine.com/2026/11/28/leading-the-energy-transition-stereotypes-ai-and-what-stays-human/",
+    "theme": "AI’s power demand"
+   },
+   {
+    "text": "Data source: U.S. Energy Information Administration, International Energy Statistics Note: Renewables includes electricity generation from hydroelectricity, geothermal, solar, wind, tide and wave, and biomass and waste.",
+    "source": "EIA Today in Energy",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68525",
+    "theme": "solar"
+   },
    {
     "text": "Coal is still China’s top source of electricity by a long shot, but solar is climbing the ranks and is poised to leapfrog hydropower this year.",
     "source": "Canary Media",
@@ -12,21 +24,9 @@
     "theme": "the grid"
    },
    {
-    "text": "Google plans to spend $10.8 million on advanced transmission technology, and hopes other tech giants will adopt its model.",
-    "source": "Latitude Media",
-    "url": "https://www.latitudemedia.com/news/googles-grid-deal-in-ohio-tests-a-faster-path-to-data-center-power/",
-    "theme": "AI’s power demand"
-   },
-   {
-    "text": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run.",
-    "source": "pv magazine",
-    "url": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted/",
-    "theme": "solar"
-   },
-   {
-    "text": "listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
+    "text": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
     "source": "Energy-Storage.news",
-    "url": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
+    "url": "https://www.energy-storage.news/continued-operating-losses-for-narada-power-as-battery-oem-falls-to-lowest-bankability-rating/",
     "theme": "clean-energy finance"
    },
    {
@@ -44,6 +44,277 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://www.pv-magazine.com/2026/11/28/integrating-agrivoltaics-with-batteries-for-rural-energy-and-food-security-in-west-africa/",
+   "title": "Integrating agrivoltaics with batteries for rural energy and food security in West Africa",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-28T10:58:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Opinion",
+    "Utility-scale"
+   ],
+   "description": "Agrivoltaics offers a sustainable solution to competing land-use demands by integrating solar energy generation and agriculture, enhancing food security, water efficiency and rural livelihoods. Combined with battery energy storage, it can strengthen energy reliability, economic viability and climate resilience in rural West Africa, particularly in Nigeria and Ghana.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2025/09/Agrivoltaics_2-1200x881-1-768x564-1.jpg",
+   "paragraphs": [
+    "Power system managers around the world are increasingly facing significant challenges with expanding and sustaining the integration of solar energy technologies. This is the result of both its variable generation and the rapid pace of market growth. According to the International Energy Agency, the total installed capacity of solar photovoltaics around the world took 40 years to reach more than 1,100 GW of cumulative capacity in 2022. It took only two more years to double that total. Most of this recent growth has occurred in China. In 2024, the country added more than 357 GW of solar power, more than twice the amount of the rest of the world combined. Still, the adoption of solar is growing all over the world. In 2025, 4.5 GW of new solar PV capacity was installed in Africa, representing about 54 per cent increase year-on-year, the Global Solar Council says. However, solar energy development still faces several challenges due to grid problems and land use conflicts.",
+    "Solar energy is not only a challenge for grid management, it is also adding pressures on other economic sectors. Solar is most productive and cost-effective when installed at utility scale on flat land. This often means that agricultural areas are targeted for solar siting, as they offer productive potential, easy access, and fewer permitting requirements than public lands. This rapid growth of solar PV on farmlands places added pressures on rural areas that are already experiencing fragmentation in agriculture due to urban sprawl. As a result, despite its low-carbon emissions, the energy density of solar PV means that it needs a large land footprint, fueling the argument that the development of PV could severely disrupt food security and supply.",
+    "Concerns regarding pressures on food and energy systems have occasioned the need for innovation in technology and policy to help navigate these rather complex difficulties across the agriculture and clean energy industries. Driven by these pressures, along with the continued decline in costs of solar PV, engineers have begun to explore systems that are less burdensome to rural lands, such as the use of PV modules for fences or integrating them with the production of food.",
+    "For vulnerable and often isolated rural communities in West Africa, solar development does not only alleviate the age-long challenge of energy poverty, but it also creates a new pathway to re-engineering food security and promoting climate resilience through agrivoltaics which is the integration of solar energy generation and agricultural production on the same piece of land. This technology offers the opportunity for a triple win for both farmers and energy developers, offering pathways to increase both revenues and resources. Agrivoltaics can be deployed without diminishing crop yield, and may even provide some benefits by reducing heat stress on crops. It can significantly reduce water usage on a farm by providing partial shading of crops. At the same time, the electricity produced can be used either onsite or sold back to a utility. These impacts can all produce financial savings. Even on small scale agrivoltaics installations, revenue from the power generated could be much greater than that earned solely from agricultural activit y on a similar sized plot of land. This is on top of avoided expenses resulting from reduced water usage."
+   ],
+   "lede": "Agrivoltaics offers a sustainable solution to competing land-use demands by integrating solar energy generation and agriculture, enhancing food security, water efficiency and rural livelihoods.",
+   "tags": [
+    "china",
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/28/new-model-optimizes-perovskite-silicon-tandem-solar-cells-for-satellites/",
+   "title": "New model optimizes perovskite-silicon tandem solar cells for satellites",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-28T09:33:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "cats": [
+    "Research & Development",
+    "Cells & modules",
+    "Modules"
+   ],
+   "description": "South Korean-led researchers have identified optimal perovskite absorber thicknesses and bandgaps for tandem solar cells operating in different satellite orbits. Their simulations indicate that bromide-rich perovskites offer superior current matching, greater thickness tolerance, and projected efficiencies of up to 29%.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2025/09/NASA_solar_power_satellite_concept_1976-1.jpg",
+   "paragraphs": [
+    "A research team led by South Korea’s Yonsei University has developed a novel optical and thermal simulation framework to optimize perovskite-silicon tandem solar cells for satellite power systems.",
+    "The framework accounts for variations in the angle of sunlight incidence and solar cell temperature to identify the perovskite absorber thickness that maximizes average short-circuit current density in a given orbit.",
+    "“We developed a simulation framework that integrates angle-of-incidence (AOI)-dependent simulations of external quantum efficiency (EQE) and short-circuit current density (Jsc) with orbit-specific beta-angle (β-angle) modeling and transient orbital thermal analysis,” the group said. “Doing so, we could find an optimal structure for a tandem cell installed on a specific satellite for a given metal halide perovskite (MHP) composition under the air mass zero (AM0) solar spectrum.”",
+    "The scientists used COMSOL Multiphysics software to calculate the amount of light absorbed by the perovskite top cell and transmitted to the silicon bottom cell. In the two-terminal tandem configuration, the subcell generating the lower current limited the device’s current output.",
+    "The researchers assumed single-axis solar tracking and modeled heat inputs from direct solar radiation, sunlight reflected by Earth, and Earth’s infrared radiation, as well as radiative heat losses from the solar array.",
+    "To demonstrate the framework, the group initially modeled a methylammonium lead iodide (MAPbI₃) absorber at 300 K, considering incidence angles of 0, 20, 40, 60, and 80 degrees and absorber thicknesses ranging from 200 nm to 700 nm at normal incidence.",
+    "The academics then compared MAPbI₃ with formamidinium lead iodide (FAPbI₃) and two formamidinium-cesium mixed-halide perovskites containing 17% and 24% bromide, respectively. The four compositions had bandgaps ranging from 1.52 eV to 1.67 eV, and the researchers evaluated their current-matching absorber thicknesses at −100 C, 0 C, and 100 C.",
+    "The team also compared the AM0 spectrum with the terrestrial AM1.5G spectrum and assessed the impact of pyramidal texturing on the silicon surface on light transmission.",
+    "The scientists subsequently modeled all four absorbers for three satellites – Starlink-33674 in low Earth orbit (LEO), Iridium-181 in near-polar LEO, and Galileo-31 in medium Earth orbit (MEO). For each satellite, they tested absorber thicknesses in 5 nm increments and calculated average short-circuit current densities based on one-minute estimates over a full beta-angle cycle.",
+    "The results showed that the 1.67 eV perovskite containing 24% bromide achieved the highest simulated average short-circuit current density across all three satellites, reaching 20.22 mA/cm² for Starlink, 15.13 mA/cm² for Iridium, and 16.34 mA/cm² for Galileo."
+   ],
+   "lede": "South Korean-led researchers have identified optimal perovskite absorber thicknesses and bandgaps for tandem solar cells operating in different satellite orbits.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/28/romanian-solar-and-storage-what-gets-financed-and-built/",
+   "title": "Romanian solar and storage: What gets financed and built?",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-28T09:30:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Europe",
+    "Opinion",
+    "Utility-scale"
+   ],
+   "description": "Romania’s growing solar and storage market offers significant investment opportunities, but ready-to-build status alone does not guarantee bankability. Investors must assess grid connection conditions, outstanding development obligations and revenue assumptions to determine which projects can secure financing and enter operation.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2017/04/rec_romania_izvoru_1.jpg",
+   "paragraphs": [
+    "A Romanian solar project is offered for sale as “ready to build.” It has land rights, grid connection approval and a building permit. But what, exactly, is the buyer ready to build, when can the project export electricity, and which costs remain unresolved?",
+    "These questions deserve more attention as Romania attracts capital for solar and storage. The opportunity is real, but a project’s development status tells investors relatively little about the work still required to finance and deliver it.",
+    "The scale of development is striking. In its October 2026 update, Romania’s energy regulator, ANRE, reported 1,625 projects with valid grid connection approvals. Of those, 749 had both connection contracts and building permits. The figures cover renewable energy and storage projects with approved export capacity of at least 1 MW. They do not represent the number of solar plants under construction.",
+    "The financing structure is more informative than the headline amount. According to the European Bank for Reconstruction and Development (EBRD), 125 MWac of solar capacity secured a 15-year contract for difference (CfD) at €49.40/MWh, while the remaining solar capacity has merchant exposure. An InvestEU first-loss guarantee of up to €115 million supports the EBRD’s A/B loan structure. The transaction therefore combines long-term price support, exposure to market revenues and public risk-sharing.",
+    "For other developers, the question is which elements of that structure their own projects can support.",
+    "For international buyers, the first distinction to understand is between grid connection approval, known locally as an ATR, and the ability to operate under the conditions assumed in the financial model.",
+    "The ATR needs to be read alongside the connection contract, technical studies and delivery schedule. Which network upgrades are required? Who will carry them out? What must happen before the plant can export its intended output? Are there operating restrictions, and how are they reflected in revenue projections?",
+    "Consider a project whose generating equipment can be installed before the network reinforcements required for full export capacity are completed. The construction schedule may be credible, while the date at which the project starts generating its anticipated revenue remains uncertain. Investors need to understand that distinction before agreeing on an acquisition price or committing to equipment orders.",
+    "The financial impact can be substantial. Consider an illustrative 100 MWp project with annual generation of 140 GWh and a captured electricity price of €60/MWh. These assumptions yield annual gross revenue of €8.4 million. If export delays prevent the delivery of 35 GWh, €2.1 million in expected gross revenue falls outside the original schedule, before accounting for additional financing and holding costs. This is a sensitivity analysis, rather than a Romanian market forecast. The volume of generation affected depends on the season and any interim export arrangements.",
+    "Romania’s grid connection framework is also evolving. Transmission system operator Transelectrica now publishes available capacity by network area and allocation year as part of its capacity allocation process, alongside auction procedures and financial security requirements. Separately, ANRE’s May 2026 grid connection amendments address guarantees and authorization deadlines. Their application depends on the project’s procedural history and relevant transitional provisions."
+   ],
+   "lede": "Romania’s growing solar and storage market offers significant investment opportunities, but ready-to-build status alone does not guarantee bankability.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/28/chinese-inverter-maker-bundles-dc-coupled-storage-for-commercial-sites/",
+   "title": "Chinese inverter maker bundles DC-coupled storage for commercial sites",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-28T08:50:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "cats": [
+    "Technology & Products",
+    "BESS",
+    "Energy Storage"
+   ],
+   "description": "GoodWe now links up to four liquid-cooled 261 kWh battery cabinets to a hybrid inverter and static transfer switch in a DC-coupled system that gives commercial and industrial (C&I) sites just over 1 MWh of storage.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-at-15.21.41.jpg",
+   "paragraphs": [
+    "GoodWe launched a DC-coupled solar and storage solution this week for C&I applications. The solution combines its ETR 75 kW to 125 kW three-phase hybrid inverter, its BAT-C 261 kWh battery cabinet, and its STS 375/750 kW static transfer switch, all of which were already in its product range. GoodWe introduced the BAT-C Series at Intersolar Europe in June.",
+    "The Chinese company said that connecting PV and batteries on the DC side reduces conversion steps, so more solar output can be stored and used on site. It is targeting manufacturing facilities, commercial buildings, and industrial parks.",
+    "Each BAT-C cabinet stores 261 kWh, and up to four can operate in parallel for a total of 1,044 kWh. According to GoodWe’s datasheet, the cabinet uses 314 Ah lithium iron phosphate (LFP) cells arranged in five 52.24 kWh packs, with a nominal voltage of 832 V. It is liquid-cooled, rated IP55, and operates from -25 C to 55 C.",
+    "GoodWe rates the cabinet for at least 10,000 cycles, and its warranty specifies a minimum throughput of 844.42 MWh for the 261 kWh model. The company said the cabinet has three-hour fire resistance, along with aerosol fire suppression at pack and cabinet level, but it did not name the standard behind the fire-resistance rating. The cabinet is serviced from the front, so it can be installed close to a wall.",
+    "The ETR inverter supports up to 10 maximum power point trackers (MPPTs) and up to 200% PV oversizing. Its standard models accept battery voltages from 700 V to 1,000 V. It includes arc-fault detection (AFCI 3.0), rapid shutdown (RSD 2.0), and insulation, over-temperature, and reverse-polarity protection.",
+    "The STS switches between on-grid and off-grid operation in as little as 20 ms to maintain supply to critical loads. GoodWe lists it as compatible with its ET 75–100 kW and ETR 50–125 kW inverters.",
+    "Jiangsu-based GoodWe did not disclose round-trip efficiency, C-rate, certifications, cell supplier, pricing, or market availability.",
+    "Earlier this year, Risen Energy launched a 131 kW/261 kWh all-in-one C&I storage unit with a silicon carbide converter. Unlike GoodWe’s new solution, the Risen unit builds power conversion into the cabinet. GoodWe also sells AC-coupled all-in-one systems through its ESA Series, which it extended with a three-phase model for rooftop PV in March.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "GoodWe now links up to four liquid-cooled 261 kWh battery cabinets to a hybrid inverter and static transfer switch in a DC-coupled system that gives commercial and industrial (C&I) sites just over 1 MWh of storage.",
+   "tags": [
+    "china",
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/28/leading-the-energy-transition-stereotypes-ai-and-what-stays-human/",
+   "title": "Leading the energy transition: stereotypes, AI and what stays human",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-28T08:45:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Opinion"
+   ],
+   "description": "This week, Women in Solar+ Europe (WiSEu) and Solar+ Leaders reflect on two workshops held in Madrid during Genera that examined how bias shapes everyday leadership decisions in the energy transition. The WiSEu breakfast workshop explored who gets heard in meetings, who receives credit for their work and who gets the chance to progress. The Solar+ Leaders workshop asked what happens when AI agents join a team, and how leaders decide what to delegate and who is accountable for the outcome. Both discussions came back to a question that matters for the sector’s ability to deliver: how can leaders recognise the assumptions behind their decisions before those assumptions shape the way their teams work?",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/IMG_2174-scaled.jpg",
+   "paragraphs": [
+    "A colleague puts forward an idea in a client meeting. Who gets the credit? An AI agent prepares a recommendation. Who checks it and makes the final call? During Genera in Madrid, Women in Solar+ Europe (WiSEu) and Solar+ Leaders organised two signature workshops that used scenarios like these to explore how bias shapes everyday leadership decisions, from whose work gets recognised to who takes responsibility for decisions informed by AI. Leading Beyond Stereotypes At the WiSEu breakfast workshop, “Leading Beyond Stereotypes: Strategies for Participation, Recognition and Career Progression”, participants began by reflecting on why overcoming stereotypes in leadership mattered to them personally. “Equal opportunities” was the most common answer, followed by growth, fairness and the conviction that talent has no gender.Participants then followed Noelia, a fictional professional, through a client meeting, an internal announcement celebrating a project’s success and a promotion decision. Across the three scenarios, they considered how leaders could make sure people received credit for their contributions and had a fair chance to progress.",
+    "Four insights stood out: Credit where it is due: recognition starts in the room, by clarifying roles and naming the person behind each idea. It quotes “The client has to know who does what” and the suggestion to use phrases like “as she pointed out”. Facts, not adjectives: recognise what someone did, not their personality. It quotes “Pay close attention to adjectives. They have to match the reality of what was done.” Criteria before decisions: agree promotion criteria in advance and ask people whether they want to apply. It quotes “Offer everyone the same chance to put themselves forward. No anticipated bias. Freedom and opportunity.” Visibility takes practice: “speak up” and the other commitments for the next month, closing on “Let me finish my point” and “Assertiveness is not ego.”",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "This week, Women in Solar+ Europe (WiSEu) and Solar+ Leaders reflect on two workshops held in Madrid during Genera that examined how bias shapes everyday leadership decisions in the energy transition.",
+   "tags": [
+    "industry",
+    "policy",
+    "power",
+    "transport"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/28/peru-hits-1-24-gw-of-installed-solar-capacity-across-22-plants/",
+   "title": "Peru hits 1.24 GW of installed solar capacity across 22 plants",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-28T08:40:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Energy Storage",
+    "Utility-scale"
+   ],
+   "description": "Peru has 1,241 MW of installed PV capacity across 22 operational installations, with three southern regions accounting for 97.3% of the total.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Matarani_2024_crop.jpg",
+   "paragraphs": [
+    "Peru has 22 solar power plants in operation with a combined installed capacity of 1,241 MW, according to Luis Santillán, vice minister of electricity at the Ministry of Energy and Mines (Minem). Seventeen plants are connected to the National Interconnected Electric System (SEIN), while five operate in isolated power systems.",
+    "Most of the country’s solar capacity is concentrated in southern Peru. Arequipa leads with 710 MW, followed by Moquegua with 392 MW and Ica with 105 MW. Together, the three regions account for 1,207 MW, or 97.3% of the country’s installed solar capacity.",
+    "Solar installations are also operating in Tacna, Lima, Cajamarca, Loreto, Ucayali and Puno. Among the largest plants, Minem highlights the 144.48 MW Rubí and 115 MW Clemesí projects in Moquegua, and the 97 MW Matarani plant in Arequipa.",
+    "In isolated power systems, the ministry cites the Purús plant in Ucayali and the Amantaní plant in Puno as examples of solar power supplying communities far from the national grid.",
+    "Santillán said solar generation has grown steadily over the past decade. In the first eight months of 2026, solar power accounted for 4.3% of Peru’s total electricity generation.",
+    "He also pointed to the high solar irradiation levels in southern Peru as an opportunity for further investment in photovoltaic generation. The ministry is promoting battery energy storage systems (BESS) to improve the use of renewable electricity and strengthen the reliability of the national power system.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "Peru has 1,241 MW of installed PV capacity across 22 operational installations, with three southern regions accounting for 97.3% of the total.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/28/how-cellular-base-stations-may-affect-solar-module-performance/",
+   "title": "How cellular base stations may affect solar module performance",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-28T08:30:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "cats": [
+    "Research & Development",
+    "Cells & modules",
+    "Modules"
+   ],
+   "description": "Researchers in Burkina Faso have found that radio-frequency electromagnetic fields may alter the internal electrical parameters and power output of solar modules. Their outdoor experiments revealed nonlinear effects depending on field intensity and antenna radiation patterns.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/1-s2.0-S2352484726008218-gr1_lrg.jpg",
+   "paragraphs": [
+    "A research team in Burkina Faso has investigated how exposure to electromagnetic fields near a base transceiver station (BTS) affects the electrical behavior and power conversion efficiency of PV modules. A BTS connects mobile devices to cellular networks via radio signals.",
+    "“Particular attention is given to the evolution of the series resistance (Rs) and shunt resistance (Rsh), which are key parameters governing PV efficiency and carrier transport mechanisms,” the group explained. “An in-situ experimental campaign was conducted near a multi-technology BTS installation, and the measurement setup and extraction procedures are detailed.”",
+    "The researchers conducted an outdoor experiment at Joseph Ki-Zerbo University in Ouagadougou, Burkina Faso, using a 50 W monocrystalline silicon PV module. They tested the panel at five positions along a single direction from a BTS supporting multiple radio technologies, with horizontal distances ranging from approximately 7.9 m to 50.8 m.",
+    "The measurements were performed at around 12:55 p.m. on Nov. 18, 2025, under clear skies and at an ambient temperature of approximately 27.5 C. At each position, the scientists used a triaxial PCE-EM29 meter to characterize the radio-frequency electromagnetic field and recorded the module’s current-voltage (I-V) curve.",
+    "They used the voltage and current at the maximum power point (MPP) to determine the optimal load resistance and calculated the differential resistance based on voltage and current variations between consecutive points on each I-V curve.",
+    "The academics then estimated the series and shunt resistances by averaging five differential resistance values near open-circuit and short-circuit conditions, respectively.",
+    "The results showed that the electric field peaked at 15.76 V/m at a distance of 27.64 m, where the radio-frequency power density reached 659 mW/m². The module’s series and shunt resistances also reached their lowest values at this position, at 1.33 Ω and 146.9 Ω, respectively, before increasing to 2.78 Ω and 593.4 Ω at 50.78 m.",
+    "The researchers observed pronounced fluctuations in differential resistance at low voltages at distances of 7.89 m and 15.64 m, with the curves converging at voltages above approximately 10 V. The module achieved its highest measured power output of 30.1 W at 14.24 m, compared to 28.0 W at the point of maximum electromagnetic exposure.",
+    "“The results demonstrate that electromagnetic exposure can significantly modify the internal electrical parameters of PV modules. Strong fluctuations in differential resistance were observed at short distances from the BTS, particularly in the low-voltage operating region where carrier transport mechanisms are more sensitive to external perturbations,” the group noted. “The experimental findings further indicate that the effects of electromagnetic exposure are nonlinear and strongly dependent on both the field intensity and the spatial distribution of the antenna radiation pattern.”",
+    "The scientists stressed that the study highlights the complexity of real-world operating conditions, where the coexistence of multiple BTS technologies, variations in solar irradiance, wind effects, and temperature fluctuations may affect measurement stability."
+   ],
+   "lede": "Researchers in Burkina Faso have found that radio-frequency electromagnetic fields may alter the internal electrical parameters and power output of solar modules.",
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://www.pv-magazine.com/2026/11/28/germanys-solar-generation-tops-100-twh-in-2026/",
+   "title": "Germany’s solar generation tops 100 TWh in 2026",
+   "source": "pv magazine",
+   "desk": "news",
+   "published": "2026-11-28T08:00:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "cats": [
+    "Markets & Policy",
+    "Commercial & industrial",
+    "Modules",
+    "Utility-scale"
+   ],
+   "description": "PV systems in Germany have generated more than 100 TWh of electricity in 2026, nearly tripling output over the past decade, according to data from Fraunhofer ISE.",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Energy_Charts_100TWh-e1795772164181.png",
+   "paragraphs": [
+    "Germany’s solar power generation has exceeded 100 TWh for the first time on an annual basis, according to data from the Fraunhofer Institute for Solar Energy Systems (Fraunhofer ISE).",
+    "Bundesverband Solar- & Batteriewirtschaft (BSB), the German solar and battery trade group formerly known as Bundesverband Solarwirtschaft (BSW), said in mid-November that the country was approaching the milestone, citing figures from Fraunhofer ISE’s Energy-Charts platform. The institute’s data showed 100.2 TWh of solar generation by the morning of Nov. 27.",
+    "Of that total, 80.6 TWh came from grid feed-in by photovoltaic systems covered by Germany’s Renewable Energy Sources Act (EEG), while other PV systems supplied 2.6 TWh to the grid. Self-consumption accounted for a further 16.9 TWh.",
+    "Solar was Germany’s second-largest source of net electricity generation so far this year, behind wind power. Onshore and offshore wind farms generated 124.4 TWh. Gas-fired power plants produced 82.1 TWh, followed by lignite plants at 63 TWh and hard coal plants at 27.2 TWh. Combined, coal-fired generation remained below solar output.",
+    "Solar generation has increased by 10 TWh compared with 2025. Energy-Charts recorded 90 TWh of solar generation last year, comprising 67.9 TWh of feed-in from EEG-supported PV systems, 2.2 TWh from other systems and 19.8 TWh of self-consumption.",
+    "A decade ago, in 2016, solar generation totaled 36.8 TWh, almost one-third of this year’s output. Of that amount, 34.5 TWh was fed into the grid and 2.3 TWh was consumed directly.",
+    "The generation mix was also markedly different in 2016. Lignite plants produced 138.4 TWh and hard coal plants generated 102.7 TWh. Wind power contributed 78.4 TWh, slightly more than gas-fired generation, while biomass plants supplied 44.7 TWh to the grid – also more than solar.",
+    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
+   ],
+   "lede": "PV systems in Germany have generated more than 100 TWh of electricity in 2026, nearly tripling output over the past decade, according to data from Fraunhofer ISE.",
+   "tags": [
+    "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOE5majR1REx0Vmx0anZoaHdQV3JIOVBveTJNMnYtYWZueHBvVkR1Vmc5elVNQkRsNjliUF9MTGFmRG1tRWgxMk5LcnJlQVU0N3B5SGVjc0FVeC1zOVJNU0lHM2RIZnBoV2F6VVZrc2dzbVhISzJlWlhkYlRhRjBOeHJjZEM?oc=5",
+   "title": "The Chinese car champion turning to police and nurse robots",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-28T01:05:24+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "policy"
+   ]
+  },
   {
    "url": "https://electrek.co/2026/11/27/volvo-a40-electric-articulated-haul-trucks-get-to-work-in-the-uk/",
    "title": "Volvo A40 Electric articulated haul trucks get to work in the UK",
@@ -545,6 +816,20 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkpMc3l2cncwaEc5YzJBVmlxQmo2RTF2NEF1SUpfZWxXNzlGMXF2VnBxd2djY3dsMGJpdkd5OXVybUFmZlIwYzJmY09QS0poRzhBREhrVTQ4b29ob2x5WlRHd1RtNnB1NXZUMEhXUG01QzBBVlhZaHpTT1l4WG9HcUlBb3o?oc=5",
+   "title": "Japanese carmakers’ sales collapse amid China market plunge",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T11:31:30+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
+  {
    "url": "https://electrek.co/2026/11/27/congress-just-passed-a-major-e-bike-safety-law-heres-what-it-actually-means/",
    "title": "Congress just passed a major e-bike safety law. Here’s what it actually means",
    "source": "Electrek",
@@ -579,7 +864,7 @@
     "narada power"
    ],
    "description": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
    "tags": [
     "china",
@@ -683,6 +968,17 @@
     "policy",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWRyM0NQRDdFNTJsMVZKTzVoMEd3UXpzOWZQYjZSejZXc29xbVA3emVPcC1XV0lSMnRXWWhObmJ6cDJrMTdzV005ZVJlT3Z2UGJLWTBNeDE1T0hsOUtXNkp4T3VtV0VJeE83SkFUTjZlTkxRYUI5NTNPdTVsek5RNWdaSXM0Q3FCM1JRM2x1UlhaSzk0bWxkWFdHdw?oc=5",
+   "title": "FACTBOX Spain election: what the main parties are proposing",
+   "source": "Reuters",
+   "desk": "news",
+   "published": "2026-11-27T10:59:25+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted/",
@@ -1249,6 +1545,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2xaa0RXNmt0OU45d1YxRDRQaFpDbVlJc190MzBlOGdCTHB0ekVEMVV2QXpGZ2liSWdJSTRRc0J4X1JRbXNjd2M5eU5aQ0lJVmZmdk9IYnNyUEZuQmt3UDB5a01vYjBrQ0JJZXZLWjdibzJ4eTc0OGpSVkc1cHVKX0VWalU?oc=5",
+   "title": "Roughnecks lose out to AI as automation in the oil industry gathers pace",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T05:01:14+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFlVWEhsU1BRSl85NE9zaDNMMWtkS2VKX0lqRVNva1MycWZRRnBQTDM1LXh1QURBdjc2MnlBWW00bWlzX3Bmb3l6bmE3SUJuZ2pNbmZNekgzTm5EeG9uV2JCazNUSGRSa2w2RE9FeUhaSnd3eHBsdm8zTjdla1pfQU5MeWU?oc=5",
    "title": "Rest of the world plays catch-up with China’s solar power dominance",
    "source": "Financial Times",
@@ -1411,6 +1718,20 @@
     "policy",
     "power",
     "transport"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVUx0VnQtMktySjRnREJFSjhwSjl0Mk9kNXVFQ1FqV1hwZmM5WUJwdmNITDZpaHU1WER2akJ3b1FWbVRtSnpqQTU0MGRpQWNYMTl0aW54YlpQdl9NcVEzR19Fc1cxLXlQamJ6VFBzNVY2Mnozd29JRDQwX1pna25XREFMa25YSHNyTHNVVjlBZk5IcUd3LUo4dnRRWlVIcXNnOEpONzc3dlBzdlBSTWZGcA?oc=5",
+   "title": "From Cassette Tapes to Humanoids: TDK Chases Demand for Sensors in Data Centers, Robots",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T21:00:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
    ]
   },
   {
@@ -1848,6 +2169,20 @@
    "fetched": true,
    "tags": [
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDhULTVaMkhMdkEyVG04ZmVLemw0QlJNLTAxczdvRlF0Zy04Q3p4VlhSal9IdnBmODMtU1dWMmx6bEprUUV1ZVdpS0lSa1c0VHpRY29TcHhyWmk2aGdWWjNSVGRyV2lYbVhIZktFS19oODJaXzF3ajg5c215VDNZaldaWHBtaVBPcHdyRFNBN3JtWFNKRTBxQ2NlOUZtRjYxX3p5d2lua00ySFQ3R2xpMTl1V1Y?oc=5",
+   "title": "Congo Closes on Top Copper Supplier Chile as Exports Soar Again",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T12:24:07+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "industry"
    ]
   },
   {
@@ -2365,6 +2700,17 @@
    "tags": [
     "transport"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0d2VXNiaWpldm1PNUhWWnNOM0lYazlualJrSlpoSGR5VHVhS2o0ekhLUHYxRmRiaEFPYXVwZV9FTnVaS1lVaHhHaEhmbEZHWUZ1ZVRzd0pOVE81ZkQxYkFjclBMU2N5bUdPOUc0ZkNuSV9UMmcxNmFYdDRCcko4QkFmb2JLTHpXYTZ2SlpIbzRJdDZ1ck1mN2xzaUlZWUotVnJTdFNQc2JlVUp4SW02WnMwTG4?oc=5",
+   "title": "Macy’s Thanksgiving Parade Moved to Saturday on NYC Storm",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T03:45:00+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb09ZVVB3eEJlREZXRUxKVC1GaEtlemkzbmhhQUp0NVR2S1lySVY2Q0h5YzRLd3ZCRkpQbFpzYzBCbXVQT3YtTFdyVnk5NEQyQU1XRUxOaXVRa1Nrc1FuTWlDYjd5cVpXbTRSTkVXSld0eVBMSDFKTkxKZ3d3U09Hekpwb2E5OFZuN3VSdHRJSkFUZWQ3SW5TX3p2QnNfYWhUbERWVFVhaXJLYXI2MkdfbFB3?oc=5",
@@ -4661,6 +5007,21 @@
    "fetched": true,
    "tags": [
     "industry"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0Z3NmZOeC0wNHZnYWM1Uk9oMnhBNjI3NEl2anpZbnVIeUUyVDhoRmhZb2tFRjZXTkx4RjhqWmpKUEpQWlBVQWNWeTI1UDAtOUNWQUhaQzc5UmZPVDhDcncxTHlyTl96elA2RncxS19aN0tUdDhXcjhyVHlZVVNndkxua3lzXzA4NVhLU2FSbE1LM1lFZTFyMS1qT2RvUmliQjd0c19OWXpRUC1YRk1sOWNlQWhvZw?oc=5",
+   "title": "Spain to Back Tougher China Policy If Conservatives Win Election",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-24T10:51:40+00:00",
+   "seen": "2026-11-28T11:49:19+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "policy"
    ]
   },
   {
@@ -10369,344 +10730,6 @@
    "lede": "Peñoles signs 20-year renewable energy agreement with Atlas Renewable Energy to develop solar and battery storage project in Coahuila.",
    "tags": [
     "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/statkraft-ppa-tolled-merchant-bess-dutch-solar-site/",
-   "title": "Statkraft pairs PPA with part-tolled, part-merchant BESS contract at Dutch solar site",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-19T09:34:01+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News",
-    "Ampyr Solar",
-    "battery energy storage",
-    "battery storage",
-    "bess",
-    "energystorageeu",
-    "EnergyStorageEurope",
-    "eu"
-   ],
-   "description": "Statkraft has signed a 10-year deal with Ampyr Solar Europe covering the Snelle Loop co-located solar PV and BESS project in the Netherlands.",
-   "ftries": 3,
-   "lede": "Statkraft has signed a 10-year deal with Ampyr Solar Europe covering the Snelle Loop co-located solar PV and BESS project in the Netherlands.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.pv-magazine.com/2026/11/19/frances-first-canal-top-pv-project-goes-online/",
-   "title": "France’s first canal-top PV project goes online",
-   "source": "pv magazine",
-   "desk": "news",
-   "published": "2026-11-19T09:33:01+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Applications & Installations",
-    "France",
-    "Highlights",
-    "Utility-scale"
-   ],
-   "description": "À Saint-Maximin-la-Sainte-Baume, la Société du Canal de Provence (SCP) et la Région Sud ont développé un démonstrateur de couverture photovoltaïque de 71 mètres. Son objectif est de conjuguer production d’électricité renouvelable et transport de l’eau, sans artificialiser de nouvelles surfaces.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/PPIL0845-scaled.jpg",
-   "paragraphs": [
-    "The Provence-Alpes-Côte d’Azur regional government and Société du Canal de Provence (SCP) have completed what they describe as France’s first large-scale canal-top PV project in Saint-Maximin-la-Sainte-Baume, in the Var department.",
-    "Spanning 71 meters, the custom-designed installation covers the canal and its banks, demonstrating a new approach that combines water transport and electricity generation on the same infrastructure. With an installed capacity of 299 kW and estimated annual generation of 404 MWh, the pilot project accounts for approximately 1% of SCP’s annual energy consumption.",
-    "SCP has a long history in hydropower and currently operates 17 small hydroelectric plants, generating approximately 17 GWh per year. The company plans to expand this capacity in the coming years.",
-    "SCP aims to become a net energy producer, eventually generating more renewable electricity than its estimated annual consumption of 40 GWh. Since the early 2020s, the company has been adding solar PV to its existing hydropower portfolio.",
-    "Developed under the regional concession for the Canal de Provence, the pilot project also aims to help control water service costs. It makes use of existing infrastructure without requiring additional land development, while potentially improving water quality through the shading provided by the solar panels.",
-    "With nearly 70 km of open-air canals, the Canal de Provence, part of the Provence-Alpes-Côte d’Azur region’s hydraulic infrastructure, offers significant potential for solar PV development. SCP studies estimate that the canals could accommodate more than 50 MW of PV capacity, generating approximately 70 GWh of electricity annually.",
-    "However, deployment will be selective, with only 5% to 10% of the canal network considered suitable for PV installations due to technical and regulatory constraints.",
-    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
-   ],
-   "lede": "À Saint-Maximin-la-Sainte-Baume, la Société du Canal de Provence (SCP) et la Région Sud ont développé un démonstrateur de couverture photovoltaïque de 71 mètres.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDZaRDE5Tmk3UDBjWE01cmJQcnlJblp3LWVyZ1ZYYXNaSVV2dWtSbzdHaThxeW1GUkJFdmxiQUJuU0FRemRIa2pjanZCVzZueU00TE9uMnAxMkxGR0dLTEdhSlQ5YkRHYWZvd1RqLVlHWVZ1eWZuWERiVk0xTng3OFN5eWFWUlpOTWdIVGxXM3pEclRYd3d0cEtvZXNRT09NZ01xSXhmalEzNV9JWDNNRUt3QXZ0UQ?oc=5",
-   "title": "Nations Take Aim at a Climate Threat Hiding in Electricity Grids",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-19T09:32:16+00:00",
-   "seen": "2026-11-21T23:19:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.energy-storage.news/nz-regulator-corrects-bess-price-band-rule-date/",
-   "title": "‘Technical and non-controversial’: New Zealand regulator corrects battery storage price band rule date",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-19T09:21:02+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News",
-    "battery energy storage",
-    "battery storage",
-    "bess",
-    "Electricity Authority",
-    "energystorageaus",
-    "market",
-    "new zealand"
-   ],
-   "description": "New Zealand's Electricity Authority has corrected the date from which battery energy storage system (BESS) owners can submit up to 10 price bands in their wholesale market offers.",
-   "ftries": 3,
-   "lede": "New Zealand's Electricity Authority has corrected the date from which battery energy storage system (BESS) owners can submit up to 10 price bands in their wholesale market offers.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.energy-storage.news/agl-tomago-bess-first-100-units-installed-nsw/",
-   "title": "AGL installs first 100 units at 2,000MWh Tomago BESS in New South Wales, Australia",
-   "source": "Energy-Storage.news",
-   "desk": "news",
-   "published": "2026-11-19T09:13:31+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "News",
-    "agl",
-    "agl energy",
-    "battery energy storage",
-    "battery storage",
-    "bess",
-    "energystorageaus",
-    "nem"
-   ],
-   "description": "Australian energy company AGL has installed the first 100 units at its 500MW Tomago battery energy storage system (BESS) in the Hunter region of New South Wales (NSW).",
-   "ftries": 3,
-   "lede": "Australian energy company AGL has installed the first 100 units at its 500MW Tomago battery energy storage system (BESS) in the Hunter region of New South Wales (NSW).",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.pv-magazine.com/2026/11/19/eu-to-launch-e36-million-funding-call-for-advanced-solar-cell-manufacturing/",
-   "title": "EU to launch €36 million funding call for advanced solar cell manufacturing",
-   "source": "pv magazine",
-   "desk": "news",
-   "published": "2026-11-19T09:04:30+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Markets & Policy",
-    "Cells",
-    "Europe"
-   ],
-   "description": "The initiative aims to strengthen Europe's solar manufacturing industry by supporting high-efficiency solar cells, advanced production equipment, automated manufacturing processes and industrial-scale pilot production lines.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.pv-magazine.com/wp-content/uploads/2019/08/07025_coating_opt-1200x800-1.jpeg",
-   "paragraphs": [
-    "The Production technologies for solar photovoltaics beyond the state-of-the-art call is part of the European Partnership for Innovation in Photovoltaics (EUPI-PV). It aims to strengthen Europe’s competitiveness in solar manufacturing and support the development of more efficient, reliable and cost-effective solar cells and modules.",
-    "The call is scheduled to open on Dec. 3, 2026, with an application deadline of March 31, 2027.",
-    "The funding will target advanced manufacturing processes for high-efficiency PV technologies, including production equipment, automation, digitalization and scalable industrial manufacturing methods. Projects must demonstrate improvements over commercially available technologies while addressing production efficiency, product reliability and industrial scalability.",
-    "The initiative also aims to bridge the gap between technological development and commercial production by supporting pilot manufacturing lines and industrial demonstration activities.",
-    "The funding comes as Europe’s solar manufacturing sector continues to face significant challenges. A report by the EU’s Clean Energy Technology Observatory found that the bloc’s manufacturing capacity for solar ingots, wafers, cells and modules remains well below the targets set under the Net-Zero Industry Act. The report estimated EU production capacity at 12 GW for modules and 2 GW for cells, highlighting the need for coordinated policy support and investment in large-scale, automated manufacturing facilities.",
-    "The European Commission has also been supporting solar manufacturing through other funding mechanisms. In October, French manufacturer Holosolis secured support under the EU Innovation Fund for its planned 5 GW solar cell and module factory in Hambach, France. The project was among 77 net-zero technology initiatives selected for a combined €3.4 billion in funding, including investments in solar, battery and other clean-energy manufacturing technologies.",
-    "This content is protected by copyright and may not be reused. If you want to cooperate with us and would like to reuse some of our content, please contact: [email protected]."
-   ],
-   "lede": "The initiative aims to strengthen Europe's solar manufacturing industry by supporting high-efficiency solar cells, advanced production equipment, automated manufacturing processes and industrial-scale pilot production lines.",
-   "tags": [
-    "industry",
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZkM1cFIzNFNXYWFEVzRCRlp6WDNfZDVkbUlaSUdKRjZDbU4xV2V4dXdlQ0YtUmN0NlExNzFjNUo4WHFkRnBOZFVFY2Z4Z2c1M3JiTnhjMEJzM2JaVDlQTi1HWDhRVnVSTE9Jc0V2S0RJb0ktWjhwWENhajJxcTNSbW9sM2xRT0l0eDRBMTNKR0hRRjhCdGJLU3hMdTN4TEg4S1RNN1haRjh4NU1TTE94WE5IYzlzaEsxeHhpbmh3MldzQXYxWFZ3VzRQQ21EUW15aW5pV3FGTjBjNy1DNDJXeU96Q0VJOVVfTXRmbS00ZllkT2M?oc=5",
-   "title": "Differences in oil flows through the Strait of Hormuz in the Stated Policies Scenario and the Low Hormuz Case, 2035",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T08:51:48+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZmxKVUpQcjFXbkpVcnlqTWROektaTVdMZ3hydy1CbWRDNU9wVjQ1Zk0yVFZGRkhfR3hfZjd4dlhjdlNfVy1KbjZncExaNUpuOFBIMHkxT1pzdVI2NzJhLUZyZkdBd3J4bWZaRHVDYUk1ZmxWSTRHR1RQbVlJSzV5RVYwbEFQVmEtNVlSNEMyeklOTXMwQm92czRCSWdQSHZLYUF1dUhLRm5uc2tWeVN6blhodWJDM2dDMW9xYXpXc1ZoNzd6REVlQy1hbElOVWVOZkdDOFRaTUpkNGs1TzZuNkZUWmI?oc=5",
-   "title": "Projected drivers of growth in LNG demand in selected regions in the Stated Policies Scenario, 2025-2035",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T08:51:47+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajMzdmJIVHdBS1h1VEI4U3hMUzBLZ1k0TzlHaTJFNUktWWFudDdWRTl4N2dzTk9ZQi1IaEJNN3lUUXh3dzBxaDYyb2cxSGF2YXNhWFo5SnZUTG1lMV85TmdBLU5YMXdiU013YlBSOHNqdlVObThPQWNyeW5fY09YU2hMUVMtMlQtN2hFVGFiUVMzU3F5UENwQXhpV0d6aFZlTS00bklvblA5bjh1bGRlZA?oc=5",
-   "title": "Deaths by cause in emerging market and developing economies, 2025",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T08:51:45+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWkp2NFJ0LXJNRTZBb2I5enY2VjIzZmYxVmpJdlhMOUxFRFVvS0JtZ1VWTjhjN01WdW41U1Vvb1dnQmZqRUlmdXM4SzQyclpMeDlPNjdNdE9meWhmUHJhZ2cyODlPNVNwbDFtZHVVSFdJNG9Rbk1RbmEzdnp2ZGpRU3NBajFQMlBhMW16aWl6R0trdw?oc=5",
-   "title": "Global LNG capacity and exports, 2015-2035",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T08:51:44+00:00",
-   "seen": "2026-11-20T21:07:09+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOFdzYUdYaDM4OC14VFdiOGtMR3Z3VHpZajBxVzRVa3VnbVNIM3dTd2hVUmNyc1lvUERqMFotcHB6WkxzNFFPdnNXSVJkVXNIUjhHaXh5eDBMcXBKUE1pa0J6V1l2cTNvQVF2Q05nbXFYTmpkSkJfazc3aEdpd3RoTmFzRzZHZjFXQTZPcnUwQ1QwNzVpQ3lzTnNqZlZGTUpX?oc=5",
-   "title": "Change in electricity generation by source, 2025-2035",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T08:51:42+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3NVQ1llQ0pJQ0NhTHZNQnJvRTRfdFlSbmFUb2swUkMxajdtMVZPS1U2T2czSGhGSmkxeWstdWc0cWExZXRTN1VKYnhDM2xOc0lFOW9jTW1NcWd4Sk1qYlZoaWhvblU2NXhmMjNaUFZCTzBrZG1qY3FTay1xSnUxbURjbXM1MGZ4OExnWWg2dG1pNXF1OVdzX0hUaEFkQkpGOUE2NkIyWldHQk1mZUE?oc=5",
-   "title": "Cumulative loss in oil supply during selected crises, 1956-2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T08:51:42+00:00",
-   "seen": "2026-11-20T03:18:13+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://www.pv-magazine.com/2026/11/19/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/",
-   "title": "Indonesia could reach 96.7 GW of solar by 2029 with policy reforms",
-   "source": "pv magazine",
-   "desk": "news",
-   "published": "2026-11-19T08:49:07+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "Markets & Policy",
-    "Research & Development",
-    "Commercial & industrial",
-    "Energy Storage",
-    "Highlights",
-    "Indonesia",
-    "Residential",
-    "Utility-scale"
-   ],
-   "description": "IESR says Indonesia could achieve most of its 100 GW of solar by 2029 target through coordinated utility-scale procurement, rooftop PV deployment, diesel replacement and rural electrification, but warns regulatory and grid barriers need to be addressed.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/mufid-majnun-LlY5IWtn-ss-unsplash.jpg",
-   "paragraphs": [
-    "Indonesia’s cumulative installed solar capacity reached 1.59 GW as of the first quarter of 2026 (Q1 2026), according to the latest report from the Institute for Essential Services Reform (IESR), a Jakarta-based think tank.",
-    "IESR’s Indonesia Solar Energy Outlook 2027 says the figure is equivalent to around 1.5% of Indonesia’s power generation capacity and 0.3% of electricity production.",
-    "Rooftop PV currently accounts for the largest share of installed capacity, standing at 0.9 GW as of Q1 2026. Utility-scale solar accounted for 0.33 GW, captive solar for 0.3 GW and installations in remote areas for around 0.06 GW.",
-    "With the country passing the 1 GW solar milestone in 2025, IESR says the current growth rate is “far behind the government’s ambition to make solar power one of the backbones of the national energy system”, as set out in the country’s 100 GW solar power program which President Prabowo Subianto has set a target of achieving by 2029.",
-    "The program officially launched in August with a first phase of 14 projects totalling around 5.2 GW, but only 526 MW of this capacity currently have targeted completion dates, IESR’s report reveals.",
-    "The think tank adds that deployments are currently held back by regulatory gaps, procurement uncertainty and limited grid access.",
-    "In a statement sent to pv magazine, IESR CEO Fabby Tumiwa said the 100 GW ambition needs to be reflected in updates to Indonesia’s 2025-2034 electricity supply business plan (RUPTL), with greater emphasis on utility-scale PV and battery energy storage systems (BESS), diesel replacement with solar-plus-storage and rooftop PV deployment.",
-    "IESR’s modelling suggests Indonesia could reach 96.7 GW of solar capacity by 2029 if development proceeds through multiple channels simultaneously.",
-    "The report says around 8 GW is already planned through RUPTL and Mentari GigaOne procurements, while a further 56 GW could come through procurements by Indonesia’s state-owned electric utility PLN. It suggests the remaining 33 GW could be developed through rooftop PV, diesel replacement, rural electrification, captive solar and other distributed applications.",
-    "IESR says five enablers that must move together – demand, rooftop access, procurement, grid and supply chain – will determine whether the 100 GW scales."
-   ],
-   "lede": "IESR says Indonesia could achieve most of its 100 GW of solar by 2029 target through coordinated utility-scale procurement, rooftop PV deployment, diesel replacement and rural electrification, but warns regulatory and…",
-   "tags": [
-    "industry",
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaGU0OGhGSWp1cTlKUkpOWV94U2NzRVBXMmFxak1WU1RYMFBsRGZPd05NMGpVb3JLVEE3Z3NGMWpKQ0JuWFgxVlEyenJjaGlTVFRvRFpCZl9TS2g2ZU9nZlBlYXJkNHQzbDhBeEJPTnRfbE8zRWJTQUZQSHJhRUQ5Um4xNzBuVEFYbE5zMllqd2NNQkNfOWtkRUVVMHJaZDIzTGN1b1l1LUNtVDhva2NlMTkzSldKcFNaU0s1NmtpRFJZeGpTajJBaHhQZWM0WnE5dVh4dWROUQ?oc=5",
-   "title": "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification",
-   "source": "IRENA",
-   "desk": "analysis",
-   "published": "2026-11-19T08:48:53+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.pv-magazine.com/2026/11/19/efficient-heating-is-not-enough-why-the-timing-of-electricity-use-matters-for-heat-pumps/",
-   "title": "Efficient heating is not enough: Why the timing of electricity use matters for heat pumps",
-   "source": "pv magazine",
-   "desk": "news",
-   "published": "2026-11-19T08:43:00+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "Applications & Installations",
-    "Heat pumps",
-    "Opinion"
-   ],
-   "description": "Operating a heat pump as cost-effectively as possible involves more than just monitoring electricity prices. In many cases, shifting electricity consumption to different times is neither feasible nor practical. Matthias Martensen, CEO and co-founder of Ostrom, explains the factors that determine how flexibly heat pumps can use electricity.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/Vai_LW_Einfahrt_2022_c_Vaillant-Waermepumpe.jpg",
-   "paragraphs": [
-    "When discussing the cost-effectiveness of heat pumps, the focus is usually on the seasonal performance factor (SPF), flow temperature and building insulation. While these factors remain crucial, the debate around dynamic electricity tariffs is too narrow if it focuses solely on how long a heat pump can be switched off. What matters is the overall flexibility of a household’s electricity consumption.",
-    "On very cold winter days, well-designed heat pumps often need to run almost continuously, leaving little scope for shifting heat production. At milder temperatures, however, there is some flexibility: Buildings and hot water storage tanks can retain heat for several hours. For example, a home can be preheated overnight for the morning or during the day for the evening. Similarly, hot water production can be scheduled for periods when electricity prices are lower. How long this flexibility lasts depends on the building’s insulation, heating system and storage capacity, although it is generally insufficient to bridge entire days.",
-    "Even when a heat pump runs continuously, the electricity it consumes does not necessarily have to be drawn from the grid at the same time. A suitable battery storage system can charge from the grid when electricity prices are low and supply power later. In this case, it is not heat production that is shifted, but the timing of electricity drawn from the grid. This distinction is particularly relevant for households with photovoltaic systems and existing battery storage.",
-    "In summer, PV systems cover a larger share of household electricity demand with self-generated solar power. In winter, heating demand increases while solar power generation declines, making households more dependent on grid electricity. An existing battery storage system, provided it supports grid charging and can be controlled in response to electricity prices, can therefore do more than store solar power. It can also take advantage of periods of low wholesale electricity prices.",
-    "For households that already have battery storage, the economics are different. The key question is whether the potential savings from price differences outweigh additional storage losses, battery degradation and any costs associated with technical modifications. Even then, profitable operation is far from guaranteed. Average hourly prices also do not reflect the price differences that can actually be exploited on individual days. While the figures illustrate the importance of when electricity is drawn from the grid, they do not demonstrate actual savings.",
-    "Other flexible loads also play a role. Households charging electric vehicles, particularly in winter, often cannot rely solely on electricity generated by their own PV systems. Coordinated energy management can help shift charging to periods when grid electricity is cheaper. Even when solar generation is low, strong wind power output can drive down wholesale electricity prices.",
-    "For heat pumps, electricity prices are not the only factor affecting operating costs. With air-to-water heat pumps, outdoor temperatures also matter. If temperatures are higher around midday than in the early morning, the system can operate more efficiently. An intelligent control system should therefore consider electricity prices, outdoor temperatures and actual heating demand simultaneously. Producing additional heat simply because electricity is cheap makes little sense if that heat is ultimately wasted."
-   ],
-   "lede": "Operating a heat pump as cost-effectively as possible involves more than just monitoring electricity prices. In many cases, shifting electricity consumption to different times is neither feasible nor practical.",
-   "tags": [
-    "industry",
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/politics/wisconsin-dem-trifecta-clean-energy",
-   "title": "Wisconsin’s new Dem trifecta could be a boon for clean energy",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-19T08:30:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "The state lags behind its neighbors in transitioning to renewables. Now policymakers have the chance to overcome logjams on community solar and more.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/David-Crowley-election-Wisconsin_GettyImages-2303423425.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9cfc40b5497e4563dca8440207176b92",
-   "paragraphs": [
-    "The Democratic sweep in this year’s midterm elections has opened up new opportunities for advancing the clean energy transition in states across the country. That’s particularly true in Wisconsin, where Democrats will have a trifecta for the first time in 16 years, and which has lagged behind its Midwestern neighbors on renewables.",
-    "Indeed, Gov.-elect David Crowley (D) and legislative leaders have pledged to promote clean energy as a way to address affordability and meet demand from planned data centers. Advocates say they have already been talking with legislators and drafting proposals that they hope will advance once new lawmakers take office on Jan. 4.",
-    "“ It’s very exciting to see these changes,” said Beata Wierzba, government affairs director at RENEW Wisconsin, a nonprofit advocacy group that works to advance clean energy policies. ​ “ The Democratic leadership has a very ambitious agenda, which includes clean energy and renewables. We know we’re on their plate.”",
-    "Last spring, Democratic state lawmakers introduced a bill mandating that Wisconsin electricity generation be 100 % emissions-free by 2050. The bill did not advance, but clean energy advocates are hoping a similar initiative will be a top priority for the new Democratic legislature. The only such mandate on the books right now is woefully outdated, calling for 10 % renewable energy by 2015. The state has long surpassed that, with a fifth of the electricity delivered to customers currently coming from renewables.",
-    "Shifting to net-zero emissions by 2050 — including 100 % clean energy — would create over 68, 000 jobs and avoid at least $ 2 billion in healthcare costs, according to a report by RENEW, the nonprofit Clean Wisconsin, and other groups.",
-    "Abby Novinska-Lois, executive director of the nonprofit public health advocacy group Healthy Climate Wisconsin, noted that ​ “ Wisconsin is really behind” states like Illinois — which mandates fossil-fuel-free electricity generation by 2045 — when it comes to emissions that harm the climate and public health.",
-    "“ We think all Wisconsinites deserve the freedom to have cleaner air and cleaner water and the [lower] bills that come with clean energy,” she said. ​ “ We are hearing interest from policymakers that they want to accelerate affordable energy for all Wisconsinites. We know clean energy is the most affordable.”",
-    "Right now in Wisconsin, only utilities can build solar arrays that provide energy to customers. Twenty-four states plus Washington, D.C., and Puerto Rico, allow companies other than utilities to build community solar, including Wisconsin’s neighbor Illinois, which provides robust incentives.",
-    "“ Now with the Democratic majority, we might be able to work something out where both sides will see it’s good for the workers and good for the people,” Wierzba said.",
-    "For almost a decade, Wisconsin has been a battleground over third-party-owned distributed solar. Under such arrangements, a solar developer owns the array that provides power to a home, business, organization, or government agency. The model eliminates up-front costs for the customer and helps nonprofits and government entities tap tax incentives that might not otherwise be available since they don’t pay taxes. But the state’s largest utility, We Energies, has long argued that this lets solar developers illegally act as utilities. Solar advocates and developers want a law to clarify that third-party-owned solar is legal so that projects can move forward."
-   ],
-   "lede": "The state lags behind its neighbors in transitioning to renewables. Now policymakers have the chance to overcome logjams on community solar and more.",
-   "tags": [
-    "policy",
-    "power",
-    "transport"
    ]
   }
  ],
