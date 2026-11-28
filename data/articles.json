@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:58:38+00:00",
+ "updated": "2026-11-28T02:43:12+00:00",
  "briefing": {
   "headline": "The grid, AI’s power demand and solar",
   "period": "Nov 21–27",
@@ -44,6 +44,51 @@
   ]
  },
  "articles": [
+  {
+   "url": "https://electrek.co/2026/11/27/volvo-a40-electric-articulated-haul-trucks-get-to-work-in-the-uk/",
+   "title": "Volvo A40 Electric articulated haul trucks get to work in the UK",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T20:51:59+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "cats": [
+    "News",
+    "heavy equipment",
+    "lego",
+    "uk",
+    "volvo"
+   ],
+   "description": "After becoming the world’s first all-electric 40 ton class articulated haul truck into regular series production earlier this year, the...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/volvo-ce-and-lower-thames-crossing-03-2324x1200-1.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "After becoming the world’s first all-electric 40 ton class articulated haul truck into regular series production earlier this year, the..."
+  },
+  {
+   "url": "https://electrek.co/2026/11/27/zoomlion-shows-off-sixty-electrified-ai-equipment-assets-at-bauma-2026/",
+   "title": "Zoomlion shows off SIXTY electrified, AI equipment assets at bauma 2026",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T20:13:56+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "cats": [
+    "News",
+    "autonomous",
+    "china",
+    "heavy equipment",
+    "zoomlion"
+   ],
+   "description": "Wit more than sixty (60!) new-energy models spanning everything from driverless excavators to cabless loaders and hybrid-electric mining trucks, the...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/zoomlion_MAIN.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "Wit more than sixty (60!) new-energy models spanning everything from driverless excavators to cabless loaders and hybrid-electric mining trucks, the...",
+   "tags": [
+    "china",
+    "industry",
+    "transport"
+   ]
+  },
   {
    "url": "https://electrek.co/2026/11/27/worlds-largest-electric-bulk-cargo-shop-packs-massive-23-5-mwh-battery/",
    "title": "World’s largest electric bulk cargo shop packs MASSIVE 23.5 MWh battery",
@@ -405,6 +450,21 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnpuc0FCRzZjNXFLRFJWSk02YlZ2SkVlV1ZsWTd0ck9Vdnh5bjFuMGc3UHBSdWlFSFpqbkU5dWNjUFV3dWFoTFJLdWZ5RVBWUzUwNWxxQnlIQV95aVhMQnFZSzk5dWpXV1NjTWVSem04ZmsyakVFczBxcUhUdTByTEpDblI?oc=5",
+   "title": "EU weighs tighter export controls to prevent battery waste going to China",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T13:26:26+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china",
+    "policy"
+   ]
+  },
+  {
    "url": "https://www.pv-magazine.com/2026/11/27/bangladesh-makes-solar-equipment-recycling-mandatory/",
    "title": "Bangladesh makes solar equipment recycling mandatory",
    "source": "pv magazine",
@@ -485,6 +545,26 @@
    "fetched": true
   },
   {
+   "url": "https://electrek.co/2026/11/27/congress-just-passed-a-major-e-bike-safety-law-heres-what-it-actually-means/",
+   "title": "Congress just passed a major e-bike safety law. Here’s what it actually means",
+   "source": "Electrek",
+   "desk": "news",
+   "published": "2026-11-27T11:24:13+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "cats": [
+    "News"
+   ],
+   "description": "E-bike battery safety standards that have largely been voluntary across the US are on the verge of becoming mandatory federal...",
+   "ftries": 1,
+   "fetched": true,
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/04/velotric-battery-e-bike-header.jpg?quality=82&strip=all&resize=1200,628",
+   "lede": "E-bike battery safety standards that have largely been voluntary across the US are on the verge of becoming mandatory federal...",
+   "tags": [
+    "policy",
+    "transport"
+   ]
+  },
+  {
    "url": "https://www.energy-storage.news/continued-operating-losses-for-narada-power-as-battery-oem-falls-to-lowest-bankability-rating/",
    "title": "Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating",
    "source": "Energy-Storage.news",
@@ -499,7 +579,7 @@
     "narada power"
    ],
    "description": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
-   "ftries": 1,
+   "ftries": 2,
    "lede": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
    "tags": [
     "china",
@@ -875,7 +955,7 @@
     "lsft"
    ],
    "description": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
    "tags": [
     "power"
@@ -982,7 +1062,7 @@
     "europe"
    ],
    "description": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland.",
    "tags": [
     "power"
@@ -1006,7 +1086,7 @@
     "EnergyStorageEurope"
    ],
    "description": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
-   "ftries": 2,
+   "ftries": 3,
    "lede": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
    "tags": [
     "power"
@@ -1100,6 +1180,17 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTI0eFhhRzZWWnA3VjdlX3NCdFA5bkRVQ0hUUHY0VC1nWC1EVWRZSWR1MzFkOE5JMVZFZ0hYWEUtNXJ1M1NEZGJONTAySjVFbmhYZHVRSDZvdF8wWFpQNUt6clN5MS03MmJvSGdaZmQ2cjR3enJONm4zV1J3VmJQdjJwaEpnM1pVNUV0SHpBNlJDaEZ6eEhqcVN2aWlaN2VYQzhJSXVwbDhxQm5QT3RnUjJR?oc=5",
+   "title": "Japan’s Ski Season Gets Rocky Start as El Niño Threatens Snow",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-27T08:02:20+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUl9XaERjZ1Z6MmVhQUhoYWdyUjNfN2RsdGRGbFVXX0dpOUxnM1lwb3pLQmFlSExtLVE4SVFQSnlTclV6Nm5rNEpLWS1tdGp1eHM5cVBUbGw2dm5MM1hrS3FoTTZjMFU0RDlnTi05dHFtWDFkbldHRXFKVUVUWi1MSW9ZN2pJV3JtaWhHeHBlV3p2dmh1b3ZaMmVXaDl2czEwOThlbENIOUVFR19qMFlVZXlNVU1YUQ?oc=5",
    "title": "Indonesia Arrests Three Over Trades in Stock Scrutinized by MSCI",
    "source": "Bloomberg",
@@ -1144,6 +1235,20 @@
    "fetched": true
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUZFN2dnV3lnSXh1cEtuZVJOcXk4VEYtZ0FqMlphTzd4clE1VUUzMG0zY2c4ejNuTk5VczRxWmFMdHJnVXZnZGJoc2V1Y3N1YWw4NEN3U3VjU3BSV1NtX2h5eGRyWlRZSS1NTW9URHNQXzBSNE4zSDAtMVN4eWprTElTS2xaVWlfUlRXMUdKczBEeTRSaEhsQnZsZnZNLU5PSG5NWkM1Z1BfUVREdHcwMQ?oc=5",
+   "title": "Toyota Car Sales Fall for Ninth Month as China Slump Worsens",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-27T06:00:00+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFlVWEhsU1BRSl85NE9zaDNMMWtkS2VKX0lqRVNva1MycWZRRnBQTDM1LXh1QURBdjc2MnlBWW00bWlzX3Bmb3l6bmE3SUJuZ2pNbmZNekgzTm5EeG9uV2JCazNUSGRSa2w2RE9FeUhaSnd3eHBsdm8zTjdla1pfQU5MeWU?oc=5",
    "title": "Rest of the world plays catch-up with China’s solar power dominance",
    "source": "Financial Times",
@@ -1156,6 +1261,45 @@
    "tags": [
     "china",
     "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzlOZXhUWXpBZU4zVS1GdU05YWM0N1d0N3RtSzNqLXZOSGphdm94QnBHUnpaNzZ1UU1LSDltT3RKNnU2a0JGMEdvUmZjNTM0cEpWZ3BoU0FiVXppYzNHNFhVeVFWeXloYThWR0ZjME4xOTBZMlE2NzctdjZERllVLWhPRmw?oc=5",
+   "title": "Nuclear plants to stay open longer as new builds hit by delays and rising costs",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T05:00:04+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3ZHYWRoWjVZV3dlRXlseXQ2eTJhaGxOaWZiaEhEQ0JIVGVMaHhmUTBtalBxSGVGVzdhQnFKZTUwdXNfZV9TZFFmaDNkYUItbENYS2UzUEdXVElIU05DVlM4UU1rSHVyTkJpU0d1U1NaSlVLWXVRRkNhcW9PMmxDZzdWYTQ?oc=5",
+   "title": "Engineers turn to tech to squeeze more out of constrained electricity grids",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T05:00:04+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3ZoOC1yWXJGSDI5bFIwd1VDQW1KRFRHaFJ4OTFXWmE3YWoyb3ptaVdfZkt6Qk1WRElFNXZYQ3NYbFlTejEtNGtEdHYtT0JVbFRGbl9QRnFtc0habW03dlZfeGc2M0tFUGRKNGdwVGdUb0I1djBGVkYtcWFzbDZRdG9OQno?oc=5",
+   "title": "Chinese households shed billions in consumer debt",
+   "source": "Financial Times",
+   "desk": "news",
+   "published": "2026-11-27T05:00:04+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "china"
    ]
   },
   {
@@ -1493,6 +1637,20 @@
    "lede": "Norwegian independent power producer (IPP) Scatec said it plans to withdraw a 288 MW solar project from South Africa’s public renewables procurement program and sell it into the country’s growing corporate power market instead.",
    "tags": [
     "policy",
+    "power"
+   ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1JrakZ5S0RzTHJ5QlhJaWJmaWY4Wi1kMldwTm10b2tLV01Zd0JYTGlsMXNlSl9icU9yRnBYSDZiZ2dPcE1wbFpEcm5kVGREUnhxRFA5LXhQZkJIXzRiMDJrZjNhd2t5S1ZPN1pXcXdBR0I4TllyeFB1Y1VSQjBiRjJiLWF4UjBwc25zN0pDYVVHbkJBZTNBWTVPOU84U3BzV2JpNHFXaktBNUxza2FsYW5oYjVfUms?oc=5",
+   "title": "Stored solar and wind power could cost up to 49% less than gas power in Italy",
+   "source": "Ember",
+   "desk": "analysis",
+   "published": "2026-11-26T13:35:32+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
     "power"
    ]
   },
@@ -2195,12 +2353,37 @@
    ]
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmZTTk1adlJuZ2Z4cWtfeUxQNUdqLTRYeGtWdkpRb1ZmYmxxWVJqS2QtSy02ckpxZDAtODZwckFrZ2tTRTh2cTJnS0NQbXVXQ0p2ZnBPVDZPazhKODdKUVNZT3BzNlRWZmVsRDNMMVFOeENULUkzQkFjM3VKZ2gzUVBCYzhMLXVUdWVJS05jekNFdHR3UC1Qb2NRR1p1OFJ0Q2NzTjJES193UzJo?oc=5",
+   "title": "Xpeng Says Its Humanoid Robot Will Cost the Same as an EV",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-26T04:30:00+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true,
+   "tags": [
+    "transport"
+   ]
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb09ZVVB3eEJlREZXRUxKVC1GaEtlemkzbmhhQUp0NVR2S1lySVY2Q0h5YzRLd3ZCRkpQbFpzYzBCbXVQT3YtTFdyVnk5NEQyQU1XRUxOaXVRa1Nrc1FuTWlDYjd5cVpXbTRSTkVXSld0eVBMSDFKTkxKZ3d3U09Hekpwb2E5OFZuN3VSdHRJSkFUZWQ3SW5TX3p2QnNfYWhUbERWVFVhaXJLYXI2MkdfbFB3?oc=5",
    "title": "Japan Gets First Malaysia Bio-LNG Shipment in Green Fuel Push",
    "source": "Bloomberg",
    "desk": "news",
    "published": "2026-11-26T03:24:00+00:00",
    "seen": "2026-11-27T10:54:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2kyNzEzNnE2bzVBLThTckw2N0Z0ZHRRS29qUzN6cDVOWGxDZU5LaWlXdGxpc25CLVgxYW1sYzVpd2JFUFJLWnhxQVRkTGJobk9RT0ZySUtZRzk3ckZueDd1bG1NN3BzclFZVU5OTGVqWjBnTTBWbFdqelc0YjQzWjJqXzI2R3JzY2ppWEpQRWFqWEFUNlQtNlV4Z2J3YWR1OXl5aWZfZUQzTkVQczl5dGhoMHY?oc=5",
+   "title": "San Francisco Coastline Is Swamped by Record-High King Tides",
+   "source": "Bloomberg",
+   "desk": "news",
+   "published": "2026-11-25T22:37:49+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
    "via_google": true,
    "ftries": 1,
    "fetched": true
@@ -5904,6 +6087,17 @@
     "policy",
     "power"
    ]
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHS05oZTRXYlVZRlZHZGRRSzZsVWJaOS1OVDJTTWNWeDdmLU9sU3NhYlJSQUN0OXc1aF81U210ODRLd3YyWXoxa1gwLTc4bHVYaXhLOG9rZWk1Qk1Td1E?oc=5",
+   "title": "Energy Efficiency 2026",
+   "source": "IEA",
+   "desk": "analysis",
+   "published": "2026-11-23T10:30:00+00:00",
+   "seen": "2026-11-28T02:43:12+00:00",
+   "via_google": true,
+   "ftries": 1,
+   "fetched": true
   },
   {
    "url": "https://www.utilitydive.com/spons/the-grids-hidden-bottleneck-engineering-capacity/874856/",
@@ -10512,243 +10706,6 @@
    "tags": [
     "policy",
     "power",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/batteries/massachusetts-pilot-program-free-batteries",
-   "title": "Massachusetts pilot program offers free batteries and extra cash",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-19T08:30:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "In Fall River, low-income families can receive a free home battery and a yearly stipend as part of a utility program to reduce grid strain and electricity…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Fall-River-Massachusetts_Dupont-Flickr.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=861ebf9503cd315753e0a2af1e103e88",
-   "paragraphs": [
-    "A Massachusetts utility has announced plans to use home batteries to help 125 low-income families save money and keep the lights on during power outages — all at no cost to them. If successful, the pilot program could serve as a model for similar initiatives throughout the state, as utilities pursue a mandate to create a more affordable, robust, and equitable electric system.",
-    "National Grid this month launched BatteryBackup+, a partnership with residential power-storage company Haven Energy that will bring the no-cost batteries to homes in Fall River, a working-class former mill city where the median household income hovers just above half the statewide average.",
-    "Participants will receive a battery capable of providing at least four hours of backup power, as well as $ 150 annually for five years. To qualify, residents must already be signed up for National Grid’s low-income discount rate, or meet the equivalent income limits — about $ 103, 000 per year for a four-person household, for example.",
-    "Haven will handle installation and maintenance of the systems, and manage the batteries’ enrollment and deployment in programs that share their power with the grid to alleviate strain at times of high demand. After 10 years, participants will be able to work with Haven to take over ownership and management of the batteries or remove them. The utility’s overall goal is to develop and refine a strategy for making the grid more efficient and resilient while giving a financial boost to families who are the most vulnerable to soaring energy prices.",
-    "“ We’re really excited about what we get to learn from this,” said Joshua Tom, National Grid’s director of energy transition solutions.",
-    "The idea of aggregating residential batteries to create benefits for the grid is not new. When batteries work in concert to send power into the system, it can reduce the need for energy from pricier, dirtier plants. In the long term, such arrangements can also help avoid expensive grid upgrades that would be paid for by customers.",
-    "States are increasingly leaning into the concept. Vermont’s Green Mount Power harnesses this potential with a network of 10, 000 residential batteries. Massachusetts’ ConnectedSolutions model, launched as a pilot in 2016, has been adopted or adapted by nearby states including Connecticut and Rhode Island. New Jersey just launched its own program paying residents to share their battery capacity with the grid.",
-    "Haven’s business model takes advantage of this trend. As in the Fall River pilot, the company handles the installation and management of residential batteries. Haven then earns money from enrolling the equipment in state programs, using some of the revenue to make the investment more affordable for customers.",
-    "Haven currently operates in seven states — including elsewhere in Massachusetts — with eight more coming soon. In most places, customers pay a monthly fee for their batteries and the company’s services, starting at $ 29.",
-    "Fall River is not Haven’s first foray into a no-cost model. Last year, the company launched a program in California providing free batteries to low-income households. So far, the program has contracted with about 2, 500 homes and completed installations in about 60 % of them."
-   ],
-   "lede": "A Massachusetts utility has announced plans to use home batteries to help 125 low-income families save money and keep the lights on during power outages — all at no cost to them.",
-   "tags": [
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.canarymedia.com/articles/sponsored/how-solar-and-storage-are-powering-a-new-era-of-american-manufacturing",
-   "title": "How solar and storage are powering a new era of American manufacturing",
-   "source": "Canary Media",
-   "desk": "news",
-   "published": "2026-11-19T08:30:00+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "description": "The Steel River Energy Center in Arkansas will help supply electricity to U. S. Steel’s Big River Steel mill, offering a model for how utility-scale…",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://img.canarymedia.com/content/uploads/Cypress-creek-article.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dcd0a85a8212804e48104ee185ce5840",
-   "paragraphs": [
-    "In the early 2020 s, U. S. Steel launched a nationwide search to find the best location for a new factory. The company had recently completed its acquisition of the Big River Steel mill in Osceola, Arkansas. The goal of the expansion: Replicate the success of Big River Steel, which supplies the automotive, construction, and renewable-energy industries and can produce over 3 million tons of steel annually.",
-    "After an exhaustive search, the company realized there was no reason to look beyond Northeast Arkansas. ​ “ We went to 48 states and narrowed the site selection down to 20, 10, five, and then three,” said Dan Brown, U. S. Steel’s executive vice president of advanced technology steelmaking and CEO of Big River Steel. ​ “ We built another plant one mile from where we’re at.” At close to $ 3. 5 billion, the investment in what is now called Big River Steel 2 was the largest in U. S. Steel’s storied 125 -year history.",
-    "A variety of factors go into determining the ideal location of a steel plant, including proximity to large customers, good railroad and river transportation, and a solid local workforce. Arguably most important, however, is access to reliable and affordable electricity, because producing steel requires an enormous amount of power. ​ “ If that isn’t number one, it’s in the top two,” Brown said. ​ “ You have to have a good electricity provider and a good electricity source.”",
-    "The reliable, affordable energy source that will help power the growth of one of America’s most iconic manufacturers is solar and energy storage. To that end, the Steel River Energy Center, which broke ground this past July, is a 2. 46 -gigawatt solar and 2. 94 -gigawatt-hour battery storage facility that will be built in three phases and is expected to be fully operational in 2029. Cypress Creek Energy is developing, and will own and operate, what will be the largest solar project with energy storage in America.",
-    "The Steel River Energy Center is notable for a host of reasons. The grid-connected project represents $ 4. 5 billion in private investment and is expected to create 1, 400 construction jobs in its first two phases and generate $ 300 million in local tax revenue over its lifetime. Google also signed a power purchase agreement ( PPA) with Cypress Creek Energy to secure the energy produced by the first two phases of the project. The Steel River Energy Center is the largest solar and storage project Google has sourced energy from worldwide.",
-    "Whether it’s the project’s size, offtake agreement, job creation, or tax revenue, much about the Steel River Energy Center attracts superlatives. But less obvious, and more meaningful for U.S. communities far beyond Mississippi County, Arkansas is the example it provides of solar and storage’s ability to power even the most energy-intensive industries and the many benefits of a robust domestic supply chain.",
-    "“ Ten years ago, solar was still pretty niche, and battery storage was hardly on the radar,” said Kevin Smith, CEO of Cypress Creek Energy. ​ “ Steel River is proof that solar and storage have crossed a threshold. This is not niche energy dependent on incentives. This is the foundation of American industrial competitiveness, because we can beat alternatives on price and speed, both of which are critical to businesses that depend on affordable and reliable energy.”"
-   ],
-   "lede": "Steel launched a nationwide search to find the best location for a new factory. The company had recently completed its acquisition of the Big River Steel mill in Osceola, Arkansas.",
-   "tags": [
-    "industry",
-    "power"
-   ]
-  },
-  {
-   "url": "https://www.pv-magazine.com/2026/11/19/remote-control-and-cybersecurity-protecting-renewable-energy-plants-digital-infrastructure/",
-   "title": "Remote control and cybersecurity: Protecting renewable energy plants’ digital infrastructure",
-   "source": "pv magazine",
-   "desk": "news",
-   "published": "2026-11-19T08:24:11+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "cats": [
-    "Applications & Installations",
-    "Opinion",
-    "Utility-scale"
-   ],
-   "description": "SCADA systems, inverters, plant controllers and remote access points are becoming critical cybersecurity vulnerabilities at renewable energy plants, while the EU’s NIS2 Directive and evolving cybersecurity requirements are driving stricter standards for system protection, authentication, access management and incident response.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.pv-magazine.com/wp-content/uploads/2026/11/jake-walker-MPKQiDpMyqU-unsplash-scaled.jpg",
-   "paragraphs": [
-    "Modern solar and wind farms are highly interconnected industrial facilities. Their operation depends on SCADA systems, plant controllers, weather stations, grid protection equipment, communication gateways and, in some cases, cloud platforms provided by equipment manufacturers or plant operators.",
-    "Remote control capabilities are essential to the operation of Spain’s electricity system. Red Eléctrica’s Renewable Energy Control Center (CECRE) monitors more than 4,500 renewable energy generation facilities in real time. Facilities, or groups of facilities, with an installed capacity exceeding 1 MW are monitored through telemetry data. The system operator can also transmit setpoints to regulate their output and maintain the balance between electricity generation and demand.",
-    "Do you want to strengthen and enhance the cybersecurity of your solar energy assets to safeguard them against emerging threats?",
-    "Join us on Dec. 3 for pv magazine Week Europe 2026 | Cyber winter: Is Europe’s solar sector ready for the stress test?",
-    "Industry experts will explore real-world cyberattack scenarios, highlight potential vulnerabilities in solar and storage systems, and share practical, actionable strategies to protect your energy assets. Attendees will gain valuable knowledge on how to anticipate, prevent, and respond to cyber threats in the rapidly evolving solar energy sector.",
-    "The regulatory framework is primarily based on Royal Decree 413/2014, electricity system operating procedures and European grid connection requirements. Operating Procedure P.O. 9.2 governs the exchange of real-time information with the system operator and establishes communication requirements between generation facilities, control centers and the system operator.",
-    "Following amendments introduced by a resolution dated June 19, 2026, failure to comply with real-time data transmission requirements may also result in financial penalties. On cybersecurity, Article 4, Section 9.2, explicitly states:",
-    "“Both the SO’s control centers and the control centers authorized to exchange real-time information with the SO shall be responsible for ensuring protection against cyberattacks originating from their respective control centers.”",
-    "Remote control is associated with electricity system operations. The system operator can transmit setpoints or other operational instructions to a generation facility through an authorized control center. Red Eléctrica publishes a list of authorized control centers that have passed setpoint-following tests and are qualified to manage the integration of renewable energy generation facilities into the grid.",
-    "Remote access, by contrast, is used for operation and maintenance activities. Inverter manufacturers, engineering, procurement and construction (EPC) contractors, operation and maintenance (O&M) providers and plant operators may remotely connect to inverters, plant controllers or SCADA systems to monitor equipment, diagnose faults, update software, adjust configurations or provide technical support."
-   ],
-   "lede": "SCADA systems, inverters, plant controllers and remote access points are becoming critical cybersecurity vulnerabilities at renewable energy plants, while the EU’s NIS2 Directive and evolving cybersecurity requirements…",
-   "tags": [
-    "industry",
-    "policy",
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFRPMUE3bk5obmhFcHo4Z2FLc2tlVGJoUzZEb1JtVWhyS3p2WEVwRXg3bHdHYVJyZThZR05yaGtZZXVUbkd5b3ZVUTc0ZzRNN21GLWVBY2NqV3pWSG0zclZwT3NyNEw1d2djVVh2Tk92WlNRU08tVDdzZlczM3dhM2g5dUMwNlg4NmZv?oc=5",
-   "title": "The Current Policies Scenario",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T08:23:29+00:00",
-   "seen": "2026-11-27T10:54:12+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://www.energymonitor.ai/news/searenergy-poland-support-baltyk-2-and-3/",
-   "title": "Searenergy Poland to support Bałtyk 2 and 3 offshore wind farm projects",
-   "source": "Energy Monitor",
-   "desk": "news",
-   "published": "2026-11-19T08:01:32+00:00",
-   "seen": "2026-11-19T13:23:54+00:00",
-   "cats": [
-    "News"
-   ],
-   "description": "Searenergy Poland has been selected to perform hook-up and commissioning activities at the Bałtyk 2 and Bałtyk 3 offshore wind farms.",
-   "ftries": 1,
-   "fetched": true,
-   "image": "https://www.energymonitor.ai/wp-content/uploads/sites/2/2026/11/Searenergy-Poland.jpg",
-   "paragraphs": [
-    "Searenergy Poland has been selected by a joint venture (JV) between Equinor and Polenergia to perform hook-up and commissioning activities at the Bałtyk 2 and Bałtyk 3 offshore wind farms in the Polish Baltic Sea.",
-    "The contract covers both offshore substations as well as commissioning support for up to 100 wind turbines involved in the developments.",
-    "Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms.",
-    "The Bałtyk 2 and Bałtyk 3 projects are planned to supply renewable electricity to more than two million households in Poland.",
-    "Initial power is expected to be delivered in 2027, with commercial operations targeted for 2028.",
-    "Both wind farms are located off the northern coast of Poland, approximately 37km and 22km from shore, respectively.",
-    "Searenergy Poland, based in Gdynia, will provide key staff to oversee commissioning works both onshore and offshore.",
-    "The company will also deliver engineering, health, safety and environment (HSE) services, along with onsite procurement during the construction phase.",
-    "The role additionally includes performing corrective maintenance on transition pieces at the JV’s operations and maintenance base in Łeba, preparing these structures ahead of turbine installation.",
-    "Searenergy Poland managing director Natalia Kress said: “The commissioning of platforms and the maintenance of assets are at the core of Searenergy’s business."
-   ],
-   "lede": "Searenergy Poland has been selected to perform hook-up and commissioning activities at the Bałtyk 2 and Bałtyk 3 offshore wind farms.",
-   "tags": [
-    "power"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVMWx2QVNPOF9fMWRtUkRiZ0VpTndzRTgtM2JRdDN0ZnA1clcyUExpM0hWelhrMXY4MjZuUnlMV0NEVDZ0aVY4bmM3UDl4VVlqaWp0RnRDbDNfQUxSelF3aFhyQmlpNkV3X3FRMWNzYzEwekhyUVU4?oc=5",
-   "title": "WEO Data Explorer",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T07:34:08+00:00",
-   "seen": "2026-11-19T22:10:26+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
-   "title": "Why China's EVs could throw a wrench into EU, UK trade talks",
-   "source": "Reuters",
-   "desk": "news",
-   "published": "2026-11-19T07:24:38+00:00",
-   "seen": "2026-11-21T11:05:34+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china",
-    "policy",
-    "transport"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRXA1ZUtyWlZXNnVDVlI1V1pjX04yZWRwSnlBZlRjNm5aOUoteGlldWpxbEppNU95MjBHdGdGMFJHTVNPQUx3eHBzRm1ER1Z1aFJQYWpRZFVBdndsaTRSWEktTGdOR1lDcWdYbWwxbklVWTdLWjR3TzZ1eU9aSXI4VG1HTS13TlUzQnVZc2dJcldxdS1fZTJQRU5FUHlkSENOeFVGZHhiTUZQSGhlbGtPdlZFcw?oc=5",
-   "title": "CATL Boss Challenges Europe’s Push for Local Battery Recycling",
-   "source": "Bloomberg",
-   "desk": "news",
-   "published": "2026-11-19T07:02:00+00:00",
-   "seen": "2026-11-22T06:51:11+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "china"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWhKSUNTR0xsYzhRM2pUdHNXOVhnNGxKTF9xWHZqRnFqQTBuclNlOXhOSGNZUURac1JEWGxhQWdJMjlyZm9QN0tsaEZQaGlvR1ZyMHJGRW45QVdwVGhBQncxY2RlVExuY2IyM1RYRWVMWXBfWTRGTTdHUUVKQmxmTGZFMzY0Zw?oc=5",
-   "title": "Overview and key findings - World Energy Outlook 2026",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T06:05:16+00:00",
-   "seen": "2026-11-24T21:13:28+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YNHQ1OXBpUHZ4aGNXLXAyYW5QTEdqRjdNSWRCQ05ueVJVZzc2clhtTVJRZE9SN3dzZ1RaYXhabGJqS2ZZR1dJN3FpaUh0S1JoQUYyRnZ2WUFTVE1JYlhUYXpTZ0V2dUtNRlNZVkh4TGw?oc=5",
-   "title": "Whey too much cheese",
-   "source": "Financial Times",
-   "desk": "news",
-   "published": "2026-11-19T06:02:26+00:00",
-   "seen": "2026-11-22T21:48:00+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFZaZnNPdmFrMUxfT0NXUmhIelA3XzZUby16VnR4dF9BUlJBUnJRXzBYTG9iSVlTaXpxRE5Id09SMmx6ZDRQTkdJakZjRFFZanlDcHBZM1JOSEdVUm9OVG5iM2FnVXRkaENORURwMTVDZG94d0FQelNFQldjYWd5VjNyaUNsVnkxQUE?oc=5",
-   "title": "The Stated Policies Scenario",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T05:43:14+00:00",
-   "seen": "2026-11-19T13:26:21+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
-    "policy"
-   ]
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kM2I4am5ENUJuQ0phbTNkMEp4Q0xFbi1wNnNEMENUSG5UV1pUWVJJdjY5MGlTNlRiWUlRNFFxTTlSMWMxVlV2amdZaGtzUUJSZDlDOGJJYkNwcUlHU3ViY3RJM2VMcTgxbFpCOFp1VHBaTWMtRWxwaTJJZw?oc=5",
-   "title": "Regional insights",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T05:36:47+00:00",
-   "seen": "2026-11-26T08:21:35+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOHRlZ2ItemZBYzd1ck0wRDFSZlZlX1llcXR6aGM3aWphbVhVd2R6UzdRSW9lbG51TV90NFo1Sk10X2lqVmpkbUtlbHJUZU51S2o3Zm1fLXUtWldMZDAwUHdfa1NDaTZlY3UwRW9qVWg5M3JtNzdBczdDZ3owQ3JQQWp5TF9mZGtsRDBXWk9KVmZEQQ?oc=5",
-   "title": "The outlook for energy transitions",
-   "source": "IEA",
-   "desk": "analysis",
-   "published": "2026-11-19T05:33:24+00:00",
-   "seen": "2026-11-24T21:13:28+00:00",
-   "via_google": true,
-   "ftries": 1,
-   "fetched": true,
-   "tags": [
     "transport"
    ]
   }
